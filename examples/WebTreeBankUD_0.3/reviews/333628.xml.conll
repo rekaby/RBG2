@@ -1,0 +1,7 @@
+1	WHAT	_	WDT	WDT	_	4	predet	_	_
+2	A	_	DT	DT	_	4	det	_	_
+3	GREAT	_	JJ	JJ	_	4	amod	_	_
+4	DEAL	_	NN	NN	_	0	root	_	_
+5	THANK	_	VBP	VBP	_	4	parataxis	_	_
+6	YOU	_	PRP	PRP	_	5	dobj	_	_
+

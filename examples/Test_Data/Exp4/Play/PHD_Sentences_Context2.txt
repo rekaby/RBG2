@@ -1,0 +1,95 @@
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+with a box	$Instrument$	punches
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+prisoner	$own$	with a beard
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+with a box	$Instrument$	punches
+prisoner	$own$	with a beard
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+with a comb	$Instrument$	meshes
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+flutist	$own$	with a blue tie
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+with a comb	$Instrument$	meshes
+flutist	$own$	with a blue tie
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+with a box	$Instrument$	punches
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+player	$own$	with yellow hair
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+with a box	$Instrument$	punches
+player	$own$	with yellow hair
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+with a comb	$Instrument$	meshes
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+player	$own$	with gloves
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+with a comb	$Instrument$	meshes
+player	$own$	with gloves
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+with a crown	$Instrument$	crowns
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+student	$own$	with a bag
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+with a crown	$Instrument$	crowns
+student	$own$	with a bag
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+with finger	$Instrument$	plucks
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+soldier	$own$	in military suite
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+with finger	$Instrument$	plucks
+soldier	$own$	in military suite

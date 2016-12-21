@@ -1,0 +1,17 @@
+1	ok	_	UH	UH	_	0	root	_	_
+
+1	ca	_	MD	MD	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	remember	_	VB	VB	_	0	root	_	_
+4	good	_	JJ	JJ	_	3	ccomp	_	_
+5	or	_	CC	CC	_	4	cc	_	_
+6	bad	_	JJ	JJ	_	4	conj	_	_
+7	,	_	,	,	_	3	punct	_	_
+8	so	_	RB	RB	_	13	advmod	_	_
+9	it	_	PRP	PRP	_	13	nsubj	_	_
+10	must	_	MD	MD	_	13	aux	_	_
+11	have	_	VB	VB	_	13	aux	_	_
+12	been	_	VBN	VBN	_	13	cop	_	_
+13	meh	_	JJ	JJ	_	3	parataxis	_	_
+14	.	_	.	.	_	3	punct	_	_
+

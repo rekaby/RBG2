@@ -1,0 +1,671 @@
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+Princess	$own$	with long hair
+with a brush	$Instrument$	washes
+
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+Princess	$own$	with long hair
+pirate	$own$	a woody leg
+
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+Princess	$own$	with long hair
+with a brush	$Instrument$	washes
+pirate	$own$	a woody leg
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+Princess	$own$	with blue dress
+with color pallet	$Instrument$	paints
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+Princess	$own$	with blue dress
+fencer	$own$	with white suite
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+Princess	$own$	with blue dress
+with color pallet	$Instrument$	paints
+fencer	$own$	with white suite
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes
+pirate	$own$	with a woody leg
+with a brush	$Instrument$	washes
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes
+pirate	$own$	with a woody leg
+princess	$own$	with long hair
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes
+pirate	$own$	with a woody leg
+with a brush	$Instrument$	washes
+princess	$own$	with long hair
+
+fencer	$Agent$	paints
+Princess	$Theme$	paints
+fencer	$own$	with white suite
+with color pallet	$Instrument$	paints
+
+fencer	$Agent$	paints
+Princess	$Theme$	paints
+fencer	$own$	with white suite
+Princess	$own$	with long hair
+
+fencer	$Agent$	paints
+Princess	$Theme$	paints
+fencer	$own$	with white suite
+Princess	$own$	with long hair
+with color pallet	$Instrument$	paints
+
+Amazone	$Agent$	stabbed
+mechanics	$Theme$	stabbed
+Amazone	$own$	with red dress
+with a knife	$Instrument$	stabbed
+
+Amazone	$Agent$	stabbed
+mechanics	$Theme$	stabbed
+Amazone	$own$	with red dress
+mechanics	$own$	a hat
+
+Amazone	$Agent$	stabbed
+mechanics	$Theme$	stabbed
+Amazone	$own$	with red dress
+mechanics	$own$	a hat
+with a knife	$Instrument$	stabbed
+
+Amazone	$Agent$	sprayed
+player	$Theme$	sprayed
+Amazone	$own$	with long hair
+with a red spray	$Instrument$	sprayed
+
+Amazone	$Agent$	sprayed
+player	$Theme$	sprayed
+Amazone	$own$	with long hair
+player	$own$	with a ball
+
+Amazone	$Agent$	sprayed
+player	$Theme$	sprayed
+Amazone	$own$	with long hair
+player	$own$	with a ball
+with a red spray	$Instrument$	sprayed
+
+mechanics	$Agent$	stabbed
+Amazone	$Theme$	stabbed
+mechanics	$own$	with a hat
+with a knife	$Instrument$	stabbed
+
+mechanics	$Agent$	stabbed
+Amazone	$Theme$	stabbed
+mechanics	$own$	with a hat
+Amazone	$own$	a red dress
+
+mechanics	$Agent$	stabbed
+Amazone	$Theme$	stabbed
+mechanics	$own$	with a hat
+Amazone	$own$	a red dress
+with a knife	$Instrument$	stabbed
+
+player	$Agent$	sprayed
+Amazone	$Theme$	sprayed
+player	$own$	with white t-shirt
+with a red spray	$Instrument$	sprayed
+
+player	$Agent$	sprayed
+Amazone	$Theme$	sprayed
+player	$own$	with white t-shirt
+Amazone	$own$	with long hair
+
+player	$Agent$	sprayed
+Amazone	$Theme$	sprayed
+player	$own$	with white t-shirt
+Amazone	$own$	with long hair
+
+nurse	$Agent$	pushes
+athlete	$Theme$	pushes
+nurse	$own$	with Uniform
+by hands	$Instrument$	pushes
+
+nurse	$Agent$	pushes
+athlete	$Theme$	pushes
+nurse	$own$	with Uniform
+athlete	$own$	with sporty suite
+
+nurse	$Agent$	pushes
+athlete	$Theme$	pushes
+nurse	$own$	with Uniform
+by hands	$Instrument$	pushes
+athlete	$own$	with sporty suite
+
+nurse	$Agent$	dries
+priest	$Theme$	dries
+nurse	$own$	with Cross hat
+with a dryer	$Instrument$	dries
+
+nurse	$Agent$	dries
+priest	$Theme$	dries
+nurse	$own$	with Cross hat
+priest	$own$	in black
+
+nurse	$Agent$	dries
+priest	$Theme$	dries
+nurse	$own$	with Cross hat
+with a dryer	$Instrument$	dries
+priest	$own$	in black
+
+athlete	$Agent$	pushes
+nurse	$Theme$	pushes
+athlete	$own$	with red t-shirt
+by hands	$Instrument$	pushes
+
+athlete	$Agent$	pushes
+nurse	$Theme$	pushes
+athlete	$own$	with red t-shirt
+nurse	$own$	in white
+
+athlete	$Agent$	pushes
+nurse	$Theme$	pushes
+athlete	$own$	with red t-shirt
+by hands	$Instrument$	pushes
+nurse	$own$	in white
+
+priest	$Agent$	dries
+nurse	$Theme$	dries
+priest	$own$	with cross
+with a dryer	$Instrument$	dries
+
+priest	$Agent$	dries
+nurse	$Theme$	dries
+priest	$own$	with cross
+nurse	$own$	uniform
+
+priest	$Agent$	dries
+nurse	$Theme$	dries
+priest	$own$	with cross
+with a dryer	$Instrument$	dries
+nurse	$own$	uniform
+
+journalist	$Agent$	ties
+sailor	$Theme$	ties
+journalist	$own$	with a camera
+with handcuffs	$Instrument$	ties
+
+journalist	$Agent$	ties
+sailor	$Theme$	ties
+journalist	$own$	with a camera
+sailor	$own$	with white dress
+
+journalist	$Agent$	ties
+sailor	$Theme$	ties
+journalist	$own$	with a camera
+with handcuffs	$Instrument$	ties
+sailor	$own$	with white dress
+
+journalist	$Agent$	feeds
+doctor	$Theme$	feeds
+journalist	$own$	with a microphone
+with a spoon	$Instrument$	feeds
+
+journalist	$Agent$	feeds
+doctor	$Theme$	feeds
+journalist	$own$	with a microphone
+doctor	$own$	with a coat
+
+journalist	$Agent$	feeds
+doctor	$Theme$	feeds
+journalist	$own$	with a microphone
+with a spoon	$Instrument$	feeds
+doctor	$own$	with a coat
+
+sailor	$Agent$	ties
+journalist	$Theme$	ties
+sailor	$own$	with white hat
+with handcuffs	$Instrument$	ties
+
+sailor	$Agent$	ties
+journalist	$Theme$	ties
+sailor	$own$	with white hat
+journalist	$own$	with a camera
+
+sailor	$Agent$	ties
+journalist	$Theme$	ties
+sailor	$own$	with white hat
+with handcuffs	$Instrument$	ties
+journalist	$own$	with a camera
+
+doctor	$Agent$	feeds
+journalist	$Theme$	feeds
+doctor	$own$	with a coat
+with a portion	$Instrument$	feeds
+
+doctor	$Agent$	feeds
+journalist	$Theme$	feeds
+doctor	$own$	with a coat
+ournalist	$own$	with a microphone
+
+doctor	$Agent$	feeds
+journalist	$Theme$	feeds
+doctor	$own$	with a coat
+with a portion	$Instrument$	feeds
+ournalist	$own$	with a microphone
+
+worker	$Agent$	attacked
+cellist	$Theme$	attacked
+worker	$own$	with blue pants
+with a bottle	$Instrument$	attacked
+
+worker	$Agent$	attacked
+cellist	$Theme$	attacked
+worker	$own$	with blue pants
+cellist	$own$	with a guitar
+
+worker	$Agent$	attacked
+cellist	$Theme$	attacked
+worker	$own$	with blue pants
+with a bottle	$Instrument$	attacked
+cellist	$own$	with a guitar
+
+worker	$Agent$	interviewed
+golfer	$Theme$	interviewed
+worker	$own$	with blue pants
+with a microphone	$Instrument$	interviewed
+
+worker	$Agent$	interviewed
+golfer	$Theme$	interviewed
+worker	$own$	with blue pants
+golfer	$own$	with a rocket
+
+worker	$Agent$	interviewed
+golfer	$Theme$	interviewed
+worker	$own$	with blue pants
+with a microphone	$Instrument$	interviewed
+golfer	$own$	with a rocket
+
+cellist	$Agent$	attacked
+worker	$Theme$	attacked
+cellist	$own$	with a guitar
+with a bottle	$Instrument$	attacked
+
+cellist	$Agent$	attacked
+worker	$Theme$	attacked
+cellist	$own$	with a guitar
+worker	$own$	with blue pants
+
+cellist	$Agent$	attacked
+worker	$Theme$	attacked
+cellist	$own$	with a guitar
+with a bottle	$Instrument$	attacked
+worker	$own$	with blue pants
+
+golfer	$Agent$	interviewed
+worker	$Theme$	interviewed
+golfer	$own$	with a rocket
+with a microphone	$Instrument$	interviewed
+
+golfer	$Agent$	interviewed
+worker	$Theme$	interviewed
+golfer	$own$	with a rocket
+worker	$own$	with blue pants
+
+golfer	$Agent$	interviewed
+worker	$Theme$	interviewed
+golfer	$own$	with a rocket
+with a microphone	$Instrument$	interviewed
+worker	$own$	with blue pants
+
+devil	$Agent$	gifted
+clown	$Theme$	gifted
+devil	$own$	in red
+with a present	$Instrument$	gifted
+
+devil	$Agent$	gifted
+clown	$Theme$	gifted
+devil	$own$	in red
+clown	$own$	with big shoes
+
+devil	$Agent$	gifted
+clown	$Theme$	gifted
+devil	$own$	in red
+with a present	$Instrument$	gifted
+clown	$own$	with big shoes
+
+devil	$Agent$	sketched
+cooker	$Theme$	sketched
+devil	$own$	in red
+with a pen	$Instrument$	sketched
+
+devil	$Agent$	sketched
+cooker	$Theme$	sketched
+devil	$own$	in red
+cooker	$own$	with white hat
+
+devil	$Agent$	sketched
+cooker	$Theme$	sketched
+devil	$own$	in red
+with a pen	$Instrument$	sketched
+cooker	$own$	with white hat
+
+clown	$Agent$	gifted
+devil	$Theme$	gifted
+clown	$own$	with big shoes
+with green box	$Instrument$	gifted
+
+clown	$Agent$	gifted
+devil	$Theme$	gifted
+clown	$own$	with big shoes
+devil	$own$	in red
+
+clown	$Agent$	gifted
+devil	$Theme$	gifted
+clown	$own$	with big shoes
+with green box	$Instrument$	gifted
+devil	$own$	in red
+
+cooker	$Agent$	sketched
+devil	$Theme$	sketched
+cooker	$own$	with white hat 
+with pen	$Instrument$	sketched
+
+cooker	$Agent$	sketched
+devil	$Theme$	sketched
+cooker	$own$	with white hat 
+devil	$own$	in red
+
+cooker	$Agent$	sketched
+devil	$Theme$	sketched
+cooker	$own$	with white hat 
+with pen	$Instrument$	sketched
+devil	$own$	in red
+
+lady	$Agent$	shoots
+waiter	$Theme$	shoots
+lady	$own$	with blue uniform 
+with a ball	$Instrument$	shoots
+
+lady	$Agent$	shoots
+waiter	$Theme$	shoots
+lady	$own$	with blue uniform 
+waiter	$own$	with a towel
+
+lady	$Agent$	shoots
+waiter	$Theme$	shoots
+lady	$own$	with blue uniform 
+with a ball	$Instrument$	shoots
+waiter	$own$	with a towel
+
+lady	$Agent$	slaps
+Knight	$Theme$	slaps
+lady	$own$	with broom
+with a hand	$Instrument$	slaps
+
+lady	$Agent$	slaps
+Knight	$Theme$	slaps
+lady	$own$	with broom
+Knight	$own$	with a sword
+
+lady	$Agent$	slaps
+Knight	$Theme$	slaps
+lady	$own$	with broom
+with a hand	$Instrument$	slaps
+Knight	$own$	with a sword
+
+waiter	$Agent$	shoots
+lady	$Theme$	shoots
+waiter	$own$	with a towel
+with the ball	$Instrument$	shoots
+
+waiter	$Agent$	shoots
+lady	$Theme$	shoots
+waiter	$own$	with a towel
+lady	$own$	with blue uniform
+
+waiter	$Agent$	shoots
+lady	$Theme$	shoots
+waiter	$own$	with a towel
+with the ball	$Instrument$	shoots
+lady	$own$	with blue uniform
+
+Knight	$Agent$	slaps
+lady	$Theme$	slaps
+Knight	$own$	with a sword
+with a hand	$Instrument$	slaps
+
+Knight	$Agent$	slaps
+lady	$Theme$	slaps
+Knight	$own$	with a sword
+lady	$own$	with a broom
+
+Knight	$Agent$	slaps
+lady	$Theme$	slaps
+Knight	$own$	with a sword
+with a hand	$Instrument$	slaps
+lady	$own$	with a broom
+
+skater	$Agent$	scrubs
+detective	$Theme$	scrubs
+skater	$own$	with short dress
+with a brush	$Instrument$	scrubs
+
+skater	$Agent$	scrubs
+detective	$Theme$	scrubs
+skater	$own$	with short dress
+detective	$own$	with a lens
+
+skater	$Agent$	scrubs
+detective	$Theme$	scrubs
+skater	$own$	with short dress
+with a brush	$Instrument$	scrubs
+detective	$own$	with a lens
+
+skater	$Agent$	nudges
+magician	$Theme$	nudges
+skater	$own$	with short dress
+with finger	$Instrument$	nudges
+
+skater	$Agent$	nudges
+magician	$Theme$	nudges
+skater	$own$	with short dress
+magician	$own$	with stars signs
+
+skater	$Agent$	nudges
+magician	$Theme$	nudges
+skater	$own$	with short dress
+with finger	$Instrument$	nudges
+magician	$own$	with stars signs
+
+detective	$Agent$	scrubs
+skater	$Theme$	scrubs
+detective	$own$	with a lens
+with a brush	$Instrument$	scrubs
+
+detective	$Agent$	scrubs
+skater	$Theme$	scrubs
+detective	$own$	with a lens
+skater	$own$	with short dress
+
+detective	$Agent$	scrubs
+skater	$Theme$	scrubs
+detective	$own$	with a lens
+with a brush	$Instrument$	scrubs
+skater	$own$	with short dress
+
+magician	$Agent$	nudges
+skater	$Theme$	nudges
+magician	$own$	with stars signs
+with finger	$Instrument$	nudges
+
+
+magician	$Agent$	nudges
+skater	$Theme$	nudges
+magician	$own$	with stars signs
+skater	$own$	with short dress
+
+magician	$Agent$	nudges
+skater	$Theme$	nudges
+magician	$own$	with stars signs
+with finger	$Instrument$	nudges
+skater	$own$	with short dress
+
+maid	$Agent$	perfumed
+executioner	$Theme$	perfumed
+maid	$own$	in blue
+with a perfume	$Instrument$	perfumed
+
+maid	$Agent$	perfumed
+executioner	$Theme$	perfumed
+maid	$own$	in blue
+executioner	$own$	with a mask
+
+maid	$Agent$	perfumed
+executioner	$Theme$	perfumed
+maid	$own$	in blue
+with a perfume	$Instrument$	perfumed
+executioner	$own$	with a mask
+
+maid	$Agent$	bandaged
+drummer	$Theme$	bandaged
+maid	$own$	with a bag 
+with plaster	$Instrument$	bandaged
+
+maid	$Agent$	bandaged
+drummer	$Theme$	bandaged
+maid	$own$	with a bag 
+drummer	$own$	with a drum
+
+maid	$Agent$	bandaged
+drummer	$Theme$	bandaged
+maid	$own$	with a bag 
+with plaster	$Instrument$	bandaged
+drummer	$own$	with a drum
+
+executioner	$Agent$	perfumed
+maid	$Theme$	perfumed
+executioner	$own$	with a mask
+with a perfume	$Instrument$	perfumed
+
+executioner	$Agent$	perfumed
+maid	$Theme$	perfumed
+executioner	$own$	with a mask
+maid	$own$	in blue
+
+executioner	$Agent$	perfumed
+maid	$Theme$	perfumed
+executioner	$own$	with a mask
+with a perfume	$Instrument$	perfumed
+maid	$own$	in blue
+
+drummer	$Agent$	bandaged
+maid	$Theme$	bandaged
+drummer	$own$	with a drum
+with plaster	$Instrument$	bandaged
+
+drummer	$Agent$	bandaged
+maid	$Theme$	bandaged
+drummer	$own$	with a drum
+maid	$own$	in blue
+
+drummer	$Agent$	bandaged
+maid	$Theme$	bandaged
+drummer	$own$	with a drum
+with plaster	$Instrument$	bandaged
+maid	$own$	in blue
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+with a box	$Instrument$	punches
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+prisoner	$own$	with a beard
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+with a box	$Instrument$	punches
+prisoner	$own$	with a beard
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+with a comb	$Instrument$	meshes
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+flutist	$own$	with a blue tie
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+with a comb	$Instrument$	meshes
+flutist	$own$	with a blue tie
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+with a box	$Instrument$	punches
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+player	$own$	with yellow hair
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+with a box	$Instrument$	punches
+player	$own$	with yellow hair
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+with a comb	$Instrument$	meshes
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+player	$own$	with gloves
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+with a comb	$Instrument$	meshes
+player	$own$	with gloves
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+with a crown	$Instrument$	crowns
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+student	$own$	with a bag
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+with a crown	$Instrument$	crowns
+student	$own$	with a bag
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+with finger	$Instrument$	plucks
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+soldier	$own$	in military suite
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+with finger	$Instrument$	plucks
+soldier	$own$	in military suite

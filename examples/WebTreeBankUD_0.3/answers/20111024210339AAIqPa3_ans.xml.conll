@@ -1,0 +1,65 @@
+1	What	_	WP	WP	_	0	root	_	_
+2	is	_	VBZ	VBZ	_	1	cop	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	dress	_	NN	NN	_	5	compound	_	_
+5	code	_	NN	NN	_	2	nsubj	_	_
+6	for	_	IN	IN	_	7	case	_	_
+7	males	_	NNS	NNS	_	5	nmod	_	_
+8	at	_	IN	IN	_	10	case	_	_
+9	Del	_	NNP	NNP	_	10	compound	_	_
+10	Frisco	_	NNP	NNP	_	5	nmod	_	_
+11	's	_	POS	POS	_	10	case	_	_
+12	Philadelphia	_	NNP	NNP	_	10	appos	_	_
+13	?	_	.	.	_	1	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	boyfriend	_	NN	NN	_	4	nmod:poss	_	_
+3	's	_	POS	POS	_	2	case	_	_
+4	birthday	_	NN	NN	_	7	nsubj	_	_
+5	is	_	VBZ	VBZ	_	7	cop	_	_
+6	November	_	NNP	NNP	_	7	compound	_	_
+7	22nd	_	NN	NN	_	0	root	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	we	_	PRP	PRP	_	11	nsubj	_	_
+10	are	_	VBP	VBP	_	11	aux	_	_
+11	going	_	VBG	VBG	_	7	conj	_	_
+12	to	_	IN	IN	_	14	case	_	_
+13	Del	_	NNP	NNP	_	14	compound	_	_
+14	Frisco	_	NNP	NNP	_	11	nmod	_	_
+15	's	_	POS	POS	_	14	case	_	_
+16	for	_	IN	IN	_	17	case	_	_
+17	dinner	_	NN	NN	_	11	nmod	_	_
+18	.	_	.	.	_	7	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	unsure	_	JJ	JJ	_	0	root	_	_
+4	of	_	IN	IN	_	8	mark	_	_
+5	what	_	WP	WP	_	8	dobj	_	_
+6	he	_	PRP	PRP	_	8	nsubj	_	_
+7	should	_	MD	MD	_	8	aux	_	_
+8	wear	_	VB	VB	_	3	nfincl	_	_
+9	,	_	,	,	_	3	punct	_	_
+10	it	_	PRP	PRP	_	11	nsubj	_	_
+11	says	_	VBZ	VBZ	_	3	parataxis	_	_
+12	business	_	NN	NN	_	13	compound	_	_
+13	casual	_	NN	NN	_	11	dobj	_	_
+14	but	_	CC	CC	_	11	cc	_	_
+15	that	_	DT	DT	_	18	nsubjpass	_	_
+16	can	_	MD	MD	_	18	aux	_	_
+17	be	_	VB	VB	_	18	auxpass	_	_
+18	interpreted	_	VBN	VBN	_	11	conj	_	_
+19	in	_	IN	IN	_	22	case	_	_
+20	many	_	JJ	JJ	_	22	amod	_	_
+21	different	_	JJ	JJ	_	22	amod	_	_
+22	ways	_	NNS	NNS	_	18	nmod	_	_
+23	.	_	.	.	_	3	punct	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	help	_	VB	VB	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	5233	_	CD	CD	_	0	root	_	_
+2	-	_	HYPH	HYPH	_	1	punct	_	_
+3	NT	_	NN	NN	_	1	parataxis	_	_
+

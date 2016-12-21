@@ -1,0 +1,22 @@
+1	Do	_	VBP	VBP	_	3	aux	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	know	_	VB	VB	_	0	root	_	_
+4	the	_	DT	DT	_	7	det	_	_
+5	online	_	JJ	JJ	_	7	amod	_	_
+6	streaming	_	NN	NN	_	7	compound	_	_
+7	link	_	NN	NN	_	3	dobj	_	_
+8	for	_	IN	IN	_	10	case	_	_
+9	Red	_	NNP	NNP	_	10	compound	_	_
+10	FM	_	NNP	NNP	_	7	nmod	_	_
+11	93.5	_	CD	CD	_	10	nummod	_	_
+12	delhi	_	NNP	NNP	_	10	compound	_	_
+13	?	_	.	.	_	3	punct	_	_
+
+1	any	_	DT	DT	_	3	det	_	_
+2	format	_	NN	NN	_	3	compound	_	_
+3	url	_	NN	NN	_	0	root	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	Yes	_	UH	UH	_	0	root	_	_
+2	.	_	.	.	_	1	punct	_	_
+

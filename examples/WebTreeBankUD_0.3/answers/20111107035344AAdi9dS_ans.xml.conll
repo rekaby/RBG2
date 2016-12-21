@@ -1,0 +1,87 @@
+1	24	_	CD	CD	_	2	nummod	_	_
+2	hour	_	NN	NN	_	4	compound	_	_
+3	fast	_	JJ	JJ	_	4	amod	_	_
+4	resturants	_	NNS	NNS	_	0	root	_	_
+5	near	_	RB	RB	_	6	advmod	_	_
+6	by	_	RB	RB	_	4	advmod	_	_
+7	?	_	.	.	_	4	punct	_	_
+
+1	Well	_	UH	UH	_	3	discourse	_	_
+2	there	_	EX	EX	_	3	expl	_	_
+3	s	_	VBZ	VBZ	_	0	root	_	_
+4	Mc.	_	NNP	NNP	_	5	compound	_	_
+5	Donald	_	NNP	NNP	_	3	nsubj	_	_
+6	s	_	POS	POS	_	5	case	_	_
+7	,	_	,	,	_	5	punct	_	_
+8	Taco	_	NNP	NNP	_	9	compound	_	_
+9	Bell	_	NNP	NNP	_	5	appos	_	_
+10	,	_	,	,	_	5	punct	_	_
+11	Burger	_	NNP	NNP	_	12	compound	_	_
+12	King	_	NNP	NNP	_	5	appos	_	_
+13	.....	_	.	.	_	3	punct	_	_
+
+1	But	_	CC	CC	_	6	cc	_	_
+2	my	_	PRP$	PRP$	_	3	nmod:poss	_	_
+3	resturant	_	NN	NN	_	6	nsubj	_	_
+4	is	_	VBZ	VBZ	_	6	cop	_	_
+5	way	_	RB	RB	_	6	advmod	_	_
+6	better	_	JJR	JJR	_	0	root	_	_
+7	than	_	IN	IN	_	8	case	_	_
+8	all	_	DT	DT	_	6	nmod	_	_
+9	of	_	IN	IN	_	10	case	_	_
+10	them	_	PRP	PRP	_	8	nmod	_	_
+11	...	_	,	,	_	6	punct	_	_
+12	and	_	CC	CC	_	6	cc	_	_
+13	it	_	PRP	PRP	_	14	nsubj	_	_
+14	's	_	VBZ	VBZ	_	6	conj	_	_
+15	quite	_	RB	RB	_	16	advmod	_	_
+16	close	_	RB	RB	_	14	advmod	_	_
+17	.	_	.	.	_	6	punct	_	_
+
+1	It	_	PRP	PRP	_	6	nsubj	_	_
+2	's	_	VBZ	VBZ	_	6	cop	_	_
+3	just	EXTRA!	RB	RB	_	6	advmod	_	_
+4	up	_	IN	IN	_	6	case	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	highway	_	NN	NN	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	right	EXTRA!	RB	RB	_	11	advmod	_	_
+9	around	_	IN	IN	_	11	case	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	corner	_	NN	NN	_	4	conj	_	_
+12	....	_	.	.	_	2	punct	_	_
+
+1	Nearby	_	IN	IN	_	2	case	_	_
+2	what	_	WP	WP	_	0	root	_	_
+3	?	_	.	.	_	2	punct	_	_
+
+1	Loop	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	North	_	NNP	NNP	_	4	compound	_	_
+4	Side	_	NNP	NNP	_	1	conj	_	_
+5	,	_	,	,	_	1	punct	_	_
+6	South	_	NNP	NNP	_	7	compound	_	_
+7	Side	_	NNP	NNP	_	1	conj	_	_
+8	,	_	,	,	_	1	punct	_	_
+9	near	_	JJ	JJ	_	10	amod	_	_
+10	suburbs	_	NNS	NNS	_	1	conj	_	_
+11	,	_	,	,	_	1	punct	_	_
+12	far	_	JJ	JJ	_	13	amod	_	_
+13	suburbs	_	NNS	NNS	_	1	conj	_	_
+14	?	_	.	.	_	1	punct	_	_
+
+1	Chicago	_	NNP	NNP	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	big	_	JJ	JJ	_	5	amod	_	_
+5	area	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	PORTILLO	_	NNP	NNP	_	0	root	_	_
+2	'S	_	POS	POS	_	1	case	_	_
+3	OR	_	NNP	NNP	_	1	cc	_	_
+4	WHITE	_	NNP	NNP	_	5	compound	_	_
+5	CASTLE	_	NNP	NNP	_	1	conj	_	_
+6	!	_	.	.	_	1	punct	_	_
+7	:D	_	NFP	NFP	_	1	discourse	_	_
+

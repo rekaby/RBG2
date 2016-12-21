@@ -1,0 +1,13 @@
+1	Too	_	RB	RB	_	2	advmod	_	_
+2	many	_	JJ	JJ	_	3	amod	_	_
+3	kids	_	NNS	NNS	_	0	root	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	too	_	RB	RB	_	6	advmod	_	_
+6	many	_	JJ	JJ	_	7	amod	_	_
+7	knifings	_	NNS	NNS	_	3	conj	_	_
+8	,	_	,	,	_	3	punct	_	_
+9	too	_	RB	RB	_	10	advmod	_	_
+10	many	_	JJ	JJ	_	11	amod	_	_
+11	taserings	_	NNS	NNS	_	3	conj	_	_
+12	.	_	.	.	_	3	punct	_	_
+

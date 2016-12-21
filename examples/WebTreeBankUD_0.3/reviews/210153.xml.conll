@@ -1,0 +1,28 @@
+1	Poor	_	JJ	JJ	_	2	amod	_	_
+2	Taste	_	NN	NN	_	0	root	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	no	_	DT	DT	_	5	det	_	_
+4	lower	_	JJR	JJR	_	5	amod	_	_
+5	rating	_	NN	NN	_	2	nsubj	_	_
+6	for	_	IN	IN	_	9	case	_	_
+7	Noonan	_	NNP	NNP	_	9	nmod:poss	_	_
+8	's	_	POS	POS	_	7	case	_	_
+9	Liquor	_	NNP	NNP	_	5	nmod	_	_
+10	,	_	,	,	_	9	punct	_	_
+11	owners	_	NNS	NNS	_	9	vocative	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	employees	_	NNS	NNS	_	11	conj	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	negative	_	JJ	JJ	_	3	amod	_	_
+3	number	_	NN	NN	_	6	nsubj	_	_
+4	is	_	VBZ	VBZ	_	6	cop	_	_
+5	not	_	RB	RB	_	6	neg	_	_
+6	available	_	JJ	JJ	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	CLH	_	NNP	NNP	_	0	root	_	_
+

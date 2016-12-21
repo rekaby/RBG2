@@ -1,0 +1,56 @@
+1	excellence	_	NN	NN	_	0	root	_	_
+2	in	_	IN	IN	_	3	case	_	_
+3	glasgow	_	NNP	NNP	_	1	nmod	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	v	_	VBP	VBP	_	4	aux	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	had	_	VBN	VBN	_	0	root	_	_
+5	my	_	PRP$	PRP$	_	9	nmod:poss	_	_
+6	bmw	_	NNP	NNP	_	7	compound	_	_
+7	z3	_	NNP	NNP	_	9	compound	_	_
+8	rear	_	JJ	JJ	_	9	amod	_	_
+9	window	_	NN	NN	_	4	dobj	_	_
+10	replaced	_	VBN	VBN	_	4	xcomp	_	_
+11	by	_	IN	IN	_	13	case	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	guys	_	NNS	NNS	_	10	nmod	_	_
+14	at	_	IN	IN	_	16	case	_	_
+15	kelvin	_	NNP	NNP	_	16	compound	_	_
+16	trimmers	_	NNPS	NNPS	_	13	nmod	_	_
+17	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	team	_	NN	NN	_	7	nsubj	_	_
+3	who	_	WP	WP	_	4	nsubj	_	_
+4	work	_	VBP	VBP	_	2	relcl	_	_
+5	there	_	RB	RB	_	4	advmod	_	_
+6	are	_	VBP	VBP	_	7	cop	_	_
+7	helpfull	_	JJ	JJ	_	0	root	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	friendly	_	JJ	JJ	_	7	conj	_	_
+10	and	_	CC	CC	_	7	cc	_	_
+11	extremely	_	RB	RB	_	12	advmod	_	_
+12	knowledgeable	_	JJ	JJ	_	7	conj	_	_
+13	and	_	CC	CC	_	7	cc	_	_
+14	will	_	MD	MD	_	15	aux	_	_
+15	help	_	VB	VB	_	7	conj	_	_
+16	you	_	PRP	PRP	_	15	dobj	_	_
+17	as	_	RB	RB	_	18	advmod	_	_
+18	much	_	RB	RB	_	15	advmod	_	_
+19	as	_	IN	IN	_	21	mark	_	_
+20	they	_	PRP	PRP	_	21	nsubj	_	_
+21	can	_	MD	MD	_	17	advcl	_	_
+22	with	_	IN	IN	_	24	case	_	_
+23	thier	_	PRP$	PRP$	_	24	nmod:poss	_	_
+24	years	_	NNS	NNS	_	15	nmod	_	_
+25	of	_	IN	IN	_	28	case	_	_
+26	hands	_	NNS	NNS	_	28	compound	_	_
+27	on	_	RB	RB	_	26	compound	_	_
+28	practice	_	NN	NN	_	24	nmod	_	_
+29	.	_	.	.	_	7	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recomended	_	VBN	VBN	_	0	root	_	_
+3	.	_	.	.	_	1	punct	_	_
+

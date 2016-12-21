@@ -1,0 +1,38 @@
+1	Best	_	JJS	JJS	_	4	amod	_	_
+2	Limo	_	NN	NN	_	4	compound	_	_
+3	Limousine	_	NN	NN	_	4	compound	_	_
+4	service	_	NN	NN	_	0	root	_	_
+5	in	_	IN	IN	_	6	case	_	_
+6	all	_	DT	DT	_	4	nmod	_	_
+7	of	_	IN	IN	_	8	case	_	_
+8	Dallas	_	NNP	NNP	_	6	nmod	_	_
+
+1	Great	_	NNP	NNP	_	3	compound	_	_
+2	Limos	_	NNP	NNP	_	3	compound	_	_
+3	company	_	NN	NN	_	0	root	_	_
+4	int	_	IN	IN	_	10	case	_	_
+5	he	_	DT	DT	_	10	det	_	_
+6	DFW	_	NNP	NNP	_	8	compound	_	_
+7	fort	_	NNP	NNP	_	8	compound	_	_
+8	Worth	_	NNP	NNP	_	10	compound	_	_
+9	Metro	_	NN	NN	_	10	compound	_	_
+10	area	_	NN	NN	_	3	nmod	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	use	_	VBP	VBP	_	0	root	_	_
+3	their	_	PRP$	PRP$	_	5	nmod:poss	_	_
+4	limo	_	NN	NN	_	5	compound	_	_
+5	services	_	NNS	NNS	_	2	dobj	_	_
+6	for	_	IN	IN	_	7	case	_	_
+7	all	_	DT	DT	_	2	nmod	_	_
+8	of	_	IN	IN	_	12	case	_	_
+9	my	_	PRP$	PRP$	_	12	nmod:poss	_	_
+10	airport	_	NN	NN	_	12	compound	_	_
+11	car	_	NN	NN	_	12	compound	_	_
+12	services	_	NNS	NNS	_	7	nmod	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	airport	_	NN	NN	_	16	compound	_	_
+15	transportation	_	NN	NN	_	16	compound	_	_
+16	needs	_	NNS	NNS	_	12	conj	_	_
+

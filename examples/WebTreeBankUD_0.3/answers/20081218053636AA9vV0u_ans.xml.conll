@@ -1,0 +1,101 @@
+1	what	_	WP	WP	_	0	root	_	_
+2	is	_	VBZ	VBZ	_	1	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	good	_	JJ	JJ	_	5	amod	_	_
+5	slogan	_	NN	NN	_	2	nsubj	_	_
+6	for	_	IN	IN	_	9	case	_	_
+7	an	_	DT	DT	_	9	det	_	_
+8	Argentinian	_	JJ	JJ	_	9	amod	_	_
+9	restaurant	_	NN	NN	_	5	nmod	_	_
+10	?	_	.	.	_	1	punct	_	_
+
+1	"	_	``	``	_	7	punct	_	_
+2	In	_	IN	IN	_	3	case	_	_
+3	Argentina	_	NNP	NNP	_	7	nmod	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	beef	_	NN	NN	_	7	nsubjpass	_	_
+6	is	_	VBZ	VBZ	_	7	auxpass	_	_
+7	revered	_	VBN	VBN	_	0	root	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	respected	_	VBN	VBN	_	7	conj	_	_
+10	,	_	,	,	_	7	punct	_	_
+11	and	_	CC	CC	_	7	cc	_	_
+12	praised	_	VBN	VBN	_	7	conj	_	_
+13	.	_	.	.	_	7	punct	_	_
+
+1	Come	_	VB	VB	_	0	root	_	_
+2	see	_	VB	VB	_	1	parataxis	_	_
+3	how	_	WRB	WRB	_	5	advmod	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	continue	_	VBP	VBP	_	2	ccomp	_	_
+6	this	_	DT	DT	_	7	det	_	_
+7	tradition	_	NN	NN	_	5	dobj	_	_
+8	.	_	.	.	_	1	punct	_	_
+9	"	_	''	''	_	1	punct	_	_
+
+1	A	_	DT	DT	_	2	det	_	_
+2	taste	_	NN	NN	_	0	root	_	_
+3	of	_	IN	IN	_	4	case	_	_
+4	Argentina	_	NNP	NNP	_	2	nmod	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Here	_	RB	RB	_	2	advmod	_	_
+2	are	_	VBP	VBP	_	0	root	_	_
+3	some	_	DT	DT	_	4	det	_	_
+4	articles	_	NNS	NNS	_	2	nsubj	_	_
+5	that	_	WDT	WDT	_	6	nsubj	_	_
+6	discuss	_	VBP	VBP	_	4	relcl	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	details	_	NNS	NNS	_	6	dobj	_	_
+9	of	_	IN	IN	_	11	case	_	_
+10	slogan	_	NN	NN	_	11	compound	_	_
+11	writing	_	NN	NN	_	8	nmod	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	Why	_	WRB	WRB	_	4	advmod	_	_
+2	certain	_	JJ	JJ	_	3	amod	_	_
+3	slogans	_	NNS	NNS	_	4	nsubj	_	_
+4	work	_	VBP	VBP	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	why	_	WRB	WRB	_	8	advmod	_	_
+7	some	_	DT	DT	_	8	nsubj	_	_
+8	do	_	VBP	VBP	_	4	conj	_	_
+9	n't	_	RB	RB	_	8	neg	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	find	_	VB	VB	_	0	root	_	_
+4	these	_	DT	DT	_	3	dobj	_	_
+5	helpful	_	JJ	JJ	_	3	xcomp	_	_
+6	in	_	IN	IN	_	7	mark	_	_
+7	writing	_	VBG	VBG	_	5	nfincl	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	new	_	JJ	JJ	_	10	amod	_	_
+10	slogan	_	NN	NN	_	7	dobj	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	A	_	DT	DT	_	2	det	_	_
+2	Look	_	NN	NN	_	0	root	_	_
+3	at	_	IN	IN	_	4	case	_	_
+4	Slogans	_	NNS	NNS	_	2	nmod	_	_
+5	-	_	:	:	_	2	punct	_	_
+6	http://www.small-business-software.net/look-at-slogans.htm	_	ADD	ADD	_	2	appos	_	_
+
+1	Unique	_	JJ	JJ	_	3	amod	_	_
+2	Selling	_	NN	NN	_	3	compound	_	_
+3	Proposition	_	NN	NN	_	0	root	_	_
+4	-	_	:	:	_	3	punct	_	_
+5	http://www.small-business-software.net/unique-selling-proposition.htm	_	ADD	ADD	_	3	appos	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	luck	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	2	punct	_	_
+
+1	No	_	DT	DT	_	3	det	_	_
+2	Mad	_	JJ	JJ	_	3	amod	_	_
+3	Cow	_	NN	NN	_	0	root	_	_
+4	---	_	,	,	_	3	punct	_	_
+5	Guaranteed	_	JJ	JJ	_	3	parataxis	_	_
+6	!	_	.	.	_	3	punct	_	_
+

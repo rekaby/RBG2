@@ -1,0 +1,30 @@
+1	Relish	_	NNP	NNP	_	0	root	_	_
+
+1	A	_	DT	DT	_	4	det	_	_
+2	Top	_	JJ	JJ	_	3	amod	_	_
+3	Quality	_	NN	NN	_	4	compound	_	_
+4	Sandwich	_	NN	NN	_	0	root	_	_
+5	made	_	VBN	VBN	_	4	nfincl	_	_
+6	to	_	IN	IN	_	8	case	_	_
+7	artistic	_	JJ	JJ	_	8	amod	_	_
+8	standards	_	NNS	NNS	_	5	nmod	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	best	_	JJS	JJS	_	0	root	_	_
+3	darlington	_	NNP	NNP	_	4	nsubj	_	_
+4	has	_	VBZ	VBZ	_	2	relcl	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	offer	_	VB	VB	_	4	nfincl	_	_
+7	in	_	IN	IN	_	9	case	_	_
+8	contemporary	_	JJ	JJ	_	9	amod	_	_
+9	sandwicheering	_	NN	NN	_	6	nmod	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	Drum	_	NN	NN	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	bass	_	NN	NN	_	1	conj	_	_
+4	as	_	IN	IN	_	5	case	_	_
+5	standard	_	NN	NN	_	1	nmod	_	_
+6	.	_	.	.	_	1	punct	_	_
+

@@ -1,0 +1,288 @@
+Princess	Agent	washes
+pirate	Theme	washes
+
+Princess	Agent	paints
+fencer	Theme	paints
+
+pirate	Agent	washes
+Princess	Theme	washes
+
+fencer	Agent	paints
+Princess	Theme	paints
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+
+nurse	Agent	dries
+priest	Theme	dries
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+
+priest	Agent	dries
+nurse	Theme	dries
+
+journalist	Agent	ties
+sailor	Theme	ties
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+
+sailor	Agent	ties
+journalist	Theme	ties
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+
+worker	Agent	attacked
+cellist	Theme	attacked
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+
+cellist	Agent	attacked
+worker	Theme	attacked
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+
+devil	Agent	gifted
+clown	Theme	gifted
+
+devil	Agent	sketched
+cook	Theme	sketched
+
+clown	Agent	gifted
+devil	Theme	gifted
+
+cook	Agent	sketched
+devil	Theme	sketched
+
+lady	Agent	shoots
+waiter	Theme	shoots
+
+lady	Agent	slaps
+Knight	Theme	slaps
+
+waiter	Agent	shoots
+lady	Theme	shoots
+
+Knight	Agent	slaps
+lady	Theme	slaps
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+
+skater	Agent	nudges
+magician	Theme	nudges
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+
+magician	Agent	nudges
+skater	Theme	nudges
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+
+player	Agent	punches
+prisoner	Theme	punches
+
+player	Agent	meshes
+flutist	Theme	meshes
+
+prisoner	Agent	punches
+player	Theme	punches
+
+flutist	Agent	meshes
+player	Theme	meshes
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+
+guards	Agent	inoculated
+nun	Theme	inoculated
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+
+grandmother	Agent	films
+saxophonist	Theme	films
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+
+saxophonist	Agent	films
+grandmother	Theme	films
+
+fairy	Agent	brushed
+gangsters	Theme	brushed
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+
+gangsters	Agent	brushed
+fairy	Theme	brushed
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+
+bride	Agent	spanks
+scouts	Theme	spanks
+
+bride	Agent	scalded
+postman	Theme	scalded
+
+scouts	Agent	spanks
+bride	Theme	spanks
+
+postman	Agent	scalded
+bride	Theme	scalded
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+
+stewardess	Agent	charges
+traveler	Theme	charges
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+
+traveler	Agent	charges
+stewardess	Theme	charges
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+
+witch	Agent	steals
+sweeper	Theme	steals
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+
+sweeper	Agent	steals
+witch	Theme	steals
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+
+officers	Agent	crowned
+Japanese	Theme	crowned
+
+user	Agent	costumed
+referee	Theme	costumed
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+
+referee	Agent	costumed
+user	Theme	costumed
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+
+beauty	Agent	masked
+skier	Theme	masked
+
+beauty	Agent	rewards
+prince	Theme	rewards
+
+skier	Agent	masked
+beauty	Theme	masked
+
+prince	Agent	rewards
+beauty	Theme	rewards
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+
+trainer	Agent	shows
+craftsman	Theme	shows
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+
+craftsman	Agent	shows
+trainer	Theme	shows
+

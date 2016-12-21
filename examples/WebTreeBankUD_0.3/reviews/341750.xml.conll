@@ -1,0 +1,48 @@
+1	Not	_	RB	RB	_	3	neg	_	_
+2	so	_	RB	RB	_	3	advmod	_	_
+3	good	_	JJ	JJ	_	0	root	_	_
+
+1	Not	_	RB	RB	_	2	neg	_	_
+2	worth	_	JJ	JJ	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	money	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Bland	_	JJ	JJ	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	over	_	GW	GW	_	4	goeswith	_	_
+4	cooked	_	JJ	JJ	_	1	conj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	felt	_	VBD	VBD	_	0	root	_	_
+3	as	_	IN	IN	_	12	mark	_	_
+4	if	_	IN	IN	_	6	mark	_	_
+5	I	_	PRP	PRP	_	12	nsubj	_	_
+6	was	_	VBD	VBD	_	12	cop	_	_
+7	in	_	IN	IN	_	12	case	_	_
+8	an	_	DT	DT	_	12	det	_	_
+9	over	_	GW	GW	_	10	goeswith	_	_
+10	priced	_	JJ	JJ	_	12	amod	_	_
+11	Olive	_	NNP	NNP	_	12	compound	_	_
+12	Garden	_	NNP	NNP	_	2	advcl	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	aux	_	_
+3	hoping	_	VBG	VBG	_	0	root	_	_
+4	to	_	TO	TO	_	6	aux	_	_
+5	have	_	VB	VB	_	6	aux	_	_
+6	found	_	VBN	VBN	_	3	xcomp	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	regular	_	JJ	JJ	_	9	amod	_	_
+9	place	_	NN	NN	_	6	dobj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	eat	_	VB	VB	_	9	nfincl	_	_
+12	.	_	.	.	_	3	punct	_	_
+
+1	But	_	CC	CC	_	2	cc	_	_
+2	not	_	RB	RB	_	3	neg	_	_
+3	so	_	RB	RB	_	0	root	_	_
+4	.	_	.	.	_	2	punct	_	_
+

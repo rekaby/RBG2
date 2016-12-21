@@ -1,0 +1,62 @@
+1	Hidden	_	JJ	JJ	_	2	amod	_	_
+2	Treasure	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Strip	_	NN	NN	_	2	compound	_	_
+2	mall	_	NN	NN	_	5	nsubj	_	_
+3	asian	_	JJ	JJ	_	2	amod	_	_
+4	it	_	PRP	PRP	_	5	nsubj	_	_
+5	is	_	VBZ	VBZ	_	0	root	_	_
+6	not	_	RB	RB	_	5	neg	_	_
+7	!	_	.	.	_	5	punct	_	_
+
+1	Go	_	VB	VB	_	0	root	_	_
+2	in	_	RB	RB	_	1	advmod	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	you	_	PRP	PRP	_	7	nsubj	_	_
+5	will	_	MD	MD	_	7	aux	_	_
+6	not	_	RB	RB	_	7	neg	_	_
+7	think	_	VB	VB	_	1	conj	_	_
+8	you	_	PRP	PRP	_	11	nsubj	_	_
+9	are	_	VBP	VBP	_	11	cop	_	_
+10	in	_	IN	IN	_	11	case	_	_
+11	Chesapeake	_	NNP	NNP	_	7	ccomp	_	_
+12	.	_	.	.	_	1	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	setting	_	NN	NN	_	3	nsubj	_	_
+3	feels	_	VBZ	VBZ	_	0	root	_	_
+4	like	_	IN	IN	_	7	case	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	Sushi	_	NN	NN	_	7	compound	_	_
+7	bar	_	NN	NN	_	3	nmod	_	_
+8	in	_	IN	IN	_	9	case	_	_
+9	NYC	_	NNP	NNP	_	7	nmod	_	_
+10	;	_	,	,	_	11	punct	_	_
+11	small	_	JJ	JJ	_	3	parataxis	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	cozy	_	JJ	JJ	_	11	conj	_	_
+14	,	_	,	,	_	11	punct	_	_
+15	but	_	CC	CC	_	11	cc	_	_
+16	with	_	IN	IN	_	17	case	_	_
+17	flair	_	NN	NN	_	11	conj	_	_
+18	.	_	.	.	_	11	punct	_	_
+
+1	Get	_	VBP	VBP	_	0	root	_	_
+2	great	_	JJ	JJ	_	3	amod	_	_
+3	service	_	NN	NN	_	1	dobj	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	fantastic	_	JJ	JJ	_	6	amod	_	_
+6	menu	_	NN	NN	_	3	conj	_	_
+7	,	_	,	,	_	1	punct	_	_
+8	and	_	CC	CC	_	1	cc	_	_
+9	relax	_	VBP	VBP	_	1	conj	_	_
+10	.	_	.	.	_	1	punct	_	_
+
+1	Best	_	JJS	JJS	_	0	root	_	_
+2	in	_	IN	IN	_	3	case	_	_
+3	HR	_	NNP	NNP	_	1	nmod	_	_
+4	so	_	RB	RB	_	5	advmod	_	_
+5	far	_	RB	RB	_	1	advmod	_	_
+6	!	_	.	.	_	1	punct	_	_
+

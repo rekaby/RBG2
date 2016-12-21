@@ -1,0 +1,49 @@
+1	Rubbish	_	NN	NN	_	0	root	_	_
+
+1	Took	_	VBD	VBD	_	0	root	_	_
+2	1	_	CD	CD	_	4	nummod	_	_
+3	+	_	SYM	SYM	_	2	advmod	_	_
+4	hour	_	NN	NN	_	1	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	deliver	_	VB	VB	_	1	xcomp	_	_
+7	to	_	IN	IN	_	8	case	_	_
+8	Chatham	_	NNP	NNP	_	6	nmod	_	_
+9	,	_	,	,	_	10	punct	_	_
+10	hair	_	NN	NN	_	1	parataxis	_	_
+11	in	_	IN	IN	_	12	case	_	_
+12	food	_	NN	NN	_	10	nmod	_	_
+13	,	_	,	,	_	10	punct	_	_
+14	driver	_	NN	NN	_	17	nsubj	_	_
+15	did	_	VBD	VBD	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	know	_	VB	VB	_	1	parataxis	_	_
+18	area	_	NN	NN	_	17	dobj	_	_
+19	.	_	.	.	_	10	punct	_	_
+
+1	Noticed	_	VBD	VBD	_	0	root	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	few	_	NN	NN	_	1	dobj	_	_
+4	of	_	IN	IN	_	8	case	_	_
+5	these	_	DT	DT	_	8	det	_	_
+6	Cookie	_	NN	NN	_	7	compound	_	_
+7	cutter	_	NN	NN	_	8	compound	_	_
+8	places	_	NNS	NNS	_	3	nmod	_	_
+9	opening	_	VBG	VBG	_	3	nfincl	_	_
+10	in	_	IN	IN	_	11	case	_	_
+11	Summit	_	NNP	NNP	_	9	nmod	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	New	_	NNP	NNP	_	14	compound	_	_
+14	Providence	_	NNP	NNP	_	11	conj	_	_
+15	.	_	.	.	_	1	punct	_	_
+
+1	Stick	_	VB	VB	_	0	root	_	_
+2	to	_	IN	IN	_	4	case	_	_
+3	Hop	_	NNP	NNP	_	4	compound	_	_
+4	Hing	_	NNP	NNP	_	1	nmod	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	20	_	CD	CD	_	7	nummod	_	_
+7	year	_	NN	NN	_	9	compound	_	_
+8	+	_	SYM	SYM	_	7	advmod	_	_
+9	resident	_	NN	NN	_	4	appos	_	_
+10	.	_	.	.	_	1	punct	_	_
+

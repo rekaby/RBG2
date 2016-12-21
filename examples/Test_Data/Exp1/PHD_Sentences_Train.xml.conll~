@@ -1,0 +1,360 @@
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Princess	princess	NN	NN	_	3	SBJ	_	_
+3	washes	wash	VBZ	VBZ	_	0	ROOT	_	_
+4	obviously	obviously	RB	RB	_	3	ADV	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	pirate	pirate	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Princess	princess	NN	NN	_	3	SBJ	_	_
+3	paints	paint	VBZ	VBZ	_	0	ROOT	_	_
+4	obviously	obviously	RB	RB	_	3	ADV	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	fencers	fencer	NNS	NNS	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Amazone	amazone	NNP	NNP	_	3	SBJ	_	_
+3	stabbed	stab	VBD	VBD	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	mechanics	mechanics	NNS	NNS	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Amazone	amazone	NNP	NNP	_	3	SBJ	_	_
+3	sprayed	spray	VBD	VBD	_	0	ROOT	_	_
+4	just	just	RB	RB	_	7	NMOD	_	_
+5	the	the	DT	DT	_	7	NMOD	_	_
+6	football	football	NN	NN	_	7	NMOD	_	_
+7	players	player	NNS	NNS	_	3	OBJ	_	_
+8	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	nurse	nurse	NN	NN	_	3	SBJ	_	_
+3	pushes	push	VBZ	VBZ	_	0	ROOT	_	_
+4	in	in	IN	IN	_	3	LOC	_	_
+5	that	that	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	athlete	athlete	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	nurse	nurse	NN	NN	_	3	SBJ	_	_
+3	dries	dry	VBZ	VBZ	_	0	ROOT	_	_
+4	at	at	IN	IN	_	3	TMP	_	_
+5	this	this	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	priest	priest	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	journalist	journalist	NN	NN	_	3	SBJ	_	_
+3	ties	tie	NNS	NNS	_	0	ROOT	_	_
+4	at	at	IN	IN	_	3	TMP	_	_
+5	this	this	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	sailor	sailor	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	journalist	journalist	NN	NN	_	3	SBJ	_	_
+3	feeds	feed	VBZ	VBZ	_	0	ROOT	_	_
+4	at	at	IN	IN	_	3	TMP	_	_
+5	this	this	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	doctor	doctor	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	construction	construction	NN	NN	_	3	NMOD	_	_
+3	worker	worker	NN	NN	_	4	SBJ	_	_
+4	attacked	attack	VBN	VBN	_	0	ROOT	_	_
+5	obviously	obviously	RB	RB	_	4	ADV	_	_
+6	the	the	DT	DT	_	7	NMOD	_	_
+7	cellist	cellist	NN	NN	_	4	TMP	_	_
+8	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	construction	construction	NN	NN	_	3	NMOD	_	_
+3	worker	worker	NN	NN	_	4	SBJ	_	_
+4	interviewed	interview	VBN	VBN	_	0	ROOT	_	_
+5	obviously	obviously	RB	RB	_	4	ADV	_	_
+6	the	the	DT	DT	_	7	NMOD	_	_
+7	golfer	golfer	NN	NN	_	4	TMP	_	_
+8	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	devil	devil	NN	NN	_	3	SBJ	_	_
+3	gifted	gift	VBD	VBD	_	0	ROOT	_	_
+4	at	at	IN	IN	_	3	TMP	_	_
+5	this	this	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	clown	clown	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	devil	devil	NN	NN	_	3	SBJ	_	_
+3	sketched	sketch	VBD	VBD	_	0	ROOT	_	_
+4	at	at	IN	IN	_	3	TMP	_	_
+5	this	this	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	cook	cook	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	cleaner	clean	JJR	JJR	_	3	NMOD	_	_
+3	pelts	pelt	VBD	VBD	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	waiter	waiter	NN	NN	_	0	ROOT	_	_
+7	.	.	.	.	_	6	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	cleaning	cleaning	VBG	VBG	_	3	NMOD	_	_
+3	lady	lady	NN	NN	_	5	SBJ	_	_
+4	just	just	RB	RB	_	5	ADV	_	_
+5	slaps	slap	VBZ	VBZ	_	0	ROOT	_	_
+6	the	the	DT	DT	_	7	NMOD	_	_
+7	Knights	knight	NNS	NNS	_	5	OBJ	_	_
+8	.	.	.	.	_	5	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	skater	skater	NN	NN	_	3	SBJ	_	_
+3	scrubs	scrub	VBZ	VBZ	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	detective	detective	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	maid	maid	NN	NN	_	3	SBJ	_	_
+3	perfumed	perfume	VBD	VBD	_	0	ROOT	_	_
+4	at	at	IN	IN	_	3	TMP	_	_
+5	this	this	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	executioner	executioner	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	maid	maid	NN	NN	_	3	SBJ	_	_
+3	bandaged	bandage	VBD	VBD	_	0	ROOT	_	_
+4	at	at	IN	IN	_	3	TMP	_	_
+5	this	this	DT	DT	_	6	NMOD	_	_
+6	moment	moment	NN	NN	_	4	PMOD	_	_
+7	the	the	DT	DT	_	8	NMOD	_	_
+8	drummer	drummer	NN	NN	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	tennis	tennis	NN	NN	_	3	NMOD	_	_
+3	player	player	NN	NN	_	4	SBJ	_	_
+4	punches	punch	VBZ	VBZ	_	0	ROOT	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	prisoner	prisoner	NN	NN	_	4	OBJ	_	_
+7	here	here	RB	RB	_	4	LOC	_	_
+8	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	tennis	tennis	NN	NN	_	3	NMOD	_	_
+3	player	player	NN	NN	_	4	SBJ	_	_
+4	meshes	mesh	VBZ	VBZ	_	0	ROOT	_	_
+5	flutist	flutist	NN	NN	_	4	OBJ	_	_
+6	here	here	RB	RB	_	4	LOC	_	_
+7	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Mermaid	mermaid	NNP	NNP	_	3	SBJ	_	_
+3	crowns	crown	VBZ	VBZ	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	student	student	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Mermaid	mermaid	NNP	NNP	_	3	SBJ	_	_
+3	plucks	pluck	VBZ	VBZ	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	soldier	soldier	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	nun	nun	NN	NN	_	3	SBJ	_	_
+3	inoculated	inoculate	VBD	VBD	_	0	ROOT	_	_
+4	just	just	RB	RB	_	7	NMOD	_	_
+5	the	the	DT	DT	_	7	NMOD	_	_
+6	crossing	cross	JJ	JJ	_	7	NMOD	_	_
+7	guards	guard	NNS	NNS	_	3	OBJ	_	_
+8	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	nun	nun	NN	NN	_	3	SBJ	_	_
+3	tweaks	tweak	VBZ	VBZ	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	clarinetist	clarinetist	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	Grandma	grandma	NNP	NNP	_	3	SBJ	_	_
+2	just	just	RB	RB	_	3	ADV	_	_
+3	scratches	scratch	VBG	VBG	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	archers	archer	NNS	NNS	_	3	OBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	grandmother	grandmother	NN	NN	_	3	SBJ	_	_
+3	films	film	VBZ	VBZ	_	0	ROOT	_	_
+4	just	just	RB	RB	_	5	NMOD	_	_
+5	saxophonist	saxophonist	NN	NN	_	3	OBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	fairy	fairy	NN	NN	_	3	SBJ	_	_
+3	brushed	brush	VBD	VBD	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	gangsters	gangster	NNS	NNS	_	3	OBJ	_	_
+6	here	here	RB	RB	_	3	LOC	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	fairy	fairy	NN	NN	_	3	SBJ	_	_
+3	splashed	splash	VBD	VBD	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	tourist	tourist	NN	NN	_	3	OBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	jogger	jogger	NN	NN	_	3	SBJ	_	_
+3	rubbed	rub	VBD	VBD	_	0	ROOT	_	_
+4	just	just	RB	RB	_	7	NMOD	_	_
+5	onetime	onetime	RB	RB	_	4	AMOD	_	_
+6	the	the	DT	DT	_	7	NMOD	_	_
+7	king	king	NN	NN	_	3	OBJ	_	_
+8	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	cheerleader	cheerleader	NN	NN	_	3	SBJ	_	_
+3	beaten	beat	VBP	VBP	_	0	ROOT	_	_
+4	obviously	obviously	RB	RB	_	3	ADV	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	pages	page	NNS	NNS	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	cheerleader	cheerleader	NN	NN	_	3	SBJ	_	_
+3	poisoned	poison	VBD	VBD	_	0	ROOT	_	_
+4	obviously	obviously	RB	RB	_	3	ADV	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	angler	angler	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	bride	bride	NN	NN	_	3	SBJ	_	_
+3	spanks	spank	VBZ	VBZ	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	scouts	scout	NNS	NNS	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	bride	bride	NN	NN	_	3	SBJ	_	_
+3	scalded	scald	VBD	VBD	_	0	ROOT	_	_
+4	just	just	RB	RB	_	6	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	postman	postman	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	stewardess	stewardess	NN	NN	_	4	SBJ	_	_
+3	just	just	RB	RB	_	4	ADV	_	_
+4	powders	powder	VBZ	VBZ	_	0	ROOT	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	Athlete	athlete	NNP	NNP	_	4	OBJ	_	_
+7	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	witch	witch	NN	NN	_	3	SBJ	_	_
+3	illuminates	illuminate	VBZ	VBZ	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	newsboys	newsboy	NNS	NNS	_	3	OBJ	_	_
+6	here	here	RB	RB	_	3	LOC	_	_
+7	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	witch	witch	NN	NN	_	3	SBJ	_	_
+3	steals	steal	VBZ	VBZ	_	0	ROOT	_	_
+4	the	the	DT	DT	_	6	NMOD	_	_
+5	street	street	NN	NN	_	6	NMOD	_	_
+6	sweeper	sweeper	NN	NN	_	3	OBJ	_	_
+7	here	here	RB	RB	_	3	LOC	_	_
+8	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Japanese	japanese	JJ	JJ	_	3	SBJ	_	_
+3	smeared	smear	VBD	VBD	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	cameraman	cameraman	NN	NN	_	3	OBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Japanese	japanese	JJ	JJ	_	3	SBJ	_	_
+3	crowned	crown	VBD	VBD	_	0	ROOT	_	_
+4	sometimes	sometimes	RB	RB	_	3	TMP	_	_
+5	just	just	RB	RB	_	8	NMOD	_	_
+6	the	the	DT	DT	_	8	NMOD	_	_
+7	police	police	NN	NN	_	8	NMOD	_	_
+8	officers	officer	NNS	NNS	_	3	OBJ	_	_
+9	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	wheelchair	wheelchair	NN	NN	_	3	NMOD	_	_
+3	user	user	NN	NN	_	4	SBJ	_	_
+4	costumed	costume	VBD	VBD	_	0	ROOT	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	referee	referee	NN	NN	_	4	OBJ	_	_
+7	here	here	RB	RB	_	4	LOC	_	_
+8	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	wheelchair	wheelchair	NN	NN	_	3	NMOD	_	_
+3	user	user	NN	NN	_	4	SBJ	_	_
+4	remunerated	remunerate	VBD	VBD	_	0	ROOT	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	Chinese	chinese	JJ	JJ	_	4	OBJ	_	_
+7	here	here	RB	RB	_	4	LOC	_	_
+8	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	businesswoman	businesswoman	NN	NN	_	3	SBJ	_	_
+3	girded	gird	VBD	VBD	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	plumber	plumber	NN	NN	_	3	OBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	bathing	bathing	NN	NN	_	3	NMOD	_	_
+3	beauty	beauty	NN	NN	_	4	SBJ	_	_
+4	masked	mask	VBD	VBD	_	0	ROOT	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	skier	skier	NN	NN	_	4	OBJ	_	_
+7	.	.	.	.	_	4	P	_	_
+									
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	aerobics	aerobics	NNS	NNS	_	3	NMOD	_	_
+3	instructor	instructor	NN	NN	_	4	SBJ	_	_
+4	cautioned	caution	VBD	VBD	_	0	ROOT	_	_
+5	obviously	obviously	RB	RB	_	4	ADV	_	_
+6	the	the	DT	DT	_	7	NMOD	_	_
+7	astronaut	astronaut	NN	NN	_	4	OBJ	_	_
+8	.	.	.	.	_	4	P	_	_
+

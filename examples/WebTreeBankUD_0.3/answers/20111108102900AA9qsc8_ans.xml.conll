@@ -1,0 +1,62 @@
+1	is	_	VBZ	VBZ	_	5	cop	_	_
+2	r2d2	_	NNP	NNP	_	5	nsubj	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	stupid	_	JJ	JJ	_	5	amod	_	_
+5	name	_	NN	NN	_	0	root	_	_
+6	for	_	IN	IN	_	8	case	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	cat	_	NN	NN	_	5	nmod	_	_
+9	?	_	.	.	_	5	punct	_	_
+
+1	i	_	PRP	PRP	_	3	nsubj	_	_
+2	could	_	MD	MD	_	3	aux	_	_
+3	call	_	VB	VB	_	0	root	_	_
+4	him	_	PRP	PRP	_	3	dobj	_	_
+5	r2	_	NNP	NNP	_	3	xcomp	_	_
+6	for	_	IN	IN	_	7	case	_	_
+7	short	_	JJ	JJ	_	3	nmod	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	cat	_	NN	NN	_	2	dobj	_	_
+5	named	_	VBN	VBN	_	4	nfincl	_	_
+6	GummiBear	_	NNP	NNP	_	5	xcomp	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	so	_	RB	RB	_	16	advmod	_	_
+9	no	_	UH	UH	_	16	discourse	_	_
+10	,	_	,	,	_	16	punct	_	_
+11	R2D2	_	NNP	NNP	_	16	nsubj	_	_
+12	is	_	VBZ	VBZ	_	16	cop	_	_
+13	not	_	RB	RB	_	16	neg	_	_
+14	a	_	DT	DT	_	16	det	_	_
+15	stupid	_	JJ	JJ	_	16	amod	_	_
+16	name	_	NN	NN	_	2	parataxis	_	_
+17	.	_	.	.	_	2	punct	_	_
+
+1	it	_	PRP	PRP	_	4	nsubj	_	_
+2	s	_	VBZ	VBZ	_	4	cop	_	_
+3	your	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	cat	_	NN	NN	_	0	root	_	_
+5	you	_	PRP	PRP	_	7	nsubj	_	_
+6	can	_	MD	MD	_	7	aux	_	_
+7	pick	_	VB	VB	_	4	parataxis	_	_
+8	and	_	DT	DT	_	9	det	_	_
+9	name	_	NN	NN	_	7	dobj	_	_
+10	you	_	PRP	PRP	_	11	nsubj	_	_
+11	want	_	VBP	VBP	_	9	relcl	_	_
+
+1	Hell	_	UH	UH	_	2	discourse	_	_
+2	no	_	UH	UH	_	0	root	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	That	_	DT	DT	_	5	nsubj	_	_
+2	s	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	name	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Kudos	_	NN	NN	_	0	root	_	_
+2	.	_	.	.	_	1	punct	_	_
+

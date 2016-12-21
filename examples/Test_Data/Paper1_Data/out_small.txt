@@ -1,0 +1,24 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	Princess	_	NN	NNP	_	3	det	_	_
+3	washes	_	VB	VBZ	_	0	det	_	_
+4	obviously	_	RB	RB	_	3	det	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	pirate	_	NN	NN	_	3	det	_	_
+7	.	_	.	.	_	3	det	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Princess	_	NN	NNP	_	3	det	_	_
+3	paints	_	VB	VBZ	_	0	det	_	_
+4	obviously	_	RB	RB	_	3	det	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	fencer	_	NN	NN	_	3	det	_	_
+7	.	_	.	.	_	3	det	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	pirate	_	NN	NN	_	3	det	_	_
+3	washes	_	VB	VBZ	_	0	det	_	_
+4	obviously	_	RB	RB	_	3	det	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Princess	_	NN	NNP	_	3	det	_	_
+7	.	_	.	.	_	3	det	_	_
+

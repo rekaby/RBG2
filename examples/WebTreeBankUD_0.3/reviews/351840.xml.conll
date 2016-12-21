@@ -1,0 +1,44 @@
+1	Caldwell	_	NNP	NNP	_	2	compound	_	_
+2	insurance	_	NNP	NNP	_	5	nsubj	_	_
+3	has	_	VBZ	VBZ	_	5	aux	_	_
+4	been	_	VBN	VBN	_	5	aux	_	_
+5	doing	_	VBG	VBG	_	0	root	_	_
+6	our	_	PRP$	PRP$	_	7	nmod:poss	_	_
+7	insurance	_	NN	NN	_	5	dobj	_	_
+8	for	_	IN	IN	_	11	case	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	couple	_	NN	NN	_	11	nummod	_	_
+11	years	_	NNS	NNS	_	5	nmod	_	_
+12	now	_	RB	RB	_	11	advmod	_	_
+13	and	_	CC	CC	_	5	cc	_	_
+14	they	_	PRP	PRP	_	18	nsubj	_	_
+15	have	_	VBP	VBP	_	18	aux	_	_
+16	been	_	VBN	VBN	_	18	cop	_	_
+17	extremely	_	RB	RB	_	18	advmod	_	_
+18	thorough	_	JJ	JJ	_	5	conj	_	_
+19	.	_	.	.	_	5	punct	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	've	_	VBP	VBP	_	4	aux	_	_
+3	only	_	RB	RB	_	4	advmod	_	_
+4	had	_	VBN	VBN	_	0	root	_	_
+5	one	_	CD	CD	_	7	nummod	_	_
+6	urgent	_	JJ	JJ	_	7	amod	_	_
+7	issue	_	NN	NN	_	4	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	deal	_	VB	VB	_	7	nfincl	_	_
+10	with	_	IN	IN	_	9	nmod	_	_
+11	and	_	CC	CC	_	4	cc	_	_
+12	they	_	PRP	PRP	_	15	nsubj	_	_
+13	were	_	VBD	VBD	_	15	cop	_	_
+14	very	_	RB	RB	_	15	advmod	_	_
+15	prompt	_	JJ	JJ	_	4	conj	_	_
+16	in	_	IN	IN	_	18	case	_	_
+17	their	_	PRP$	PRP$	_	18	nmod:poss	_	_
+18	response	_	NN	NN	_	15	nmod	_	_
+19	.	_	.	.	_	4	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	!	_	.	.	_	2	punct	_	_
+

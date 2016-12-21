@@ -1,0 +1,45 @@
+1	Gets	_	VBZ	VBZ	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	Job	_	NN	NN	_	1	dobj	_	_
+4	Done	_	JJ	JJ	_	1	xcomp	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	utilized	_	VBN	VBN	_	0	root	_	_
+4	Mr.	_	NNP	NNP	_	5	compound	_	_
+5	Pozza	_	NNP	NNP	_	3	dobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	his	_	PRP$	PRP$	_	8	nmod:poss	_	_
+8	firm	_	NN	NN	_	5	conj	_	_
+9	twice	_	RB	RB	_	3	advmod	_	_
+10	now	_	RB	RB	_	3	advmod	_	_
+11	in	_	IN	IN	_	13	case	_	_
+12	our	_	PRP$	PRP$	_	13	nmod:poss	_	_
+13	family	_	NN	NN	_	3	nmod	_	_
+14	and	_	CC	CC	_	3	cc	_	_
+15	both	_	DT	DT	_	16	det	_	_
+16	times	_	NNS	NNS	_	20	tmod	_	_
+17	have	_	VBP	VBP	_	20	aux	_	_
+18	been	_	VBN	VBN	_	20	cop	_	_
+19	very	_	RB	RB	_	20	advmod	_	_
+20	pleased	_	JJ	JJ	_	3	conj	_	_
+21	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	hesitate	_	VB	VB	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	use	_	VB	VB	_	4	xcomp	_	_
+7	him	_	PRP	PRP	_	6	dobj	_	_
+8	again	_	RB	RB	_	6	advmod	_	_
+9	or	_	CC	CC	_	6	cc	_	_
+10	refer	_	VB	VB	_	6	conj	_	_
+11	him	_	PRP	PRP	_	10	dobj	_	_
+12	to	_	IN	IN	_	14	case	_	_
+13	my	_	PRP$	PRP$	_	14	nmod:poss	_	_
+14	family	_	NN	NN	_	10	nmod	_	_
+15	or	_	CC	CC	_	14	cc	_	_
+16	friends	_	NNS	NNS	_	14	conj	_	_
+17	.	_	.	.	_	4	punct	_	_
+

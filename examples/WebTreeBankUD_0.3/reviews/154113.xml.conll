@@ -1,0 +1,30 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	good	_	JJ	JJ	_	3	amod	_	_
+3	cut	_	NN	NN	_	0	root	_	_
+4	!	_	.	.	_	3	punct	_	_
+
+1	Cecile	_	NNP	NNP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	hairdresser	_	NN	NN	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	has	_	VBZ	VBZ	_	8	aux	_	_
+7	just	_	RB	RB	_	8	advmod	_	_
+8	moved	_	VBN	VBN	_	4	conj	_	_
+9	into	_	IN	IN	_	11	case	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	neighbourhood	_	NN	NN	_	8	nmod	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	go	_	VBP	VBP	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	see	_	VB	VB	_	2	xcomp	_	_
+5	her	_	PRP	PRP	_	4	dobj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	have	_	VB	VB	_	4	nfincl	_	_
+8	my	_	PRP$	PRP$	_	9	nmod:poss	_	_
+9	hair	_	NN	NN	_	7	dobj	_	_
+10	cut	_	VBN	VBN	_	7	xcomp	_	_
+11	.	_	.	.	_	2	punct	_	_
+

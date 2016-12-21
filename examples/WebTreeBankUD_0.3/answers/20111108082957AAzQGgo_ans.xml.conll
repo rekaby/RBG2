@@ -1,0 +1,34 @@
+1	What	_	WP	WP	_	2	nsubj	_	_
+2	influenced	_	VBD	VBD	_	0	root	_	_
+3	Picasso	_	NNP	NNP	_	6	nmod:poss	_	_
+4	's	_	POS	POS	_	3	case	_	_
+5	cubism	_	NN	NN	_	6	compound	_	_
+6	style	_	NN	NN	_	2	dobj	_	_
+7	of	_	IN	IN	_	8	case	_	_
+8	painting	_	NN	NN	_	6	nmod	_	_
+9	?	_	.	.	_	2	punct	_	_
+
+1	i	_	PRP	PRP	_	3	nsubj	_	_
+2	've	_	VBP	VBP	_	3	aux	_	_
+3	seen	_	VBN	VBN	_	0	root	_	_
+4	that	_	DT	DT	_	3	dobj	_	_
+5	.......	_	,	,	_	3	punct	_	_
+6	that	_	DT	DT	_	9	nsubj	_	_
+7	does	_	VBZ	VBZ	_	9	aux	_	_
+8	not	_	RB	RB	_	9	neg	_	_
+9	help	_	VB	VB	_	3	parataxis	_	_
+10	me	_	PRP	PRP	_	9	dobj	_	_
+11	at	_	RB	RB	_	12	case	_	_
+12	all	_	RB	RB	_	9	nmod	_	_
+13	it	_	PRP	PRP	_	14	nsubj	_	_
+14	says	_	VBZ	VBZ	_	3	parataxis	_	_
+15	what	_	WP	WP	_	14	dobj	_	_
+16	cubism	_	NN	NN	_	17	nsubj	_	_
+17	influenced	_	VBD	VBD	_	15	relcl	_	_
+18	not	_	RB	RB	_	19	neg	_	_
+19	what	_	WP	WP	_	15	remnant	_	_
+20	influnced	_	VBD	VBD	_	19	relcl	_	_
+21	cubism	_	NN	NN	_	20	dobj	_	_
+
+1	http://en.wikipedia.org/wiki/Cubism	_	ADD	ADD	_	0	root	_	_
+

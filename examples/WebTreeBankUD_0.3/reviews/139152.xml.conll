@@ -1,0 +1,21 @@
+1	Hospitality	_	NN	NN	_	0	root	_	_
+2	.!	_	.	.	_	1	punct	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	good	_	JJ	JJ	_	3	amod	_	_
+3	hospitality	_	NN	NN	_	0	root	_	_
+4	offered	_	VBN	VBN	_	3	dep	_	_
+5	.!	_	.	.	_	3	punct	_	_
+
+1	Keep	_	VB	VB	_	0	root	_	_
+2	it	_	PRP	PRP	_	1	dobj	_	_
+3	up	_	RP	RP	_	1	prt	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	-	_	,	,	_	6	punct	_	_
+2	Shree	_	NNP	NNP	_	6	dep	_	_
+3	Ghatkopar	_	NNP	NNP	_	6	compound	_	_
+4	Bhatia	_	NNP	NNP	_	6	compound	_	_
+5	Mitra	_	NNP	NNP	_	6	compound	_	_
+6	Mandal	_	NNP	NNP	_	0	root	_	_
+

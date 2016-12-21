@@ -1,0 +1,95 @@
+1	Email	_	NN	NN	_	0	root	_	_
+2	:	_	:	:	_	1	punct	_	_
+3	"	_	``	``	_	4	punct	_	_
+4	Julie	_	NNP	NNP	_	1	appos	_	_
+5	"	_	''	''	_	4	punct	_	_
+6	<	_	-LRB-	-LRB-	_	7	punct	_	_
+7	julie...@bellsouth.net	_	ADD	ADD	_	4	list	_	_
+8	>	_	-RRB-	-RRB-	_	7	punct	_	_
+
+1	Groups	_	NNS	NNS	_	0	root	_	_
+2	:	_	:	:	_	1	punct	_	_
+3	alt.animals.cat	_	NN	NN	_	1	appos	_	_
+
+1	Like	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	7	advcl	_	_
+4	"	_	``	``	_	7	punct	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	kids	_	NNS	NNS	_	7	nsubj	_	_
+7	egg	_	VBP	VBP	_	0	root	_	_
+8	him	_	PRP	PRP	_	7	dobj	_	_
+9	on	_	RP	RP	_	7	prt	_	_
+10	"	_	''	''	_	7	punct	_	_
+11	.	_	.	.	_	7	punct	_	_
+
+1	maybe	_	RB	RB	_	2	advmod	_	_
+2	too	_	RB	RB	_	3	advmod	_	_
+3	much	_	RB	RB	_	0	root	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Sounds	_	VBZ	VBZ	_	0	root	_	_
+2	like	_	IN	IN	_	6	mark	_	_
+3	your	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	cat	_	NN	NN	_	6	nsubj	_	_
+5	is	_	VBZ	VBZ	_	6	cop	_	_
+6	stressed	_	VBN	VBN	_	1	ccomp	_	_
+7	out	_	RP	RP	_	6	prt	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	Maybe	_	RB	RB	_	5	advmod	_	_
+2	he	_	PRP	PRP	_	5	nsubj	_	_
+3	does	_	VBZ	VBZ	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	want	_	VB	VB	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	play	_	VB	VB	_	5	xcomp	_	_
+8	when	_	WRB	WRB	_	10	advmod	_	_
+9	they	_	PRP	PRP	_	10	nsubj	_	_
+10	want	_	VBP	VBP	_	7	advcl	_	_
+11	to	_	TO	TO	_	10	xcomp	_	_
+12	..	_	.	.	_	5	punct	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	did	_	VBD	VBD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	take	_	VB	VB	_	0	root	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	dislike	_	NN	NN	_	4	dobj	_	_
+7	to	_	IN	IN	_	9	case	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	kids	_	NNS	NNS	_	4	nmod	_	_
+10	for	_	IN	IN	_	14	case	_	_
+11	"	_	``	``	_	14	punct	_	_
+12	no	_	DT	DT	_	14	neg	_	_
+13	"	_	''	''	_	14	punct	_	_
+14	reason	_	NN	NN	_	4	nmod	_	_
+15	!	_	.	.	_	4	punct	_	_
+
+1	cats	_	NNS	NNS	_	2	nsubj	_	_
+2	react	_	VBP	VBP	_	0	root	_	_
+3	to	_	IN	IN	_	5	case	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	treatment	_	NN	NN	_	2	nmod	_	_
+6	they	_	PRP	PRP	_	7	nsubj	_	_
+7	receive	_	VBP	VBP	_	5	relcl	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	they	_	PRP	PRP	_	12	nsubj	_	_
+10	are	_	VBP	VBP	_	12	cop	_	_
+11	not	_	RB	RB	_	12	neg	_	_
+12	toys	_	NNS	NNS	_	2	parataxis	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	maybe	_	RB	RB	_	4	advmod	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	cat	_	NN	NN	_	4	nsubj	_	_
+4	needs	_	VBZ	VBZ	_	0	root	_	_
+5	a	_	DT	DT	_	9	det	_	_
+6	"	_	``	``	_	9	punct	_	_
+7	new	_	JJ	JJ	_	9	amod	_	_
+8	'	_	''	''	_	9	punct	_	_
+9	home	_	NN	NN	_	4	dobj	_	_
+10	.........	_	,	,	_	4	punct	_	_
+
+1	Julie	_	NNP	NNP	_	0	root	_	_
+

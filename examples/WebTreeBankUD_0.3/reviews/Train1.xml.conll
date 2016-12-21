@@ -1,0 +1,35 @@
+1	The	the	DT	DT	_	2	NMOD	_	_	
+2	Princess	princess	NN	NN	_	3	SBJ	_	_	
+3	washes	wash	VBZ	VBZ	_	0	ROOT	_	_	
+4	obviously	obviously	RB	RB	_	3	ADV	_	_	
+5	the	the	DT	DT	_	6	NMOD	_	_	
+6	pirate	pirate	NN	NN	_	3	OBJ	_	_	
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_	
+2	Princess	princess	NN	NN	_	4	SBJ	_	_	
+3	obviously	obviously	RB	RB	_	4	ADV	_	_	
+4	paints	paint	VBZ	VBZ	_	0	ROOT	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_	
+6	fencers	fencer	NNS	NNS	_	4	OBJ	_	_
+
+1	The	the	DT	DT	_	3	NMOD	_
+2	tennis	tennis	NN	NN	_	3	NMOD	_
+3	player	player	NN	NN	_	4	SBJ	_
+4	punches	punch	VBZ	VBZ	_	0	ROOT	_
+5	the	the	DT	DT	_	6	NMOD	_
+6	prisoner	prisoner	NN	NN	_	4	OBJ	_
+7	here	here	RB	RB	_	4	LOC	_
+8	.	.	.	.	_	4	punct	_
+
+1	The	the	DT	DT	_	3	NMOD	_
+2	tennis	tennis	NN	NN	_	3	NMOD	_
+3	player	player	NN	NN	_	4	SBJ	_
+4	punches	punch	VBZ	VBZ	_	0	ROOT	_
+5	the	the	DT	DT	_	6	NMOD	_
+6	prisoner	prisoner	NN	NN	_	4	OBJ	_
+7	with	with	IN	IN	_	6	NMOD	_
+8	the	the	DT	DT	_	9	NMOD	_
+9	rocket	rocket	NN	NN	_	7	PMOD	_
+10	.	.	.	.	_	4	punct	_
+

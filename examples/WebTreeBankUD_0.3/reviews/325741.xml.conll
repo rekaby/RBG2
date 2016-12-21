@@ -1,0 +1,55 @@
+1	Class	_	NN	NN	_	2	compound	_	_
+2	act	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	late	_	JJ	JJ	_	0	root	_	_
+4	in	_	IN	IN	_	6	case	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	day	_	NN	NN	_	3	nmod	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	I	_	PRP	PRP	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	worried	_	JJ	JJ	_	3	conj	_	_
+11	I	_	PRP	PRP	_	14	nsubjpass	_	_
+12	would	_	MD	MD	_	14	aux	_	_
+13	get	_	VB	VB	_	14	auxpass	_	_
+14	charged	_	VBN	VBN	_	10	ccomp	_	_
+15	an	_	DT	DT	_	16	det	_	_
+16	arm	_	NN	NN	_	14	dobj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	a	_	DT	DT	_	19	det	_	_
+19	leg	_	NN	NN	_	16	conj	_	_
+20	and	_	CC	CC	_	14	cc	_	_
+21	have	_	VB	VB	_	14	conj	_	_
+22	to	_	TO	TO	_	23	aux	_	_
+23	wait	_	VB	VB	_	21	xcomp	_	_
+24	forever	_	RB	RB	_	23	advmod	_	_
+25	.	_	.	.	_	3	punct	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	picked	_	VBD	VBD	_	0	root	_	_
+3	my	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	car	_	NN	NN	_	2	dobj	_	_
+5	up	_	RP	RP	_	2	prt	_	_
+6	in	_	IN	IN	_	7	case	_	_
+7	Yarmouth	_	NNP	NNP	_	2	nmod	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	towed	_	VBD	VBD	_	2	conj	_	_
+10	to	_	IN	IN	_	11	case	_	_
+11	Bath	_	NNP	NNP	_	9	nmod	_	_
+12	for	_	IN	IN	_	15	case	_	_
+13	a	_	DT	DT	_	15	det	_	_
+14	great	_	JJ	JJ	_	15	amod	_	_
+15	price	_	NN	NN	_	9	nmod	_	_
+16	.	_	.	.	_	2	punct	_	_
+
+1	Would	_	MD	MD	_	2	aux	_	_
+2	do	_	VB	VB	_	0	root	_	_
+3	business	_	NN	NN	_	2	dobj	_	_
+4	with	_	IN	IN	_	5	case	_	_
+5	them	_	PRP	PRP	_	3	nmod	_	_
+6	again	_	RB	RB	_	2	advmod	_	_
+7	.	_	.	.	_	2	punct	_	_
+

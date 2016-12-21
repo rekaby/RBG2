@@ -1,0 +1,39 @@
+1	The	the	DT	DT	_	3	NMOD	_	_
+2	aerobic	aerobic	JJ	JJ	_	3	NMOD	_	_
+3	trainer	trainer	NN	NN	_	4	SBJ	_	_
+4	cooks	cook	VBZ	VBZ	_	0	ROOT	_	_
+5	obviously	obviously	RB	RB	_	4	ADV	_	_
+6	the	the	DT	DT	_	7	NMOD	_	_
+7	craftsmen	craftsman	NNS	NNS	_	4	OBJ	_	_
+8	.	.	.	.	_	4	P	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	businesswoman	businesswoman	NN	NN	_	3	SBJ	_	_
+3	feeds	feed	VBZ	VBZ	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	beekeepers	beekeeper	NNS	NNS	_	3	OBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	stewardess	stewardess	NN	NN	_	4	SBJ	_	_
+3	just	just	RB	RB	_	4	ADV	_	_
+4	charges	charge	VBZ	VBZ	_	0	ROOT	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	traveler	traveler	NN	NN	_	4	OBJ	_	_
+7	.	.	.	.	_	4	P	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	jogger	jogger	NN	NN	_	3	SBJ	_	_
+3	bewitched	bewitch	VBD	VBD	_	0	ROOT	_	_
+4	onetime	onetime	RB	RB	_	3	NMOD	_	_
+5	the	the	DT	DT	_	6	NMOD	_	_
+6	doctor	doctor	NN	NN	_	3	OBJ	_	_
+7	.	.	.	.	_	3	P	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	skater	skater	NN	NN	_	3	SBJ	_	_
+3	nudges	nudge	VBZ	VBZ	_	0	ROOT	_	_
+4	the	the	DT	DT	_	5	NMOD	_	_
+5	magician	magician	NN	NN	_	3	OBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+

@@ -1,0 +1,25 @@
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommended	_	VBN	VBN	_	0	root	_	_
+
+1	My	_	PRP$	PRP$	_	5	nmod:poss	_	_
+2	8	_	CD	CD	_	3	nummod	_	_
+3	year	_	NN	NN	_	4	nmod:npmod	_	_
+4	old	_	JJ	JJ	_	5	amod	_	_
+5	daughter	_	NN	NN	_	6	nsubj	_	_
+6	loves	_	VBZ	VBZ	_	0	root	_	_
+7	this	_	DT	DT	_	8	det	_	_
+8	place	_	NN	NN	_	6	dobj	_	_
+9	.	_	.	.	_	6	punct	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	best	_	JJS	JJS	_	4	amod	_	_
+3	climbing	_	NN	NN	_	4	compound	_	_
+4	club	_	NN	NN	_	0	root	_	_
+5	around	_	RB	RB	_	4	advmod	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	Hooray	_	UH	UH	_	0	root	_	_
+2	for	_	IN	IN	_	3	case	_	_
+3	Craggy	_	NNP	NNP	_	1	nmod	_	_
+4	.	_	.	.	_	1	punct	_	_
+

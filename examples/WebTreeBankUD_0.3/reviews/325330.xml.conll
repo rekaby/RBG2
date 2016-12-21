@@ -1,0 +1,32 @@
+1	Not	_	RB	RB	_	2	neg	_	_
+2	impressed	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Overpriced	_	JJ	JJ	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	doctor	_	NN	NN	_	5	nsubj	_	_
+5	acted	_	VBD	VBD	_	1	conj	_	_
+6	arrogant	_	JJ	JJ	_	5	acomp	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	rushed	_	VBD	VBD	_	5	conj	_	_
+9	at	_	IN	IN	_	11	case	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	time	_	NN	NN	_	8	nmod	_	_
+12	when	_	WRB	WRB	_	14	advmod	_	_
+13	there	_	EX	EX	_	14	expl	_	_
+14	was	_	VBD	VBD	_	8	advcl	_	_
+15	very	_	RB	RB	_	17	advmod	_	_
+16	few	_	JJ	JJ	_	17	amod	_	_
+17	clients	_	NNS	NNS	_	14	nsubj	_	_
+18	in	_	IN	IN	_	20	case	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	facility	_	NN	NN	_	17	nmod	_	_
+21	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	wo	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	return	_	VB	VB	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+

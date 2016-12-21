@@ -1,0 +1,7 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	deals	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	pizza	_	NN	NN	_	2	conj	_	_
+6	!	_	.	.	_	2	punct	_	_
+

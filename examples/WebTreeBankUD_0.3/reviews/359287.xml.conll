@@ -1,0 +1,10 @@
+1	High	_	JJ	JJ	_	2	amod	_	_
+2	guality	_	NN	NN	_	4	compound	_	_
+3	pup	_	NN	NN	_	4	compound	_	_
+4	food	_	NN	NN	_	0	root	_	_
+5	at	_	IN	IN	_	8	case	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	good	_	JJ	JJ	_	8	amod	_	_
+8	price	_	NN	NN	_	4	nmod	_	_
+9	.	_	.	.	_	4	punct	_	_
+

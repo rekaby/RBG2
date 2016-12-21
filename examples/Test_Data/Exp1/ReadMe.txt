@@ -1,0 +1,13 @@
+This data comes from the PHD of Christopher Baumgärtner.
+
+The steps:
+----------
+1-Translate sentences to English
+
+2-use Mate tool to generate the dependency graph of sentences and to extract the semantic roles
+http://barbar.cs.lth.se:8081/
+
+3-the output of step 2 is Conll09, I converted it to Conll06
+
+
+- Data now is almost 50 sentences with correlated Theme and Agnent relations.

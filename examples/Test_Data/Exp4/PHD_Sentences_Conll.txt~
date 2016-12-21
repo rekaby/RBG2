@@ -1,0 +1,820 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	Princess	_	NN	NNP	_	3	nsubj	_	_
+3	washes	_	VB	VBZ	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	pirate	_	NN	NN	_	4	dep	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Princess	_	NN	NNP	_	3	nsubj	_	_
+3	paints	_	VB	VBZ	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	fencer	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	pirate	_	NN	NN	_	3	nsubj	_	_
+3	washes	_	VB	VBZ	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Princess	_	NN	NNP	_	4	dep	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	fencer	_	NN	NN	_	3	nsubj	_	_
+3	paints	_	VB	VBZ	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Princess	_	NN	NNP	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Amazone	_	NN	NNP	_	3	nsubj	_	_
+3	stabbed	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	mechanics	_	NN	NNS	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Amazone	_	NN	NNP	_	3	nsubj	_	_
+3	sprayed	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	7	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	football	_	NN	NN	_	7	nsubj	_	_
+7	players	_	NN	NNS	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	mechanics	_	NN	NNS	_	3	nsubj	_	_
+3	stabbed	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Amazone	_	NN	NNP	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+	The	_	DT	DT	_	3	det	_	_
+2	football	_	NN	NN	_	3	nsubj	_	_
+3	players	_	NN	NNS	_	4	nsubj	_	_
+4	sprayed	_	VB	VBD	_	0	null	_	_
+5	just	_	RB	RB	_	7	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	Amazone	_	NN	NNP	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	nurse	_	NN	NN	_	3	nsubj	_	_
+3	pushes	_	VB	VBZ	_	0	null	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	that	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	athlete	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	nurse	_	NN	NN	_	3	nsubj	_	_
+3	dries	_	VB	VBZ	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	priest	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	athlete	_	NN	NN	_	3	nsubj	_	_
+3	pushes	_	VB	VBZ	_	0	null	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	that	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	nurse	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	priest	_	NN	NN	_	3	nsubj	_	_
+3	dries	_	VB	VBZ	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	nurse	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	journalist	_	NN	NN	_	3	nsubj	_	_
+3	ties	_	NN	NNS	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	sailor	_	NN	NN	_	6	dep	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	journalist	_	NN	NN	_	3	nsubj	_	_
+3	feeds	_	VB	VBZ	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	doctor	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	sailor	_	NN	NN	_	3	nsubj	_	_
+3	ties	_	VB	VBZ	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	journalist	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	doctor	_	NN	NN	_	3	nsubj	_	_
+3	feeds	_	VB	VBZ	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	journalist	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	construction	_	NN	NN	_	3	nsubj	_	_
+3	worker	_	NN	NN	_	4	nsubj	_	_
+4	attacked	_	VB	VBD	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	cellist	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	construction	_	NN	NN	_	3	nsubj	_	_
+3	worker	_	NN	NN	_	4	nsubj	_	_
+4	interviewed	_	VB	VBD	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	golfer	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cellist	_	NN	NN	_	3	nsubj	_	_
+3	attacked	_	VB	VBD	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	construction	_	NN	NN	_	7	nn	_	_
+7	worker	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	golfer	_	NN	NN	_	3	nsubj	_	_
+3	worker	_	NN	NN	_	4	nsubj	_	_
+4	interviewed	_	VB	VBD	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	construction	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	devil	_	NN	NN	_	3	nsubj	_	_
+3	gifted	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	clown	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	devil	_	NN	NN	_	3	nsubj	_	_
+3	sketched	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	cook	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	clown	_	NN	NN	_	3	nsubj	_	_
+3	gifted	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	devil	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cook	_	NN	NN	_	3	nsubj	_	_
+3	sketched	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	devil	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	cleaning	_	NN	NN	_	3	nn	_	_
+3	lady	_	NN	NN	_	4	nsubj	_	_
+4	shoots	_	VB	VBZ	_	0	null	_	_
+5	just	_	RB	RB	_	7	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	waiter	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	cleaning	_	NN	NN	_	3	nn	_	_
+3	lady	_	NN	NN	_	5	nsubj	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	slaps	_	VB	VBZ	_	0	null	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	Knight	_	NN	NNPS	_	5	dobj	_	_
+8	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	waiter	_	NN	NN	_	3	nsubj	_	_
+3	shoots	_	VB	VBZ	_	0	null	_	_
+4	just	_	RB	RB	_	7	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	cleaning	_	NN	NN	_	7	nn	_	_
+7	lady	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Knight	_	NN	NNPS	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	slaps	_	VB	VBZ	_	0	null	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	cleaning	_	NN	NN	_	7	nn	_	_
+7	lady	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	skater	_	NN	NN	_	3	nn	_	_
+3	scrubs	_	NN	NNP	_	6	nsubj	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	detective	_	NN	NN	_	0	null	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	skater	_	NN	NN	_	3	nsubj	_	_
+3	nudges	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	magician	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	detective	_	NN	NN	_	3	nsubj	_	_
+3	scrubs	_	NN	NNP	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	skater	_	NN	NN	_	3	dep	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	magician	_	NN	NN	_	3	nsubj	_	_
+3	nudges	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	skater	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	maid	_	NN	NN	_	3	nsubj	_	_
+3	perfumed	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	executioner	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	maid	_	NN	NN	_	3	nsubj	_	_
+3	bandaged	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	drummer	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	executioner	_	NN	NN	_	3	nsubj	_	_
+3	perfumed	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	maid	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	drummer	_	NN	NN	_	3	nsubj	_	_
+3	bandaged	_	VB	VBN	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	moment	_	NN	NN	_	4	pobj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	maid	_	NN	NN	_	3	tmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	tennis	_	NN	NN	_	4	nn	_	_
+3	player	_	NN	NN	_	4	nsubj	_	_
+4	punches	_	NN	NNS	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	prisoner	_	NN	NN	_	4	dep	_	_
+7	here	_	RB	RB	_	6	advmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	tennis	_	NN	NN	_	3	nn	_	_
+3	player	_	NN	NN	_	4	nsubj	_	_
+4	meshes	_	VB	VBZ	_	0	null	_	_
+5	flutist	_	RB	RBS	_	6	advmod	_	_
+6	here	_	RB	RB	_	4	advmod	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	prisoner	_	NN	NN	_	3	nn	_	_
+3	punches	_	NN	NNS	_	6	nsubj	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	tennis	_	NN	NN	_	6	nn	_	_
+6	player	_	NN	NN	_	0	null	_	_
+7	here	_	RB	RB	_	6	advmod	_	_
+8	.	_	.	.	_	6	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	flutist	_	NN	NN	_	3	nsubj	_	_
+3	meshes	_	VB	VBZ	_	0	null	_	_
+4	tennis	_	NN	NN	_	5	nn	_	_
+5	player	_	NN	NN	_	3	dobj	_	_
+6	here	_	RB	RB	_	3	advmod	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	Mermaid	_	NN	NN	_	3	nn	_	_
+3	crowns	_	NN	NNS	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	student	_	NN	NN	_	3	dep	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Mermaid	_	NN	NN	_	3	nsubj	_	_
+3	plucks	_	VB	VBZ	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	soldier	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	student	_	NN	NN	_	3	nn	_	_
+3	crowns	_	NN	NNS	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Mermaid	_	NN	NN	_	3	dep	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	soldier	_	NN	NN	_	3	nsubj	_	_
+3	plucks	_	VB	VBZ	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Mermaid	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	nun	_	NN	NN	_	3	nsubj	_	_
+3	inoculated	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	7	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	crossing	_	NN	NN	_	7	nn	_	_
+7	guards	_	NN	NNS	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	nun	_	NN	NN	_	3	nsubj	_	_
+3	tweaks	_	VB	VBZ	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	clarinetist	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	crossing	_	NN	NN	_	3	nn	_	_
+3	guards	_	NN	NNS	_	4	nsubj	_	_
+4	inoculated	_	VB	VBD	_	0	null	_	_
+5	just	_	RB	RB	_	7	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	nun	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	clarinetist	_	NN	NN	_	3	nsubj	_	_
+3	tweaks	_	VB	VBZ	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	nun	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Grandma	_	NN	NNP	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	scratches	_	NN	NNS	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	archer	_	NN	NNS	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	grandmother	_	NN	NN	_	5	nsubj	_	_
+3	filming	_	VB	VBG	_	5	dep	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	saxophonist	_	JJ	JJS	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	archer	_	NN	NNS	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	scratches	_	NN	NNS	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Grandma	_	NN	NNP	_	4	dep	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	saxophonist	_	NN	NN	_	3	nsubj	_	_
+3	filming	_	VB	VBG	_	0	null	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	grandmother	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	fairy	_	NN	NN	_	3	nsubj	_	_
+3	brushed	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	gangsters	_	NN	NNS	_	3	dobj	_	_
+6	here	_	RB	RB	_	3	advmod	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	fairy	_	NN	NN	_	3	nsubj	_	_
+3	splashed	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	tourist	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	gangsters	_	NN	NNS	_	3	nsubj	_	_
+3	brushed	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	fairy	_	NN	NN	_	3	dobj	_	_
+6	here	_	RB	RB	_	3	advmod	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	tourist	_	NN	NN	_	3	nsubj	_	_
+3	splashed	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	fairy	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	jogger	_	NN	NN	_	4	nsubj	_	_
+3	bewitched	_	VB	VBN	_	4	dep	_	_
+4	onetime	_	JJ	JJ	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	doctor	_	NN	NN	_	4	tmod	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	jogger	_	NN	NN	_	3	nsubj	_	_
+3	rubbed	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	onetime	_	JJ	JJ	_	7	num	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	king	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	doctor	_	NN	NN	_	3	nsubj	_	_
+3	bewitched	_	VB	VBN	_	0	null	_	_
+4	onetime	_	JJ	JJ	_	3	dep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	jogger	_	NN	NN	_	4	tmod	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	king	_	NN	NN	_	3	nsubj	_	_
+3	rubbed	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	onetime	_	JJ	JJ	_	7	num	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	jogger	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cheerleader	_	NN	NN	_	3	nsubj	_	_
+3	beaten	_	VB	VBN	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	pages	_	NN	NNS	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cheerleader	_	NN	NN	_	3	nsubj	_	_
+3	poisoned	_	VB	VBD	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	angler	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	pages	_	NN	NNS	_	3	nsubj	_	_
+3	beaten	_	VB	VBN	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	cheerleader	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	angler	_	NN	NN	_	3	nsubj	_	_
+3	poisoned	_	VB	VBD	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	cheerleader	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	bride	_	NN	NN	_	3	nsubj	_	_
+3	spanks	_	VB	VBZ	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	scouts	_	NN	NNS	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	bride	_	NN	NN	_	3	nsubj	_	_
+3	scalded	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	postman	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	scouts	_	NN	NNS	_	3	nsubj	_	_
+3	spanks	_	VB	VBZ	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	bride	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	postman	_	NN	NN	_	3	nsubj	_	_
+3	scalded	_	VB	VBD	_	0	null	_	_
+4	just	_	RB	RB	_	6	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	bride	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	stewardess	_	NN	NN	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	powders	_	NN	NNS	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Athlete	_	NN	NNP	_	4	dep	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	stewardess	_	NN	NN	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	charges	_	VB	VBZ	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	traveler	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Athlete	_	NN	NNP	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	powders	_	NN	NNS	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	stewardess	_	NN	NN	_	4	dep	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	traveler	_	NN	NN	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	charges	_	VB	VBZ	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	stewardess	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	witch	_	NN	NN	_	3	nsubj	_	_
+3	illuminates	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	young	_	JJ	JJ	_	6	amod	_	_
+6	boy	_	NN	NN	_	3	dobj	_	_
+7	here	_	RB	RB	_	3	advmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	witch	_	NN	NN	_	3	nsubj	_	_
+3	steals	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	street	_	NN	NN	_	6	nn	_	_
+6	sweeper	_	NN	NN	_	3	dobj	_	_
+7	here	_	RB	RB	_	3	advmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	young	_	JJ	JJ	_	3	amod	_	_
+3	boy	_	NN	NN	_	4	nsubj	_	_
+4	illuminates	_	VB	VBZ	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	witch	_	NN	NN	_	4	dobj	_	_
+7	here	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	street	_	NN	NN	_	3	nn	_	_
+3	sweeper	_	NN	NN	_	4	nsubj	_	_
+4	steals	_	VB	VBZ	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	witch	_	NN	NN	_	4	dobj	_	_
+7	here	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Japanese	_	NN	NNP	_	3	nsubj	_	_
+3	smeared	_	VB	VBN	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	cameraman	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Japanese	_	NN	NNP	_	3	nsubj	_	_
+3	crowned	_	VB	VBN	_	0	null	_	_
+4	sometimes	_	RB	RB	_	3	advmod	_	_
+5	just	_	RB	RB	_	8	advmod	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	police	_	NN	NN	_	8	nn	_	_
+8	officers	_	NN	NNS	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cameraman	_	NN	NN	_	3	nsubj	_	_
+3	smeared	_	VB	VBN	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	Japanese	_	NN	NNP	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	police	_	NN	NN	_	3	nn	_	_
+3	officers	_	NN	NNS	_	4	nsubj	_	_
+4	crowned	_	VB	VBN	_	0	null	_	_
+5	sometimes	_	RB	RB	_	4	advmod	_	_
+6	just	_	RB	RB	_	8	advmod	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	Japanese	_	NN	NNP	_	5	dep	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	wheelchair	_	NN	NN	_	3	nn	_	_
+3	user	_	NN	NN	_	4	nsubj	_	_
+4	costumed	_	VB	VBN	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	referee	_	NN	NN	_	4	dobj	_	_
+7	here	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	wheelchair	_	NN	NN	_	3	nn	_	_
+3	user	_	NN	NN	_	4	nsubj	_	_
+4	remunerated	_	VB	VBD	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Chinese	_	NN	NNPS	_	4	dobj	_	_
+7	here	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	referee	_	NN	NN	_	3	nsubj	_	_
+3	costumed	_	VB	VBN	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	wheelchair	_	NN	NN	_	6	nn	_	_
+6	user	_	NN	NN	_	3	dobj	_	_
+7	here	_	RB	RB	_	3	advmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Chinese	_	NN	NNP	_	3	nsubj	_	_
+3	remunerated	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	wheelchair	_	NN	NN	_	6	nn	_	_
+6	user	_	NN	NN	_	3	dobj	_	_
+7	here	_	RB	RB	_	3	advmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	businesswoman	_	NN	NN	_	3	nsubj	_	_
+3	girded	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	plumber	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	businesswoman	_	NN	NN	_	3	nsubj	_	_
+3	feeds	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	beekeepers	_	NN	NNS	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	plumber	_	NN	NN	_	3	nsubj	_	_
+3	girded	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	businesswoman	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	beekeepers	_	NN	NNS	_	3	nsubj	_	_
+3	feeds	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	businesswoman	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	bathing	_	NN	NN	_	3	nn	_	_
+3	beauty	_	NN	NN	_	4	nsubj	_	_
+4	masked	_	VB	VBD	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	skier	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	bathing	_	NN	NN	_	4	nn	_	_
+3	beauty	_	NN	NN	_	4	nsubj	_	_
+4	rewards	_	NN	NN	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	prince	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	skier	_	NN	NN	_	3	nsubj	_	_
+3	masked	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	bathing	_	NN	NN	_	6	nn	_	_
+6	beauty	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	prince	_	NN	NN	_	3	nsubj	_	_
+3	rewards	_	NN	NN	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	bathing	_	NN	NN	_	6	nn	_	_
+6	beauty	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	aerobics	_	NN	NNS	_	3	nn	_	_
+3	instructor	_	NN	NN	_	4	nsubj	_	_
+4	cautioned	_	VB	VBD	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	astronaut	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	aerobic	_	JJ	JJ	_	3	amod	_	_
+3	trainer	_	NN	NN	_	4	nsubj	_	_
+4	shows	_	VB	VBZ	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	craftsman	_	NN	NNS	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	astronaut	_	NN	NN	_	3	nsubj	_	_
+3	cautioned	_	VB	VBD	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	aerobics	_	NN	NN	_	7	nn	_	_
+7	instructor	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	craftsman	_	NN	NNS	_	3	nsubj	_	_
+3	shows	_	VB	VBZ	_	0	null	_	_
+4	obviously	_	RB	RB	_	7	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	aerobic	_	JJ	JJ	_	7	amod	_	_
+7	trainer	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+

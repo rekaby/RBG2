@@ -1,0 +1,22 @@
+1	Quality	_	NN	NN	_	3	nsubj	_	_
+2	has	_	VBZ	VBZ	_	3	aux	_	_
+3	fallen	_	VBN	VBN	_	0	root	_	_
+4	over	_	IN	IN	_	6	case	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	years	_	NNS	NNS	_	3	nmod	_	_
+7	,	_	,	,	_	3	punct	_	_
+8	but	_	CC	CC	_	3	cc	_	_
+9	still	_	RB	RB	_	11	advmod	_	_
+10	the	_	DT	DT	_	16	det	_	_
+11	best	_	JJS	JJS	_	16	amod	_	_
+12	go	_	VB	VB	_	16	amod	_	_
+13	-	_	HYPH	HYPH	_	12	punct	_	_
+14	to	_	IN	IN	_	12	nmod	_	_
+15	burger	_	NN	NN	_	16	compound	_	_
+16	place	_	NN	NN	_	3	conj	_	_
+17	on	_	IN	IN	_	20	case	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	East	_	NNP	NNP	_	20	compound	_	_
+20	Bay	_	NNP	NNP	_	16	nmod	_	_
+21	.	_	.	.	_	3	punct	_	_
+

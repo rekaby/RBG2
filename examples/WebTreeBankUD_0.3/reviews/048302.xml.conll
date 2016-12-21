@@ -1,0 +1,12 @@
+1	Blooming	_	VBG	VBG	_	2	amod	_	_
+2	onion	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	only	_	JJ	JJ	_	6	amod	_	_
+6	reason	_	NN	NN	_	2	appos	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	visit	_	VB	VB	_	6	nfincl	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	restaurant	_	NN	NN	_	8	dobj	_	_
+11	.	_	.	.	_	2	punct	_	_
+

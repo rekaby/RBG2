@@ -1,0 +1,66 @@
+1	Good	_	JJ	JJ	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Bad	_	JJ	JJ	_	1	conj	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	take	_	VB	VB	_	2	xcomp	_	_
+5	care	_	NN	NN	_	4	dobj	_	_
+6	of	_	IN	IN	_	8	case	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	ants	_	NNS	NNS	_	4	nmod	_	_
+9	myself	_	PRP	PRP	_	4	nmod:npmod	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	But	_	CC	CC	_	3	cc	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	found	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	location	_	NN	NN	_	3	dobj	_	_
+6	wonderful	_	JJ	JJ	_	3	xcomp	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	neighbors	_	NNS	NNS	_	5	remnant	_	_
+10	very	_	RB	RB	_	11	advmod	_	_
+11	kind	_	JJ	JJ	_	6	remnant	_	_
+12	.	_	.	.	_	3	punct	_	_
+
+1	Never	_	RB	RB	_	2	neg	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	problem	_	NN	NN	_	2	dobj	_	_
+5	with	_	IN	IN	_	7	case	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	staff	_	NN	NN	_	4	nmod	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	found	_	VBD	VBD	_	2	conj	_	_
+10	them	_	PRP	PRP	_	9	dobj	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	helpful	_	JJ	JJ	_	9	xcomp	_	_
+13	when	_	WRB	WRB	_	9	advmod	_	_
+14	something	_	NN	NN	_	15	nsubj	_	_
+15	went	_	VBD	VBD	_	13	relcl	_	_
+16	wrong	_	JJ	JJ	_	15	xcomp	_	_
+17	.	_	.	.	_	2	punct	_	_
+
+1	Loved	_	VBD	VBD	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	pool	_	NN	NN	_	1	dobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	BBQ	_	NN	NN	_	3	conj	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	Because	_	IN	IN	_	4	case	_	_
+2	of	_	IN	IN	_	1	mwe	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	ants	_	NNS	NNS	_	6	nmod	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	dropped	_	VBD	VBD	_	0	root	_	_
+7	them	_	PRP	PRP	_	6	dobj	_	_
+8	to	_	IN	IN	_	11	case	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	3	_	CD	CD	_	11	compound	_	_
+11	star	_	NN	NN	_	6	nmod	_	_
+12	.	_	.	.	_	6	punct	_	_
+

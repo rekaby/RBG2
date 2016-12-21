@@ -1,0 +1,60 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	People	_	NNS	NNS	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	even	_	RB	RB	_	5	advmod	_	_
+5	better	_	JJR	JJR	_	6	amod	_	_
+6	service	_	NN	NN	_	2	dep	_	_
+7	!	_	.	.	_	2	punct	_	_
+
+1	Best	_	JJS	JJS	_	0	root	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	deal	_	VB	VB	_	1	ccomp	_	_
+4	with	_	IN	IN	_	3	nmod	_	_
+5	!	_	.	.	_	1	punct	_	_
+
+1	In	_	IN	IN	_	4	case	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	few	_	JJ	JJ	_	4	amod	_	_
+4	words	_	NNS	NNS	_	9	nmod	_	_
+5	...	_	,	,	_	9	punct	_	_
+6	I	_	PRP	PRP	_	9	nsubj	_	_
+7	'm	_	VBP	VBP	_	9	cop	_	_
+8	pleasantly	_	RB	RB	_	9	advmod	_	_
+9	surprised	_	JJ	JJ	_	0	root	_	_
+10	that	_	IN	IN	_	14	mark	_	_
+11	you	_	PRP	PRP	_	14	nsubj	_	_
+12	can	_	MD	MD	_	14	aux	_	_
+13	still	_	RB	RB	_	14	advmod	_	_
+14	find	_	VB	VB	_	9	ccomp	_	_
+15	"	_	``	``	_	17	punct	_	_
+16	old	_	JJ	JJ	_	17	amod	_	_
+17	school	_	NN	NN	_	19	compound	_	_
+18	"	_	''	''	_	17	punct	_	_
+19	service	_	NN	NN	_	14	dobj	_	_
+20	out	_	RB	RB	_	21	advmod	_	_
+21	there	_	RB	RB	_	14	advmod	_	_
+22	where	_	WRB	WRB	_	24	advmod	_	_
+23	company	_	NN	NN	_	24	nsubj	_	_
+24	care	_	VBP	VBP	_	14	advcl	_	_
+25	more	_	RBR	RBR	_	24	advmod	_	_
+26	about	_	IN	IN	_	28	case	_	_
+27	good	_	JJ	JJ	_	28	amod	_	_
+28	name	_	NN	NN	_	24	nmod	_	_
+29	and	_	CC	CC	_	28	cc	_	_
+30	customers	_	NNS	NNS	_	28	conj	_	_
+31	than	_	IN	IN	_	33	case	_	_
+32	their	_	PRP$	PRP$	_	33	nmod:poss	_	_
+33	pockets	_	NNS	NNS	_	24	nmod	_	_
+34	...	_	.	.	_	9	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommended	_	VBN	VBN	_	5	amod	_	_
+3	people	_	NNS	NNS	_	5	compound	_	_
+4	/	_	,	,	_	5	punct	_	_
+5	business	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	Josh	_	NNP	NNP	_	1	dep	_	_
+3	!	_	.	.	_	1	punct	_	_
+

@@ -1,0 +1,114 @@
+1	HEAVEN	_	NN	NN	_	0	root	_	_
+2	ON	_	IN	IN	_	3	case	_	_
+3	EARTHHHHHHH	_	NNP	NNP	_	1	nmod	_	_
+4	!!!!	_	.	.	_	1	punct	_	_
+
+1	MUST	_	MD	MD	_	2	aux	_	_
+2	TRY	_	VB	VB	_	0	root	_	_
+3	!!!	_	.	.	_	2	punct	_	_
+
+1	A	_	DT	DT	_	0	root	_	_
+2	+++	_	SYM	SYM	_	1	compound	_	_
+
+1	THIS	_	DT	DT	_	2	det	_	_
+2	PLACE	_	NN	NN	_	5	nsubj	_	_
+3	IS	_	VBZ	VBZ	_	5	cop	_	_
+4	THE	_	DT	DT	_	5	det	_	_
+5	BEST	_	JJS	JJS	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	HATED	_	VBD	VBD	_	0	root	_	_
+3	SUSHI	_	NN	NN	_	2	dobj	_	_
+4	BEFORE	_	RB	RB	_	2	advmod	_	_
+5	BUT	_	CC	CC	_	2	cc	_	_
+6	NOW	_	RB	RB	_	10	advmod	_	_
+7	I	_	PRP	PRP	_	10	nsubj	_	_
+8	CA	_	MD	MD	_	10	aux	_	_
+9	NT	_	RB	RB	_	10	neg	_	_
+10	STOP	_	VB	VB	_	2	conj	_	_
+11	EATTING	_	VBG	VBG	_	10	xcomp	_	_
+12	IT	_	PRP	PRP	_	11	dobj	_	_
+13	!!!!!!!	_	.	.	_	2	punct	_	_
+
+1	NICE	_	JJ	JJ	_	2	amod	_	_
+2	SERVICE	_	NNP	NNP	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	AND	_	CC	CC	_	2	cc	_	_
+5	EXCELLENT	_	JJ	JJ	_	6	amod	_	_
+6	FOOD	_	NN	NN	_	2	conj	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	EVERYTHING	_	NN	NN	_	4	nsubj	_	_
+2	IN	_	IN	IN	_	3	case	_	_
+3	HERE	_	RB	RB	_	1	nmod	_	_
+4	SEEMS	_	VBZ	VBZ	_	0	root	_	_
+5	TO	_	TO	TO	_	6	aux	_	_
+6	AMAZE	_	VB	VB	_	4	xcomp	_	_
+7	ME	_	PRP	PRP	_	6	dobj	_	_
+8	!!!	_	.	.	_	4	punct	_	_
+
+1	THEIR	_	PRP$	PRP$	_	3	nmod:poss	_	_
+2	GRILL	_	NN	NN	_	3	compound	_	_
+3	DISHES	_	NNS	NNS	_	4	nsubj	_	_
+4	ARE	_	VBP	VBP	_	0	root	_	_
+5	OUT	_	IN	IN	_	8	case	_	_
+6	TA	EXTRA!	IN	IN	_	8	case	_	_
+7	THIS	_	DT	DT	_	8	det	_	_
+8	WORLD	_	NN	NN	_	4	nmod	_	_
+9	AND	_	CC	CC	_	4	cc	_	_
+10	SUSHI	_	NN	NN	_	13	nsubj	_	_
+11	IS	_	VBZ	VBZ	_	13	cop	_	_
+12	JUST	_	RB	RB	_	13	advmod	_	_
+13	FABULOUS	_	JJ	JJ	_	4	conj	_	_
+14	!!!!	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	EAT	_	VBP	VBP	_	0	root	_	_
+3	HERE	_	RB	RB	_	2	advmod	_	_
+4	AT	_	RB	RB	_	5	case	_	_
+5	LEAST	_	RBS	RBS	_	6	nmod	_	_
+6	5	_	CD	CD	_	7	nummod	_	_
+7	DAYS	_	NNS	NNS	_	2	tmod	_	_
+8	A	_	DT	DT	_	9	det	_	_
+9	WEEK	_	NN	NN	_	7	nmod:npmod	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	THEY	_	PRP	PRP	_	2	nsubj	_	_
+2	HAVE	_	VBP	VBP	_	0	root	_	_
+3	EXCELLENT	_	JJ	JJ	_	7	amod	_	_
+4	SUSHI	_	NN	NN	_	5	compound	_	_
+5	CHEF	_	NN	NN	_	7	compound	_	_
+6	SPECIAL	_	JJ	JJ	_	7	amod	_	_
+7	ROLLS	_	NNS	NNS	_	2	dobj	_	_
+8	FOR	_	IN	IN	_	11	case	_	_
+9	A	_	DT	DT	_	11	det	_	_
+10	FAIR	_	JJ	JJ	_	11	amod	_	_
+11	PRICE	_	NN	NN	_	2	nmod	_	_
+12	AND	_	CC	CC	_	2	cc	_	_
+13	SO	_	RB	RB	_	14	advmod	_	_
+14	IS	_	VBZ	VBZ	_	2	conj	_	_
+15	THE	_	DT	DT	_	17	det	_	_
+16	GRILL	_	NN	NN	_	17	compound	_	_
+17	ORDERS	_	NNS	NNS	_	14	nsubj	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	A	_	NN	NN	_	0	root	_	_
+2	++++	_	SYM	SYM	_	1	compound	_	_
+3	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	_	.	.	_	1	punct	_	_
+
+1	JUNO	_	NNP	NNP	_	5	vocative	_	_
+2	AND	_	CC	CC	_	1	cc	_	_
+3	OPEN	_	NNP	NNP	_	1	conj	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	LOVE	_	VBP	VBP	_	0	root	_	_
+6	YOU	_	PRP	PRP	_	5	dobj	_	_
+7	GUYS	_	NNP	NNP	_	6	compound	_	_
+8	!!!!!!!!!!!!!!	_	.	.	_	5	punct	_	_
+
+1	[	_	-LRB-	-LRB-	_	3	punct	_	_
+2	no	_	DT	DT	_	3	det	_	_
+3	homo	_	NN	NN	_	0	root	_	_
+4	]	_	-RRB-	-RRB-	_	3	punct	_	_
+5	:D	_	NFP	NFP	_	3	discourse	_	_
+

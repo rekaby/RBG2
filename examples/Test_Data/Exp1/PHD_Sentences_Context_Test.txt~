@@ -1,0 +1,15 @@
+trainer	Agent	cooks
+craftsmen	Theme	cooks
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+
+stewardess	Agent	charges
+traveler	Theme	charges
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+
+skater	Agent	nudges
+magician	Theme	nudges
+

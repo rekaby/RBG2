@@ -1,0 +1,26 @@
+1	the	_	DT	DT	_	2	det	_	_
+2	team	_	NN	NN	_	9	nsubj	_	_
+3	at	_	IN	IN	_	6	case	_	_
+4	barton	_	NNP	NNP	_	6	compound	_	_
+5	car	_	NNP	NNP	_	6	compound	_	_
+6	wash	_	NNP	NNP	_	2	nmod	_	_
+7	was	_	VBD	VBD	_	9	cop	_	_
+8	very	_	RB	RB	_	9	advmod	_	_
+9	friendly	_	JJ	JJ	_	0	root	_	_
+10	.	_	.	.	_	9	punct	_	_
+
+1	and	_	CC	CC	_	2	cc	_	_
+2	did	_	VBD	VBD	_	0	root	_	_
+3	great	_	JJ	JJ	_	4	amod	_	_
+4	job	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	i	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	pleased	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	7	case	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	service	_	NN	NN	_	4	nmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+

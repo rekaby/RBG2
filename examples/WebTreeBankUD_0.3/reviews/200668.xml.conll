@@ -1,0 +1,22 @@
+1	kudos	_	NNS	NNS	_	0	root	_	_
+2	to	_	IN	IN	_	6	case	_	_
+3	Allentown	_	NNP	NNP	_	5	compound	_	_
+4	Post	_	NNP	NNP	_	5	compound	_	_
+5	Office	_	NNP	NNP	_	6	compound	_	_
+6	staff	_	NNS	NNS	_	1	nmod	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NNS	NNS	_	6	nsubj	_	_
+3	in	_	IN	IN	_	4	case	_	_
+4	Allentown	_	NNP	NNP	_	2	nmod	_	_
+5	are	_	VBP	VBP	_	6	cop	_	_
+6	friendly	_	JJ	JJ	_	0	root	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	helpful	_	JJ	JJ	_	6	conj	_	_
+9	and	_	CC	CC	_	6	cc	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	delight	_	NN	NN	_	6	conj	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	know	_	VB	VB	_	11	nfincl	_	_
+14	..	_	.	.	_	6	punct	_	_
+

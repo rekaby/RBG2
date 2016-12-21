@@ -1,0 +1,27 @@
+1	$	_	$	$	_	0	root	_	_
+2	9.62	_	CD	CD	_	1	nummod	_	_
+3	excluding	_	VBG	VBG	_	4	case	_	_
+4	tip	_	NN	NN	_	1	nmod	_	_
+5	with	_	IN	IN	_	6	case	_	_
+6	water	_	NN	NN	_	1	nmod	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	drink	_	VB	VB	_	6	nfincl	_	_
+9	for	_	IN	IN	_	11	case	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	buffet	_	NN	NN	_	1	nmod	_	_
+12	.	_	.	.	_	1	punct	_	_
+
+1	Worst	_	JJS	JJS	_	3	amod	_	_
+2	buffet	_	NN	NN	_	3	compound	_	_
+3	period	_	NN	NN	_	0	root	_	_
+4	by	_	IN	IN	_	5	case	_	_
+5	far	_	RB	RB	_	3	nmod	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	want	_	VBP	VBP	_	0	root	_	_
+3	my	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	money	_	NN	NN	_	2	dobj	_	_
+5	back	_	RB	RB	_	2	advmod	_	_
+6	!	_	.	.	_	2	punct	_	_
+

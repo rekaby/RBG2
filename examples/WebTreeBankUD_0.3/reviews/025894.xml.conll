@@ -1,0 +1,61 @@
+1	Average	_	JJ	JJ	_	2	amod	_	_
+2	food	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	deathly	_	RB	RB	_	5	advmod	_	_
+5	slow	_	JJ	JJ	_	6	amod	_	_
+6	service	_	NN	NN	_	2	conj	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	eaten	_	VBN	VBN	_	0	root	_	_
+4	here	_	RB	RB	_	3	advmod	_	_
+5	several	_	JJ	JJ	_	6	amod	_	_
+6	times	_	NNS	NNS	_	3	tmod	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	every	_	DT	DT	_	9	det	_	_
+9	time	_	NN	NN	_	13	tmod	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	service	_	NN	NN	_	13	nsubj	_	_
+12	is	_	VBZ	VBZ	_	13	cop	_	_
+13	slower	_	JJR	JJR	_	3	conj	_	_
+14	than	_	IN	IN	_	15	case	_	_
+15	slow	_	JJ	JJ	_	13	nmod	_	_
+16	.	_	.	.	_	3	punct	_	_
+
+1	One	_	CD	CD	_	2	nummod	_	_
+2	time	_	NN	NN	_	5	tmod	_	_
+3	we	_	PRP	PRP	_	5	nsubj	_	_
+4	even	_	RB	RB	_	5	advmod	_	_
+5	left	_	VBD	VBD	_	0	root	_	_
+6	after	_	IN	IN	_	7	mark	_	_
+7	sitting	_	VBG	VBG	_	5	nfincl	_	_
+8	at	_	IN	IN	_	10	case	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	table	_	NN	NN	_	7	nmod	_	_
+11	for	_	IN	IN	_	13	case	_	_
+12	20	_	CD	CD	_	13	nummod	_	_
+13	minutes	_	NNS	NNS	_	7	nmod	_	_
+14	and	_	CC	CC	_	7	cc	_	_
+15	not	_	RB	RB	_	17	neg	_	_
+16	being	_	VBG	VBG	_	17	auxpass	_	_
+17	greeted	_	VBN	VBN	_	7	conj	_	_
+18	with	_	IN	IN	_	21	case	_	_
+19	a	_	DT	DT	_	21	det	_	_
+20	drink	_	NN	NN	_	21	compound	_	_
+21	order	_	NN	NN	_	17	nmod	_	_
+22	.	_	.	.	_	5	punct	_	_
+
+1	Ridiculous	_	JJ	JJ	_	0	root	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	There	_	EX	EX	_	7	expl	_	_
+2	must	_	MD	MD	_	7	aux	_	_
+3	be	_	VB	VB	_	7	cop	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	better	_	JJR	JJR	_	7	amod	_	_
+6	mexican	_	JJ	JJ	_	7	amod	_	_
+7	place	_	NN	NN	_	0	root	_	_
+8	in	_	IN	IN	_	9	case	_	_
+9	Rockland	_	NNP	NNP	_	7	nmod	_	_
+10	.	_	.	.	_	7	punct	_	_
+

@@ -1,0 +1,19 @@
+1	great	_	JJ	JJ	_	2	amod	_	_
+2	garage	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	customer	_	NN	NN	_	5	compound	_	_
+5	service	_	NN	NN	_	2	conj	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	great	_	JJ	JJ	_	2	amod	_	_
+2	knowledge	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	prices	_	NNS	NNS	_	2	conj	_	_
+5	compared	_	VBN	VBN	_	7	case	_	_
+6	to	EXTRA!	IN	IN	_	7	case	_	_
+7	anyone	_	NN	NN	_	2	nmod	_	_
+8	in	_	IN	IN	_	10	case	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	industry	_	NN	NN	_	7	nmod	_	_
+11	.	_	.	.	_	2	punct	_	_
+

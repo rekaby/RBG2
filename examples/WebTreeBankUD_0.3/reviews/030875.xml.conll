@@ -1,0 +1,37 @@
+1	Slice	_	NNP	NNP	_	2	compound	_	_
+2	Pizza	_	NNP	NNP	_	0	root	_	_
+3	at	_	IN	IN	_	7	case	_	_
+4	former	_	JJ	JJ	_	7	amod	_	_
+5	Britt	_	NNP	NNP	_	7	nmod:poss	_	_
+6	's	_	POS	POS	_	5	case	_	_
+7	Location	_	NN	NN	_	2	nmod	_	_
+
+1	Britt	_	NNP	NNP	_	3	nmod:poss	_	_
+2	's	_	POS	POS	_	1	case	_	_
+3	Pizza	_	NNP	NNP	_	6	nsubj	_	_
+4	is	_	VBZ	VBZ	_	6	cop	_	_
+5	long	_	RB	RB	_	6	advmod	_	_
+6	gone	_	JJ	JJ	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	Their	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	location	_	NN	NN	_	16	nsubj	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	northwest	_	NN	NN	_	6	compound	_	_
+6	corner	_	NN	NN	_	2	appos	_	_
+7	of	_	IN	IN	_	12	case	_	_
+8	S.	_	NNP	NNP	_	9	compound	_	_
+9	10th	_	NNP	NNP	_	12	compound	_	_
+10	&	_	CC	CC	_	9	cc	_	_
+11	Federal	_	NNP	NNP	_	9	conj	_	_
+12	Sts.	_	NNPS	NNPS	_	6	nmod	_	_
+13	,	_	,	,	_	16	punct	_	_
+14	is	_	VBZ	VBZ	_	16	cop	_	_
+15	now	_	RB	RB	_	16	advmod	_	_
+16	home	_	NN	NN	_	0	root	_	_
+17	to	_	IN	IN	_	19	case	_	_
+18	Slice	_	NNP	NNP	_	19	compound	_	_
+19	Pizza	_	NNP	NNP	_	16	nmod	_	_
+20	.	_	.	.	_	16	punct	_	_
+

@@ -1,0 +1,45 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	Service	_	NN	NN	_	0	root	_	_
+
+1	Dr	_	NNP	NNP	_	2	compound	_	_
+2	Mcdonald	_	NNP	NNP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	wonderful	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	answers	_	VBZ	VBZ	_	0	root	_	_
+3	all	_	DT	DT	_	4	det	_	_
+4	questions	_	NNS	NNS	_	2	dobj	_	_
+5	asked	_	VBN	VBN	_	4	nfincl	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	provides	_	VBZ	VBZ	_	2	conj	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	best	_	JJS	JJS	_	10	amod	_	_
+10	service	_	NN	NN	_	7	dobj	_	_
+11	i	_	PRP	PRP	_	14	nsubj	_	_
+12	have	_	VBP	VBP	_	14	aux	_	_
+13	ever	_	RB	RB	_	14	advmod	_	_
+14	seen	_	VBN	VBN	_	10	relcl	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	new	_	JJ	JJ	_	5	amod	_	_
+5	born	_	JJ	JJ	_	6	amod	_	_
+6	daughter	_	NN	NN	_	2	dobj	_	_
+7	and	_	CC	CC	_	2	cc	_	_
+8	she	_	PRP	PRP	_	9	nsubj	_	_
+9	helped	_	VBD	VBD	_	2	conj	_	_
+10	me	_	PRP	PRP	_	9	dobj	_	_
+11	with	_	IN	IN	_	13	case	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	lot	_	NN	NN	_	9	nmod	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	Job	_	NN	NN	_	0	root	_	_
+3	DR	_	NNP	NNP	_	2	vocative	_	_
+4	.	_	.	.	_	2	punct	_	_
+

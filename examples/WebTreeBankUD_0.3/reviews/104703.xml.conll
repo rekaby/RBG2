@@ -1,0 +1,23 @@
+1	best	_	JJS	JJS	_	0	root	_	_
+
+1	Best	_	JJS	JJS	_	3	amod	_	_
+2	pedi	_	NN	NN	_	3	compound	_	_
+3	mani	_	NN	NN	_	0	root	_	_
+4	I	_	PRP	PRP	_	7	nsubj	_	_
+5	ve	_	VBP	VBP	_	7	aux	_	_
+6	ever	_	RB	RB	_	7	advmod	_	_
+7	had	_	VBN	VBN	_	3	relcl	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	Darla	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	amazing	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	I	_	PRP	PRP	_	7	nsubj	_	_
+6	would	_	MD	MD	_	7	aux	_	_
+7	recoment	_	VB	VB	_	3	parataxis	_	_
+8	her	_	PRP	PRP	_	7	dobj	_	_
+9	to	_	IN	IN	_	10	case	_	_
+10	anyone	_	NN	NN	_	7	nmod	_	_
+11	.	_	.	.	_	3	punct	_	_
+

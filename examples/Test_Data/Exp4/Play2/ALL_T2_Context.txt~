@@ -1,0 +1,441 @@
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+
+officers	$Agent$	crowned
+Japanese	$Theme$	crowned
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+
+trainer	$Agent$	shows
+craftsman	$Theme$	shows
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+
+Japanese	$Theme$	smeared
+cameraman	$Agent$	smeared
+
+Japanese	$Theme$	crowned
+officers	$Agent$	crowned
+
+cameraman	$Theme$	smeared
+Japanese	$Agent$	smeared
+
+officers	$Theme$	crowned
+Japanese	$Agent$	crowned
+
+user	$Theme$	costumed
+referee	$Agent$	costumed
+
+user	$Theme$	remunerated
+Chinese	$Agent$	remunerated
+
+referee	$Theme$	costumed
+user	$Agent$	costumed
+
+Chinese	$Theme$	remunerated
+user	$Agent$	remunerated
+
+businesswoman	$Theme$	girded
+plumber	$Agent$	girded
+
+businesswoman	$Theme$	fed
+beekeepers	$Agent$	fed
+
+plumber	$Theme$	girded
+businesswoman	$Agent$	girded
+
+beekeepers	$Theme$	fed
+businesswoman	$Agent$	fed
+
+beauty	$Theme$	masked
+skier	$Agent$	masked
+
+beauty	$Theme$	rewarded
+prince	$Agent$	rewarded
+
+skier	$Theme$	masked
+beauty	$Agent$	masked
+
+prince	$Theme$	rewarded
+beauty	$Agent$	rewarded
+
+instructor	$Theme$	cautioned
+astronaut	$Agent$	cautioned
+
+trainer	$Theme$	shown
+craftsman	$Agent$	shown
+
+astronaut	$Theme$	cautioned
+instructor	$Agent$	cautioned
+
+craftsman	$Theme$	shown
+trainer	$Agent$	shown
+
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+Japanese	$own$	with kimono
+with cream	$Instrument$	cameraman
+
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+Japanese	$own$	with kimono
+cameraman	$own$	with yellow hair
+
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+Japanese	$own$	with kimono
+cameraman	$own$	with yellow hair
+with cream	$Instrument$	smeared
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+Japanese	$own$	with kimono
+officer	$own$	with a gun
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+officer	$own$	with a gun
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+cameraman	$own$	with yellow hair
+with cream	$Instrument$	smeared
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+cameraman	$own$	with yellow hair
+Japanese	$own$	with kimono
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+cameraman	$own$	with yellow hair
+Japanese	$own$	with kimono
+with cream	$Instrument$	smeared
+
+officer	$Agent$	crowned
+Japanese	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+
+officer	$Agent$	crowned
+Japanese	$Theme$	crowned
+Japanese	$own$	with kimono
+officer	$own$	with a gun
+
+
+officer	$Agent$	crowned
+Japanese	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+officer	$own$	with a gun
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+user	$own$	with pullover
+with a cone	$Instrument$	costumed
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+user	$own$	with pullover
+referee	$own$	with a uniform
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+user	$own$	with pullover
+with a cone	$Instrument$	costumed
+referee	$own$	with a uniform
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+user	$own$	with pullover
+with food	$Instrument$	remunerated
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+user	$own$	with pullover
+Chinese	$own$	with traditional dress
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+user	$own$	with pullover
+Chinese	$own$	with traditional dress
+with food	$Instrument$	remunerated
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+referee	$own$	with a uniform
+with a cone	$Instrument$	costumed
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+referee	$own$	with a uniform
+user	$own$	with pullover
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+referee	$own$	with a uniform
+with a cone	$Instrument$	costumed
+user	$own$	with pullover
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+Chinese	$own$	with traditional dress
+with food	$Instrument$	remunerated
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+Chinese	$own$	with traditional dress
+user	$own$	with pullover
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+Chinese	$own$	with traditional dress
+with food	$Instrument$	remunerated
+user	$own$	with pullover
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+businesswoman	$own$	with formal dress
+with a belt	$Instrument$	girded
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+businesswoman	$own$	with formal dress
+plumber	$own$	with a uniform
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+businesswoman	$own$	with formal dress
+plumber	$own$	with a uniform
+with a belt	$Instrument$	girded
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+businesswoman	$own$	with formal dress
+with a chicken	$Instrument$	feeds
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+businesswoman	$own$	with formal dress
+beekeepers	$own$	with a beekeeper hat
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+businesswoman	$own$	with formal dress
+beekeepers	$own$	with a beekeeper hat
+with a chicken	$Instrument$	feeds
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+plumber	$own$	with a uniform
+with a belt	$Instrument$	girded
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+plumber	$own$	with a uniform
+businesswoman	$own$	with formal dress
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+plumber	$own$	with a uniform
+with a belt	$Instrument$	girded
+businesswoman	$own$	with formal dress
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+beekeepers	$own$	with a beekeeper hat
+with a meal	$Instrument$	feeds
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+beekeepers	$own$	with a beekeeper hat
+businesswoman	$own$	with formal dress
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+beekeepers	$own$	with a beekeeper hat
+businesswoman	$own$	with formal dress
+with a meal	$Instrument$	feeds
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+beauty	$own$	with swimming suite
+with a mask	$Instrument$	masked
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+beauty	$own$	with swimming suite
+skier	$own$	with a skateboard
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+beauty	$own$	with swimming suite
+with a mask	$Instrument$	masked
+skier	$own$	with a skateboard
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+beauty	$own$	with swimming suite
+with a gift	$Instrument$	rewards
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+beauty	$own$	with swimming suite
+prince	$own$	with fighting tools
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+beauty	$own$	with swimming suite
+prince	$own$	with fighting tools
+with a gift	$Instrument$	rewards
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+skier	$own$	with a skateboard
+with a mask	$Instrument$	masked
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+skier	$own$	with a skateboard
+beauty	$own$	with a swimming suite
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+skier	$own$	with a skateboard
+with a mask	$Instrument$	masked
+beauty	$own$	with a swimming suite
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+prince	$own$	with fighting tools
+with a gift	$Instrument$	rewards
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+prince	$own$	with fighting tools
+beauty	$own$	with a swimming suite
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+prince	$own$	with fighting tools
+beauty	$own$	with a swimming suite
+with a gift	$Instrument$	rewards
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+instructor	$own$	with short hair
+with a red card	$Instrument$	cautioned
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+instructor	$own$	with short hair
+astronaut	$own$	with a space suit
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+instructor	$own$	with short hair
+astronaut	$own$	with a space suit
+with a red card	$Instrument$	cautioned
+
+trainer	$Agent$	shows
+craftsmen	$Theme$	shows
+trainer	$own$	with short hair
+cooking	$Theme$	shows
+
+trainer	$Agent$	shows
+craftsmen	$Theme$	shows
+trainer	$own$	with short hair
+craftsman	$own$	with a blue uniform
+
+trainer	$Agent$	shows
+craftsmen	$Theme$	shows
+trainer	$own$	with short hair
+craftsman	$own$	with a blue uniform
+cooking	$Theme$	shows
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+astronaut	$own$	with a space suit
+with a red card	$Instrument$	cautioned
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+astronaut	$own$	with a space suit
+instructor	$own$	with short hair
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+astronaut	$own$	with a space suit
+with a red card	$Instrument$	cautioned
+instructor	$own$	with short hair
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+craftsman	$own$	with a blue uniform
+cooking	$Theme$	shows
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+craftsman	$own$	with a blue uniform
+trainer	$own$	with short hair
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+craftsman	$own$	with a blue uniform
+cooking	$Theme$	shows
+trainer	$own$	with short hair
+

@@ -1,0 +1,730 @@
+1	"	_	``	``	_	4	punct	_	_
+2	McGilloway	_	NNP	NNP	_	4	compound	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	Vangie	_	NNP	NNP	_	0	root	_	_
+5	"	_	''	''	_	4	punct	_	_
+6	<	_	-LRB-	-LRB-	_	7	punct	_	_
+7	Vangie.McGilloway@powersrc.com	_	ADD	ADD	_	4	list	_	_
+8	>	_	-RRB-	-RRB-	_	7	punct	_	_
+
+1	03/23/2001	_	CD	CD	_	0	root	_	_
+2	10:13	_	CD	CD	_	3	nummod	_	_
+3	AM	_	NN	NN	_	1	tmod	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	Morning	_	NN	NN	_	0	root	_	_
+3	Debra	_	NNP	NNP	_	2	vocative	_	_
+4	-	_	,	,	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	attached	_	VBN	VBN	_	0	root	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	revised	_	VBN	VBN	_	6	amod	_	_
+6	copy	_	NN	NN	_	3	dobj	_	_
+7	of	_	IN	IN	_	10	case	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	GISB	_	NN	NN	_	10	compound	_	_
+10	Agreement	_	NN	NN	_	6	nmod	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	Special	_	JJ	JJ	_	13	amod	_	_
+13	Provisions	_	NNS	NNS	_	10	conj	_	_
+14	for	_	IN	IN	_	16	case	_	_
+15	your	_	PRP$	PRP$	_	16	nmod:poss	_	_
+16	review	_	NN	NN	_	3	nmod	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	consideration	_	NN	NN	_	16	conj	_	_
+19	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	anticipate	_	VBP	VBP	_	0	root	_	_
+3	completing	_	VBG	VBG	_	2	xcomp	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	review	_	NN	NN	_	3	dobj	_	_
+6	of	_	IN	IN	_	10	case	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	Master	_	NN	NN	_	9	compound	_	_
+9	Agreement	_	NN	NN	_	10	compound	_	_
+10	form	_	NN	NN	_	5	nmod	_	_
+11	and	_	CC	CC	_	3	cc	_	_
+12	submitting	_	VBG	VBG	_	3	conj	_	_
+13	comments	_	NNS	NNS	_	12	dobj	_	_
+14	to	_	IN	IN	_	15	case	_	_
+15	you	_	PRP	PRP	_	12	nmod	_	_
+16	by	_	IN	IN	_	17	case	_	_
+17	Monday	_	NNP	NNP	_	12	nmod	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	In	_	IN	IN	_	2	case	_	_
+2	addition	_	NN	NN	_	5	nmod	_	_
+3	,	_	,	,	_	5	punct	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	received	_	VBD	VBD	_	0	root	_	_
+6	feedback	_	NN	NN	_	5	dobj	_	_
+7	from	_	IN	IN	_	10	case	_	_
+8	our	_	PRP$	PRP$	_	10	nmod:poss	_	_
+9	Gas	_	NN	NN	_	10	compound	_	_
+10	Desk	_	NN	NN	_	5	nmod	_	_
+11	that	_	IN	IN	_	24	mark	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	access	_	NN	NN	_	24	nsubjpass	_	_
+14	to	_	IN	IN	_	17	case	_	_
+15	the	_	DT	DT	_	17	det	_	_
+16	Gas	_	NN	NN	_	17	compound	_	_
+17	segment	_	NN	NN	_	13	nmod	_	_
+18	of	_	IN	IN	_	19	case	_	_
+19	Enron	_	NNP	NNP	_	17	nmod	_	_
+20	On	_	IN	IN	_	22	case	_	_
+21	-	_	HYPH	HYPH	_	22	punct	_	_
+22	Line	_	NNP	NNP	_	19	nmod	_	_
+23	was	_	VBD	VBD	_	24	auxpass	_	_
+24	cut	_	VBN	VBN	_	5	parataxis	_	_
+25	off	_	RP	RP	_	24	prt	_	_
+26	to	_	IN	IN	_	27	case	_	_
+27	CPS	_	NN	NN	_	24	nmod	_	_
+28	---	_	,	,	_	5	punct	_	_
+29	do	_	VBP	VBP	_	31	aux	_	_
+30	you	_	PRP	PRP	_	31	nsubj	_	_
+31	know	_	VB	VB	_	5	parataxis	_	_
+32	who	_	WP	WP	_	34	nsubj	_	_
+33	would	_	MD	MD	_	34	aux	_	_
+34	handle	_	VB	VB	_	31	ccomp	_	_
+35	this	_	DT	DT	_	34	dobj	_	_
+36	at	_	IN	IN	_	37	case	_	_
+37	Enron	_	NNP	NNP	_	34	nmod	_	_
+38	that	_	WDT	WDT	_	41	nmod	_	_
+39	we	_	PRP	PRP	_	41	nsubj	_	_
+40	can	_	MD	MD	_	41	aux	_	_
+41	speak	_	VB	VB	_	34	relcl	_	_
+42	to	_	IN	IN	_	38	case	_	_
+43	?	_	.	.	_	5	punct	_	_
+
+1	Greatly	_	RB	RB	_	2	advmod	_	_
+2	appreciate	_	VBP	VBP	_	0	root	_	_
+3	your	_	PRP$	PRP$	_	5	nmod:poss	_	_
+4	prompt	_	JJ	JJ	_	5	amod	_	_
+5	feedback	_	NN	NN	_	2	dobj	_	_
+6	to	_	IN	IN	_	8	case	_	_
+7	this	_	DT	DT	_	8	det	_	_
+8	inquiry	_	NN	NN	_	5	nmod	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	look	_	VBP	VBP	_	0	root	_	_
+3	forward	_	RB	RB	_	2	advmod	_	_
+4	to	_	IN	IN	_	6	case	_	_
+5	your	_	PRP$	PRP$	_	6	nmod:poss	_	_
+6	feedback	_	NN	NN	_	2	nmod	_	_
+7	on	_	IN	IN	_	9	case	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	GISB	_	NN	NN	_	6	nmod	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	Regards	_	NNS	NNS	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Vangie	_	NNP	NNP	_	2	compound	_	_
+2	McGilloway	_	NNP	NNP	_	0	root	_	_
+3	Constellation	_	NNP	NNP	_	7	compound	_	_
+4	Power	_	NNP	NNP	_	7	compound	_	_
+5	Source	_	NNP	NNP	_	7	compound	_	_
+6	,	_	,	,	_	7	punct	_	_
+7	Inc.	_	NNP	NNP	_	2	list	_	_
+8	-LRB-	_	-LRB-	-LRB-	_	10	punct	_	_
+9	"	_	``	``	_	10	punct	_	_
+10	CPS	_	NNP	NNP	_	7	appos	_	_
+11	"	_	''	''	_	10	punct	_	_
+12	-RRB-	_	-RRB-	-RRB-	_	10	punct	_	_
+13	111	_	CD	CD	_	15	nummod	_	_
+14	Market	_	NNP	NNP	_	15	compound	_	_
+15	Place	_	NNP	NNP	_	2	list	_	_
+16	Ste	_	NN	NN	_	2	dep	_	_
+17	500	_	CD	CD	_	16	nummod	_	_
+18	Baltimore	_	NNP	NNP	_	16	appos	_	_
+19	,	_	,	,	_	18	punct	_	_
+20	MD	_	NNP	NNP	_	18	appos	_	_
+21	21202	_	CD	CD	_	16	appos	_	_
+22	Phone	_	NN	NN	_	2	list	_	_
+23	410-468-3798	_	CD	CD	_	22	appos	_	_
+24	Fax	_	NN	NN	_	2	list	_	_
+25	410-468-3499	_	CD	CD	_	24	appos	_	_
+26	Email	_	NN	NN	_	2	list	_	_
+27	vangie.mcgilloway@powersrc.com	_	ADD	ADD	_	26	appos	_	_
+
+1	PS	_	NN	NN	_	0	root	_	_
+2	-	_	,	,	_	1	punct	_	_
+3	Were	_	VBD	VBD	_	5	aux	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	having	_	VBG	VBG	_	1	dep	_	_
+6	phone	_	NN	NN	_	7	compound	_	_
+7	system	_	NN	NN	_	8	compound	_	_
+8	problems	_	NNS	NNS	_	5	dobj	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	morning	_	NN	NN	_	5	tmod	_	_
+11	?	_	.	.	_	1	punct	_	_
+
+1	Myself	_	PRP	PRP	_	5	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Credit	_	NN	NN	_	1	conj	_	_
+4	were	_	VBD	VBD	_	5	aux	_	_
+5	calling	_	VBG	VBG	_	0	root	_	_
+6	in	_	RB	RB	_	5	advmod	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	none	_	NN	NN	_	12	nsubj	_	_
+9	of	_	IN	IN	_	11	case	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	calls	_	NNS	NNS	_	8	nmod	_	_
+12	rolled	_	VBD	VBD	_	5	conj	_	_
+13	into	_	IN	IN	_	15	case	_	_
+14	voice	_	NN	NN	_	15	compound	_	_
+15	mail	_	NN	NN	_	12	nmod	_	_
+16	-LRB-	_	-LRB-	-LRB-	_	5	punct	_	_
+17	?	_	.	.	_	5	punct	_	_
+18	-RRB-	_	-RRB-	-RRB-	_	5	punct	_	_
+19	.	_	.	.	_	5	punct	_	_
+
+1	Further	_	RB	RB	_	7	advmod	_	_
+2	to	_	IN	IN	_	4	case	_	_
+3	our	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	conversation	_	NN	NN	_	1	nmod	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	please	_	UH	UH	_	7	discourse	_	_
+7	see	_	VB	VB	_	0	root	_	_
+8	attached	_	VBN	VBN	_	10	amod	_	_
+9	sample	_	NN	NN	_	10	compound	_	_
+10	agreements	_	NNS	NNS	_	7	dobj	_	_
+11	.	_	.	.	_	7	punct	_	_
+
+1	Upon	_	IN	IN	_	3	case	_	_
+2	your	_	PRP$	PRP$	_	3	nmod:poss	_	_
+3	review	_	NN	NN	_	6	nmod	_	_
+4	,	_	,	,	_	6	punct	_	_
+5	please	_	UH	UH	_	6	discourse	_	_
+6	give	_	VB	VB	_	0	root	_	_
+7	me	_	PRP	PRP	_	6	iobj	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	call	_	NN	NN	_	6	dobj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	discuss	_	VB	VB	_	6	xcomp	_	_
+12	any	_	DT	DT	_	13	det	_	_
+13	questionsand	_	NNS	NNS	_	11	dobj	_	_
+14	or	_	CC	CC	_	13	cc	_	_
+15	issues	_	NNS	NNS	_	13	conj	_	_
+16	you	_	PRP	PRP	_	18	nsubj	_	_
+17	may	_	MD	MD	_	18	aux	_	_
+18	have	_	VB	VB	_	13	relcl	_	_
+19	regarding	_	VBG	VBG	_	21	case	_	_
+20	this	_	DT	DT	_	21	det	_	_
+21	matter	_	NN	NN	_	13	nmod	_	_
+22	.	_	.	.	_	6	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	2	punct	_	_
+2	See	_	VB	VB	_	0	root	_	_
+3	attached	_	JJ	JJ	_	4	amod	_	_
+4	file	_	NN	NN	_	2	dobj	_	_
+5	:	_	:	:	_	4	punct	_	_
+6	Constellation	_	GW	GW	_	12	goeswith	_	_
+7	Power	_	GW	GW	_	12	goeswith	_	_
+8	-LRB-	_	GW	GW	_	12	goeswith	_	_
+9	GISB	_	GW	GW	_	12	goeswith	_	_
+10	draft	_	GW	GW	_	12	goeswith	_	_
+11	-RRB-	_	GW	GW	_	12	goeswith	_	_
+12	.doc	_	NN	NN	_	4	appos	_	_
+13	-RRB-	_	-RRB-	-RRB-	_	2	punct	_	_
+14	-LRB-	_	-LRB-	-LRB-	_	15	punct	_	_
+15	See	_	VB	VB	_	2	parataxis	_	_
+16	attached	_	VBN	VBN	_	17	amod	_	_
+17	file	_	NN	NN	_	15	dobj	_	_
+18	:	_	:	:	_	17	punct	_	_
+19	Sam3102.doc	_	NN	NN	_	17	appos	_	_
+20	-RRB-	_	-RRB-	-RRB-	_	15	punct	_	_
+
+1	Regards	_	NNS	NNS	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	-	_	NFP	NFP	_	7	punct	_	_
+2	ENRON-CPS	_	GW	GW	_	7	goeswith	_	_
+3	-LRB-	_	GW	GW	_	7	goeswith	_	_
+4	GISB	_	GW	GW	_	7	goeswith	_	_
+5	rev1	_	GW	GW	_	7	goeswith	_	_
+6	-RRB-	_	GW	GW	_	7	goeswith	_	_
+7	.doc	_	NN	NN	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	sent	_	VBN	VBN	_	0	root	_	_
+4	your	_	PRP$	PRP$	_	5	nmod:poss	_	_
+5	question	_	NN	NN	_	3	dobj	_	_
+6	re	_	IN	IN	_	9	case	_	_
+7	on	_	IN	IN	_	8	case	_	_
+8	line	_	NN	NN	_	9	compound	_	_
+9	trading	_	NN	NN	_	5	nmod	_	_
+10	to	_	IN	IN	_	12	case	_	_
+11	that	_	DT	DT	_	12	det	_	_
+12	area	_	NN	NN	_	3	nmod	_	_
+13	.	_	.	.	_	3	punct	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	contact	_	VB	VB	_	0	root	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	am	_	VBP	VBP	_	5	cop	_	_
+3	in	_	IN	IN	_	5	case	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	process	_	NN	NN	_	0	root	_	_
+6	of	_	IN	IN	_	7	mark	_	_
+7	reviewing	_	VBG	VBG	_	5	nfincl	_	_
+8	your	_	PRP$	PRP$	_	10	nmod:poss	_	_
+9	special	_	JJ	JJ	_	10	amod	_	_
+10	provisions	_	NNS	NNS	_	7	dobj	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	Best	_	JJS	JJS	_	2	amod	_	_
+2	regards	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Jackie	_	NNP	NNP	_	2	compound	_	_
+2	Taylor	_	NNP	NNP	_	0	root	_	_
+3	-	_	,	,	_	2	punct	_	_
+4	she	_	PRP	PRP	_	6	nsubjpass	_	_
+5	is	_	VBZ	VBZ	_	6	auxpass	_	_
+6	located	_	VBN	VBN	_	2	parataxis	_	_
+7	at	_	IN	IN	_	10	case	_	_
+8	Court	_	NNP	NNP	_	9	compound	_	_
+9	House	_	NNP	NNP	_	10	compound	_	_
+10	Concessionaire	_	NNP	NNP	_	6	nmod	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	under	_	IN	IN	_	14	case	_	_
+13	her	_	PRP$	PRP$	_	14	nmod:poss	_	_
+14	name	_	NN	NN	_	7	conj	_	_
+15	in	EXTRA!	IN	IN	_	17	case	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	directory	_	NN	NN	_	14	nmod	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	clarify	_	VB	VB	_	0	root	_	_
+3	"	_	``	``	_	4	punct	_	_
+4	all	_	NN	NN	_	2	dobj	_	_
+5	"	_	''	''	_	4	punct	_	_
+6	do	_	VBP	VBP	_	8	aux	_	_
+7	you	_	PRP	PRP	_	8	nsubj	_	_
+8	intend	_	VB	VB	_	2	parataxis	_	_
+9	10MM	_	NN	NN	_	8	dobj	_	_
+10	for	_	IN	IN	_	11	case	_	_
+11	ENA	_	NNP	NNP	_	8	nmod	_	_
+12	as	_	RB	RB	_	8	advmod	_	_
+13	well	_	RB	RB	_	12	mwe	_	_
+14	?	_	.	.	_	2	punct	_	_
+
+1	Thx	_	NN	NN	_	0	root	_	_
+
+1	dp	_	NNP	NNP	_	0	root	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Revised	_	VBN	VBN	_	2	amod	_	_
+2	Article	_	NN	NN	_	0	root	_	_
+3	4.6	_	CD	CD	_	2	nummod	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	only	_	JJ	JJ	_	3	amod	_	_
+3	agreement	_	NN	NN	_	11	nsubj	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	can	_	MD	MD	_	6	aux	_	_
+6	find	_	VB	VB	_	3	relcl	_	_
+7	is	_	VBZ	VBZ	_	11	cop	_	_
+8	a	_	DT	DT	_	11	det	_	_
+9	Master	_	NN	NN	_	10	compound	_	_
+10	Sale	_	NN	NN	_	11	compound	_	_
+11	Spot	_	NN	NN	_	0	root	_	_
+12	w	_	IN	IN	_	14	case	_	_
+13	/	_	,	,	_	14	punct	_	_
+14	City	_	NN	NN	_	11	nmod	_	_
+15	of	_	IN	IN	_	16	case	_	_
+16	Springfield	_	NNP	NNP	_	14	nmod	_	_
+17	.	_	.	.	_	11	punct	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	let	_	VB	VB	_	0	root	_	_
+3	me	_	PRP	PRP	_	4	nsubj	_	_
+4	know	_	VB	VB	_	2	ccomp	_	_
+5	if	_	IN	IN	_	7	mark	_	_
+6	you	_	PRP	PRP	_	7	nsubj	_	_
+7	need	_	VBP	VBP	_	4	advcl	_	_
+8	anything	_	NN	NN	_	7	dobj	_	_
+9	else	_	JJ	JJ	_	8	amod	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	dp	_	NNP	NNP	_	0	root	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Tammi	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Attached	_	VBN	VBN	_	0	root	_	_
+2	is	_	VBZ	VBZ	_	1	auxpass	_	_
+3	an	_	DT	DT	_	4	det	_	_
+4	image	_	NN	NN	_	1	nsubjpass	_	_
+5	of	_	IN	IN	_	7	case	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	GISB	_	NN	NN	_	4	nmod	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	As	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	see	_	VBP	VBP	_	6	advcl	_	_
+4	it	_	PRP	PRP	_	6	nsubj	_	_
+5	was	_	VBD	VBD	_	6	cop	_	_
+6	CES	_	NN	NN	_	0	root	_	_
+7	acquired	_	VBN	VBN	_	6	nfincl	_	_
+8	by	_	IN	IN	_	9	case	_	_
+9	ENA	_	NNP	NNP	_	7	nmod	_	_
+10	in	_	IN	IN	_	12	case	_	_
+11	asset	_	NN	NN	_	12	compound	_	_
+12	purchase	_	NN	NN	_	7	nmod	_	_
+13	.	_	.	.	_	6	punct	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	let	_	VB	VB	_	0	root	_	_
+3	me	_	PRP	PRP	_	4	nsubj	_	_
+4	know	_	VB	VB	_	2	ccomp	_	_
+5	how	_	WRB	WRB	_	8	advmod	_	_
+6	you	_	PRP	PRP	_	8	nsubj	_	_
+7	would	_	MD	MD	_	8	aux	_	_
+8	like	_	VB	VB	_	4	ccomp	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	proceed	_	VB	VB	_	8	xcomp	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	Best	_	JJS	JJS	_	2	amod	_	_
+2	regards	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Priscilla	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	find	_	VB	VB	_	0	root	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	term	_	NN	NN	_	4	dobj	_	_
+7	"	_	``	``	_	10	punct	_	_
+8	Alternate	_	JJ	JJ	_	10	amod	_	_
+9	Transporter	_	NN	NN	_	10	compound	_	_
+10	Imbalance	_	NN	NN	_	6	appos	_	_
+11	"	_	''	''	_	10	punct	_	_
+12	in	_	IN	IN	_	14	case	_	_
+13	our	_	PRP$	PRP$	_	14	nmod:poss	_	_
+14	agreement	_	NN	NN	_	4	nmod	_	_
+15	..	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	term	_	NN	NN	_	9	nsubjpass	_	_
+3	"	_	``	``	_	6	punct	_	_
+4	Aggregate	_	JJ	JJ	_	6	amod	_	_
+5	Transporter	_	NN	NN	_	6	compound	_	_
+6	Imbalance	_	NN	NN	_	2	appos	_	_
+7	"	_	''	''	_	6	punct	_	_
+8	is	_	VBZ	VBZ	_	9	auxpass	_	_
+9	located	_	VBN	VBN	_	0	root	_	_
+10	in	_	IN	IN	_	12	case	_	_
+11	several	_	JJ	JJ	_	12	amod	_	_
+12	sections	_	NNS	NNS	_	9	nmod	_	_
+13	.	_	.	.	_	9	punct	_	_
+
+1	Could	_	MD	MD	_	3	aux	_	_
+2	this	_	DT	DT	_	3	nsubj	_	_
+3	be	_	VB	VB	_	0	root	_	_
+4	what	_	WP	WP	_	7	dobj	_	_
+5	you	_	PRP	PRP	_	7	nsubj	_	_
+6	r	_	VBP	VBP	_	7	aux	_	_
+7	referencing	_	VBG	VBG	_	3	ccomp	_	_
+8	?	_	.	.	_	3	punct	_	_
+
+1	Regards	_	NNS	NNS	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	See	_	VB	VB	_	0	root	_	_
+2	attached	_	VBN	VBN	_	6	amod	_	_
+3	revised	_	VBN	VBN	_	6	amod	_	_
+4	Article	_	NN	NN	_	6	compound	_	_
+5	4.6	_	CD	CD	_	4	nummod	_	_
+6	Masters	_	NNS	NNS	_	1	dobj	_	_
+7	below	_	RB	RB	_	1	advmod	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	Dp	_	NNP	NNP	_	0	root	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Gerald	_	NNP	NNP	_	2	compound	_	_
+2	Nemec	_	NNP	NNP	_	0	root	_	_
+
+1	These	_	DT	DT	_	2	nsubj	_	_
+2	look	_	VBP	VBP	_	0	root	_	_
+3	fine	_	JJ	JJ	_	2	acomp	_	_
+4	to	_	IN	IN	_	5	case	_	_
+5	me	_	PRP	PRP	_	2	nmod	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Go	_	VB	VB	_	0	root	_	_
+2	ahead	_	RB	RB	_	1	advmod	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	forward	_	VB	VB	_	1	conj	_	_
+5	to	_	IN	IN	_	6	case	_	_
+6	Brant	_	NNP	NNP	_	4	nmod	_	_
+7	if	_	IN	IN	_	10	mark	_	_
+8	you	_	PRP	PRP	_	10	nsubj	_	_
+9	are	_	VBP	VBP	_	10	cop	_	_
+10	ready	_	JJ	JJ	_	4	advcl	_	_
+11	.	_	.	.	_	1	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	03/27/2001	_	CD	CD	_	0	root	_	_
+2	01:58	_	CD	CD	_	3	nummod	_	_
+3	PM	_	NN	NN	_	1	tmod	_	_
+
+1	Revised	_	VBN	VBN	_	2	amod	_	_
+2	Article	_	NN	NN	_	0	root	_	_
+3	4.6	_	CD	CD	_	2	nummod	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Kathleen	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	cop	_	_
+3	correct	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	I	_	PRP	PRP	_	7	nsubj	_	_
+6	will	_	MD	MD	_	7	aux	_	_
+7	make	_	VB	VB	_	3	parataxis	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	appropriate	_	JJ	JJ	_	10	amod	_	_
+10	changes	_	NNS	NNS	_	7	dobj	_	_
+11	and	_	CC	CC	_	7	cc	_	_
+12	give	_	VB	VB	_	7	conj	_	_
+13	you	_	PRP	PRP	_	12	iobj	_	_
+14	another	_	DT	DT	_	15	det	_	_
+15	review	_	NN	NN	_	12	dobj	_	_
+16	before	_	IN	IN	_	17	mark	_	_
+17	sending	_	VBG	VBG	_	12	nfincl	_	_
+18	execution	_	NN	NN	_	19	compound	_	_
+19	papers	_	NNS	NNS	_	17	dobj	_	_
+20	.	_	.	.	_	3	punct	_	_
+
+1	Best	_	JJS	JJS	_	2	amod	_	_
+2	regards	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	4105SF	_	NN	NN	_	0	root	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Jill	_	NNP	NNP	_	0	root	_	_
+2	:	_	:	:	_	1	punct	_	_
+
+1	As	_	IN	IN	_	2	mark	_	_
+2	discussed	_	VBN	VBN	_	4	advcl	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	attached	_	VBN	VBN	_	0	root	_	_
+5	is	_	VBZ	VBZ	_	4	auxpass	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	GISB	_	NN	NN	_	8	compound	_	_
+8	draft	_	NN	NN	_	4	nsubjpass	_	_
+9	for	_	IN	IN	_	10	case	_	_
+10	Pioneer	_	NNP	NNP	_	8	nmod	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	As	_	IN	IN	_	4	mark	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	can	_	MD	MD	_	4	aux	_	_
+4	see	_	VB	VB	_	6	advcl	_	_
+5	there	_	EX	EX	_	6	expl	_	_
+6	are	_	VBP	VBP	_	0	root	_	_
+7	several	_	JJ	JJ	_	8	amod	_	_
+8	blanks	_	NNS	NNS	_	6	nsubj	_	_
+9	concerning	_	VBG	VBG	_	11	case	_	_
+10	administrative	_	JJ	JJ	_	11	amod	_	_
+11	information	_	NN	NN	_	8	nmod	_	_
+12	for	_	IN	IN	_	14	case	_	_
+13	ENA	_	NNP	NNP	_	14	compound	_	_
+14	Upstream	_	NNP	NNP	_	11	nmod	_	_
+15	.	_	.	.	_	6	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	able	_	JJ	JJ	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	secure	_	VB	VB	_	3	xcomp	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	Duns	_	NNP	NNP	_	8	compound	_	_
+8	#	_	NN	NN	_	5	dobj	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	Fed	_	JJ	JJ	_	12	amod	_	_
+11	Tax	_	NN	NN	_	12	compound	_	_
+12	ID	_	NN	NN	_	8	conj	_	_
+13	however	_	RB	RB	_	17	advmod	_	_
+14	,	_	,	,	_	17	punct	_	_
+15	I	_	PRP	PRP	_	17	nsubj	_	_
+16	am	_	VBP	VBP	_	17	aux	_	_
+17	lacking	_	VBG	VBG	_	3	ccomp	_	_
+18	Fax	_	NN	NN	_	22	compound	_	_
+19	and	_	CC	CC	_	18	cc	_	_
+20	bank	_	NN	NN	_	21	compound	_	_
+21	account	_	NN	NN	_	18	conj	_	_
+22	numbers	_	NNS	NNS	_	17	dobj	_	_
+23	.	_	.	.	_	3	punct	_	_
+
+1	Do	_	VBP	VBP	_	3	aux	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	have	_	VB	VB	_	0	root	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	information	_	NN	NN	_	3	dobj	_	_
+6	?	_	.	.	_	3	punct	_	_
+
+1	Dp	_	NNP	NNP	_	0	root	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	Jeffrey	_	NNP	NNP	_	3	compound	_	_
+2	T	_	NNP	NNP	_	3	compound	_	_
+3	Hodge	_	NNP	NNP	_	0	root	_	_
+
+1	03/29/2001	_	CD	CD	_	0	root	_	_
+2	09:01	_	CD	CD	_	3	nummod	_	_
+3	AM	_	NN	NN	_	1	tmod	_	_
+
+1	Rudwell	_	NNP	NNP	_	2	compound	_	_
+2	Johnson	_	NNP	NNP	_	0	root	_	_
+3	/	_	,	,	_	2	punct	_	_
+4	ENRON@enronXgate	_	ADD	ADD	_	2	dep	_	_
+
+1	03/28/2001	_	CD	CD	_	0	root	_	_
+2	05:09	_	CD	CD	_	3	nummod	_	_
+3	PM	_	NN	NN	_	1	tmod	_	_
+
+1	Jeff	_	NNP	NNP	_	0	root	_	_
+2	!	_	.	.	_	1	punct	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	find	_	VB	VB	_	0	root	_	_
+3	attached	_	VBN	VBN	_	2	dep	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	credit	_	NN	NN	_	6	compound	_	_
+6	worksheet	_	NN	NN	_	2	dobj	_	_
+7	for	_	IN	IN	_	11	case	_	_
+8	a	_	DT	DT	_	11	det	_	_
+9	Master	_	NN	NN	_	10	compound	_	_
+10	Firm	_	NN	NN	_	11	compound	_	_
+11	contract	_	NN	NN	_	6	nmod	_	_
+12	for	_	IN	IN	_	16	case	_	_
+13	the	_	DT	DT	_	16	det	_	_
+14	above	_	RB	RB	_	15	advmod	_	_
+15	mentioned	_	VBN	VBN	_	16	amod	_	_
+16	counterparty	_	NN	NN	_	11	nmod	_	_
+17	.	_	.	.	_	2	punct	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	complete	_	VB	VB	_	0	root	_	_
+3	agreement	_	NN	NN	_	2	dobj	_	_
+4	and	_	CC	CC	_	2	cc	_	_
+5	forward	_	VB	VB	_	2	conj	_	_
+6	to	_	IN	IN	_	7	case	_	_
+7	counterparty	_	NN	NN	_	5	nmod	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+
+1	Rudwell	_	NNP	NNP	_	0	root	_	_
+2	53596	_	CD	CD	_	1	dep	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Cindy	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	forward	_	VB	VB	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	copy	_	NN	NN	_	2	dobj	_	_
+5	of	_	IN	IN	_	10	case	_	_
+6	the	_	DT	DT	_	10	det	_	_
+7	J.M.	_	NNP	NNP	_	8	compound	_	_
+8	Huber	_	NNP	NNP	_	9	compound	_	_
+9	Corporation	_	NNP	NNP	_	10	compound	_	_
+10	Guaranty	_	NN	NN	_	4	nmod	_	_
+11	to	_	IN	IN	_	13	case	_	_
+12	my	_	PRP$	PRP$	_	13	nmod:poss	_	_
+13	attention	_	NN	NN	_	2	nmod	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Guaranty	_	NN	NN	_	4	nsubjpass	_	_
+3	is	_	VBZ	VBZ	_	4	auxpass	_	_
+4	dated	_	VBN	VBN	_	0	root	_	_
+5	August	_	NNP	NNP	_	4	xcomp	_	_
+6	1	_	CD	CD	_	5	nummod	_	_
+7	,	_	,	,	_	5	punct	_	_
+8	2000	_	CD	CD	_	5	tmod	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	!!	_	.	.	_	1	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	aux	_	_
+3	taking	_	VBG	VBG	_	0	root	_	_
+4	delivery	_	NN	NN	_	3	dobj	_	_
+5	in	_	IN	IN	_	7	case	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	U.S	_	NNP	NNP	_	3	nmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	Debra	_	NNP	NNP	_	2	compound	_	_
+2	Perlingiere	_	NNP	NNP	_	0	root	_	_
+

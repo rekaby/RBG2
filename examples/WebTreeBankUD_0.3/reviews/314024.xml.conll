@@ -1,0 +1,27 @@
+1	Old	_	JJ	JJ	_	2	amod	_	_
+2	time	_	NN	NN	_	3	compound	_	_
+3	grocery	_	NN	NN	_	0	root	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	best	_	JJS	JJS	_	6	amod	_	_
+6	steaks	_	NNS	NNS	_	3	appos	_	_
+7	I	_	PRP	PRP	_	10	nsubj	_	_
+8	have	_	VBP	VBP	_	10	aux	_	_
+9	ever	_	RB	RB	_	10	advmod	_	_
+10	had	_	VBN	VBN	_	6	relcl	_	_
+11	!	_	.	.	_	3	punct	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	meats	_	NNS	NNS	_	0	root	_	_
+3	that	_	WDT	WDT	_	4	nsubj	_	_
+4	are	_	VBP	VBP	_	6	cop	_	_
+5	already	_	RB	RB	_	6	advmod	_	_
+6	cooked	_	VBN	VBN	_	2	relcl	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	easy	_	JJ	JJ	_	6	conj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	take	_	VB	VB	_	8	ccomp	_	_
+11	home	_	RB	RB	_	10	advmod	_	_
+12	for	_	IN	IN	_	13	case	_	_
+13	dinner	_	NN	NN	_	10	nmod	_	_
+14	.	_	.	.	_	2	punct	_	_
+

@@ -1,0 +1,11 @@
+Sparrows	$Agent$	do not have
+feathers	$Theme$	do not have
+
+She	$Agent$	wanted
+to learn to fly	$Theme$	wanted
+she	$Agent$	went
+she	$Agent$	looked
+over the side	$Theme$	looked
+she	$Agent$	felt
+dizzy	$Theme$	felt
+

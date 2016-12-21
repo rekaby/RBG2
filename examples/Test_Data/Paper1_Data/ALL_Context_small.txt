@@ -1,0 +1,8 @@
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes

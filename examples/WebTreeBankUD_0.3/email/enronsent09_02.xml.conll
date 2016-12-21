@@ -1,0 +1,472 @@
+1	Michael	_	GW	GW	_	2	goeswith	_	_
+2	Olsen@ENRON	_	ADD	ADD	_	0	root	_	_
+
+1	12/07/2000	_	CD	CD	_	0	root	_	_
+2	02:29	_	CD	CD	_	3	nummod	_	_
+3	PM	_	NN	NN	_	1	tmod	_	_
+
+1	Daren	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	aux	_	_
+3	wondering	_	VBG	VBG	_	0	root	_	_
+4	if	_	IN	IN	_	8	mark	_	_
+5	it	_	PRP	PRP	_	8	nsubj	_	_
+6	would	_	MD	MD	_	8	aux	_	_
+7	be	_	VB	VB	_	8	cop	_	_
+8	OK	_	JJ	JJ	_	3	advcl	_	_
+9	for	_	IN	IN	_	12	mark	_	_
+10	me	_	PRP	PRP	_	12	nsubj	_	_
+11	to	_	TO	TO	_	12	aux	_	_
+12	sit	_	VB	VB	_	8	advcl	_	_
+13	in	_	RB	RB	_	12	advmod	_	_
+14	with	_	IN	IN	_	15	case	_	_
+15	you	_	PRP	PRP	_	12	nmod	_	_
+16	one	_	CD	CD	_	17	nummod	_	_
+17	day	_	NN	NN	_	12	tmod	_	_
+18	to	_	TO	TO	_	19	aux	_	_
+19	get	_	VB	VB	_	12	xcomp	_	_
+20	a	_	DT	DT	_	22	det	_	_
+21	general	_	JJ	JJ	_	22	amod	_	_
+22	feel	_	NN	NN	_	19	dobj	_	_
+23	of	_	IN	IN	_	25	case	_	_
+24	your	_	PRP$	PRP$	_	25	nmod:poss	_	_
+25	end	_	NN	NN	_	22	nmod	_	_
+26	of	_	IN	IN	_	28	case	_	_
+27	the	_	DT	DT	_	28	det	_	_
+28	process	_	NN	NN	_	25	nmod	_	_
+29	.	_	.	.	_	3	punct	_	_
+
+1	Pat	_	NNP	NNP	_	3	nsubj	_	_
+2	had	_	VBD	VBD	_	3	aux	_	_
+3	told	_	VBN	VBN	_	0	root	_	_
+4	me	_	PRP	PRP	_	3	dobj	_	_
+5	before	_	IN	IN	_	7	mark	_	_
+6	he	_	PRP	PRP	_	7	nsubj	_	_
+7	left	_	VBD	VBD	_	3	advcl	_	_
+8	that	_	IN	IN	_	11	mark	_	_
+9	it	_	PRP	PRP	_	11	nsubj	_	_
+10	would	_	MD	MD	_	11	aux	_	_
+11	help	_	VB	VB	_	3	ccomp	_	_
+12	me	_	PRP	PRP	_	14	nsubj	_	_
+13	better	_	RBR	RBR	_	14	advmod	_	_
+14	grasp	_	VB	VB	_	11	ccomp	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	process	_	NN	NN	_	14	dobj	_	_
+17	as	_	IN	IN	_	19	case	_	_
+18	a	_	DT	DT	_	19	det	_	_
+19	whole	_	NN	NN	_	14	nmod	_	_
+20	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	understand	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	imminent	_	JJ	JJ	_	6	amod	_	_
+5	cold	_	JJ	JJ	_	6	amod	_	_
+6	weather	_	NN	NN	_	8	nsubj	_	_
+7	is	_	VBZ	VBZ	_	8	aux	_	_
+8	making	_	VBG	VBG	_	2	ccomp	_	_
+9	things	_	NNS	NNS	_	8	dobj	_	_
+10	crazy	_	JJ	JJ	_	8	xcomp	_	_
+11	,	_	,	,	_	8	punct	_	_
+12	so	_	RB	RB	_	16	advmod	_	_
+13	now	_	RB	RB	_	16	advmod	_	_
+14	may	_	MD	MD	_	16	aux	_	_
+15	not	_	RB	RB	_	16	neg	_	_
+16	be	_	VB	VB	_	8	conj	_	_
+17	the	_	DT	DT	_	19	det	_	_
+18	best	_	JJS	JJS	_	19	amod	_	_
+19	time	_	NN	NN	_	16	nsubj	_	_
+20	to	_	TO	TO	_	24	aux	_	_
+21	be	_	VB	VB	_	24	cop	_	_
+22	in	_	IN	IN	_	24	case	_	_
+23	your	_	PRP$	PRP$	_	24	nmod:poss	_	_
+24	way	_	NN	NN	_	19	nfincl	_	_
+25	.	_	.	.	_	2	punct	_	_
+
+1	But	_	CC	CC	_	2	cc	_	_
+2	let	_	VB	VB	_	0	root	_	_
+3	me	_	PRP	PRP	_	4	nsubj	_	_
+4	know	_	VB	VB	_	2	ccomp	_	_
+5	if	_	IN	IN	_	8	mark	_	_
+6	I	_	PRP	PRP	_	8	nsubj	_	_
+7	can	_	MD	MD	_	8	aux	_	_
+8	spend	_	VB	VB	_	4	advcl	_	_
+9	a	_	DT	DT	_	12	det	_	_
+10	day	_	NN	NN	_	12	compound	_	_
+11	,	_	,	,	_	12	punct	_	_
+12	morning	_	NN	NN	_	8	dobj	_	_
+13	,	_	,	,	_	12	punct	_	_
+14	or	_	CC	CC	_	12	cc	_	_
+15	even	_	RB	RB	_	18	advmod	_	_
+16	just	_	RB	RB	_	18	advmod	_	_
+17	an	_	DT	DT	_	18	det	_	_
+18	afternoon	_	NN	NN	_	12	conj	_	_
+19	down	_	RB	RB	_	20	advmod	_	_
+20	there	_	RB	RB	_	8	advmod	_	_
+21	with	_	IN	IN	_	22	case	_	_
+22	you	_	PRP	PRP	_	8	nmod	_	_
+23	whenever	_	WRB	WRB	_	28	advmod	_	_
+24	it	_	PRP	PRP	_	28	nsubj	_	_
+25	is	_	VBZ	VBZ	_	28	cop	_	_
+26	a	_	DT	DT	_	28	det	_	_
+27	good	_	JJ	JJ	_	28	amod	_	_
+28	time	_	NN	NN	_	8	advcl	_	_
+29	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	root	_	_
+3	it	_	PRP	PRP	_	5	nsubj	_	_
+4	will	_	MD	MD	_	5	aux	_	_
+5	help	_	VB	VB	_	2	ccomp	_	_
+6	me	_	PRP	PRP	_	5	dobj	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	much	_	RB	RB	_	5	advmod	_	_
+9	in	_	IN	IN	_	11	case	_	_
+10	my	_	PRP$	PRP$	_	11	nmod:poss	_	_
+11	role	_	NN	NN	_	5	nmod	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Mike	_	NNP	NNP	_	0	root	_	_
+
+1	The	_	DT	DT	_	5	det	_	_
+2	new	_	JJ	JJ	_	5	amod	_	_
+3	fixed	_	VBN	VBN	_	4	amod	_	_
+4	price	_	NN	NN	_	5	compound	_	_
+5	deal	_	NN	NN	_	9	nsubj	_	_
+6	with	_	IN	IN	_	7	case	_	_
+7	Equistar	_	NNP	NNP	_	5	nmod	_	_
+8	is	_	VBZ	VBZ	_	9	cop	_	_
+9	#	_	NN	NN	_	0	root	_	_
+10	365013	_	CD	CD	_	9	nummod	_	_
+11	.	_	.	.	_	9	punct	_	_
+
+1	D	_	NNP	NNP	_	0	root	_	_
+
+1	Daren	_	NNP	NNP	_	0	root	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	did	_	VBD	VBD	_	0	root	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	deal	_	NN	NN	_	3	dobj	_	_
+6	for	_	IN	IN	_	8	case	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	rest	_	NN	NN	_	5	nmod	_	_
+9	of	_	IN	IN	_	11	case	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	month	_	NN	NN	_	8	nmod	_	_
+12	for	_	IN	IN	_	13	case	_	_
+13	10,000	_	CD	CD	_	5	nmod	_	_
+14	/	_	SYM	SYM	_	15	case	_	_
+15	d	_	NN	NN	_	13	nmod	_	_
+16	at	_	IN	IN	_	20	case	_	_
+17	meter	_	NN	NN	_	20	compound	_	_
+18	#	_	NN	NN	_	20	compound	_	_
+19	1552	_	CD	CD	_	20	nummod	_	_
+20	QE	_	NN	NN	_	13	nmod	_	_
+21	-	_	,	,	_	20	punct	_	_
+22	1	_	CD	CD	_	20	nummod	_	_
+23	@	_	IN	IN	_	24	case	_	_
+24	$	_	$	$	_	20	nmod	_	_
+25	4.355	_	CD	CD	_	24	nummod	_	_
+26	....	_	,	,	_	3	punct	_	_
+27	can	_	MD	MD	_	29	aux	_	_
+28	you	_	PRP	PRP	_	29	nsubj	_	_
+29	let	_	VB	VB	_	3	parataxis	_	_
+30	me	_	PRP	PRP	_	34	nsubj	_	_
+31	and	_	CC	CC	_	30	cc	_	_
+32	Robert	_	NNP	NNP	_	33	compound	_	_
+33	Lloyd	_	NNP	NNP	_	30	conj	_	_
+34	know	_	VB	VB	_	29	ccomp	_	_
+35	what	_	WP	WP	_	39	dobj	_	_
+36	the	_	DT	DT	_	38	det	_	_
+37	sitara	_	NN	NN	_	38	compound	_	_
+38	#	_	NN	NN	_	39	nsubj	_	_
+39	is	_	VBZ	VBZ	_	34	ccomp	_	_
+40	?	_	.	.	_	3	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+
+1	Melissa	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	show	_	VBP	VBP	_	0	root	_	_
+3	that	_	IN	IN	_	6	mark	_	_
+4	we	_	PRP	PRP	_	6	nsubj	_	_
+5	also	_	RB	RB	_	6	advmod	_	_
+6	had	_	VBD	VBD	_	2	ccomp	_	_
+7	20.000	_	CD	CD	_	6	dobj	_	_
+8	at	_	IN	IN	_	10	case	_	_
+9	LS	_	NN	NN	_	10	compound	_	_
+10	HPL	_	NN	NN	_	6	nmod	_	_
+11	for	_	IN	IN	_	13	case	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	13th	_	NN	NN	_	6	nmod	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	Daren	_	NNP	NNP	_	0	root	_	_
+
+1	August	_	NNP	NNP	_	0	root	_	_
+2	11	_	CD	CD	_	1	nummod	_	_
+3	,	_	,	,	_	1	punct	_	_
+4	2000	_	CD	CD	_	1	tmod	_	_
+
+1	Teco	_	NNP	NNP	_	2	compound	_	_
+2	Tap	_	NNP	NNP	_	0	root	_	_
+3	108.333	_	CD	CD	_	2	dep	_	_
+4	/	_	,	,	_	2	punct	_	_
+5	HPL	_	NNP	NNP	_	6	compound	_	_
+6	IFERC	_	NNP	NNP	_	2	dep	_	_
+7	;	_	,	,	_	2	punct	_	_
+8	20.000	_	CD	CD	_	2	dep	_	_
+9	/	_	,	,	_	2	punct	_	_
+10	Enron	_	NNP	NNP	_	2	dep	_	_
+
+1	LS	_	NNP	NNP	_	4	compound	_	_
+2	HPL	_	NNP	NNP	_	4	compound	_	_
+3	LSK	_	NNP	NNP	_	4	compound	_	_
+4	IC	_	NNP	NNP	_	0	root	_	_
+5	20.000	_	CD	CD	_	4	dep	_	_
+6	/	_	,	,	_	4	punct	_	_
+7	Enron	_	NNP	NNP	_	4	dep	_	_
+
+1	August	_	NNP	NNP	_	0	root	_	_
+2	12	_	CD	CD	_	1	nummod	_	_
+3	,	_	,	,	_	1	punct	_	_
+4	2000	_	CD	CD	_	1	tmod	_	_
+
+1	Teco	_	NNP	NNP	_	2	compound	_	_
+2	Tap	_	NNP	NNP	_	0	root	_	_
+3	85.000	_	CD	CD	_	2	dep	_	_
+4	/	_	,	,	_	2	punct	_	_
+5	HPL	_	NNP	NNP	_	6	compound	_	_
+6	IFERC	_	NNP	NNP	_	2	dep	_	_
+7	;	_	,	,	_	2	punct	_	_
+8	20.000	_	CD	CD	_	2	dep	_	_
+9	/	_	,	,	_	2	punct	_	_
+10	Enron	_	NNP	NNP	_	2	dep	_	_
+
+1	LS	_	NNP	NNP	_	4	compound	_	_
+2	HPL	_	NNP	NNP	_	4	compound	_	_
+3	LSK	_	NNP	NNP	_	4	compound	_	_
+4	IC	_	NNP	NNP	_	0	root	_	_
+5	20.000	_	CD	CD	_	4	dep	_	_
+6	/	_	,	,	_	4	punct	_	_
+7	Enron	_	NNP	NNP	_	4	dep	_	_
+
+1	August	_	NNP	NNP	_	0	root	_	_
+2	13	_	CD	CD	_	1	nummod	_	_
+3	,	_	,	,	_	1	punct	_	_
+4	2000	_	CD	CD	_	1	tmod	_	_
+
+1	Teco	_	NNP	NNP	_	2	compound	_	_
+2	Tap	_	NNP	NNP	_	0	root	_	_
+3	32.500	_	CD	CD	_	2	dep	_	_
+4	/	_	,	,	_	2	punct	_	_
+5	HPL	_	NNP	NNP	_	6	compound	_	_
+6	IFERC	_	NNP	NNP	_	2	dep	_	_
+7	;	_	,	,	_	2	punct	_	_
+8	20.000	_	CD	CD	_	2	dep	_	_
+9	/	_	,	,	_	2	punct	_	_
+10	Enron	_	NNP	NNP	_	2	dep	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	working	_	VBG	VBG	_	0	root	_	_
+4	hard	_	RB	RB	_	3	advmod	_	_
+5	for	_	IN	IN	_	6	case	_	_
+6	you	_	PRP	PRP	_	3	nmod	_	_
+7	!	_	.	.	_	3	punct	_	_
+
+1	Now	_	RB	RB	_	0	root	_	_
+2	at	_	IN	IN	_	3	case	_	_
+3	83.5	_	CD	CD	_	1	nmod	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	need	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	new	_	JJ	JJ	_	5	amod	_	_
+5	lawnmower	_	NN	NN	_	2	dobj	_	_
+6	,	_	,	,	_	2	punct	_	_
+7	so	_	RB	RB	_	10	advmod	_	_
+8	I	_	PRP	PRP	_	10	nsubj	_	_
+9	'll	_	MD	MD	_	10	aux	_	_
+10	try	_	VB	VB	_	2	ccomp	_	_
+11	to	_	TO	TO	_	12	aux	_	_
+12	bump	_	VB	VB	_	10	xcomp	_	_
+13	it	_	PRP	PRP	_	12	dobj	_	_
+14	up	_	RB	RB	_	12	advmod	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	little	_	JJ	JJ	_	17	nmod:npmod	_	_
+17	more	_	RBR	RBR	_	12	advmod	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	Hope	_	VBP	VBP	_	0	root	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	're	_	VBP	VBP	_	4	aux	_	_
+4	doing	_	VBG	VBG	_	1	ccomp	_	_
+5	good	_	RB	RB	_	4	advmod	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	D	_	NNP	NNP	_	0	root	_	_
+
+1	???	_	.	.	_	0	root	_	_
+
+1	KEEP	_	VB	VB	_	0	root	_	_
+2	UP	_	RP	RP	_	1	prt	_	_
+3	THE	_	DT	DT	_	5	det	_	_
+4	GOOD	_	JJ	JJ	_	5	amod	_	_
+5	WORK	_	NN	NN	_	1	dobj	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	?	_	.	.	_	0	root	_	_
+
+1	WE	_	PRP	PRP	_	4	nsubj	_	_
+2	AT	_	IN	IN	_	3	case	_	_
+3	HOME	_	NN	NN	_	1	nmod	_	_
+4	LOVE	_	VBP	VBP	_	0	root	_	_
+5	IT	_	PRP	PRP	_	4	dobj	_	_
+6	AT	_	IN	IN	_	7	case	_	_
+7	$	_	$	$	_	4	nmod	_	_
+8	80	_	CD	CD	_	7	nummod	_	_
+9	+++	_	SYM	SYM	_	7	dep	_	_
+
+1	?	_	.	.	_	0	root	_	_
+
+1	KEN	_	NNP	NNP	_	0	root	_	_
+
+1	These	_	DT	DT	_	4	nsubjpass	_	_
+2	have	_	VBP	VBP	_	4	aux	_	_
+3	been	_	VBN	VBN	_	4	auxpass	_	_
+4	sold	_	VBN	VBN	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Geoff	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	for	_	IN	IN	_	4	case	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	pictures	_	NNS	NNS	_	1	nmod	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	Looks	_	VBZ	VBZ	_	0	root	_	_
+2	like	_	IN	IN	_	5	mark	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	kids	_	NNS	NNS	_	5	nsubj	_	_
+5	had	_	VBD	VBD	_	1	advcl	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	time	_	NN	NN	_	5	dobj	_	_
+9	!	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	hope	_	VBP	VBP	_	0	root	_	_
+3	you	_	PRP	PRP	_	6	nsubj	_	_
+4	do	_	VBP	VBP	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	mind	_	VB	VB	_	2	ccomp	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	but	_	CC	CC	_	2	cc	_	_
+9	I	_	PRP	PRP	_	11	nsubj	_	_
+10	've	_	VBP	VBP	_	11	aux	_	_
+11	taken	_	VBN	VBN	_	2	conj	_	_
+12	liberty	_	NN	NN	_	11	dobj	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	turn	_	VB	VB	_	12	nfincl	_	_
+15	them	_	PRP	PRP	_	14	dobj	_	_
+16	into	_	IN	IN	_	20	case	_	_
+17	a	_	DT	DT	_	20	det	_	_
+18	web	_	NN	NN	_	20	compound	_	_
+19	photo	_	NN	NN	_	20	compound	_	_
+20	album	_	NN	NN	_	14	nmod	_	_
+21	at	_	IN	IN	_	22	case	_	_
+22	http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday	_	ADD	ADD	_	20	nmod	_	_
+23	.	_	.	.	_	2	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	want	_	VBP	VBP	_	15	advcl	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	pass	_	VB	VB	_	3	xcomp	_	_
+6	this	_	DT	DT	_	9	det	_	_
+7	web	_	NN	NN	_	9	compound	_	_
+8	site	_	NN	NN	_	9	compound	_	_
+9	address	_	NN	NN	_	5	dobj	_	_
+10	along	_	RP	RP	_	5	prt	_	_
+11	to	_	IN	IN	_	13	case	_	_
+12	other	_	JJ	JJ	_	13	amod	_	_
+13	folks	_	NNS	NNS	_	5	nmod	_	_
+14	,	_	,	,	_	15	punct	_	_
+15	feel	_	VB	VB	_	0	root	_	_
+16	free	_	JJ	JJ	_	15	acomp	_	_
+17	.	_	.	.	_	15	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	want	_	VBP	VBP	_	12	advcl	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	CD	_	NN	NN	_	6	compound	_	_
+6	copy	_	NN	NN	_	3	dobj	_	_
+7	of	_	IN	IN	_	10	case	_	_
+8	this	_	DT	DT	_	10	det	_	_
+9	web	_	NN	NN	_	10	compound	_	_
+10	site	_	NN	NN	_	6	nmod	_	_
+11	,	_	,	,	_	12	punct	_	_
+12	give	_	VB	VB	_	0	root	_	_
+13	me	_	PRP	PRP	_	12	iobj	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	yell	_	NN	NN	_	12	dobj	_	_
+16	.	_	.	.	_	12	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Ram	_	NNP	NNP	_	2	compound	_	_
+2	Tackett	_	NNP	NNP	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	-LRB-	_	-LRB-	-LRB-	_	5	punct	_	_
+5	mailto:rtackett@abacustech.net	_	ADD	ADD	_	2	list	_	_
+6	-RRB-	_	-RRB-	-RRB-	_	5	punct	_	_
+7	Owner	_	NN	NN	_	2	list	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	Abacus	_	NNP	NNP	_	10	compound	_	_
+10	Technologies	_	NNPS	NNPS	_	7	advmod	_	_
+11	17611	_	CD	CD	_	13	nummod	_	_
+12	Loring	_	NNP	NNP	_	13	compound	_	_
+13	Lane	_	NNP	NNP	_	2	list	_	_
+14	,	_	,	,	_	2	punct	_	_
+15	Spring	_	NNP	NNP	_	13	appos	_	_
+16	,	_	,	,	_	2	punct	_	_
+17	TX	_	NNP	NNP	_	15	appos	_	_
+18	77388-5746	_	CD	CD	_	2	list	_	_
+19	-LRB-	_	-LRB-	-LRB-	_	22	punct	_	_
+20	281	_	CD	CD	_	22	nummod	_	_
+21	-RRB-	_	-RRB-	-RRB-	_	22	punct	_	_
+22	651-7106	_	CD	CD	_	2	list	_	_
+23	;	_	,	,	_	2	punct	_	_
+24	Fax	_	NN	NN	_	2	list	_	_
+25	-LRB-	_	-LRB-	-LRB-	_	28	punct	_	_
+26	281	_	CD	CD	_	28	nummod	_	_
+27	-RRB-	_	-RRB-	-RRB-	_	28	punct	_	_
+28	528-8636	_	CD	CD	_	14	appos	_	_
+29	Web	_	NN	NN	_	2	list	_	_
+30	:	_	:	:	_	2	punct	_	_
+31	http://www.abacustech.net	_	ADD	ADD	_	29	appos	_	_
+
+1	-	_	NFP	NFP	_	7	punct	_	_
+2	Ram	_	GW	GW	_	7	goeswith	_	_
+3	Tackett	_	GW	GW	_	7	goeswith	_	_
+4	-LRB-	_	-LRB-	-LRB-	_	7	punct	_	_
+5	E-mail	_	GW	GW	_	7	goeswith	_	_
+6	-RRB-	_	-RRB-	-RRB-	_	7	punct	_	_
+7	.vcf	_	NN	NN	_	0	root	_	_
+8	4222	_	CD	CD	_	7	nummod	_	_
+

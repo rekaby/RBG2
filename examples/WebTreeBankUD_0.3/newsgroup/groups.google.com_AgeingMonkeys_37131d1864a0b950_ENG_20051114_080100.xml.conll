@@ -1,0 +1,60 @@
+1	Just	_	RB	RB	_	3	advmod	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	let	_	VB	VB	_	9	parataxis	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	all	_	DT	DT	_	4	det	_	_
+6	know	_	VB	VB	_	3	ccomp	_	_
+7	Matt	_	NNP	NNP	_	9	nsubj	_	_
+8	has	_	VBZ	VBZ	_	9	aux	_	_
+9	confirmed	_	VBN	VBN	_	0	root	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	booking	_	NN	NN	_	17	nsubj	_	_
+12	for	_	IN	IN	_	14	case	_	_
+13	3rd	_	NN	NN	_	14	nummod	_	_
+14	Dec	_	NNP	NNP	_	11	nmod	_	_
+15	i	_	GW	GW	_	17	goeswith	_	_
+16	s	_	VBZ	VBZ	_	17	cop	_	_
+17	OK	_	JJ	JJ	_	9	ccomp	_	_
+18	.	_	.	.	_	9	punct	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	has	_	VBZ	VBZ	_	4	aux	_	_
+3	also	_	RB	RB	_	4	advmod	_	_
+4	had	_	VBN	VBN	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	pay	_	VB	VB	_	4	xcomp	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	L	_	$	$	_	6	dobj	_	_
+9	15	_	CD	CD	_	8	nummod	_	_
+10	each	_	DT	DT	_	8	nmod:npmod	_	_
+11	up	_	RB	RB	_	12	advmod	_	_
+12	front	_	RB	RB	_	6	advmod	_	_
+13	so	_	RB	RB	_	15	advmod	_	_
+14	woul	_	GW	GW	_	15	goeswith	_	_
+15	d	_	MD	MD	_	16	aux	_	_
+16	be	_	VB	VB	_	17	cop	_	_
+17	grateful	_	JJ	JJ	_	4	conj	_	_
+18	if	_	IN	IN	_	21	mark	_	_
+19	you	_	PRP	PRP	_	21	nsubj	_	_
+20	could	_	MD	MD	_	21	aux	_	_
+21	get	_	VB	VB	_	17	advcl	_	_
+22	the	_	DT	DT	_	23	det	_	_
+23	cash	_	NN	NN	_	21	dobj	_	_
+24	to	_	IN	IN	_	25	case	_	_
+25	him	_	PRP	PRP	_	21	nmod	_	_
+26	as	_	RB	RB	_	27	advmod	_	_
+27	soon	_	RB	RB	_	21	advmod	_	_
+28	as	_	IN	IN	_	30	mark	_	_
+29	poss	_	GW	GW	_	30	goeswith	_	_
+30	ible	_	JJ	JJ	_	26	advcl	_	_
+31	.	_	.	.	_	4	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+
+1	See	_	VB	VB	_	0	root	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	climbing	_	VBG	VBG	_	1	xcomp	_	_
+4	later	_	RB	RB	_	1	advmod	_	_
+
+1	Lizzie	_	NNP	NNP	_	0	root	_	_
+

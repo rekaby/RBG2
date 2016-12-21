@@ -1,0 +1,58 @@
+1	Do	_	VB	VB	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	judge	_	VB	VB	_	0	root	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	book	_	NN	NN	_	3	dobj	_	_
+6	by	_	IN	IN	_	8	case	_	_
+7	its	_	PRP$	PRP$	_	8	nmod:poss	_	_
+8	cover	_	NN	NN	_	3	nmod	_	_
+
+1	From	_	IN	IN	_	3	case	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	outside	_	NN	NN	_	5	nmod	_	_
+4	Ichiban	_	NNP	NNP	_	5	nsubj	_	_
+5	looks	_	VBZ	VBZ	_	0	root	_	_
+6	like	_	IN	IN	_	10	mark	_	_
+7	it	_	PRP	PRP	_	10	nsubj	_	_
+8	will	_	MD	MD	_	10	aux	_	_
+9	be	_	VB	VB	_	10	cop	_	_
+10	terrible	_	JJ	JJ	_	5	advcl	_	_
+11	.	_	.	.	_	5	punct	_	_
+
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	could	_	MD	MD	_	5	aux	_	_
+3	n't	_	RB	RB	_	5	neg	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	farther	_	RBR	RBR	_	0	root	_	_
+6	from	_	IN	IN	_	8	case	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	truth	_	NN	NN	_	5	nmod	_	_
+9	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	amazing	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	and	_	CC	CC	_	4	cc	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	prices	_	NNS	NNS	_	12	nsubjpass	_	_
+9	can	_	MD	MD	_	12	aux	_	_
+10	not	_	RB	RB	_	12	neg	_	_
+11	be	_	VB	VB	_	12	auxpass	_	_
+12	beat	_	VBN	VBN	_	4	conj	_	_
+13	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	sushi	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	and	_	CC	CC	_	4	cc	_	_
+7	they	_	PRP	PRP	_	8	nsubj	_	_
+8	have	_	VBP	VBP	_	4	conj	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	great	_	JJ	JJ	_	11	amod	_	_
+11	selection	_	NN	NN	_	8	dobj	_	_
+12	.	_	.	.	_	4	punct	_	_
+

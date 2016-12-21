@@ -1,0 +1,40 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	knowledgeable	_	JJ	JJ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	friendly	_	JJ	JJ	_	2	conj	_	_
+5	design	_	NN	NN	_	2	parataxis	_	_
+6	build	_	NN	NN	_	7	nsubj	_	_
+7	firm	_	NN	NN	_	2	parataxis	_	_
+8	.	_	.	.	_	7	punct	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	specialize	_	VBP	VBP	_	0	root	_	_
+3	in	_	IN	IN	_	5	case	_	_
+4	financial	_	JJ	JJ	_	5	amod	_	_
+5	institutions	_	NNS	NNS	_	2	nmod	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	medical	_	JJ	JJ	_	11	amod	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	and	_	CC	CC	_	7	cc	_	_
+10	retail	_	NN	NN	_	7	conj	_	_
+11	projects	_	NNS	NNS	_	5	appos	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	These	_	DT	DT	_	2	det	_	_
+2	guys	_	NNS	NNS	_	3	nsubj	_	_
+3	know	_	VBP	VBP	_	0	root	_	_
+4	what	_	WP	WP	_	7	dobj	_	_
+5	they	_	PRP	PRP	_	7	nsubj	_	_
+6	're	_	VBP	VBP	_	7	aux	_	_
+7	doing	_	VBG	VBG	_	3	ccomp	_	_
+8	and	_	CC	CC	_	3	cc	_	_
+9	helped	_	VBD	VBD	_	3	conj	_	_
+10	me	_	PRP	PRP	_	9	dobj	_	_
+11	in	_	IN	IN	_	13	case	_	_
+12	all	_	DT	DT	_	13	det	_	_
+13	phases	_	NNS	NNS	_	9	nmod	_	_
+14	of	_	IN	IN	_	16	case	_	_
+15	our	_	PRP$	PRP$	_	16	nmod:poss	_	_
+16	project	_	NN	NN	_	13	nmod	_	_
+17	.	_	.	.	_	3	punct	_	_
+

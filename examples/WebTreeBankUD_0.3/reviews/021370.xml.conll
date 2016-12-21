@@ -1,0 +1,36 @@
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	fine	_	JJ	JJ	_	0	root	_	_
+4	for	_	IN	IN	_	3	nmod	_	_
+5	...	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	fine	_	JJ	JJ	_	0	root	_	_
+4	for	_	IN	IN	_	8	case	_	_
+5	mass	_	JJ	JJ	_	7	amod	_	_
+6	-	_	HYPH	HYPH	_	7	punct	_	_
+7	market	_	NN	NN	_	8	compound	_	_
+8	chocolate	_	NN	NN	_	3	nmod	_	_
+9	,	_	,	,	_	3	punct	_	_
+10	but	_	CC	CC	_	3	cc	_	_
+11	with	_	IN	IN	_	12	case	_	_
+12	companies	_	NNS	NNS	_	28	nmod	_	_
+13	like	_	IN	IN	_	15	case	_	_
+14	Scharffen	_	NNP	NNP	_	15	compound	_	_
+15	Berger	_	NNP	NNP	_	12	nmod	_	_
+16	,	_	,	,	_	15	punct	_	_
+17	TCHO	_	NNP	NNP	_	15	conj	_	_
+18	,	_	,	,	_	15	punct	_	_
+19	and	_	CC	CC	_	15	cc	_	_
+20	smaller	_	JJS	JJS	_	23	amod	_	_
+21	artisan	_	NN	NN	_	23	compound	_	_
+22	chocolate	_	NN	NN	_	23	compound	_	_
+23	makers	_	NNS	NNS	_	15	conj	_	_
+24	in	_	IN	IN	_	26	case	_	_
+25	the	_	DT	DT	_	26	det	_	_
+26	area	_	NN	NN	_	12	nmod	_	_
+27	,	_	,	,	_	12	punct	_	_
+28	why	_	WRB	WRB	_	3	conj	_	_
+29	?	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,288 @@
+Princess	$Theme$	washed
+pirate	$Agent$	washed
+
+Princess	$Theme$	painted
+fencer	$Agent$	painted
+
+pirate	$Theme$	washed
+Princess	$Agent$	washed
+
+fencer	$Theme$	painted
+Princess	$Agent$	painted
+
+Amazone	$Theme$	stabbed
+mechanics	$Agent$	stabbed
+
+Amazone	$Theme$	sprayed
+player	$Agent$	sprayed
+
+mechanics	$Theme$	stabbed
+Amazone	$Agent$	stabbed
+
+player	$Theme$	sprayed
+Amazone	$Agent$	sprayed
+
+nurse	$Theme$	pushed
+athlete	$Agent$	pushed
+
+nurse	$Theme$	dried
+priest	$Agent$	dried
+
+athlete	$Theme$	pushed
+nurse	$Agent$	pushed
+
+priest	$Theme$	dried
+nurse	$Agent$	dried
+
+journalist	$Theme$	tied
+sailor	$Agent$	tied
+
+journalist	$Theme$	fed
+doctor	$Agent$	fed
+
+sailor	$Theme$	tied
+journalist	$Agent$	tied
+
+doctor	$Theme$	fed
+journalist	$Agent$	fed
+
+worker	$Theme$	attacked
+cellist	$Agent$	attacked
+
+worker	$Theme$	interviewed
+golfer	$Agent$	interviewed
+
+cellist	$Theme$	attacked
+worker	$Agent$	attacked
+
+golfer	$Theme$	interviewed
+worker	$Agent$	interviewed
+
+devil	$Theme$	gifted
+clown	$Agent$	gifted
+
+devil	$Theme$	sketched
+cook	$Agent$	sketched
+
+clown	$Theme$	gifted
+devil	$Agent$	gifted
+
+cook	$Theme$	sketched
+devil	$Agent$	sketched
+
+lady	$Theme$	shooted
+waiter	$Agent$	shooted
+
+lady	$Theme$	slapped
+Knight	$Agent$	slapped
+
+waiter	$Theme$	shooted
+lady	$Agent$	shooted
+
+Knight	$Theme$	slapped
+lady	$Agent$	slapped
+
+skater	$Theme$	scrubbed
+detective	$Agent$	scrubbed
+
+skater	$Theme$	nudged
+magician	$Agent$	nudged
+
+detective	$Theme$	scrubbed
+skater	$Agent$	scrubbed
+
+magician	$Theme$	nudged
+skater	$Agent$	nudged
+
+maid	$Theme$	perfumed
+executioner	$Agent$	perfumed
+
+maid	$Theme$	bandaged
+drummer	$Agent$	bandaged
+
+executioner	$Theme$	perfumed
+maid	$Agent$	perfumed
+
+drummer	$Theme$	bandaged
+maid	$Agent$	bandaged
+
+player	$Theme$	punched
+prisoner	$Agent$	punched
+
+player	$Theme$	meshed
+flutist	$Agent$	meshed
+
+prisoner	$Theme$	punched
+player	$Agent$	punched
+
+flutist	$Theme$	meshed
+player	$Agent$	meshed
+
+Mermaid	$Theme$	crowned
+student	$Agent$	crowned
+
+Mermaid	$Theme$	plucked
+soldier	$Agent$	plucked
+
+student	$Theme$	crowned
+Mermaid	$Agent$	crowned
+
+soldier	$Theme$	plucked
+Mermaid	$Agent$	plucked
+
+nun	$Theme$	inoculated
+guards	$Agent$	inoculated
+
+nun	$Theme$	tweaked
+clarinetist	$Agent$	tweaked
+
+guards	$Theme$	inoculated
+nun	$Agent$	inoculated
+
+clarinetist	$Theme$	tweaked
+nun	$Agent$	tweaked
+
+Grandma	$Theme$	scratched
+archer	$Agent$	scratched
+
+grandmother	$Theme$	filmed
+saxophonist	$Agent$	filmed
+
+archer	$Theme$	scratched
+Grandma	$Agent$	scratched
+
+saxophonist	$Theme$	filmed
+grandmother	$Agent$	filmed
+
+fairy	$Theme$	brushed
+gangsters	$Agent$	brushed
+
+fairy	$Theme$	splashed
+tourist	$Agent$	splashed
+
+gangsters	$Theme$	brushed
+fairy	$Agent$	brushed
+
+tourist	$Theme$	splashed
+fairy	$Agent$	splashed
+
+jogger	$Theme$	bewitched
+doctor	$Agent$	bewitched
+
+jogger	$Theme$	rubbed
+king	$Agent$	rubbed
+
+doctor	$Theme$	bewitched
+jogger	$Agent$	bewitched
+
+king	$Theme$	rubbed
+jogger	$Agent$	rubbed
+
+cheerleader	$Theme$	beaten
+page	$Agent$	beaten
+
+cheerleader	$Theme$	poisoned
+angler	$Agent$	poisoned
+
+page	$Theme$	beaten
+cheerleader	$Agent$	beaten
+
+angler	$Theme$	poisoned
+cheerleader	$Agent$	poisoned
+
+bride	$Theme$	spanked
+scouts	$Agent$	spanked
+
+bride	$Theme$	scalded
+postman	$Agent$	scalded
+
+scouts	$Theme$	spanked
+bride	$Agent$	spanked
+
+postman	$Theme$	scalded
+bride	$Agent$	scalded
+
+stewardess	$Theme$	powders
+Athlete	$Agent$	powders
+
+stewardess	$Theme$	charges
+traveler	$Agent$	charges
+
+Athlete	$Theme$	powders
+stewardess	$Agent$	powders
+
+traveler	$Theme$	charges
+stewardess	$Agent$	charges
+
+witch	$Theme$	illuminates
+boy	$Agent$	illuminates
+
+witch	$Theme$	steals
+sweeper	$Agent$	steals
+
+boy	$Theme$	illuminates
+witch	$Agent$	illuminates
+
+sweeper	$Theme$	steals
+witch	$Agent$	steals
+
+Japanese	$Theme$	smeared
+cameraman	$Agent$	smeared
+
+Japanese	$Theme$	crowned
+officers	$Agent$	crowned
+
+cameraman	$Theme$	smeared
+Japanese	$Agent$	smeared
+
+officers	$Theme$	crowned
+Japanese	$Agent$	crowned
+
+user	$Theme$	costumed
+referee	$Agent$	costumed
+
+user	$Theme$	remunerated
+Chinese	$Agent$	remunerated
+
+referee	$Theme$	costumed
+user	$Agent$	costumed
+
+Chinese	$Theme$	remunerated
+user	$Agent$	remunerated
+
+businesswoman	$Theme$	girded
+plumber	$Agent$	girded
+
+businesswoman	$Theme$	feeds
+beekeepers	$Agent$	feeds
+
+plumber	$Theme$	girded
+businesswoman	$Agent$	girded
+
+beekeepers	$Theme$	feeds
+businesswoman	$Agent$	feeds
+
+beauty	$Theme$	masked
+skier	$Agent$	masked
+
+beauty	$Theme$	rewards
+prince	$Agent$	rewards
+
+skier	$Theme$	masked
+beauty	$Agent$	masked
+
+prince	$Theme$	rewards
+beauty	$Agent$	rewards
+
+instructor	$Theme$	cautioned
+astronaut	$Agent$	cautioned
+
+trainer	$Theme$	shows
+craftsman	$Agent$	shows
+
+astronaut	$Theme$	cautioned
+instructor	$Agent$	cautioned
+
+craftsman	$Theme$	shows
+trainer	$Agent$	shows
+

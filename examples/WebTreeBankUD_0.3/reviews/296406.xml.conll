@@ -1,0 +1,11 @@
+1	Horrible	_	JJ	JJ	_	3	amod	_	_
+2	tap	_	NN	NN	_	3	compound	_	_
+3	water	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	But	_	CC	CC	_	4	cc	_	_
+2	no	_	DT	DT	_	4	neg	_	_
+3	other	_	JJ	JJ	_	4	amod	_	_
+4	complaints	_	NNS	NNS	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+

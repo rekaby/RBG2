@@ -1,0 +1,77 @@
+1	Rcommended	_	VBN	VBN	_	0	root	_	_
+2	by	_	IN	IN	_	3	case	_	_
+3	bees	_	NNS	NNS	_	1	nmod	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	too	_	RB	RB	_	1	advmod	_	_
+6	!	_	.	.	_	1	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommended	_	VBN	VBN	_	0	root	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Joe	_	NNP	NNP	_	2	nsubj	_	_
+2	removed	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	wasp	_	NN	NN	_	5	compound	_	_
+5	nest	_	NN	NN	_	2	dobj	_	_
+6	for	_	IN	IN	_	9	case	_	_
+7	our	_	PRP$	PRP$	_	9	nmod:poss	_	_
+8	condominium	_	NN	NN	_	9	compound	_	_
+9	building	_	NN	NN	_	2	nmod	_	_
+10	and	_	CC	CC	_	2	cc	_	_
+11	we	_	PRP	PRP	_	12	nsubj	_	_
+12	appreciated	_	VBD	VBD	_	2	conj	_	_
+13	the	_	DT	DT	_	16	det	_	_
+14	environmentally	_	RB	RB	_	15	advmod	_	_
+15	friendly	_	JJ	JJ	_	16	amod	_	_
+16	method	_	NN	NN	_	12	dobj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	prompt	_	JJ	JJ	_	23	amod	_	_
+19	,	_	,	,	_	18	punct	_	_
+20	friendly	_	JJ	JJ	_	18	conj	_	_
+21	and	_	CC	CC	_	18	cc	_	_
+22	informative	_	JJ	JJ	_	18	conj	_	_
+23	service	_	NN	NN	_	16	conj	_	_
+24	.	_	.	.	_	2	punct	_	_
+
+1	No	_	DT	DT	_	2	det	_	_
+2	spraying	_	NN	NN	_	0	root	_	_
+3	of	_	IN	IN	_	4	case	_	_
+4	pesticides	_	NNS	NNS	_	2	nmod	_	_
+5	!	_	.	.	_	2	punct	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	professional	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Reasonable	_	JJ	JJ	_	2	amod	_	_
+2	rate	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	Joe	_	NNP	NNP	_	3	dobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	his	_	PRP$	PRP$	_	9	nmod:poss	_	_
+7	wasp	_	NN	NN	_	8	compound	_	_
+8	removal	_	NN	NN	_	9	compound	_	_
+9	service	_	NN	NN	_	4	conj	_	_
+10	to	_	IN	IN	_	13	case	_	_
+11	individual	_	JJ	JJ	_	13	amod	_	_
+12	home	_	NN	NN	_	13	compound	_	_
+13	owners	_	NNS	NNS	_	3	nmod	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	condos	_	NNS	NNS	_	13	conj	_	_
+16	.	_	.	.	_	3	punct	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	knows	_	VBZ	VBZ	_	0	root	_	_
+3	his	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	bees	_	NNS	NNS	_	2	dobj	_	_
+5	!	_	.	.	_	2	punct	_	_
+
+1	Suzanne	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Vancouver	_	NNP	NNP	_	1	parataxis	_	_
+

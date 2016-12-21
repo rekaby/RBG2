@@ -1,0 +1,60 @@
+1	What	_	WP	WP	_	3	nsubj	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	do	_	VB	VB	_	0	root	_	_
+4	in	_	IN	IN	_	7	case	_	_
+5	San	_	NNP	NNP	_	6	compound	_	_
+6	Rafael	_	NNP	NNP	_	7	compound	_	_
+7	Ca	_	NNP	NNP	_	3	nmod	_	_
+8	?	_	.	.	_	3	punct	_	_
+
+1	okay	_	UH	UH	_	4	discourse	_	_
+2	so	_	RB	RB	_	4	advmod	_	_
+3	i	_	PRP	PRP	_	4	nsubj	_	_
+4	live	_	VBP	VBP	_	0	root	_	_
+5	in	_	IN	IN	_	8	case	_	_
+6	San	_	NNP	NNP	_	7	compound	_	_
+7	Rafael	_	NNP	NNP	_	8	compound	_	_
+8	Ca	_	NNP	NNP	_	4	nmod	_	_
+9	like	_	UH	UH	_	4	discourse	_	_
+10	by	_	IN	IN	_	13	case	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	mi	_	NNP	NNP	_	13	compound	_	_
+13	pueble	_	NNP	NNP	_	4	nmod	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	the	_	DT	DT	_	17	det	_	_
+16	Home	_	NNP	NNP	_	17	compound	_	_
+17	Depot	_	NNP	NNP	_	13	conj	_	_
+18	..	_	,	,	_	4	punct	_	_
+19	what	_	WP	WP	_	4	parataxis	_	_
+20	are	_	VBP	VBP	_	19	cop	_	_
+21	fun	_	JJ	JJ	_	22	amod	_	_
+22	things	_	NNS	NNS	_	20	nsubj	_	_
+23	to	_	TO	TO	_	24	aux	_	_
+24	do	_	VB	VB	_	22	nfincl	_	_
+25	around	_	RB	RB	_	26	advmod	_	_
+26	there	_	RB	RB	_	24	advmod	_	_
+27	?	_	.	.	_	4	punct	_	_
+
+1	like	_	UH	UH	_	3	discourse	_	_
+2	any	_	DT	DT	_	3	det	_	_
+3	lounges	_	NNS	NNS	_	0	root	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	i	_	PRP	PRP	_	3	nsubj	_	_
+2	m	_	VBP	VBP	_	3	cop	_	_
+3	15	_	CD	CD	_	0	root	_	_
+4	btw	_	RB	RB	_	3	discourse	_	_
+
+1	what	_	WP	WP	_	0	root	_	_
+2	about	_	IN	IN	_	3	case	_	_
+3	downtown	_	NN	NN	_	1	nmod	_	_
+4	...	_	,	,	_	1	punct	_	_
+5	?	_	.	.	_	1	punct	_	_
+
+1	like	_	UH	UH	_	3	discourse	_	_
+2	4th	_	NN	NN	_	3	compound	_	_
+3	street	_	NN	NN	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	stuff	_	NN	NN	_	3	conj	_	_
+6	?	_	.	.	_	3	punct	_	_
+

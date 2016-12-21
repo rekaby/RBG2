@@ -1,0 +1,57 @@
+1	AMAZING	_	JJ	JJ	_	0	root	_	_
+
+1	Absoul	_	NNP	NNP	_	6	nsubj	_	_
+2	is	_	VBZ	VBZ	_	6	cop	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	greatest	_	JJS	JJS	_	6	amod	_	_
+5	donair	_	NN	NN	_	6	compound	_	_
+6	man	_	NN	NN	_	0	root	_	_
+7	on	_	IN	IN	_	9	case	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	planet	_	NN	NN	_	6	nmod	_	_
+10	.	_	.	.	_	6	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommended	_	VBN	VBN	_	0	root	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	enjoy	_	VBP	VBP	_	9	advcl	_	_
+4	amazing	_	JJ	JJ	_	5	amod	_	_
+5	things	_	NNS	NNS	_	3	dobj	_	_
+6	,	_	,	,	_	9	punct	_	_
+7	you	_	PRP	PRP	_	9	nsubj	_	_
+8	must	_	MD	MD	_	9	aux	_	_
+9	go	_	VB	VB	_	0	root	_	_
+10	to	_	IN	IN	_	14	case	_	_
+11	World	_	NNP	NNP	_	14	nmod:poss	_	_
+12	's	_	POS	POS	_	11	case	_	_
+13	Finest	_	NNP	NNP	_	14	compound	_	_
+14	Donair	_	NNP	NNP	_	9	nmod	_	_
+15	.	_	.	.	_	9	punct	_	_
+
+1	Lest	_	IN	IN	_	4	mark	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	be	_	VB	VB	_	4	cop	_	_
+4	lame	_	JJ	JJ	_	0	root	_	_
+5	!!!	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	give	_	VBP	VBP	_	0	root	_	_
+3	this	_	DT	DT	_	4	det	_	_
+4	place	_	NN	NN	_	2	iobj	_	_
+5	11	_	CD	CD	_	2	dobj	_	_
+6	/	_	SYM	SYM	_	7	case	_	_
+7	10	_	CD	CD	_	5	nmod	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	3	_	CD	CD	_	2	nummod	_	_
+2	thumbs	_	NNS	NNS	_	0	root	_	_
+3	up	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	Bon	_	JJ	JJ	_	2	amod	_	_
+2	appetit	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	1	punct	_	_
+

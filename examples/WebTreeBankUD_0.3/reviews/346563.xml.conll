@@ -1,0 +1,60 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	TERRIBLE	_	JJ	JJ	_	3	amod	_	_
+3	EXPERIENCE	_	NN	NN	_	0	root	_	_
+4	!	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	remain	_	VBP	VBP	_	3	cop	_	_
+3	unhappy	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	still	_	RB	RB	_	3	advmod	_	_
+3	have	_	VBP	VBP	_	0	root	_	_
+4	noticeable	_	JJ	JJ	_	5	amod	_	_
+5	scarring	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	still	_	RB	RB	_	3	advmod	_	_
+3	have	_	VBP	VBP	_	0	root	_	_
+4	surgically	_	RB	RB	_	5	advmod	_	_
+5	induced	_	VBN	VBN	_	7	amod	_	_
+6	hair	_	NN	NN	_	7	compound	_	_
+7	loss	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	results	_	NNS	NNS	_	5	nsubj	_	_
+3	were	_	VBD	VBD	_	5	cop	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	AWFUL	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	My	_	PRP$	PRP$	_	3	nmod:poss	_	_
+2	post-op	_	JJ	JJ	_	3	amod	_	_
+3	treatment	_	NN	NN	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	cop	_	_
+5	TERRIBLE	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	recommend	_	VB	VB	_	0	root	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	place	_	NN	NN	_	4	dobj	_	_
+7	last	_	JJ	JJ	_	8	amod	_	_
+8	year	_	NN	NN	_	4	tmod	_	_
+9	,	_	,	,	_	4	punct	_	_
+10	and	_	CC	CC	_	4	cc	_	_
+11	I	_	PRP	PRP	_	15	nsubj	_	_
+12	certainly	_	RB	RB	_	15	advmod	_	_
+13	would	_	MD	MD	_	15	aux	_	_
+14	n't	_	RB	RB	_	15	neg	_	_
+15	recommend	_	VB	VB	_	4	conj	_	_
+16	them	_	PRP	PRP	_	15	dobj	_	_
+17	this	_	DT	DT	_	18	det	_	_
+18	year	_	NN	NN	_	15	tmod	_	_
+19	.	_	.	.	_	4	punct	_	_
+

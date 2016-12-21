@@ -1,0 +1,42 @@
+1	How	_	WRB	WRB	_	3	advmod	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	prepare	_	VB	VB	_	0	root	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	silicon	_	NN	NN	_	6	compound	_	_
+6	rubber	_	NN	NN	_	7	compound	_	_
+7	mould	_	NN	NN	_	3	dobj	_	_
+8	for	_	IN	IN	_	10	case	_	_
+9	human	_	JJ	JJ	_	10	amod	_	_
+10	statue	_	NN	NN	_	3	nmod	_	_
+11	of	_	IN	IN	_	12	case	_	_
+12	size	_	NN	NN	_	10	nmod	_	_
+13	375	_	CD	CD	_	14	nummod	_	_
+14	mm	_	NNS	NNS	_	12	appos	_	_
+15	in	_	IN	IN	_	16	case	_	_
+16	height	_	NN	NN	_	14	nmod	_	_
+17	?	_	.	.	_	3	punct	_	_
+
+1	Here	_	RB	RB	_	2	advmod	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	product	_	NN	NN	_	5	compound	_	_
+5	page	_	NN	NN	_	2	nsubj	_	_
+6	from	_	IN	IN	_	8	case	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	company	_	NN	NN	_	5	nmod	_	_
+9	that	_	WDT	WDT	_	10	nsubj	_	_
+10	makes	_	VBZ	VBZ	_	8	relcl	_	_
+11	mold	_	NN	NN	_	12	compound	_	_
+12	making	_	NN	NN	_	13	compound	_	_
+13	materials	_	NNS	NNS	_	10	dobj	_	_
+
+1	http://www.smooth-on.com/p132/Beginner-Brushable-Mold-Rubber-Options/pages.html	_	ADD	ADD	_	0	root	_	_
+
+1	It	_	PRP	PRP	_	5	nsubj	_	_
+2	is	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	starting	_	NN	NN	_	5	compound	_	_
+5	place	_	NN	NN	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	look	_	VB	VB	_	5	nfincl	_	_
+

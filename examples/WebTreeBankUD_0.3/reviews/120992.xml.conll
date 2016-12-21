@@ -1,0 +1,42 @@
+1	Holly	_	NNP	NNP	_	6	nsubj	_	_
+2	-	_	,	,	_	1	punct	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	owner	_	NN	NN	_	1	appos	_	_
+5	,	_	,	,	_	6	punct	_	_
+6	knows	_	VBZ	VBZ	_	0	root	_	_
+7	exactly	_	RB	RB	_	6	advmod	_	_
+8	how	_	WRB	WRB	_	10	advmod	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	make	_	VB	VB	_	6	ccomp	_	_
+11	you	_	PRP	PRP	_	12	nsubj	_	_
+12	feel	_	VBP	VBP	_	10	ccomp	_	_
+13	beautiful	_	JJ	JJ	_	12	acomp	_	_
+14	in	_	IN	IN	_	15	case	_	_
+15	clothes	_	NNS	NNS	_	12	nmod	_	_
+16	.	_	.	.	_	6	punct	_	_
+
+1	Stylish	_	JJ	JJ	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	contemporary	_	JJ	JJ	_	1	conj	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	no	EXTRA!	RB	RB	_	8	neg	_	_
+6	matter	_	RB	RB	_	8	case	_	_
+7	your	_	PRP$	PRP$	_	8	nmod:poss	_	_
+8	size	_	NN	NN	_	1	parataxis	_	_
+9	or	_	CC	CC	_	8	cc	_	_
+10	personality	_	NN	NN	_	11	compound	_	_
+11	type	_	NN	NN	_	8	conj	_	_
+12	.	_	.	.	_	1	punct	_	_
+
+1	She	_	PRP	PRP	_	4	nsubj	_	_
+2	's	_	VBZ	VBZ	_	4	cop	_	_
+3	an	_	DT	DT	_	4	det	_	_
+4	A	_	NNP	NNP	_	0	root	_	_
+5	+	_	SYM	SYM	_	4	amod	_	_
+6	and	_	CC	CC	_	4	cc	_	_
+7	so	_	RB	RB	_	8	advmod	_	_
+8	are	_	VBP	VBP	_	4	conj	_	_
+9	her	_	PRP$	PRP$	_	10	nmod:poss	_	_
+10	clothes	_	NNS	NNS	_	8	nsubj	_	_
+11	!	_	.	.	_	4	punct	_	_
+

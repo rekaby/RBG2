@@ -1,0 +1,17 @@
+1	hard	_	JJ	JJ	_	0	root	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	forgive	_	VB	VB	_	1	ccomp	_	_
+4	such	_	PDT	PDT	_	7	predet	_	_
+5	an	_	DT	DT	_	7	det	_	_
+6	awful	_	JJ	JJ	_	7	amod	_	_
+7	margarita	_	NN	NN	_	3	dobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	steep	_	JJ	JJ	_	10	amod	_	_
+10	prices	_	NNS	NNS	_	7	conj	_	_
+11	but	_	CC	CC	_	1	cc	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	food	_	NN	NN	_	16	nsubj	_	_
+14	can	_	MD	MD	_	16	aux	_	_
+15	be	_	VB	VB	_	16	cop	_	_
+16	good	_	JJ	JJ	_	1	conj	_	_
+

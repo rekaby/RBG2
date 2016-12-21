@@ -1,0 +1,66 @@
+1	On	_	IN	IN	_	2	case	_	_
+2	time	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	Clean	_	JJ	JJ	_	1	conj	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	nice	_	JJ	JJ	_	1	conj	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	called	_	VBD	VBD	_	0	root	_	_
+3	over	_	IN	IN	_	5	case	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	weekend	_	NN	NN	_	2	nmod	_	_
+6	due	_	IN	IN	_	10	case	_	_
+7	to	_	IN	IN	_	6	mwe	_	_
+8	clogged	_	VBN	VBN	_	10	amod	_	_
+9	kitchen	_	NN	NN	_	10	compound	_	_
+10	sink	_	NN	NN	_	2	nmod	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	Scheduled	_	VBN	VBN	_	0	root	_	_
+2	appointment	_	NN	NN	_	1	dobj	_	_
+3	for	_	IN	IN	_	6	case	_	_
+4	8:30	_	CD	CD	_	6	nummod	_	_
+5	Monday	_	NNP	NNP	_	6	compound	_	_
+6	morning	_	NN	NN	_	2	nmod	_	_
+7	.	_	.	.	_	1	punct	_	_
+
+1	Rich	_	NNP	NNP	_	7	nsubj	_	_
+2	was	_	VBD	VBD	_	7	cop	_	_
+3	here	_	RB	RB	_	2	advmod	_	_
+4	before	_	IN	IN	_	7	case	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	scheduled	_	VBN	VBN	_	7	amod	_	_
+7	time	_	NN	NN	_	0	root	_	_
+8	.	_	.	.	_	7	punct	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	clean	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	nice	_	JJ	JJ	_	4	conj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	work	_	VB	VB	_	7	nfincl	_	_
+10	with	_	IN	IN	_	9	nmod	_	_
+11	and	_	CC	CC	_	4	cc	_	_
+12	gave	_	VBD	VBD	_	4	conj	_	_
+13	a	_	DT	DT	_	16	det	_	_
+14	very	_	RB	RB	_	15	advmod	_	_
+15	reasonable	_	JJ	JJ	_	16	amod	_	_
+16	price	_	NN	NN	_	12	dobj	_	_
+17	.	_	.	.	_	4	punct	_	_
+
+1	HIGHLY	_	RB	RB	_	2	advmod	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	thanks	_	NN	NN	_	0	root	_	_
+2	Rich	_	NNP	NNP	_	1	vocative	_	_
+
+1	Seth	_	NNP	NNP	_	2	compound	_	_
+2	K	_	NNP	NNP	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+

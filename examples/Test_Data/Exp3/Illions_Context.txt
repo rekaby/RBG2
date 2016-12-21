@@ -1,0 +1,385 @@
+guys	Agent	look
+hands	Theme	look
+guys	Owner	with shaggy hair
+
+men	Owner	in green shirts
+men	Agent	standing
+
+friends	Agent	enjoy
+time	Theme	enjoy
+
+men	Agent	operating
+system	Theme	operating
+men	Owner	in hard hats
+
+men	Agent	working
+machine	Theme	working
+hats	Theme	wearing
+
+rig	Theme	on
+men	Agent	on
+
+girl	Agent	going
+girl	Owner	in a pink dress
+cabin	Theme	going
+
+girl	Agent	climbing
+stairs	Theme	climbing
+
+girl	Agent	going
+building	Theme	going
+
+Someone	Owner	in a blue shirt and hat
+Someone	Agent	standing
+stair	Theme	standing
+Someone	Agent	leaning
+
+Man	Agent	cleaning
+windows	Theme	cleaning
+Man	Owner	in blue shirt and jeans
+
+man	Agent	cleans
+window	Theme	cleans
+
+guy	Agent	cooking
+guy	Agent	joking
+with the camera	Instrument	Joking
+
+men	Agent	cooking
+food	Theme	cooking
+on a stove	Instrument	cooking
+
+Two	Agent	cooking
+meal	Theme	cooking
+
+people	Agent	playing
+guitar	Theme	playing
+other	Agent	poking
+him	Theme	poking
+
+man	Owner	in green
+man	Agent	holds
+guitar	Theme	holds
+boy	Agent	observes
+shirt	Theme	observes
+
+boys	Agent	playing
+guitar	Theme	playing
+
+man	Agent	completes
+touches	Agent	completes
+
+man	Agent	holds
+toy	Theme	holds
+
+girl	Agent	talking
+cellphone	Theme	talking
+street	theme	gliding
+
+woman	Agent	walks past
+people	Theme	past
+people	Agent	dressed
+outfits	Theme	dressed
+
+woman	Owner	with a large purse
+women	Agent	walking
+
+people	Agent	standing
+
+youths	Agent	jumping
+
+men	Owner	with no shirts
+men	Agent	jumping
+
+dancers	Agent	jumping
+with wonderful form	Instrument	jumping
+
+class	Agent	jumping
+
+guys	Agent	jumping
+outdoors	Theme	jumping
+with a stone wall	Instrument	jumping
+
+guys	Agent	jumping
+outdoors	Theme	jumping
+outdoors	Owner	with a stone wall
+
+men	Owner	with excited faces
+men	Agent	jumping down
+
+dogs	Agent	moving
+
+man	Owner	in a tractor 
+man	Agent	wearing
+headphones	Theme	wearing
+street	Theme	driving
+
+man	Agent	driving
+tractor	Theme	driving
+on a main road	Instrument	driving
+
+women	Agent	stand
+
+women	Agent	stand
+street	Owner	with tall buildings.
+
+women	Agent	wait
+
+Girl	Owner	in black jacket
+Girl	Agent	sifting
+sugar	Theme	sifting
+over a chocolate cake	Instrument	sifting
+
+Girl	Owner	in black jacket
+Girl	Agent	sifting
+sugar	Theme	sifting
+sugar	Owner	over a chocolate cake
+
+woman	Owner	with dark hair
+woman	Agent	putting
+powder	Theme	putting
+cake	Owner	using a sifter
+
+woman	Owner	with dark hair
+woman	Agent	putting
+powder	Theme	putting
+using a sifter	Instrument	putting
+
+girl	Agent	plays
+fingerpaints	Theme	plays
+canvas	Owner	with a rainbow on it
+
+girl	Agent	sits
+with her hands	Instrument	sits
+
+girl	Agent	sits
+rainbow	Owner	with her hands in a bowl.
+
+man	Agent	sleeping
+dog	Agent	sitting next
+
+man	Agent	lies
+with his dog	Instrument	lies
+
+people	Agent	sitting
+with instruments	Instrument	sitting
+
+people	Agent	sitting
+circle	Owner	with instruments
+
+People	Agent	gathered
+some	Agent	holding
+instruments	Theme	holding
+
+instrumentalists	Agent	play
+clarinets	Theme	play
+in a curtained room	Instrument	play
+
+women	Agent	play
+clarinets	Theme	play
+they	Agent	read
+music	Theme	read
+
+group	Agent	performing
+music	Theme	performing
+on their instruments	Instrument	performing
+
+structure	Theme	broken
+structure	Agent	laying
+
+person	Owner	in gray
+person	Agent	stands
+outdoors	Owner	in the dark.
+
+man	Owner	in a jacket and jeans
+man	Agent	standing
+
+man	Owner	in a white t-shirt
+man	Agent	looks toward
+camera	Theme	looks toward
+
+crowd	Theme	portrayed
+
+man	Agent	putting
+tattoo	Theme	putting
+
+man	Agent	putting
+tattoo	Theme	putting
+with a tool	Instrument	putting
+
+man	Agent	putting
+tattoo	Theme	putting
+back	Owner	with a muscle
+
+man	Owner	with a black shirt
+man	Agent	giving
+guy	Theme	giving
+tattoo	Theme	giving
+
+man	Agent	putting
+tattoo	Theme	putting
+
+children	Agent	practicing
+girl	Agent	practicing
+boy	Agent	practicing
+writing	Theme	practicing
+
+children	Agent	sitting
+totter	Theme	sitting
+
+man	Owner	in bright vest and hard hat
+man	Agent	holds
+flag	Theme	holds
+corner	Owner	covered in spray paint
+
+man	Owner	in bright vest and hard hat
+man	Agent	holds
+flag	Theme	holds
+flag	Owner	covered in spray paint
+
+worker	Agent	standing
+flag	Theme	holding
+
+man	Owner	with glasses
+man	Agent	wearing
+hat	Theme	wearing
+
+man	Agent	wears
+hat and glasses	Theme	wears
+
+person	Owner	with gray hair
+person	Agent	painting
+place	Owner	surrounded by others
+who	Agent	painting
+
+man	Owner	in green pants and blue shirt
+man	Agent	pushing
+cart	Theme	pushing
+
+Janitor	Agent	pushing
+dolly	Theme	pushing
+with janitor tools	Instrument	pushing
+
+Janitor	Agent	pushing
+dolly	Theme	pushing
+outside	Owner	with janitor tools
+
+child	Agent	grips
+at the playground	Instrument	grips.
+
+child	Agent	grips
+ropes	Owner	at the playground
+
+girl	Owner	in pink
+girl	Agent	climbs
+bridge	Theme	climbs
+bringe	Owner	at the park.
+
+man	Owner	in jacket
+man	Agent	holding
+toothpick	Theme	holding
+toothpick	Owner	with something on the end of it
+
+man	Owner	in jacket
+man	Agent	holding
+toothpick	Theme	holding
+with something on the end of it	Instrument	holding
+
+man	Agent	traveling
+
+man	Owner	in a black and yellow jacket
+man	Agent	gazing
+man	Agent	smiling
+
+man	Agent	holds
+cup	Theme	holds
+
+people	Agent	walking
+sky	Owner	in the background
+
+silhouettes	Agent	decorate
+sunset	Theme	decorate
+
+man	Agent	sitting
+table	Owner	with a drink
+
+man	Agent	sitting
+with a drink	Instrument	sitting
+
+man	Agent	having
+beer	Theme	having
+
+dog	Agent	running
+garden	Owner	surrounded by a white fence.
+
+dog	Agent	running
+surrounded by a white fence	Instrument	running
+
+officer	Agent	stands
+officer	Owner	in a reflective vest
+van	Owner	with his dog.
+
+officer	Agent	stands
+officer	Owner	in a reflective vest
+with his dog	instrument	stands
+
+man	Owner	with his watch dog
+man	Agent	looking
+
+person	Agent	riding
+bike	Theme	riding
+on a snowy road	Instrument	riding
+
+men	Agent	wearing
+ties	Theme	wearing
+men	Agent	talk
+
+man	Agent	works
+man	Owner	with a backwards
+machinery	Theme	works
+
+woman	Agent	working
+jars	Theme	packing
+with candles	Instrument	packing
+into boxes	Instrument	packing
+
+woman	Agent	working
+jars	Theme	packing
+jars	Owner	with candles
+into boxes	Instrument	packing
+
+woman	Agent	working
+jars	Theme	packing
+with candles	Instrument	packing
+candles	Owner	into boxes
+
+woman	Agent	working
+jars	Theme	packing
+jars	Owner	with candles
+candles	Owner	into boxes
+
+manager	Agent	assisting
+employee	Theme	assisting
+
+man	Agent	using
+broom	Theme	using
+dirt	Theme	remove
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

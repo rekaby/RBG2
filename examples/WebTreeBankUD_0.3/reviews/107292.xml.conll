@@ -1,0 +1,12 @@
+1	awesome	_	JJ	JJ	_	2	amod	_	_
+2	bagels	_	NNS	NNS	_	0	root	_	_
+
+1	long	_	JJ	JJ	_	2	amod	_	_
+2	lines	_	NNS	NNS	_	0	root	_	_
+3	on	_	IN	IN	_	5	case	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	weekends	_	NNS	NNS	_	2	nmod	_	_
+6	but	_	CC	CC	_	2	cc	_	_
+7	worth	_	JJ	JJ	_	2	conj	_	_
+8	it	_	PRP	PRP	_	7	expl	_	_
+

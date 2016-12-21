@@ -1,0 +1,23 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	like	_	VBP	VBP	_	0	root	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	Move	_	VBP	VBP	_	9	compound	_	_
+5	CA	_	NNP	NNP	_	9	compound	_	_
+6	-	_	HYPH	HYPH	_	9	punct	_	_
+7	Los	_	NNP	NNP	_	8	compound	_	_
+8	Angeles	_	NNP	NNP	_	9	compound	_	_
+9	Movers	_	NNPS	NNPS	_	2	dobj	_	_
+10	,	_	,	,	_	2	punct	_	_
+11	they	_	PRP	PRP	_	12	nsubj	_	_
+12	moved	_	VBD	VBD	_	2	parataxis	_	_
+13	me	_	PRP	PRP	_	12	dobj	_	_
+14	before	_	RB	RB	_	12	advmod	_	_
+15	,	_	,	,	_	12	punct	_	_
+16	but	_	CC	CC	_	12	cc	_	_
+17	this	_	DT	DT	_	18	det	_	_
+18	time	_	NN	NN	_	21	tmod	_	_
+19	they	_	PRP	PRP	_	21	nsubj	_	_
+20	were	_	VBD	VBD	_	21	cop	_	_
+21	awesome	_	JJ	JJ	_	12	conj	_	_
+22	:-RRB-	_	NFP	NFP	_	2	discourse	_	_
+

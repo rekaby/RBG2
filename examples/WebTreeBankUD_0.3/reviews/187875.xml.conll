@@ -1,0 +1,77 @@
+1	BAD	_	JJ	JJ	_	2	amod	_	_
+2	COFFEE	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	DO	_	VB	VB	_	6	aux	_	_
+5	NT	_	RB	RB	_	6	neg	_	_
+6	BOTHER	_	VB	VB	_	2	parataxis	_	_
+7	!	_	.	.	_	2	punct	_	_
+
+1	Ca	_	MD	MD	_	4	aux	_	_
+2	n't	_	RB	RB	_	4	neg	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	make	_	VB	VB	_	0	root	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	decent	_	JJ	JJ	_	7	amod	_	_
+7	cup	_	NN	NN	_	4	dobj	_	_
+8	of	_	IN	IN	_	9	case	_	_
+9	coffee	_	NN	NN	_	7	nmod	_	_
+10	?	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	charge	_	VBP	VBP	_	0	root	_	_
+3	SO	_	RB	RB	_	4	advmod	_	_
+4	MUCH	_	JJ	JJ	_	2	dobj	_	_
+5	,	_	,	,	_	2	punct	_	_
+6	yet	_	CC	CC	_	2	cc	_	_
+7	you	_	PRP	PRP	_	8	nsubj	_	_
+8	use	_	VBP	VBP	_	2	conj	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	same	_	JJ	JJ	_	11	amod	_	_
+11	grounds	_	NNS	NNS	_	8	dobj	_	_
+12	over	_	RB	RB	_	8	advmod	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	over	_	RB	RB	_	15	advmod	_	_
+15	again	_	RB	RB	_	12	conj	_	_
+16	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	coffee	_	NN	NN	_	3	nsubj	_	_
+3	taste	_	VBP	VBP	_	0	root	_	_
+4	BURNT	_	JJ	JJ	_	3	xcomp	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	bitter	_	JJ	JJ	_	4	conj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	No	_	DT	DT	_	2	det	_	_
+2	amount	_	NN	NN	_	8	nsubj	_	_
+3	of	_	IN	IN	_	4	case	_	_
+4	sugar	_	NN	NN	_	2	nmod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	milk	_	NN	NN	_	4	conj	_	_
+7	can	_	MD	MD	_	8	aux	_	_
+8	mask	_	VB	VB	_	0	root	_	_
+9	it	_	PRP	PRP	_	8	dobj	_	_
+10	.	_	.	.	_	8	punct	_	_
+
+1	CHANGE	_	VB	VB	_	0	root	_	_
+2	THE	_	DT	DT	_	3	det	_	_
+3	PROCESS	_	NN	NN	_	1	dobj	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	PPL	_	NNS	NNS	_	1	dobj	_	_
+6	!	_	.	.	_	1	punct	_	_
+
+1	Westfield	_	NNP	NNP	_	5	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Rt	_	NNP	NNP	_	1	conj	_	_
+4	1	_	CD	CD	_	3	nummod	_	_
+5	do	_	VBP	VBP	_	0	root	_	_
+6	it	_	PRP	PRP	_	5	dobj	_	_
+7	well	_	RB	RB	_	5	advmod	_	_
+8	,	_	,	,	_	5	punct	_	_
+9	WHY	_	WRB	WRB	_	10	advmod	_	_
+10	CA	_	MD	MD	_	5	parataxis	_	_
+11	NT	_	RB	RB	_	10	neg	_	_
+12	U	_	PRP	PRP	_	10	dep	_	_
+13	????	_	.	.	_	5	punct	_	_
+

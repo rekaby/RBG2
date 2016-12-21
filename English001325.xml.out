@@ -1,0 +1,25 @@
+1	Highly	_	RB	RB	_	2	_	_	_
+2	recommended	_	VBN	VBN	_	0	_	_	_
+
+1	My	_	PRP$	PRP$	_	5	_	_	_
+2	8	_	CD	CD	_	3	_	_	_
+3	year	_	NN	NN	_	4	_	_	_
+4	old	_	JJ	JJ	_	5	_	_	_
+5	daughter	_	NN	NN	_	6	_	_	_
+6	loves	_	VBZ	VBZ	_	0	_	_	_
+7	this	_	DT	DT	_	8	_	_	_
+8	place	_	NN	NN	_	6	_	_	_
+9	.	_	.	.	_	6	_	_	_
+
+1	The	_	DT	DT	_	4	_	_	_
+2	best	_	JJS	JJS	_	4	_	_	_
+3	climbing	_	NN	NN	_	4	_	_	_
+4	club	_	NN	NN	_	0	_	_	_
+5	around	_	RB	RB	_	4	_	_	_
+6	.	_	.	.	_	4	_	_	_
+
+1	Hooray	_	UH	UH	_	0	_	_	_
+2	for	_	IN	IN	_	3	_	_	_
+3	Craggy	_	NNP	NNP	_	1	_	_	_
+4	.	_	.	.	_	1	_	_	_
+

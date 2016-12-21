@@ -1,0 +1,84 @@
+1	What	_	WP	WP	_	0	root	_	_
+2	are	_	VBP	VBP	_	1	cop	_	_
+3	"	_	``	``	_	6	punct	_	_
+4	good	_	JJ	JJ	_	6	amod	_	_
+5	"	_	``	``	_	6	punct	_	_
+6	speakers	_	NNS	NNS	_	1	nsubj	_	_
+7	?	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	've	_	VBP	VBP	_	4	aux	_	_
+3	been	_	VBN	VBN	_	4	aux	_	_
+4	looking	_	VBG	VBG	_	0	root	_	_
+5	at	_	IN	IN	_	9	case	_	_
+6	the	_	DT	DT	_	9	det	_	_
+7	bose	_	NNP	NNP	_	9	compound	_	_
+8	sound	_	NNP	NNP	_	9	compound	_	_
+9	dock	_	NNP	NNP	_	4	nmod	_	_
+10	10	_	CD	CD	_	9	nummod	_	_
+11	i	_	PRP	PRP	_	14	nsubj	_	_
+12	ve	_	VBP	VBP	_	14	aux	_	_
+13	currently	_	RB	RB	_	14	advmod	_	_
+14	got	_	VBN	VBN	_	4	parataxis	_	_
+15	a	_	DT	DT	_	19	det	_	_
+16	jvc	_	NNP	NNP	_	19	compound	_	_
+17	mini	_	AFX	AFX	_	19	compound	_	_
+18	hifi	_	NN	NN	_	19	compound	_	_
+19	system	_	NN	NN	_	14	dobj	_	_
+20	,	_	,	,	_	4	punct	_	_
+21	i	_	PRP	PRP	_	23	nsubj	_	_
+22	was	_	VBD	VBD	_	23	aux	_	_
+23	wondering	_	VBG	VBG	_	4	parataxis	_	_
+24	what	_	WP	WP	_	29	nsubj	_	_
+25	would	_	MD	MD	_	29	aux	_	_
+26	be	_	VB	VB	_	29	cop	_	_
+27	a	_	DT	DT	_	29	det	_	_
+28	good	_	JJ	JJ	_	29	amod	_	_
+29	set	_	NN	NN	_	23	ccomp	_	_
+30	of	_	IN	IN	_	31	case	_	_
+31	speakers	_	NNS	NNS	_	29	nmod	_	_
+32	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	like	_	VBP	VBP	_	0	root	_	_
+3	music	_	NN	NN	_	2	dobj	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	loud	_	JJ	JJ	_	2	xcomp	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	with	_	IN	IN	_	9	case	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	lot	_	NN	NN	_	5	conj	_	_
+10	of	_	IN	IN	_	11	case	_	_
+11	bass	_	NN	NN	_	9	nmod	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	also	_	RB	RB	_	4	advmod	_	_
+2	i	_	PRP	PRP	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	aux	_	_
+4	wondering	_	VBG	VBG	_	0	root	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	is	_	VBZ	VBZ	_	8	aux	_	_
+7	it	_	PRP	PRP	_	8	expl	_	_
+8	true	_	JJ	JJ	_	4	ccomp	_	_
+9	that	_	IN	IN	_	16	mark	_	_
+10	the	_	DT	DT	_	11	mark	_	_
+11	bigger	_	JJR	JJR	_	16	advcl	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	speakers	_	NNS	NNS	_	11	nsubj	_	_
+14	are	_	VBP	VBP	_	11	cop	_	_
+15	the	_	DT	DT	_	16	mark	_	_
+16	better	_	JJR	JJR	_	8	ccomp	_	_
+17	.	_	.	.	_	4	punct	_	_
+
+1	thanks	_	NN	NN	_	0	root	_	_
+
+1	B	_	JJ	JJ	_	0	root	_	_
+2	&	_	CC	CC	_	1	cc	_	_
+3	w	_	JJ	JJ	_	1	conj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Bose	_	NNP	NNP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	good	_	JJ	JJ	_	0	root	_	_
+

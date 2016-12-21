@@ -1,0 +1,16 @@
+1	Green	_	JJ	JJ	_	2	amod	_	_
+2	Tea	_	NN	NN	_	0	root	_	_
+3	Or	_	CC	CC	_	2	cc	_	_
+4	White	_	JJ	JJ	_	5	amod	_	_
+5	Tea	_	NN	NN	_	2	conj	_	_
+6	?	_	.	.	_	2	punct	_	_
+
+1	Green	_	JJ	JJ	_	0	root	_	_
+
+1	Green	_	JJ	JJ	_	2	amod	_	_
+2	Tea	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Green	_	JJ	JJ	_	2	amod	_	_
+2	tea	_	NN	NN	_	0	root	_	_
+

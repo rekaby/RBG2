@@ -1,0 +1,51 @@
+1	BEST	_	JJS	JJS	_	2	amod	_	_
+2	DENTIST	_	NN	NN	_	0	root	_	_
+3	EVER	_	RB	RB	_	2	advmod	_	_
+4	-	_	,	,	_	2	punct	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	fast	_	JJ	JJ	_	5	amod	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	efficient	_	JJ	JJ	_	2	conj	_	_
+5	service	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	had	_	VBN	VBN	_	0	root	_	_
+4	several	_	JJ	JJ	_	5	amod	_	_
+5	dentists	_	NNS	NNS	_	3	dobj	_	_
+6	in	_	IN	IN	_	8	case	_	_
+7	my	_	PRP$	PRP$	_	8	nmod:poss	_	_
+8	life	_	NN	NN	_	3	nmod	_	_
+9	,	_	,	,	_	3	punct	_	_
+10	but	_	CC	CC	_	3	cc	_	_
+11	Dr.	_	NNP	NNP	_	12	compound	_	_
+12	Deters	_	NNP	NNP	_	17	nsubj	_	_
+13	is	_	VBZ	VBZ	_	17	cop	_	_
+14	by	_	IN	IN	_	15	case	_	_
+15	far	_	RB	RB	_	17	nmod	_	_
+16	my	_	PRP$	PRP$	_	17	nmod:poss	_	_
+17	favorite	_	JJ	JJ	_	3	conj	_	_
+18	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	never	_	RB	RB	_	3	neg	_	_
+3	wait	_	VB	VB	_	0	root	_	_
+4	in	_	IN	IN	_	7	case	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	waiting	_	NN	NN	_	7	compound	_	_
+7	room	_	NN	NN	_	3	nmod	_	_
+8	more	_	JJR	JJR	_	10	advmod	_	_
+9	than	_	IN	IN	_	8	mwe	_	_
+10	two	_	CD	CD	_	11	nummod	_	_
+11	minutes	_	NNS	NNS	_	3	nmod:npmod	_	_
+12	and	_	CC	CC	_	3	cc	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	cleanings	_	NNS	NNS	_	16	nsubj	_	_
+15	are	_	VBP	VBP	_	16	cop	_	_
+16	quick	_	JJ	JJ	_	3	conj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	painless	_	JJ	JJ	_	16	conj	_	_
+19	.	_	.	.	_	3	punct	_	_
+

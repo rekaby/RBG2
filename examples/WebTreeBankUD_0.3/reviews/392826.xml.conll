@@ -1,0 +1,33 @@
+1	Extremely	_	RB	RB	_	2	advmod	_	_
+2	greasy	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Hit	_	NN	NN	_	0	root	_	_
+2	or	_	CC	CC	_	1	cc	_	_
+3	miss	_	NN	NN	_	1	conj	_	_
+4	on	_	IN	IN	_	6	case	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	service	_	NN	NN	_	1	nmod	_	_
+7	.	_	.	.	_	1	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	fries	_	NNS	NNS	_	6	nsubjpass	_	_
+3	were	_	VBD	VBD	_	6	auxpass	_	_
+4	n't	_	RB	RB	_	6	neg	_	_
+5	fully	_	RB	RB	_	6	advmod	_	_
+6	cooked	_	VBN	VBN	_	0	root	_	_
+7	last	_	JJ	JJ	_	8	amod	_	_
+8	time	_	NN	NN	_	6	tmod	_	_
+9	I	_	PRP	PRP	_	10	nsubj	_	_
+10	went	_	VBD	VBD	_	8	relcl	_	_
+11	there	_	RB	RB	_	10	advmod	_	_
+12	.	_	.	.	_	6	punct	_	_
+
+1	Pretty	_	RB	RB	_	2	advmod	_	_
+2	spendy	_	JJ	JJ	_	0	root	_	_
+3	for	_	IN	IN	_	7	case	_	_
+4	really	_	RB	RB	_	6	advmod	_	_
+5	not	_	RB	RB	_	6	neg	_	_
+6	great	_	JJ	JJ	_	7	amod	_	_
+7	quality	_	NN	NN	_	2	nmod	_	_
+

@@ -1,0 +1,14 @@
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	great	_	JJ	JJ	_	0	root	_	_
+4	!	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	wo	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	go	_	VB	VB	_	0	root	_	_
+5	to	_	IN	IN	_	6	case	_	_
+6	anyone	_	NN	NN	_	4	nmod	_	_
+7	else	_	JJ	JJ	_	6	amod	_	_
+8	.	_	.	.	_	4	punct	_	_
+

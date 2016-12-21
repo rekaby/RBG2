@@ -1,0 +1,92 @@
+1	Studying	_	VBG	VBG	_	0	root	_	_
+2	in	_	IN	IN	_	3	case	_	_
+3	Quebec	_	NNP	NNP	_	1	nmod	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	Canada	_	NNP	NNP	_	3	appos	_	_
+6	?	_	.	.	_	1	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	went	_	VBD	VBD	_	0	root	_	_
+4	into	_	IN	IN	_	9	case	_	_
+5	the	_	DT	DT	_	9	det	_	_
+6	"	_	``	``	_	7	punct	_	_
+7	pre-university	_	JJ	JJ	_	9	amod	_	_
+8	"	_	''	''	_	7	punct	_	_
+9	direction	_	NN	NN	_	3	nmod	_	_
+10	with	EXTRA!	IN	IN	_	14	mark	_	_
+11	business	_	NN	NN	_	12	compound	_	_
+12	administration	_	NN	NN	_	13	nsubj	_	_
+13	in	_	IN	IN	_	14	case	_	_
+14	mind	_	NN	NN	_	3	advcl	_	_
+15	.	_	.	.	_	3	punct	_	_
+
+1	Say	_	VB	VB	_	0	root	_	_
+2	after	_	IN	IN	_	4	mark	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	finished	_	VBD	VBD	_	1	ccomp	_	_
+5	those	_	DT	DT	_	7	det	_	_
+6	2	_	CD	CD	_	7	nummod	_	_
+7	years	_	NNS	NNS	_	4	dobj	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	I	_	PRP	PRP	_	10	nsubj	_	_
+10	found	_	VBD	VBD	_	4	conj	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	job	_	NN	NN	_	10	dobj	_	_
+13	.	_	.	.	_	1	punct	_	_
+
+1	would	_	MD	MD	_	4	aux	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	be	_	VB	VB	_	4	cop	_	_
+4	able	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	go	_	VB	VB	_	4	xcomp	_	_
+7	back	_	RB	RB	_	6	advmod	_	_
+8	to	_	IN	IN	_	9	case	_	_
+9	school	_	NN	NN	_	7	nmod	_	_
+10	after	_	IN	IN	_	13	case	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	year	_	NN	NN	_	13	compound	_	_
+13	break	_	NN	NN	_	6	nmod	_	_
+14	at	_	IN	IN	_	16	case	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	university	_	NN	NN	_	13	nmod	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	get	_	VB	VB	_	6	nfincl	_	_
+19	a	_	DT	DT	_	22	det	_	_
+20	Bachelor	_	NNP	NNP	_	22	nmod:poss	_	_
+21	s	_	POS	POS	_	20	case	_	_
+22	degree	_	NN	NN	_	18	dobj	_	_
+23	in	_	IN	IN	_	25	case	_	_
+24	business	_	NN	NN	_	25	compound	_	_
+25	administration	_	NN	NN	_	22	nmod	_	_
+26	?	_	.	.	_	4	punct	_	_
+
+1	Any	_	DT	DT	_	2	det	_	_
+2	information	_	NN	NN	_	4	nsubj	_	_
+3	would	_	MD	MD	_	4	aux	_	_
+4	help	_	VB	VB	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Thank	_	VBP	VBP	_	0	root	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	should	_	MD	MD	_	4	aux	_	_
+3	be	_	VB	VB	_	4	cop	_	_
+4	able	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	4	xcomp	_	_
+6	no	_	DT	DT	_	7	det	_	_
+7	problem	_	NN	NN	_	4	nmod:npmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Universities	_	NNS	NNS	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	take	_	VB	VB	_	0	root	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	whatever	_	WDT	WDT	_	6	det	_	_
+6	age	_	NN	NN	_	3	nmod:npmod	_	_
+7	you	_	PRP	PRP	_	8	nsubj	_	_
+8	are	_	VBP	VBP	_	6	relcl	_	_
+9	.	_	.	.	_	3	punct	_	_
+

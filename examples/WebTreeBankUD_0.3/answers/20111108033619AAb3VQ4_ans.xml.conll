@@ -1,0 +1,53 @@
+1	Do	_	VBP	VBP	_	6	aux	_	_
+2	people	_	NNS	NNS	_	6	nsubj	_	_
+3	Bare	_	JJ	JJ	_	5	amod	_	_
+4	-	_	HYPH	HYPH	_	5	punct	_	_
+5	knuckle	_	NN	NN	_	6	nmod:npmod	_	_
+6	box	_	VB	VB	_	0	root	_	_
+7	in	_	IN	IN	_	8	case	_	_
+8	Ireland	_	NNP	NNP	_	6	nmod	_	_
+9	?	_	.	.	_	6	punct	_	_
+
+1	Certain	_	JJ	JJ	_	2	amod	_	_
+2	elements	_	NNS	NNS	_	7	nsubj	_	_
+3	of	_	IN	IN	_	6	case	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	travelling	_	NN	NN	_	6	compound	_	_
+6	community	_	NN	NN	_	2	nmod	_	_
+7	engage	_	VBP	VBP	_	0	root	_	_
+8	in	_	IN	IN	_	10	case	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	activity	_	NN	NN	_	7	nmod	_	_
+11	,	_	,	,	_	7	punct	_	_
+12	but	_	CC	CC	_	7	cc	_	_
+13	overall	_	RB	RB	_	15	advmod	_	_
+14	no	_	UH	UH	_	15	discourse	_	_
+15	not	_	RB	RB	_	7	conj	_	_
+16	really	_	RB	RB	_	15	dep	_	_
+17	.	_	.	.	_	7	punct	_	_
+
+1	Er	_	UH	UH	_	3	discourse	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	no	_	UH	UH	_	0	root	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	some	_	DT	DT	_	2	det	_	_
+2	members	_	NNS	NNS	_	9	nsubj	_	_
+3	of	_	IN	IN	_	6	case	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	traveler	_	NN	NN	_	6	compound	_	_
+6	community	_	NN	NN	_	2	nmod	_	_
+7	bare	_	JJ	JJ	_	8	amod	_	_
+8	knuckle	_	NN	NN	_	9	nmod:npmod	_	_
+9	box	_	VBP	VBP	_	0	root	_	_
+10	.	_	.	.	_	9	punct	_	_
+
+1	other	_	RB	RB	_	7	advmod	_	_
+2	than	_	IN	IN	_	3	case	_	_
+3	that	_	DT	DT	_	1	nmod	_	_
+4	i	_	PRP	PRP	_	7	nsubj	_	_
+5	do	_	VBP	VBP	_	7	aux	_	_
+6	n't	_	RB	RB	_	7	neg	_	_
+7	know	_	VB	VB	_	0	root	_	_
+8	.	_	.	.	_	7	punct	_	_
+

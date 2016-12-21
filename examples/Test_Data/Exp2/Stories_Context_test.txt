@@ -1,0 +1,14 @@
+They	Agent	fly
+
+brothers	Agent	flying
+sisters	Theme	flying
+
+she	Agent	looked
+she	Agent	saw
+sight	Theme	saw
+
+Alberta	Agent	was flying
+
+family	Agent	cheered
+nest	Agent	was
+

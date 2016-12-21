@@ -1,0 +1,38 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	won	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	golf	_	NN	NN	_	5	compound	_	_
+5	lesson	_	NN	NN	_	6	compound	_	_
+6	certificate	_	NN	NN	_	2	dobj	_	_
+7	with	_	IN	IN	_	8	case	_	_
+8	Adz	_	NNP	NNP	_	6	nmod	_	_
+9	through	_	IN	IN	_	12	case	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	charity	_	NN	NN	_	12	compound	_	_
+12	auction	_	NN	NN	_	2	nmod	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	lesson	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VBD	VBD	_	4	auxpass	_	_
+4	donated	_	VBN	VBN	_	0	root	_	_
+5	by	_	IN	IN	_	7	case	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	teacher	_	NN	NN	_	4	nmod	_	_
+8	Adz	_	NNP	NNP	_	7	appos	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	So	_	RB	RB	_	3	advmod	_	_
+2	i	_	PRP	PRP	_	3	nsubj	_	_
+3	booked	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	lesson	_	NN	NN	_	3	dobj	_	_
+6	and	_	CC	CC	_	3	cc	_	_
+7	loved	_	VBD	VBD	_	3	conj	_	_
+8	it	_	PRP	PRP	_	7	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	teacher	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+

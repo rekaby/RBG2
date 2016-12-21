@@ -1,0 +1,74 @@
+1	Home	_	NN	NN	_	2	nmod:npmod	_	_
+2	made	_	VBN	VBN	_	3	amod	_	_
+3	product	_	NN	NN	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	sometimes	_	RB	RB	_	3	advmod	_	_
+3	go	_	VBP	VBP	_	0	root	_	_
+4	into	_	IN	IN	_	6	case	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	store	_	NN	NN	_	3	nmod	_	_
+7	just	EXTRA!	RB	RB	_	9	advmod	_	_
+8	for	_	IN	IN	_	9	case	_	_
+9	something	_	NN	NN	_	3	nmod	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	do	_	VB	VB	_	9	nfincl	_	_
+12	on	_	IN	IN	_	15	case	_	_
+13	a	_	DT	DT	_	15	det	_	_
+14	sunday	_	NNP	NNP	_	15	compound	_	_
+15	afternoon	_	NN	NN	_	11	nmod	_	_
+16	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	people	_	NNS	NNS	_	2	dobj	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	product	_	NN	NN	_	4	conj	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	service	_	NN	NN	_	4	conj	_	_
+11	!	_	.	.	_	2	punct	_	_
+
+1	Nothing	_	NN	NN	_	2	nsubj	_	_
+2	compares	_	VBZ	VBZ	_	0	root	_	_
+3	to	_	IN	IN	_	7	case	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	home	_	NN	NN	_	6	nmod:npmod	_	_
+6	made	_	VBN	VBN	_	7	amod	_	_
+7	product	_	NN	NN	_	2	nmod	_	_
+8	that	_	WDT	WDT	_	10	nsubj	_	_
+9	really	_	RB	RB	_	10	advmod	_	_
+10	stands	_	VBZ	VBZ	_	7	relcl	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	test	_	NN	NN	_	10	dobj	_	_
+13	of	_	IN	IN	_	14	case	_	_
+14	time	_	NN	NN	_	12	nmod	_	_
+15	.	_	.	.	_	2	punct	_	_
+16	-	_	NFP	NFP	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Brick	_	NNP	NNP	_	9	nsubj	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	Ikea	_	NNP	NNP	_	2	conj	_	_
+5	,	_	,	,	_	2	punct	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	Leon	_	NNP	NNP	_	2	conj	_	_
+8	's	_	POS	POS	_	7	case	_	_
+9	have	_	VBP	VBP	_	0	root	_	_
+10	their	_	PRP$	PRP$	_	11	nmod:poss	_	_
+11	place	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	9	punct	_	_
+
+1	But	_	CC	CC	_	7	cc	_	_
+2	furniture	_	NN	NN	_	7	nsubj	_	_
+3	like	_	IN	IN	_	4	case	_	_
+4	this	_	DT	DT	_	2	nmod	_	_
+5	will	_	MD	MD	_	7	aux	_	_
+6	truly	_	RB	RB	_	7	advmod	_	_
+7	be	_	VB	VB	_	0	root	_	_
+8	around	_	RB	RB	_	7	advmod	_	_
+9	forever	_	RB	RB	_	7	advmod	_	_
+10	.	_	.	.	_	7	punct	_	_
+

@@ -1,0 +1,376 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	Japanese	_	NN	NNP	_	3	nsubj	_	_
+3	smeared	_	VB	VBN	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	cameraman	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Japanese	_	NN	NNP	_	3	nsubj	_	_
+3	crowned	_	VB	VBN	_	0	null	_	_
+4	sometimes	_	RB	RB	_	3	advmod	_	_
+5	just	_	RB	RB	_	8	advmod	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	police	_	NN	NN	_	8	nn	_	_
+8	officers	_	NN	NNS	_	3	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cameraman	_	NN	NN	_	3	nsubj	_	_
+3	smeared	_	VB	VBN	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	Japanese	_	NN	NNP	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	police	_	NN	NN	_	3	nn	_	_
+3	officers	_	NN	NNS	_	4	nsubj	_	_
+4	crowned	_	VB	VBN	_	0	null	_	_
+5	sometimes	_	RB	RB	_	4	advmod	_	_
+6	just	_	RB	RB	_	8	advmod	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	Japanese	_	NN	NNP	_	5	dep	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	wheelchair	_	NN	NN	_	3	nn	_	_
+3	user	_	NN	NN	_	4	nsubj	_	_
+4	costumed	_	VB	VBN	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	referee	_	NN	NN	_	4	dobj	_	_
+7	here	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	wheelchair	_	NN	NN	_	3	nn	_	_
+3	user	_	NN	NN	_	4	nsubj	_	_
+4	remunerated	_	VB	VBD	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Chinese	_	NN	NNPS	_	4	dobj	_	_
+7	here	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	referee	_	NN	NN	_	3	nsubj	_	_
+3	costumed	_	VB	VBN	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	wheelchair	_	NN	NN	_	6	nn	_	_
+6	user	_	NN	NN	_	3	dobj	_	_
+7	here	_	RB	RB	_	3	advmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Chinese	_	NN	NNP	_	3	nsubj	_	_
+3	remunerated	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	wheelchair	_	NN	NN	_	6	nn	_	_
+6	user	_	NN	NN	_	3	dobj	_	_
+7	here	_	RB	RB	_	3	advmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	businesswoman	_	NN	NN	_	3	nsubj	_	_
+3	girded	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	plumber	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	businesswoman	_	NN	NN	_	3	nsubj	_	_
+3	feeds	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	beekeepers	_	NN	NNS	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	plumber	_	NN	NN	_	3	nsubj	_	_
+3	girded	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	businesswoman	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	beekeepers	_	NN	NNS	_	3	nsubj	_	_
+3	feeds	_	VB	VBZ	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	businesswoman	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	bathing	_	NN	NN	_	3	nn	_	_
+3	beauty	_	NN	NN	_	4	nsubj	_	_
+4	masked	_	VB	VBD	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	skier	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	bathing	_	NN	NN	_	3	nn	_	_
+3	beauty	_	NN	NN	_	4	nsubj	_	_
+4	rewards	_	NN	NN	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	prince	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	skier	_	NN	NN	_	3	nsubj	_	_
+3	masked	_	VB	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	bathing	_	NN	NN	_	6	nn	_	_
+6	beauty	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	prince	_	NN	NN	_	3	nsubj	_	_
+3	rewards	_	NN	NN	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	bathing	_	NN	NN	_	6	nn	_	_
+6	beauty	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	aerobics	_	NN	NNS	_	3	nn	_	_
+3	instructor	_	NN	NN	_	4	nsubj	_	_
+4	cautioned	_	VB	VBD	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	astronaut	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	aerobic	_	JJ	JJ	_	3	amod	_	_
+3	trainer	_	NN	NN	_	4	nsubj	_	_
+4	shows	_	VB	VBZ	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	craftsman	_	NN	NNS	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	astronaut	_	NN	NN	_	3	nsubj	_	_
+3	cautioned	_	VB	VBD	_	0	null	_	_
+4	obviously	_	RB	RB	_	3	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	aerobics	_	NN	NN	_	7	nn	_	_
+7	instructor	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	craftsman	_	NN	NNS	_	3	nsubj	_	_
+3	shows	_	VB	VBZ	_	0	null	_	_
+4	obviously	_	RB	RB	_	7	advmod	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	aerobic	_	JJ	JJ	_	7	amod	_	_
+7	trainer	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Japanese	_	NN	NNP	_	4	nsubjpass	_	_
+3	is	_	VB	VBZ	_	4	auxpass	_	_
+4	smeared	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	cameraman	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Japanese	_	NN	NNP	_	4	nsubjpass	_	_
+3	was	_	VB	VBD	_	4	auxpass	_	_
+4	crowned	_	VB	VBN	_	0	null	_	_
+5	sometimes	_	RB	RB	_	4	advmod	_	_
+6	just	_	RB	RB	_	7	dep	_	_
+7	by	_	IN	IN	_	4	prep	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	police	_	NN	NN	_	10	nn	_	_
+10	officers	_	NN	NNS	_	7	pobj	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cameraman	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VB	VBD	_	4	auxpass	_	_
+4	smeared	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	Japanese	_	NN	NNP	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	police	_	NN	NN	_	3	nn	_	_
+3	officers	_	NN	NNS	_	5	nsubjpass	_	_
+4	were	_	VB	VBD	_	5	auxpass	_	_
+5	crowned	_	VB	VBN	_	0	null	_	_
+6	sometimes	_	RB	RB	_	5	advmod	_	_
+7	just	_	RB	RB	_	8	dep	_	_
+8	by	_	IN	IN	_	5	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	Japanese	_	NN	NNP	_	8	pobj	_	_
+11	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	wheelchair	_	NN	NN	_	3	nn	_	_
+3	user	_	NN	NN	_	5	nsubjpass	_	_
+4	is	_	VB	VBZ	_	5	auxpass	_	_
+5	costumed	_	VB	VBN	_	0	null	_	_
+6	by	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	referee	_	NN	NN	_	6	pobj	_	_
+9	here	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	wheelchair	_	NN	NN	_	3	nn	_	_
+3	user	_	NN	NN	_	6	nsubjpass	_	_
+4	has	_	VB	VBZ	_	6	aux	_	_
+5	been	_	VB	VBN	_	6	auxpass	_	_
+6	remunerated	_	VB	VBN	_	0	null	_	_
+7	by	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	Chinese	_	NN	NNP	_	7	pobj	_	_
+10	here	_	RB	RB	_	6	advmod	_	_
+11	.	_	.	.	_	6	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	referee	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VB	VBD	_	4	auxpass	_	_
+4	costumed	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	wheelchair	_	NN	NN	_	8	nn	_	_
+8	user	_	NN	NN	_	5	pobj	_	_
+9	here	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Chinese	_	NN	NNPS	_	4	nsubjpass	_	_
+3	is	_	VB	VBZ	_	4	auxpass	_	_
+4	remunerated	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	wheelchair	_	NN	NN	_	8	nn	_	_
+8	user	_	NN	NN	_	5	pobj	_	_
+9	here	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	businesswoman	_	NN	NN	_	4	nsubjpass	_	_
+3	is	_	VB	VBZ	_	4	auxpass	_	_
+4	girded	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	plumber	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	businesswoman	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VB	VBD	_	4	auxpass	_	_
+4	fed	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	beekeepers	_	NN	NNS	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	plumber	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VB	VBD	_	4	auxpass	_	_
+4	girded	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	businesswoman	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	beekeepers	_	NN	NNS	_	4	nsubjpass	_	_
+3	is	_	VB	VBZ	_	4	auxpass	_	_
+4	fed	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	businesswoman	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	bathing	_	NN	NN	_	3	nn	_	_
+3	beauty	_	NN	NN	_	5	nsubjpass	_	_
+4	is	_	VB	VBZ	_	5	auxpass	_	_
+5	masked	_	VB	VBN	_	0	null	_	_
+6	by	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	skier	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	bathing	_	NN	NN	_	3	nn	_	_
+3	beauty	_	NN	NN	_	5	nsubjpass	_	_
+4	was	_	VB	VBD	_	5	auxpass	_	_
+5	rewarded	_	VB	VBN	_	0	null	_	_
+6	by	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	prince	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	skier	_	NN	NN	_	4	nsubjpass	_	_
+3	is	_	VB	VBZ	_	4	auxpass	_	_
+4	masked	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	bathing	_	NN	NN	_	8	nn	_	_
+8	beauty	_	NN	NN	_	5	pobj	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	prince	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VB	VBD	_	4	auxpass	_	_
+4	rewarded	_	VB	VBN	_	0	null	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	bathing	_	NN	NN	_	8	nn	_	_
+8	beauty	_	NN	NN	_	5	pobj	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	aerobics	_	NN	NN	_	3	nn	_	_
+3	instructor	_	NN	NN	_	6	nsubjpass	_	_
+4	has	_	VB	VBZ	_	6	aux	_	_
+5	been	_	VB	VBN	_	6	auxpass	_	_
+6	cautioned	_	VB	VBD	_	0	null	_	_
+7	obviously	_	RB	RB	_	6	advmod	_	_
+8	by	_	IN	IN	_	6	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	astronaut	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	6	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	aerobic	_	JJ	JJ	_	3	amod	_	_
+3	trainer	_	NN	NN	_	6	nsubjpass	_	_
+4	has	_	VB	VBZ	_	6	aux	_	_
+5	been	_	VB	VBN	_	6	auxpass	_	_
+6	shown	_	VB	VBN	_	0	null	_	_
+7	obviously	_	RB	RB	_	6	advmod	_	_
+8	by	_	IN	IN	_	6	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	craftsman	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	6	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	astronaut	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VB	VBD	_	4	auxpass	_	_
+4	cautioned	_	VB	VBD	_	0	null	_	_
+5	obviously	_	RB	RB	_	4	advmod	_	_
+6	by	_	IN	IN	_	4	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	aerobics	_	NN	NNS	_	9	nn	_	_
+9	instructor	_	NN	NN	_	6	pobj	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	craftsman	_	NN	NN	_	5	nsubjpass	_	_
+3	has	_	VB	VBZ	_	5	aux	_	_
+4	been	_	VB	VBN	_	5	auxpass	_	_
+5	shown	_	VB	VBN	_	0	null	_	_
+6	obviously	_	RB	RB	_	5	advmod	_	_
+7	by	_	IN	IN	_	5	prep	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	aerobic	_	JJ	JJ	_	10	amod	_	_
+10	trainer	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	5	punct	_	_
+

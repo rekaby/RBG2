@@ -1,0 +1,62 @@
+1	Great	_	JJ	JJ	_	3	amod	_	_
+2	pet	_	NN	NN	_	3	compound	_	_
+3	care	_	NN	NN	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	used	_	VBN	VBN	_	0	root	_	_
+4	Just	_	NNP	NNP	_	6	compound	_	_
+5	Like	_	NNP	NNP	_	6	compound	_	_
+6	Family	_	NNP	NNP	_	3	dobj	_	_
+7	several	_	JJ	JJ	_	8	amod	_	_
+8	times	_	NNS	NNS	_	3	tmod	_	_
+9	now	_	RB	RB	_	3	advmod	_	_
+10	and	_	CC	CC	_	3	cc	_	_
+11	they	_	PRP	PRP	_	13	nsubj	_	_
+12	have	_	VBP	VBP	_	13	aux	_	_
+13	provided	_	VBN	VBN	_	3	conj	_	_
+14	great	_	JJ	JJ	_	15	amod	_	_
+15	care	_	NN	NN	_	13	dobj	_	_
+16	for	_	IN	IN	_	19	case	_	_
+17	my	_	PRP$	PRP$	_	19	nmod:poss	_	_
+18	two	_	CD	CD	_	19	nummod	_	_
+19	dogs	_	NNS	NNS	_	13	nmod	_	_
+20	.	_	.	.	_	3	punct	_	_
+
+1	Lynda	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	professional	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	has	_	VBZ	VBZ	_	3	conj	_	_
+6	great	_	JJ	JJ	_	7	amod	_	_
+7	compassion	_	NN	NN	_	5	dobj	_	_
+8	for	_	IN	IN	_	9	case	_	_
+9	animals	_	NNS	NNS	_	7	nmod	_	_
+10	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	real	_	JJ	JJ	_	3	amod	_	_
+3	testament	_	NN	NN	_	4	nsubj	_	_
+4	is	_	VBZ	VBZ	_	0	root	_	_
+5	not	_	RB	RB	_	4	neg	_	_
+6	in	_	IN	IN	_	10	mark	_	_
+7	how	_	WRB	WRB	_	8	advmod	_	_
+8	much	_	RB	RB	_	10	advmod	_	_
+9	she	_	PRP	PRP	_	10	nsubj	_	_
+10	likes	_	VBZ	VBZ	_	4	nfincl	_	_
+11	your	_	PRP$	PRP$	_	12	nmod:poss	_	_
+12	animals	_	NNS	NNS	_	10	dobj	_	_
+13	but	_	CC	CC	_	10	cc	_	_
+14	how	_	WRB	WRB	_	15	advmod	_	_
+15	much	_	RB	RB	_	17	advmod	_	_
+16	they	_	PRP	PRP	_	17	nsubj	_	_
+17	like	_	VBP	VBP	_	10	conj	_	_
+18	her	_	PRP	PRP	_	17	dobj	_	_
+19	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	her	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	3	punct	_	_
+

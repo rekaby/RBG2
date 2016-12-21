@@ -1,0 +1,277 @@
+1	Kay	_	NNP	NNP	_	2	compound	_	_
+2	Mann	_	NNP	NNP	_	0	root	_	_
+
+1	04/26/2001	_	CD	CD	_	0	root	_	_
+2	07:17	_	CD	CD	_	3	nummod	_	_
+3	AM	_	NN	NN	_	1	tmod	_	_
+
+1	Will	_	MD	MD	_	4	aux	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	be	_	VB	VB	_	4	aux	_	_
+4	providing	_	VBG	VBG	_	0	root	_	_
+5	an	_	DT	DT	_	7	det	_	_
+6	execution	_	NN	NN	_	7	compound	_	_
+7	version	_	NN	NN	_	4	dobj	_	_
+8	with	_	IN	IN	_	9	case	_	_
+9	questions	_	NNS	NNS	_	7	nmod	_	_
+10	removed	_	VBN	VBN	_	9	nfincl	_	_
+11	/	_	,	,	_	9	cc	_	_
+12	blanks	_	NNS	NNS	_	9	conj	_	_
+13	filled	_	VBN	VBN	_	12	nfincl	_	_
+14	in	_	RP	RP	_	13	prt	_	_
+15	?	_	.	.	_	4	punct	_	_
+
+1	Please	_	UH	UH	_	2	discourse	_	_
+2	send	_	VB	VB	_	0	root	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	directly	_	RB	RB	_	2	advmod	_	_
+5	to	_	IN	IN	_	6	case	_	_
+6	kent.shoemaker@ae.ge.com	_	ADD	ADD	_	2	nmod	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	copy	_	VB	VB	_	2	parataxis	_	_
+9	to	_	IN	IN	_	10	case	_	_
+10	me	_	PRP	PRP	_	8	nmod	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	Kay	_	NNP	NNP	_	0	root	_	_
+
+1	"	_	``	``	_	2	punct	_	_
+2	paulhastings.com	_	ADD	ADD	_	4	nsubj	_	_
+3	"	_	''	''	_	2	punct	_	_
+4	made	_	VBD	VBD	_	0	root	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	following	_	VBG	VBG	_	7	amod	_	_
+7	annotations	_	NNS	NNS	_	4	dobj	_	_
+8	on	_	IN	IN	_	9	case	_	_
+9	04/25/01	_	CD	CD	_	4	nmod	_	_
+10	12:42:55	_	CD	CD	_	9	tmod	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	changed	_	VBN	VBN	_	0	root	_	_
+4	our	_	PRP$	PRP$	_	6	nmod:poss	_	_
+5	e-mail	_	NN	NN	_	6	compound	_	_
+6	address	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	Our	_	PRP$	PRP$	_	4	nmod:poss	_	_
+2	new	_	JJ	JJ	_	4	amod	_	_
+3	domain	_	NN	NN	_	4	compound	_	_
+4	name	_	NN	NN	_	6	nsubj	_	_
+5	is	_	VBZ	VBZ	_	6	cop	_	_
+6	paulhastings.com	_	ADD	ADD	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	In	_	IN	IN	_	3	case	_	_
+2	most	_	JJS	JJS	_	3	amod	_	_
+3	cases	_	NNS	NNS	_	8	nmod	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	our	_	PRP$	PRP$	_	6	nmod:poss	_	_
+6	address	_	NN	NN	_	8	nsubjpass	_	_
+7	is	_	VBZ	VBZ	_	8	auxpass	_	_
+8	composed	_	VBN	VBN	_	0	root	_	_
+9	of	_	IN	IN	_	12	case	_	_
+10	conventional	_	JJ	JJ	_	12	amod	_	_
+11	first	_	JJ	JJ	_	12	amod	_	_
+12	name	_	NN	NN	_	8	nmod	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	last	_	JJ	JJ	_	15	amod	_	_
+15	name	_	NN	NN	_	12	conj	_	_
+16	plus	_	CC	CC	_	12	cc	_	_
+17	@paulhastings.com	_	NN	NN	_	12	conj	_	_
+18	.	_	.	.	_	8	punct	_	_
+
+1	Here	_	RB	RB	_	2	advmod	_	_
+2	are	_	VBP	VBP	_	0	root	_	_
+3	two	_	CD	CD	_	4	nummod	_	_
+4	examples	_	NNS	NNS	_	2	nsubj	_	_
+5	:	_	:	:	_	6	punct	_	_
+6	janesmith@paulhastings.com	_	ADD	ADD	_	4	appos	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	danjones@paulhastings.com	_	ADD	ADD	_	6	conj	_	_
+9	.	_	.	.	_	6	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	have	_	VBP	VBP	_	8	advcl	_	_
+4	any	_	DT	DT	_	5	det	_	_
+5	questions	_	NNS	NNS	_	3	dobj	_	_
+6	,	_	,	,	_	8	punct	_	_
+7	please	_	UH	UH	_	8	discourse	_	_
+8	contact	_	VB	VB	_	0	root	_	_
+9	us	_	PRP	PRP	_	8	dobj	_	_
+10	at	_	IN	IN	_	11	case	_	_
+11	noc@paulhastings.com	_	ADD	ADD	_	8	nmod	_	_
+12	.	_	.	.	_	8	punct	_	_
+
+1	==============================================================================	_	NFP	NFP	_	0	root	_	_
+
+1	"	_	``	``	_	6	punct	_	_
+2	The	_	DT	DT	_	3	det	_	_
+3	information	_	NN	NN	_	6	nsubjpass	_	_
+4	transmitted	_	VBN	VBN	_	3	nfincl	_	_
+5	is	_	VBZ	VBZ	_	6	auxpass	_	_
+6	intended	_	VBN	VBN	_	0	root	_	_
+7	only	EXTRA!	RB	RB	_	10	advmod	_	_
+8	for	_	IN	IN	_	10	case	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	person	_	NN	NN	_	6	nmod	_	_
+11	or	_	CC	CC	_	10	cc	_	_
+12	entity	_	NN	NN	_	10	conj	_	_
+13	to	_	IN	IN	_	14	case	_	_
+14	which	_	WDT	WDT	_	17	nmod	_	_
+15	it	_	PRP	PRP	_	17	nsubjpass	_	_
+16	is	_	VBZ	VBZ	_	17	auxpass	_	_
+17	addressed	_	VBN	VBN	_	10	relcl	_	_
+18	and	_	CC	CC	_	6	cc	_	_
+19	may	_	MD	MD	_	20	aux	_	_
+20	contain	_	VB	VB	_	6	conj	_	_
+21	confidential	_	JJ	JJ	_	26	amod	_	_
+22	and	_	CC	CC	_	21	cc	_	_
+23	/	_	,	,	_	21	punct	_	_
+24	or	_	CC	CC	_	21	cc	_	_
+25	privileged	_	JJ	JJ	_	21	conj	_	_
+26	material	_	NN	NN	_	20	dobj	_	_
+27	.	_	.	.	_	6	punct	_	_
+
+1	Any	_	DT	DT	_	2	det	_	_
+2	review	_	NN	NN	_	33	nsubjpass	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	retransmission	_	NN	NN	_	2	conj	_	_
+5	,	_	,	,	_	2	punct	_	_
+6	dissemination	_	NN	NN	_	2	conj	_	_
+7	or	_	CC	CC	_	2	cc	_	_
+8	other	_	JJ	JJ	_	9	amod	_	_
+9	use	_	NN	NN	_	2	conj	_	_
+10	of	_	IN	IN	_	9	nmod	_	_
+11	,	_	,	,	_	2	punct	_	_
+12	or	_	CC	CC	_	2	cc	_	_
+13	taking	_	NN	NN	_	2	conj	_	_
+14	of	_	IN	IN	_	16	case	_	_
+15	any	_	DT	DT	_	16	det	_	_
+16	action	_	NN	NN	_	13	nmod	_	_
+17	in	_	IN	IN	_	18	case	_	_
+18	reliance	_	NN	NN	_	13	nmod	_	_
+19	upon	_	IN	IN	_	22	case	_	_
+20	,	_	,	,	_	2	punct	_	_
+21	this	_	DT	DT	_	22	det	_	_
+22	information	_	NN	NN	_	10	conj	_	_
+23	by	_	IN	IN	_	24	case	_	_
+24	persons	_	NNS	NNS	_	2	nmod	_	_
+25	or	_	CC	CC	_	24	cc	_	_
+26	entities	_	NNS	NNS	_	24	conj	_	_
+27	other	_	JJ	JJ	_	24	amod	_	_
+28	than	_	IN	IN	_	31	case	_	_
+29	the	_	DT	DT	_	31	det	_	_
+30	intended	_	VBN	VBN	_	31	amod	_	_
+31	recipient	_	NN	NN	_	27	nmod	_	_
+32	is	_	VBZ	VBZ	_	33	auxpass	_	_
+33	prohibited	_	VBN	VBN	_	0	root	_	_
+34	.	_	.	.	_	33	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	received	_	VBD	VBD	_	9	advcl	_	_
+4	this	_	DT	DT	_	3	dobj	_	_
+5	in	_	IN	IN	_	6	case	_	_
+6	error	_	NN	NN	_	3	nmod	_	_
+7	,	_	,	,	_	9	punct	_	_
+8	please	_	UH	UH	_	9	discourse	_	_
+9	contact	_	VB	VB	_	0	root	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	sender	_	NN	NN	_	9	dobj	_	_
+12	and	_	CC	CC	_	9	cc	_	_
+13	delete	_	VB	VB	_	9	conj	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	material	_	NN	NN	_	13	dobj	_	_
+16	from	_	IN	IN	_	18	case	_	_
+17	all	_	DT	DT	_	18	det	_	_
+18	computers	_	NNS	NNS	_	13	nmod	_	_
+19	.	_	.	.	_	9	punct	_	_
+20	"	_	''	''	_	9	punct	_	_
+
+1	==============================================================================	_	NFP	NFP	_	0	root	_	_
+
+1	Attached	_	VBN	VBN	_	9	acomp	_	_
+2	please	_	UH	UH	_	3	discourse	_	_
+3	find	_	VB	VB	_	0	root	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	GE	_	NNP	NNP	_	6	compound	_	_
+6	Guarantee	_	NN	NN	_	3	dobj	_	_
+7	in	_	IN	IN	_	9	case	_	_
+8	Word	_	NNP	NNP	_	9	compound	_	_
+9	format	_	NN	NN	_	6	nmod	_	_
+10	.?	_	.	.	_	3	punct	_	_
+
+1	Also	_	RB	RB	_	5	advmod	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	we	_	PRP	PRP	_	5	nsubj	_	_
+4	have	_	VBP	VBP	_	5	aux	_	_
+5	attached	_	VBN	VBN	_	0	root	_	_
+6	a	_	DT	DT	_	10	det	_	_
+7	pdf	_	NN	NN	_	10	compound	_	_
+8	black	_	NN	NN	_	10	compound	_	_
+9	-	_	HYPH	HYPH	_	10	punct	_	_
+10	line	_	NN	NN	_	5	dobj	_	_
+11	of	_	IN	IN	_	13	case	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	Guarantee	_	NN	NN	_	10	nmod	_	_
+14	vs	_	IN	IN	_	16	case	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	form	_	NN	NN	_	10	nmod	_	_
+17	of	_	IN	IN	_	18	case	_	_
+18	guarantee	_	NN	NN	_	16	nmod	_	_
+19	in	_	IN	IN	_	22	case	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	Turbine	_	NN	NN	_	22	compound	_	_
+22	Contract	_	NN	NN	_	16	nmod	_	_
+23	.	_	.	.	_	5	punct	_	_
+
+1	?	_	.	.	_	0	root	_	_
+
+1	Do	_	VB	VB	_	3	aux	_	_
+2	not	_	RB	RB	_	3	neg	_	_
+3	hesitate	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	call	_	VB	VB	_	3	xcomp	_	_
+6	us	_	PRP	PRP	_	5	dobj	_	_
+7	with	_	IN	IN	_	9	case	_	_
+8	any	_	DT	DT	_	9	det	_	_
+9	questions	_	NNS	NNS	_	5	nmod	_	_
+10	.	_	.	.	_	3	punct	_	_
+
+1	?	_	.	.	_	0	root	_	_
+
+1	Best	_	JJS	JJS	_	2	amod	_	_
+2	regards	_	NNS	NNS	_	0	root	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	?	_	.	.	_	0	root	_	_
+
+1	______________________	_	NFP	NFP	_	0	root	_	_
+
+1	John	_	NNP	NNP	_	2	compound	_	_
+2	Staikos	_	NNP	NNP	_	0	root	_	_
+3	Direct	_	JJ	JJ	_	4	amod	_	_
+4	Dial	_	NN	NN	_	2	list	_	_
+5	:?	_	:	:	_	4	punct	_	_
+6	203.961.7523	_	CD	CD	_	4	appos	_	_
+7	Direct	_	JJ	JJ	_	8	amod	_	_
+8	Fax	_	NN	NN	_	2	list	_	_
+9	:?	_	:	:	_	8	punct	_	_
+10	203.674.7723	_	CD	CD	_	8	appos	_	_
+11	E-mail	_	NN	NN	_	2	list	_	_
+12	:?	_	:	:	_	11	punct	_	_
+13	johnstaikos@paulhastings.com	_	ADD	ADD	_	11	appos	_	_
+
+1	?	_	.	.	_	0	root	_	_
+
+1	-	_	NFP	NFP	_	2	dep	_	_
+2	47K202!.DOC	_	NN	NN	_	0	root	_	_
+

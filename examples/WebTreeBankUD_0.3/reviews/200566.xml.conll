@@ -1,0 +1,34 @@
+1	THE	_	DT	DT	_	2	det	_	_
+2	TEACHING	_	NN	NN	_	4	nsubj	_	_
+3	THERE	_	RB	RB	_	2	advmod	_	_
+4	SUCKS	_	VBZ	VBZ	_	0	root	_	_
+5	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	_	.	.	_	4	punct	_	_
+
+1	ALL	_	DT	DT	_	8	nsubj	_	_
+2	OF	_	IN	IN	_	4	case	_	_
+3	THE	_	DT	DT	_	4	det	_	_
+4	TEACHERS	_	NNS	NNS	_	1	nmod	_	_
+5	THERE	_	RB	RB	_	1	advmod	_	_
+6	ARE	_	VBP	VBP	_	8	cop	_	_
+7	SO	_	RB	RB	_	8	advmod	_	_
+8	MEAN	_	JJ	JJ	_	0	root	_	_
+9	THEY	_	PRP	PRP	_	11	nsubj	_	_
+10	GET	_	VBP	VBP	_	11	aux	_	_
+11	MAD	_	JJ	JJ	_	8	parataxis	_	_
+12	AT	_	IN	IN	_	13	case	_	_
+13	YOU	_	PRP	PRP	_	11	nmod	_	_
+14	FOR	_	IN	IN	_	15	case	_	_
+15	NOTHING	_	NN	NN	_	11	nmod	_	_
+16	!!!!!!!!!!!!!!!!!!!	_	.	.	_	8	punct	_	_
+
+1	THIS	_	DT	DT	_	5	nsubj	_	_
+2	IS	_	VBZ	VBZ	_	5	cop	_	_
+3	THE	_	DT	DT	_	5	det	_	_
+4	WORST	_	JJS	JJS	_	5	amod	_	_
+5	SCHOOL	_	NN	NN	_	0	root	_	_
+6	I	_	PRP	PRP	_	8	nsubj	_	_
+7	VE	_	VBP	VBP	_	8	aux	_	_
+8	BEEN	_	VBN	VBN	_	5	relcl	_	_
+9	TO	_	IN	IN	_	8	nmod	_	_
+10	!!!!!!	_	.	.	_	5	punct	_	_
+

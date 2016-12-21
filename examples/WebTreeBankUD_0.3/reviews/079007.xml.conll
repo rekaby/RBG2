@@ -1,0 +1,82 @@
+1	Their	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	food	_	NN	NN	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	sweets	_	NNS	NNS	_	2	conj	_	_
+5	are	_	VBP	VBP	_	6	cop	_	_
+6	awesome	_	JJ	JJ	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	But	_	CC	CC	_	5	cc	_	_
+2	service	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	poor	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Attitude	_	NN	NN	_	5	nsubj	_	_
+2	of	_	IN	IN	_	3	case	_	_
+3	staff	_	NNS	NNS	_	1	nmod	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	bad	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	Never	_	RB	RB	_	2	neg	_	_
+2	gives	_	VBZ	VBZ	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	receipt	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Sometimes	_	RB	RB	_	3	advmod	_	_
+2	even	_	RB	RB	_	3	advmod	_	_
+3	gives	_	VBZ	VBZ	_	0	root	_	_
+4	wrong	_	JJ	JJ	_	5	amod	_	_
+5	dish	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	So	_	RB	RB	_	2	advmod	_	_
+2	confused	_	JJ	JJ	_	0	root	_	_
+3	at	_	IN	IN	_	6	case	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	payment	_	NN	NN	_	6	compound	_	_
+6	area	_	NN	NN	_	2	nmod	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Line	_	NN	NN	_	2	compound	_	_
+2	up	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	so	_	RB	RB	_	5	advmod	_	_
+5	stupid	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Even	_	RB	RB	_	4	advmod	_	_
+2	if	_	IN	IN	_	4	mark	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	line	_	VBP	VBP	_	0	root	_	_
+5	up	_	RP	RP	_	4	prt	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	To	_	TO	TO	_	2	aux	_	_
+2	make	_	VB	VB	_	7	nfincl	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	order	_	NN	NN	_	2	dobj	_	_
+5	you	_	PRP	PRP	_	7	nsubj	_	_
+6	may	_	MD	MD	_	7	aux	_	_
+7	have	_	VB	VB	_	0	root	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	go	_	VB	VB	_	7	xcomp	_	_
+10	to	_	IN	IN	_	11	case	_	_
+11	back	_	NN	NN	_	9	nmod	_	_
+12	of	_	IN	IN	_	13	case	_	_
+13	line	_	NN	NN	_	11	nmod	_	_
+14	.	_	.	.	_	7	punct	_	_
+
+1	And	_	CC	CC	_	2	cc	_	_
+2	then	_	RB	RB	_	3	advmod	_	_
+3	wait	_	VB	VB	_	0	root	_	_
+4	again	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Not	_	RB	RB	_	2	neg	_	_
+2	organised	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	1	punct	_	_
+

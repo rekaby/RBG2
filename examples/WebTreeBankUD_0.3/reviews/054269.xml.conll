@@ -1,0 +1,35 @@
+1	Excellent	_	JJ	JJ	_	3	amod	_	_
+2	energy	_	NN	NN	_	3	compound	_	_
+3	efficiency	_	NN	NN	_	0	root	_	_
+
+1	Compact	_	NNP	NNP	_	4	nmod:poss	_	_
+2	's	_	POS	POS	_	1	case	_	_
+3	Corona	_	NNP	NNP	_	4	compound	_	_
+4	dryers	_	NNS	NNS	_	5	nsubj	_	_
+5	remove	_	VBP	VBP	_	0	root	_	_
+6	at	_	RB	RB	_	7	case	_	_
+7	least	_	RBS	RBS	_	8	nmod	_	_
+8	twice	_	RB	RB	_	9	advmod	_	_
+9	as	_	RB	RB	_	10	advmod	_	_
+10	much	_	JJ	JJ	_	11	amod	_	_
+11	water	_	NN	NN	_	5	dobj	_	_
+12	as	_	IN	IN	_	15	case	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	previous	_	JJ	JJ	_	15	amod	_	_
+15	dryers	_	NNS	NNS	_	7	nmod	_	_
+16	,	_	,	,	_	5	punct	_	_
+17	allowing	_	VBG	VBG	_	5	nfincl	_	_
+18	a	_	DT	DT	_	20	det	_	_
+19	production	_	NN	NN	_	20	compound	_	_
+20	increase	_	NN	NN	_	17	dobj	_	_
+21	of	_	IN	IN	_	24	case	_	_
+22	over	_	IN	IN	_	23	quantmod	_	_
+23	10	_	CD	CD	_	24	nummod	_	_
+24	%	_	NN	NN	_	20	nmod	_	_
+25	and	_	CC	CC	_	20	cc	_	_
+26	a	_	DT	DT	_	29	det	_	_
+27	significant	_	JJ	JJ	_	29	amod	_	_
+28	energy	_	NN	NN	_	29	compound	_	_
+29	saving	_	NN	NN	_	20	conj	_	_
+30	.	_	.	.	_	5	punct	_	_
+

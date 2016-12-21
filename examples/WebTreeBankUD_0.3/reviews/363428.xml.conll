@@ -1,0 +1,31 @@
+1	Pam	_	NNP	NNP	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	Pom	_	NNP	NNP	_	1	appos	_	_
+
+1	Fantastic	_	JJ	JJ	_	2	amod	_	_
+2	couple	_	NN	NN	_	0	root	_	_
+3	of	_	IN	IN	_	4	case	_	_
+4	days	_	NNS	NNS	_	2	nmod	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Breathtaking	_	JJ	JJ	_	2	amod	_	_
+2	views	_	NNS	NNS	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	fabulous	_	JJ	JJ	_	5	amod	_	_
+5	accommodation	_	NN	NN	_	2	conj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Nothing	_	NN	NN	_	4	nsubj	_	_
+2	too	_	RB	RB	_	3	advmod	_	_
+3	much	_	JJ	JJ	_	4	amod	_	_
+4	trouble	_	NN	NN	_	0	root	_	_
+5	for	_	IN	IN	_	6	case	_	_
+6	Ian	_	NNP	NNP	_	4	nmod	_	_
+7	,	_	,	,	_	1	punct	_	_
+8	thanks	_	NN	NN	_	1	parataxis	_	_
+9	for	_	IN	IN	_	12	case	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	great	_	JJ	JJ	_	12	amod	_	_
+12	stay	_	NN	NN	_	8	nmod	_	_
+13	.	_	.	.	_	1	punct	_	_
+

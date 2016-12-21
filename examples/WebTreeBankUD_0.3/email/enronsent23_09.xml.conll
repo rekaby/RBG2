@@ -1,0 +1,28 @@
+1	that	_	DT	DT	_	14	nsubj	_	_
+2	is	_	VBZ	VBZ	_	14	cop	_	_
+3	how	_	WRB	WRB	_	5	advmod	_	_
+4	i	_	PRP	PRP	_	5	nsubj	_	_
+5	want	_	VBP	VBP	_	2	ccomp	_	_
+6	you	_	PRP	PRP	_	5	dobj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	refer	_	VB	VB	_	5	xcomp	_	_
+9	to	_	IN	IN	_	10	case	_	_
+10	me	_	PRP	PRP	_	8	nmod	_	_
+11	as	_	IN	IN	_	14	case	_	_
+12	"	_	``	``	_	14	punct	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	king	_	NN	NN	_	0	root	_	_
+15	"	_	''	''	_	14	punct	_	_
+
+1	i	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	think	_	VB	VB	_	0	root	_	_
+5	so	_	RB	RB	_	4	advmod	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	i	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	king	_	NN	NN	_	0	root	_	_
+

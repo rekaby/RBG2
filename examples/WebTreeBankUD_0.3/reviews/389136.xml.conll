@@ -1,0 +1,27 @@
+1	great	_	JJ	JJ	_	0	root	_	_
+2	!	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	go	_	VBP	VBP	_	0	root	_	_
+3	Disco	_	NN	NN	_	4	nmod:npmod	_	_
+4	dancing	_	VBG	VBG	_	2	xcomp	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	Cheerleading	_	VBG	VBG	_	4	conj	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	s	_	VBZ	VBZ	_	3	cop	_	_
+3	fab	_	JJ	JJ	_	0	root	_	_
+4	!	_	.	.	_	3	punct	_	_
+
+1	so	_	RB	RB	_	2	advmod	_	_
+2	go	_	VB	VB	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	get	_	VB	VB	_	2	conj	_	_
+5	dancing	_	VBG	VBG	_	4	xcomp	_	_
+6	!!!!!!!!!!!!!!!!!!!!!!!!!	_	.	.	_	2	punct	_	_
+
+1	By	_	IN	IN	_	3	case	_	_
+2	samantha	_	NNP	NNP	_	3	compound	_	_
+3	Fox	_	NNP	NNP	_	0	root	_	_
+

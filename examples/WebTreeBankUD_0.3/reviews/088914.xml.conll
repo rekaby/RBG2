@@ -1,0 +1,25 @@
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	did	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	vehicle	_	NN	NN	_	5	compound	_	_
+5	wrap	_	NN	NN	_	2	dobj	_	_
+6	for	_	IN	IN	_	9	case	_	_
+7	my	_	PRP$	PRP$	_	9	nmod:poss	_	_
+8	Toyota	_	NNP	NNP	_	9	compound	_	_
+9	Venza	_	NNP	NNP	_	5	nmod	_	_
+10	that	_	WDT	WDT	_	11	nsubj	_	_
+11	looks	_	VBZ	VBZ	_	5	relcl	_	_
+12	amazing	_	JJ	JJ	_	11	xcomp	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	do	_	VBP	VBP	_	0	root	_	_
+4	banners	_	NNS	NNS	_	3	dobj	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	billboards	_	NNS	NNS	_	4	conj	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	lots	_	NNS	NNS	_	9	nmod:npmod	_	_
+9	more	_	JJR	JJR	_	4	conj	_	_
+10	.	_	.	.	_	3	punct	_	_
+

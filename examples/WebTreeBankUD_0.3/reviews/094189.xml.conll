@@ -1,0 +1,70 @@
+1	Needs	_	VBZ	VBZ	_	0	root	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	go	_	VB	VB	_	1	xcomp	_	_
+4	out	_	IN	IN	_	6	case	_	_
+5	of	EXTRA!	IN	IN	_	6	case	_	_
+6	business	_	NN	NN	_	3	nmod	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	close	_	VBP	VBP	_	0	root	_	_
+3	whenever	_	WRB	WRB	_	5	advmod	_	_
+4	they	_	PRP	PRP	_	5	nsubj	_	_
+5	feel	_	VBP	VBP	_	2	advcl	_	_
+6	like	_	IN	IN	_	7	case	_	_
+7	it	_	PRP	PRP	_	5	nmod	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	often	EXTRA!	RB	RB	_	15	advmod	_	_
+10	well	_	RB	RB	_	11	advmod	_	_
+11	before	_	IN	IN	_	15	case	_	_
+12	their	_	PRP$	PRP$	_	15	nmod:poss	_	_
+13	listed	_	VBN	VBN	_	15	amod	_	_
+14	closing	_	NN	NN	_	15	compound	_	_
+15	time	_	NN	NN	_	2	nmod	_	_
+16	.	_	.	.	_	2	punct	_	_
+
+1	Their	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	store	_	NN	NN	_	6	nsubj	_	_
+3	is	_	VBZ	VBZ	_	6	cop	_	_
+4	dusty	_	JJ	JJ	_	6	amod	_	_
+5	,	_	,	,	_	6	punct	_	_
+6	dirty	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	feels	_	VBZ	VBZ	_	6	conj	_	_
+9	like	_	IN	IN	_	12	mark	_	_
+10	you	_	PRP	PRP	_	12	nsubj	_	_
+11	're	_	VBP	VBP	_	12	aux	_	_
+12	stepping	_	VBG	VBG	_	8	advcl	_	_
+13	into	_	IN	IN	_	15	case	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	1970s	_	NNS	NNS	_	12	nmod	_	_
+16	.	_	.	.	_	6	punct	_	_
+
+1	They	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	take	_	VB	VB	_	0	root	_	_
+5	coupons	_	NNS	NNS	_	4	dobj	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	credit	_	NN	NN	_	5	compound	_	_
+5	card	_	NN	NN	_	6	compound	_	_
+6	minimum	_	NN	NN	_	2	dobj	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	This	_	DT	DT	_	2	det	_	_
+2	place	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	opposite	_	NN	NN	_	0	root	_	_
+6	of	_	IN	IN	_	7	case	_	_
+7	QuikTrip	_	NNP	NNP	_	5	nmod	_	_
+8	:	_	:	:	_	9	punct	_	_
+9	crappy	_	JJ	JJ	_	5	appos	_	_
+10	in	_	IN	IN	_	12	case	_	_
+11	every	_	DT	DT	_	12	det	_	_
+12	way	_	NN	NN	_	9	nmod	_	_
+13	.	_	.	.	_	9	punct	_	_
+

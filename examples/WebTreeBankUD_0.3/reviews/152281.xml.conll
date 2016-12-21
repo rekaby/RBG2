@@ -1,0 +1,12 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	Service	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	Thanks	_	NN	NN	_	2	parataxis	_	_
+5	Don	_	NNP	NNP	_	4	vocative	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Nice	_	JJ	JJ	_	3	amod	_	_
+2	Top	_	NN	NN	_	3	compound	_	_
+3	Lights	_	NNS	NNS	_	0	root	_	_
+4	.	_	.	.	_	3	punct	_	_
+

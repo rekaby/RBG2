@@ -1,0 +1,19 @@
+1	Drove	_	VBD	VBD	_	0	root	_	_
+2	all	_	PDT	PDT	_	4	predet	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	way	_	NN	NN	_	1	nmod:npmod	_	_
+5	over	_	RB	RB	_	4	advmod	_	_
+6	from	_	IN	IN	_	8	case	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	highway	_	NN	NN	_	1	nmod	_	_
+9	...	_	,	,	_	1	punct	_	_
+10	closed	_	VBD	VBD	_	1	parataxis	_	_
+11	at	_	IN	IN	_	12	case	_	_
+12	7	_	CD	CD	_	10	nmod	_	_
+13	.	_	.	.	_	1	punct	_	_
+
+1	Who	_	WP	WP	_	2	nsubj	_	_
+2	does	_	VBZ	VBZ	_	0	root	_	_
+3	that	_	DT	DT	_	2	dobj	_	_
+4	?!	_	.	.	_	2	punct	_	_
+

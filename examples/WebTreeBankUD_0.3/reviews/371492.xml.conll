@@ -1,0 +1,55 @@
+1	Excellent	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	am	_	VBP	VBP	_	4	cop	_	_
+3	so	_	RB	RB	_	4	advmod	_	_
+4	glad	_	JJ	JJ	_	0	root	_	_
+5	that	_	IN	IN	_	8	mark	_	_
+6	we	_	PRP	PRP	_	8	nsubj	_	_
+7	now	_	RB	RB	_	8	advmod	_	_
+8	have	_	VBP	VBP	_	4	ccomp	_	_
+9	a	_	DT	DT	_	12	det	_	_
+10	good	_	JJ	JJ	_	12	amod	_	_
+11	nail	_	NN	NN	_	12	compound	_	_
+12	shop	_	NN	NN	_	8	dobj	_	_
+13	on	_	IN	IN	_	16	case	_	_
+14	San	_	NNP	NNP	_	15	compound	_	_
+15	Mateo	_	NNP	NNP	_	16	compound	_	_
+16	Avenue	_	NNP	NNP	_	12	nmod	_	_
+17	!	_	.	.	_	4	punct	_	_
+
+1	No	_	RB	RB	_	2	advmod	_	_
+2	more	_	RBR	RBR	_	0	root	_	_
+3	having	_	VBG	VBG	_	2	xcomp	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	drive	_	VB	VB	_	3	xcomp	_	_
+6	to	_	IN	IN	_	8	case	_	_
+7	San	_	NNP	NNP	_	8	compound	_	_
+8	Francisco	_	NNP	NNP	_	5	nmod	_	_
+9	for	_	IN	IN	_	13	case	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	great	_	JJ	JJ	_	13	amod	_	_
+12	mani	_	NN	NN	_	13	compound	_	_
+13	pedi	_	NN	NN	_	5	nmod	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	Both	_	CC	CC	_	2	preconj	_	_
+2	Tina	_	NNP	NNP	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Vicky	_	NNP	NNP	_	2	conj	_	_
+5	are	_	VBP	VBP	_	6	cop	_	_
+6	excellent	_	JJ	JJ	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	definitely	_	RB	RB	_	4	advmod	_	_
+4	refer	_	VB	VB	_	0	root	_	_
+5	my	_	PRP$	PRP$	_	6	nmod:poss	_	_
+6	friends	_	NNS	NNS	_	4	dobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	family	_	NN	NN	_	6	conj	_	_
+9	:-RRB-	_	NFP	NFP	_	4	discourse	_	_
+

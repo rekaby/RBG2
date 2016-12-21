@@ -1,0 +1,87 @@
+1	USPS	_	NNP	NNP	_	2	compound	_	_
+2	Delivery	_	NN	NN	_	0	root	_	_
+3	in	_	IN	IN	_	4	case	_	_
+4	Auckland	_	NNP	NNP	_	2	nmod	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	NZ	_	NNP	NNP	_	4	appos	_	_
+7	?	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	ordered	_	VBN	VBN	_	0	root	_	_
+4	Bose	_	NNP	NNP	_	5	compound	_	_
+5	Headfones	_	NNS	NNS	_	3	dobj	_	_
+6	worth	_	JJ	JJ	_	5	amod	_	_
+7	300	_	CD	CD	_	8	nummod	_	_
+8	USD	_	NNS	NNS	_	6	dobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	They	_	PRP	PRP	_	4	nsubjpass	_	_
+2	have	_	VBP	VBP	_	4	aux	_	_
+3	been	_	VBN	VBN	_	4	auxpass	_	_
+4	shipped	_	VBN	VBN	_	0	root	_	_
+5	using	_	VBG	VBG	_	4	xcomp	_	_
+6	USPS	_	NNP	NNP	_	7	compound	_	_
+7	Priority	_	NN	NN	_	8	compound	_	_
+8	Mail	_	NN	NN	_	10	compound	_	_
+9	International	_	JJ	JJ	_	10	amod	_	_
+10	Parcels	_	NNS	NNS	_	5	dobj	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	will	_	MD	MD	_	3	aux	_	_
+2	i	_	PRP	PRP	_	3	nsubj	_	_
+3	have	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	pay	_	VB	VB	_	3	xcomp	_	_
+6	customs	_	NNS	NNS	_	5	dobj	_	_
+7	in	_	IN	IN	_	8	case	_	_
+8	NZ	_	NNP	NNP	_	5	nmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	it	_	PRP	PRP	_	4	nsubj	_	_
+2	s	_	VBZ	VBZ	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	gift	_	NN	NN	_	0	root	_	_
+5	from	_	IN	IN	_	7	case	_	_
+6	my	_	PRP$	PRP$	_	7	nmod:poss	_	_
+7	brother	_	NN	NN	_	4	nmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	why	_	WRB	WRB	_	3	advmod	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	hav	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	pay	_	VB	VB	_	3	xcomp	_	_
+6	customs	_	NNS	NNS	_	5	dobj	_	_
+7	if	_	IN	IN	_	11	mark	_	_
+8	it	_	PRP	PRP	_	11	nsubj	_	_
+9	is	_	VBZ	VBZ	_	11	cop	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	gift	_	NN	NN	_	5	advcl	_	_
+12	...	_	,	,	_	3	punct	_	_
+13	??	_	.	.	_	3	punct	_	_
+
+1	i	_	PRP	PRP	_	3	nsubj	_	_
+2	always	_	RB	RB	_	3	advmod	_	_
+3	thought	_	VBD	VBD	_	0	root	_	_
+4	there	_	EX	EX	_	5	expl	_	_
+5	s	_	VBZ	VBZ	_	3	ccomp	_	_
+6	no	_	DT	DT	_	8	det	_	_
+7	custom	_	NN	NN	_	8	compound	_	_
+8	charges	_	NNS	NNS	_	5	nsubj	_	_
+9	for	_	IN	IN	_	10	case	_	_
+10	gifts	_	NNS	NNS	_	8	nmod	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	Yup	_	UH	UH	_	0	root	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Yes	_	UH	UH	_	5	discourse	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	you	_	PRP	PRP	_	5	nsubj	_	_
+4	must	_	MD	MD	_	5	aux	_	_
+5	pay	_	VB	VB	_	0	root	_	_
+6	customs	_	NNS	NNS	_	7	compound	_	_
+7	duties	_	NNS	NNS	_	5	dobj	_	_
+8	.	_	.	.	_	5	punct	_	_
+

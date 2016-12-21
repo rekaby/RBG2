@@ -1,0 +1,15 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	product	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	service	_	NN	NN	_	2	conj	_	_
+6	!!!	_	.	.	_	2	punct	_	_
+
+1	Installed	_	VBD	VBD	_	0	root	_	_
+2	Biometrics	_	NNP	NNP	_	1	dobj	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	Got	_	VBD	VBD	_	1	conj	_	_
+5	Excellent	_	JJ	JJ	_	6	amod	_	_
+6	Service	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	1	punct	_	_
+

@@ -1,0 +1,42 @@
+1	Rip	_	NN	NN	_	2	compound	_	_
+2	Off	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	2	punct	_	_
+
+1	45	_	CD	CD	_	2	nummod	_	_
+2	p	_	NN	NN	_	0	root	_	_
+3	for	_	IN	IN	_	5	case	_	_
+4	tap	_	NN	NN	_	5	compound	_	_
+5	water	_	NN	NN	_	2	nmod	_	_
+6	!	_	.	.	_	2	punct	_	_
+
+1	Ridiculous	_	JJ	JJ	_	0	root	_	_
+2	!	_	.	.	_	1	punct	_	_
+
+1	Do	_	VBP	VBP	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	think	_	VB	VB	_	0	root	_	_
+4	I	_	PRP	PRP	_	8	nsubjpass	_	_
+5	've	_	VBP	VBP	_	8	aux	_	_
+6	ever	_	RB	RB	_	8	advmod	_	_
+7	been	_	VBN	VBN	_	8	auxpass	_	_
+8	charged	_	VBN	VBN	_	3	ccomp	_	_
+9	before	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	3	punct	_	_
+
+1	Oh	_	UH	UH	_	5	discourse	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	and	_	CC	CC	_	5	cc	_	_
+4	salad	_	NN	NN	_	5	compound	_	_
+5	cream	_	NN	NN	_	0	root	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	not	_	CC	CC	_	5	cc	_	_
+8	mayonnaise	_	NN	NN	_	5	conj	_	_
+9	,	_	,	,	_	5	punct	_	_
+10	on	_	IN	IN	_	12	case	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	coleslaw	_	NN	NN	_	5	nmod	_	_
+13	.	_	.	.	_	5	punct	_	_
+
+1	Avoid	_	VB	VB	_	0	root	_	_
+2	!	_	.	.	_	1	punct	_	_
+

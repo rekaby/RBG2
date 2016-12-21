@@ -1,0 +1,84 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	help	_	NN	NN	_	0	root	_	_
+3	even	EXTRA!	RB	RB	_	6	advmod	_	_
+4	near	_	IN	IN	_	6	case	_	_
+5	closing	_	NN	NN	_	6	compound	_	_
+6	time	_	NN	NN	_	2	nmod	_	_
+7	!	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	came	_	VBD	VBD	_	0	root	_	_
+3	in	_	IN	IN	_	5	case	_	_
+4	to	EXTRA!	IN	IN	_	5	case	_	_
+5	town	_	NN	NN	_	2	nmod	_	_
+6	for	_	IN	IN	_	8	case	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	week	_	NN	NN	_	2	nmod	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	forgot	_	VBD	VBD	_	2	conj	_	_
+11	my	_	PRP$	PRP$	_	12	nmod:poss	_	_
+12	trainers	_	NNS	NNS	_	10	dobj	_	_
+13	!	_	.	.	_	2	punct	_	_
+
+1	Oh	_	UH	UH	_	0	root	_	_
+2	no	_	UH	UH	_	1	discourse	_	_
+3	!!	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	came	_	VBD	VBD	_	0	root	_	_
+3	in	_	RB	RB	_	2	advmod	_	_
+4	30	_	CD	CD	_	5	nummod	_	_
+5	min	_	NNS	NNS	_	7	nmod:npmod	_	_
+6	before	_	IN	IN	_	7	case	_	_
+7	close	_	NN	NN	_	2	nmod	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	staff	_	NN	NN	_	13	nsubj	_	_
+11	was	_	VBD	VBD	_	13	cop	_	_
+12	super	_	RB	RB	_	13	advmod	_	_
+13	helpful	_	JJ	JJ	_	2	conj	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	spent	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	lot	_	NN	NN	_	2	dobj	_	_
+5	of	_	IN	IN	_	6	case	_	_
+6	time	_	NN	NN	_	4	nmod	_	_
+7	with	_	IN	IN	_	8	case	_	_
+8	me	_	PRP	PRP	_	2	nmod	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	got	_	VBD	VBD	_	2	conj	_	_
+11	me	_	PRP	PRP	_	10	dobj	_	_
+12	into	_	IN	IN	_	15	case	_	_
+13	a	_	DT	DT	_	15	det	_	_
+14	great	_	JJ	JJ	_	15	amod	_	_
+15	pair	_	NN	NN	_	10	nmod	_	_
+16	of	_	IN	IN	_	17	case	_	_
+17	shoes	_	NNS	NNS	_	15	nmod	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	root	_	_
+3	they	_	PRP	PRP	_	7	nsubj	_	_
+4	may	_	MD	MD	_	7	aux	_	_
+5	even	_	RB	RB	_	7	advmod	_	_
+6	be	_	VB	VB	_	7	cop	_	_
+7	better	_	JJR	JJR	_	2	ccomp	_	_
+8	than	_	IN	IN	_	10	case	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	pair	_	NN	NN	_	7	nmod	_	_
+11	I	_	PRP	PRP	_	14	nsubj	_	_
+12	have	_	VBP	VBP	_	14	aux	_	_
+13	been	_	VBN	VBN	_	14	aux	_	_
+14	using	_	VBG	VBG	_	10	relcl	_	_
+15	this	_	DT	DT	_	17	det	_	_
+16	past	_	JJ	JJ	_	17	amod	_	_
+17	year	_	NN	NN	_	14	tmod	_	_
+18	!	_	.	.	_	2	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	Run	_	NNP	NNP	_	3	compound	_	_
+3	on	_	NNP	NNP	_	1	vocative	_	_
+4	!	_	.	.	_	1	punct	_	_
+

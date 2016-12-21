@@ -1,0 +1,32 @@
+1	Best	_	JJS	JJS	_	2	amod	_	_
+2	Electrician	_	NN	NN	_	0	root	_	_
+3	in	_	IN	IN	_	4	case	_	_
+4	Florence	_	NNP	NNP	_	2	nmod	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	have	_	VBP	VBP	_	4	aux	_	_
+3	been	_	VBN	VBN	_	4	aux	_	_
+4	using	_	VBG	VBG	_	0	root	_	_
+5	Steele	_	NNP	NNP	_	6	compound	_	_
+6	Electric	_	NNP	NNP	_	4	dobj	_	_
+7	for	_	IN	IN	_	8	case	_	_
+8	years	_	NNS	NNS	_	4	nmod	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	They	_	PRP	PRP	_	4	nsubj	_	_
+2	have	_	VBP	VBP	_	4	aux	_	_
+3	always	_	RB	RB	_	4	advmod	_	_
+4	done	_	VBN	VBN	_	0	root	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	great	_	JJ	JJ	_	7	amod	_	_
+7	job	_	NN	NN	_	4	dobj	_	_
+8	at	_	IN	IN	_	11	case	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	reasonable	_	JJ	JJ	_	11	amod	_	_
+11	price	_	NN	NN	_	7	nmod	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommended	_	VBN	VBN	_	0	root	_	_
+3	.	_	.	.	_	1	punct	_	_
+

@@ -1,0 +1,13 @@
+1	really	_	RB	RB	_	2	advmod	_	_
+2	amazing	_	JJ	JJ	_	7	appos	_	_
+3	the	_	DT	DT	_	7	det	_	_
+4	new	_	JJ	JJ	_	7	amod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	exciting	_	JJ	JJ	_	4	conj	_	_
+7	plays	_	NNS	NNS	_	0	root	_	_
+8	done	_	VBN	VBN	_	7	nfincl	_	_
+9	at	_	IN	IN	_	11	case	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	theatre	_	NN	NN	_	8	nmod	_	_
+12	!	_	.	.	_	7	punct	_	_
+

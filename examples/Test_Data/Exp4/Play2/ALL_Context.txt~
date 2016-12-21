@@ -1,0 +1,2112 @@
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes
+
+fencer	$Agent$	paints
+Princess	$Theme$	paints
+
+Amazone	$Agent$	stabbed
+mechanics	$Theme$	stabbed
+
+Amazone	$Agent$	sprayed
+player	$Theme$	sprayed
+
+mechanics	$Agent$	stabbed
+Amazone	$Theme$	stabbed
+
+player	$Agent$	sprayed
+Amazone	$Theme$	sprayed
+
+nurse	$Agent$	pushes
+athlete	$Theme$	pushes
+
+nurse	$Agent$	dries
+priest	$Theme$	dries
+
+athlete	$Agent$	pushes
+nurse	$Theme$	pushes
+
+priest	$Agent$	dries
+nurse	$Theme$	dries
+
+journalist	$Agent$	ties
+sailor	$Theme$	ties
+
+journalist	$Agent$	feeds
+doctor	$Theme$	feeds
+
+sailor	$Agent$	ties
+journalist	$Theme$	ties
+
+doctor	$Agent$	feeds
+journalist	$Theme$	feeds
+
+worker	$Agent$	attacked
+cellist	$Theme$	attacked
+
+worker	$Agent$	interviewed
+golfer	$Theme$	interviewed
+
+cellist	$Agent$	attacked
+worker	$Theme$	attacked
+
+golfer	$Agent$	interviewed
+worker	$Theme$	interviewed
+
+devil	$Agent$	gifted
+clown	$Theme$	gifted
+
+devil	$Agent$	sketched
+cook	$Theme$	sketched
+
+clown	$Agent$	gifted
+devil	$Theme$	gifted
+
+cook	$Agent$	sketched
+devil	$Theme$	sketched
+
+lady	$Agent$	shoots
+waiter	$Theme$	shoots
+
+lady	$Agent$	slaps
+Knight	$Theme$	slaps
+
+waiter	$Agent$	shoots
+lady	$Theme$	shoots
+
+Knight	$Agent$	slaps
+lady	$Theme$	slaps
+
+skater	$Agent$	scrubs
+detective	$Theme$	scrubs
+
+skater	$Agent$	nudges
+magician	$Theme$	nudges
+
+detective	$Agent$	scrubs
+skater	$Theme$	scrubs
+
+magician	$Agent$	nudges
+skater	$Theme$	nudges
+
+maid	$Agent$	perfumed
+executioner	$Theme$	perfumed
+
+maid	$Agent$	bandaged
+drummer	$Theme$	bandaged
+
+executioner	$Agent$	perfumed
+maid	$Theme$	perfumed
+
+drummer	$Agent$	bandaged
+maid	$Theme$	bandaged
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+
+student	$Agent$	crowns
+Mermaid	$Theme$	crowns
+
+soldier	$Agent$	plucks
+Mermaid	$Theme$	plucks
+
+nun	$Agent$	inoculated
+guards	$Theme$	inoculated
+
+nun	$Agent$	tweaks
+clarinetist	$Theme$	tweaks
+
+guards	$Agent$	inoculated
+nun	$Theme$	inoculated
+
+clarinetist	$Agent$	tweaks
+nun	$Theme$	tweaks
+
+Grandma	$Agent$	scratches
+archer	$Theme$	scratches
+
+grandmother	$Agent$	filming
+saxophonist	$Theme$	filming
+
+archer	$Agent$	scratches
+Grandma	$Theme$	scratches
+
+saxophonist	$Agent$	filming
+grandmother	$Theme$	filming
+
+fairy	$Agent$	brushed
+gangsters	$Theme$	brushed
+
+fairy	$Agent$	splashed
+tourist	$Theme$	splashed
+
+gangsters	$Agent$	brushed
+fairy	$Theme$	brushed
+
+tourist	$Agent$	splashed
+fairy	$Theme$	splashed
+
+jogger	$Agent$	bewitched
+doctor	$Theme$	bewitched
+
+jogger	$Agent$	rubbed
+king	$Theme$	rubbed
+
+doctor	$Agent$	bewitched
+jogger	$Theme$	bewitched
+
+king	$Agent$	rubbed
+jogger	$Theme$	rubbed
+
+cheerleader	$Agent$	beaten
+pages	$Theme$	beaten
+
+cheerleader	$Agent$	poisoned
+angler	$Theme$	poisoned
+
+pages	$Agent$	beaten
+cheerleader	$Theme$	beaten
+
+angler	$Agent$	poisoned
+cheerleader	$Theme$	poisoned
+
+bride	$Agent$	spanks
+scouts	$Theme$	spanks
+
+bride	$Agent$	scalded
+postman	$Theme$	scalded
+
+scouts	$Agent$	spanks
+bride	$Theme$	spanks
+
+postman	$Agent$	scalded
+bride	$Theme$	scalded
+
+stewardess	$Agent$	powders
+Athlete	$Theme$	powders
+
+stewardess	$Agent$	charges
+traveler	$Theme$	charges
+
+Athlete	$Agent$	powders
+stewardess	$Theme$	powders
+
+traveler	$Agent$	charges
+stewardess	$Theme$	charges
+
+witch	$Agent$	illuminates
+boy	$Theme$	illuminates
+
+witch	$Agent$	steals
+sweeper	$Theme$	steals
+
+boy	$Agent$	illuminates
+witch	$Theme$	illuminates
+
+sweeper	$Agent$	steals
+witch	$Theme$	steals
+
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+
+officers	$Agent$	crowned
+Japanese	$Theme$	crowned
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+
+trainer	$Agent$	shows
+craftsman	$Theme$	shows
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+
+Princess	$Theme$	washed
+pirate	$Agent$	washed
+
+Princess	$Theme$	painted
+fencer	$Agent$	painted
+
+pirate	$Theme$	washed
+Princess	$Agent$	washed
+
+fencer	$Theme$	painted
+Princess	$Agent$	painted
+
+Amazone	$Theme$	stabbed
+mechanics	$Agent$	stabbed
+
+Amazone	$Theme$	sprayed
+player	$Agent$	sprayed
+
+mechanics	$Theme$	stabbed
+Amazone	$Agent$	stabbed
+
+player	$Theme$	sprayed
+Amazone	$Agent$	sprayed
+
+nurse	$Theme$	pushed
+athlete	$Agent$	pushed
+
+nurse	$Theme$	dried
+priest	$Agent$	dried
+
+athlete	$Theme$	pushed
+nurse	$Agent$	pushed
+
+priest	$Theme$	dried
+nurse	$Agent$	dried
+
+journalist	$Theme$	tied
+sailor	$Agent$	tied
+
+journalist	$Theme$	fed
+doctor	$Agent$	fed
+
+sailor	$Theme$	tied
+journalist	$Agent$	tied
+
+doctor	$Theme$	fed
+journalist	$Agent$	fed
+
+worker	$Theme$	attacked
+cellist	$Agent$	attacked
+
+worker	$Theme$	interviewed
+golfer	$Agent$	interviewed
+
+cellist	$Theme$	attacked
+worker	$Agent$	attacked
+
+golfer	$Theme$	interviewed
+worker	$Agent$	interviewed
+
+devil	$Theme$	gifted
+clown	$Agent$	gifted
+
+devil	$Theme$	sketched
+cook	$Agent$	sketched
+
+clown	$Theme$	gifted
+devil	$Agent$	gifted
+
+cook	$Theme$	sketched
+devil	$Agent$	sketched
+
+lady	$Theme$	shooted
+waiter	$Agent$	shooted
+
+lady	$Theme$	slapped
+Knight	$Agent$	slapped
+
+waiter	$Theme$	shooted
+lady	$Agent$	shooted
+
+Knight	$Theme$	slapped
+lady	$Agent$	slapped
+
+skater	$Theme$	scrubbed
+detective	$Agent$	scrubbed
+
+skater	$Theme$	nudged
+magician	$Agent$	nudged
+
+detective	$Theme$	scrubbed
+skater	$Agent$	scrubbed
+
+magician	$Theme$	nudged
+skater	$Agent$	nudged
+
+maid	$Theme$	perfumed
+executioner	$Agent$	perfumed
+
+maid	$Theme$	bandaged
+drummer	$Agent$	bandaged
+
+executioner	$Theme$	perfumed
+maid	$Agent$	perfumed
+
+drummer	$Theme$	bandaged
+maid	$Agent$	bandaged
+
+player	$Theme$	punched
+prisoner	$Agent$	punched
+
+player	$Theme$	meshed
+flutist	$Agent$	meshed
+
+prisoner	$Theme$	punched
+player	$Agent$	punched
+
+flutist	$Theme$	meshed
+player	$Agent$	meshed
+
+Mermaid	$Theme$	crowned
+student	$Agent$	crowned
+
+Mermaid	$Theme$	plucked
+soldier	$Agent$	plucked
+
+student	$Theme$	crowned
+Mermaid	$Agent$	crowned
+
+soldier	$Theme$	plucked
+Mermaid	$Agent$	plucked
+
+nun	$Theme$	inoculated
+guards	$Agent$	inoculated
+
+nun	$Theme$	tweaked
+clarinetist	$Agent$	tweaked
+
+guards	$Theme$	inoculated
+nun	$Agent$	inoculated
+
+clarinetist	$Theme$	tweaked
+nun	$Agent$	tweaked
+
+Grandma	$Theme$	scratched
+archer	$Agent$	scratched
+
+grandmother	$Theme$	filmed
+saxophonist	$Agent$	filmed
+
+archer	$Theme$	scratched
+Grandma	$Agent$	scratched
+
+saxophonist	$Theme$	filmed
+grandmother	$Agent$	filmed
+
+fairy	$Theme$	brushed
+gangsters	$Agent$	brushed
+
+fairy	$Theme$	splashed
+tourist	$Agent$	splashed
+
+gangsters	$Theme$	brushed
+fairy	$Agent$	brushed
+
+tourist	$Theme$	splashed
+fairy	$Agent$	splashed
+
+jogger	$Theme$	bewitched
+doctor	$Agent$	bewitched
+
+jogger	$Theme$	rubbed
+king	$Agent$	rubbed
+
+doctor	$Theme$	bewitched
+jogger	$Agent$	bewitched
+
+king	$Theme$	rubbed
+jogger	$Agent$	rubbed
+
+cheerleader	$Theme$	beaten
+page	$Agent$	beaten
+
+cheerleader	$Theme$	poisoned
+angler	$Agent$	poisoned
+
+page	$Theme$	beaten
+cheerleader	$Agent$	beaten
+
+angler	$Theme$	poisoned
+cheerleader	$Agent$	poisoned
+
+bride	$Theme$	spanked
+scouts	$Agent$	spanked
+
+bride	$Theme$	scalded
+postman	$Agent$	scalded
+
+scouts	$Theme$	spanked
+bride	$Agent$	spanked
+
+postman	$Theme$	scalded
+bride	$Agent$	scalded
+
+stewardess	$Theme$	powdered
+Athlete	$Agent$	powdered
+
+stewardess	$Theme$	charged
+traveler	$Agent$	charged
+
+Athlete	$Theme$	powdered
+stewardess	$Agent$	powdered
+
+traveler	$Theme$	charged
+stewardess	$Agent$	charged
+
+witch	$Theme$	illuminated
+boy	$Agent$	illuminated
+
+witch	$Theme$	stolen
+sweeper	$Agent$	stolen
+
+boy	$Theme$	illuminated
+witch	$Agent$	illuminated
+
+sweeper	$Theme$	stolen
+witch	$Agent$	stolen
+
+Japanese	$Theme$	smeared
+cameraman	$Agent$	smeared
+
+Japanese	$Theme$	crowned
+officers	$Agent$	crowned
+
+cameraman	$Theme$	smeared
+Japanese	$Agent$	smeared
+
+officers	$Theme$	crowned
+Japanese	$Agent$	crowned
+
+user	$Theme$	costumed
+referee	$Agent$	costumed
+
+user	$Theme$	remunerated
+Chinese	$Agent$	remunerated
+
+referee	$Theme$	costumed
+user	$Agent$	costumed
+
+Chinese	$Theme$	remunerated
+user	$Agent$	remunerated
+
+businesswoman	$Theme$	girded
+plumber	$Agent$	girded
+
+businesswoman	$Theme$	fed
+beekeepers	$Agent$	fed
+
+plumber	$Theme$	girded
+businesswoman	$Agent$	girded
+
+beekeepers	$Theme$	fed
+businesswoman	$Agent$	fed
+
+beauty	$Theme$	masked
+skier	$Agent$	masked
+
+beauty	$Theme$	rewarded
+prince	$Agent$	rewarded
+
+skier	$Theme$	masked
+beauty	$Agent$	masked
+
+prince	$Theme$	rewarded
+beauty	$Agent$	rewarded
+
+instructor	$Theme$	cautioned
+astronaut	$Agent$	cautioned
+
+trainer	$Theme$	shown
+craftsman	$Agent$	shown
+
+astronaut	$Theme$	cautioned
+instructor	$Agent$	cautioned
+
+craftsman	$Theme$	shown
+trainer	$Agent$	shown
+
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+Princess	$own$	with long hair
+with a brush	$Instrument$	washes
+
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+Princess	$own$	with long hair
+pirate	$own$	a woody leg
+
+Princess	$Agent$	washes
+pirate	$Theme$	washes
+Princess	$own$	with long hair
+with a brush	$Instrument$	washes
+pirate	$own$	a woody leg
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+Princess	$own$	with blue dress
+with color pallet	$Instrument$	paints
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+Princess	$own$	with blue dress
+fencer	$own$	with white suite
+
+Princess	$Agent$	paints
+fencer	$Theme$	paints
+Princess	$own$	with blue dress
+with color pallet	$Instrument$	paints
+fencer	$own$	with white suite
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes
+pirate	$own$	with a woody leg
+with a brush	$Instrument$	washes
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes
+pirate	$own$	with a woody leg
+princess	$own$	with long hair
+
+pirate	$Agent$	washes
+Princess	$Theme$	washes
+pirate	$own$	with a woody leg
+with a brush	$Instrument$	washes
+princess	$own$	with long hair
+
+fencer	$Agent$	paints
+Princess	$Theme$	paints
+fencer	$own$	with white suite
+with color pallet	$Instrument$	paints
+
+fencer	$Agent$	paints
+Princess	$Theme$	paints
+fencer	$own$	with white suite
+Princess	$own$	with long hair
+
+fencer	$Agent$	paints
+Princess	$Theme$	paints
+fencer	$own$	with white suite
+Princess	$own$	with long hair
+with color pallet	$Instrument$	paints
+
+Amazone	$Agent$	stabbed
+mechanics	$Theme$	stabbed
+Amazone	$own$	with red dress
+with a knife	$Instrument$	stabbed
+
+Amazone	$Agent$	stabbed
+mechanics	$Theme$	stabbed
+Amazone	$own$	with red dress
+mechanics	$own$	a hat
+
+Amazone	$Agent$	stabbed
+mechanics	$Theme$	stabbed
+Amazone	$own$	with red dress
+mechanics	$own$	a hat
+with a knife	$Instrument$	stabbed
+
+Amazone	$Agent$	sprayed
+player	$Theme$	sprayed
+Amazone	$own$	with long hair
+with a red spray	$Instrument$	sprayed
+
+Amazone	$Agent$	sprayed
+player	$Theme$	sprayed
+Amazone	$own$	with long hair
+player	$own$	with a ball
+
+Amazone	$Agent$	sprayed
+player	$Theme$	sprayed
+Amazone	$own$	with long hair
+player	$own$	with a ball
+with a red spray	$Instrument$	sprayed
+
+mechanics	$Agent$	stabbed
+Amazone	$Theme$	stabbed
+mechanics	$own$	with a hat
+with a knife	$Instrument$	stabbed
+
+mechanics	$Agent$	stabbed
+Amazone	$Theme$	stabbed
+mechanics	$own$	with a hat
+Amazone	$own$	a red dress
+
+mechanics	$Agent$	stabbed
+Amazone	$Theme$	stabbed
+mechanics	$own$	with a hat
+Amazone	$own$	a red dress
+with a knife	$Instrument$	stabbed
+
+player	$Agent$	sprayed
+Amazone	$Theme$	sprayed
+player	$own$	with white t-shirt
+with a red spray	$Instrument$	sprayed
+
+player	$Agent$	sprayed
+Amazone	$Theme$	sprayed
+player	$own$	with white t-shirt
+Amazone	$own$	with long hair
+
+player	$Agent$	sprayed
+Amazone	$Theme$	sprayed
+player	$own$	with white t-shirt
+Amazone	$own$	with long hair
+
+nurse	$Agent$	pushes
+athlete	$Theme$	pushes
+nurse	$own$	with Uniform
+by hands	$Instrument$	pushes
+
+nurse	$Agent$	pushes
+athlete	$Theme$	pushes
+nurse	$own$	with Uniform
+athlete	$own$	with sporty suite
+
+nurse	$Agent$	pushes
+athlete	$Theme$	pushes
+nurse	$own$	with Uniform
+by hands	$Instrument$	pushes
+athlete	$own$	with sporty suite
+
+nurse	$Agent$	dries
+priest	$Theme$	dries
+nurse	$own$	with Cross hat
+with a dryer	$Instrument$	dries
+
+nurse	$Agent$	dries
+priest	$Theme$	dries
+nurse	$own$	with Cross hat
+priest	$own$	in black
+
+nurse	$Agent$	dries
+priest	$Theme$	dries
+nurse	$own$	with Cross hat
+with a dryer	$Instrument$	dries
+priest	$own$	in black
+
+athlete	$Agent$	pushes
+nurse	$Theme$	pushes
+athlete	$own$	with red t-shirt
+by hands	$Instrument$	pushes
+
+athlete	$Agent$	pushes
+nurse	$Theme$	pushes
+athlete	$own$	with red t-shirt
+nurse	$own$	in white
+
+athlete	$Agent$	pushes
+nurse	$Theme$	pushes
+athlete	$own$	with red t-shirt
+by hands	$Instrument$	pushes
+nurse	$own$	in white
+
+priest	$Agent$	dries
+nurse	$Theme$	dries
+priest	$own$	with cross
+with a dryer	$Instrument$	dries
+
+priest	$Agent$	dries
+nurse	$Theme$	dries
+priest	$own$	with cross
+nurse	$own$	uniform
+
+priest	$Agent$	dries
+nurse	$Theme$	dries
+priest	$own$	with cross
+with a dryer	$Instrument$	dries
+nurse	$own$	uniform
+
+journalist	$Agent$	ties
+sailor	$Theme$	ties
+journalist	$own$	with a camera
+with handcuffs	$Instrument$	ties
+
+journalist	$Agent$	ties
+sailor	$Theme$	ties
+journalist	$own$	with a camera
+sailor	$own$	with white dress
+
+journalist	$Agent$	ties
+sailor	$Theme$	ties
+journalist	$own$	with a camera
+with handcuffs	$Instrument$	ties
+sailor	$own$	with white dress
+
+journalist	$Agent$	feeds
+doctor	$Theme$	feeds
+journalist	$own$	with a microphone
+with a spoon	$Instrument$	feeds
+
+journalist	$Agent$	feeds
+doctor	$Theme$	feeds
+journalist	$own$	with a microphone
+doctor	$own$	with a coat
+
+journalist	$Agent$	feeds
+doctor	$Theme$	feeds
+journalist	$own$	with a microphone
+with a spoon	$Instrument$	feeds
+doctor	$own$	with a coat
+
+sailor	$Agent$	ties
+journalist	$Theme$	ties
+sailor	$own$	with white hat
+with handcuffs	$Instrument$	ties
+
+sailor	$Agent$	ties
+journalist	$Theme$	ties
+sailor	$own$	with white hat
+journalist	$own$	with a camera
+
+sailor	$Agent$	ties
+journalist	$Theme$	ties
+sailor	$own$	with white hat
+with handcuffs	$Instrument$	ties
+journalist	$own$	with a camera
+
+doctor	$Agent$	feeds
+journalist	$Theme$	feeds
+doctor	$own$	with a coat
+with a portion	$Instrument$	feeds
+
+doctor	$Agent$	feeds
+journalist	$Theme$	feeds
+doctor	$own$	with a coat
+ournalist	$own$	with a microphone
+
+doctor	$Agent$	feeds
+journalist	$Theme$	feeds
+doctor	$own$	with a coat
+with a portion	$Instrument$	feeds
+ournalist	$own$	with a microphone
+
+worker	$Agent$	attacked
+cellist	$Theme$	attacked
+worker	$own$	with blue pants
+with a bottle	$Instrument$	attacked
+
+worker	$Agent$	attacked
+cellist	$Theme$	attacked
+worker	$own$	with blue pants
+cellist	$own$	with a guitar
+
+worker	$Agent$	attacked
+cellist	$Theme$	attacked
+worker	$own$	with blue pants
+with a bottle	$Instrument$	attacked
+cellist	$own$	with a guitar
+
+worker	$Agent$	interviewed
+golfer	$Theme$	interviewed
+worker	$own$	with blue pants
+with a microphone	$Instrument$	interviewed
+
+worker	$Agent$	interviewed
+golfer	$Theme$	interviewed
+worker	$own$	with blue pants
+golfer	$own$	with a rocket
+
+worker	$Agent$	interviewed
+golfer	$Theme$	interviewed
+worker	$own$	with blue pants
+with a microphone	$Instrument$	interviewed
+golfer	$own$	with a rocket
+
+cellist	$Agent$	attacked
+worker	$Theme$	attacked
+cellist	$own$	with a guitar
+with a bottle	$Instrument$	attacked
+
+cellist	$Agent$	attacked
+worker	$Theme$	attacked
+cellist	$own$	with a guitar
+worker	$own$	with blue pants
+
+cellist	$Agent$	attacked
+worker	$Theme$	attacked
+cellist	$own$	with a guitar
+with a bottle	$Instrument$	attacked
+worker	$own$	with blue pants
+
+golfer	$Agent$	interviewed
+worker	$Theme$	interviewed
+golfer	$own$	with a rocket
+with a microphone	$Instrument$	interviewed
+
+golfer	$Agent$	interviewed
+worker	$Theme$	interviewed
+golfer	$own$	with a rocket
+worker	$own$	with blue pants
+
+golfer	$Agent$	interviewed
+worker	$Theme$	interviewed
+golfer	$own$	with a rocket
+with a microphone	$Instrument$	interviewed
+worker	$own$	with blue pants
+
+devil	$Agent$	gifted
+clown	$Theme$	gifted
+devil	$own$	in red
+with a present	$Instrument$	gifted
+
+devil	$Agent$	gifted
+clown	$Theme$	gifted
+devil	$own$	in red
+clown	$own$	with big shoes
+
+devil	$Agent$	gifted
+clown	$Theme$	gifted
+devil	$own$	in red
+with a present	$Instrument$	gifted
+clown	$own$	with big shoes
+
+devil	$Agent$	sketched
+cooker	$Theme$	sketched
+devil	$own$	in red
+with a pen	$Instrument$	sketched
+
+devil	$Agent$	sketched
+cooker	$Theme$	sketched
+devil	$own$	in red
+cooker	$own$	with white hat
+
+devil	$Agent$	sketched
+cooker	$Theme$	sketched
+devil	$own$	in red
+with a pen	$Instrument$	sketched
+cooker	$own$	with white hat
+
+clown	$Agent$	gifted
+devil	$Theme$	gifted
+clown	$own$	with big shoes
+with green box	$Instrument$	gifted
+
+clown	$Agent$	gifted
+devil	$Theme$	gifted
+clown	$own$	with big shoes
+devil	$own$	in red
+
+clown	$Agent$	gifted
+devil	$Theme$	gifted
+clown	$own$	with big shoes
+with green box	$Instrument$	gifted
+devil	$own$	in red
+
+cooker	$Agent$	sketched
+devil	$Theme$	sketched
+cooker	$own$	with white hat 
+with pen	$Instrument$	sketched
+
+cooker	$Agent$	sketched
+devil	$Theme$	sketched
+cooker	$own$	with white hat 
+devil	$own$	in red
+
+cooker	$Agent$	sketched
+devil	$Theme$	sketched
+cooker	$own$	with white hat 
+with pen	$Instrument$	sketched
+devil	$own$	in red
+
+lady	$Agent$	shoots
+waiter	$Theme$	shoots
+lady	$own$	with blue uniform 
+with a ball	$Instrument$	shoots
+
+lady	$Agent$	shoots
+waiter	$Theme$	shoots
+lady	$own$	with blue uniform 
+waiter	$own$	with a towel
+
+lady	$Agent$	shoots
+waiter	$Theme$	shoots
+lady	$own$	with blue uniform 
+with a ball	$Instrument$	shoots
+waiter	$own$	with a towel
+
+lady	$Agent$	slaps
+Knight	$Theme$	slaps
+lady	$own$	with broom
+with a hand	$Instrument$	slaps
+
+lady	$Agent$	slaps
+Knight	$Theme$	slaps
+lady	$own$	with broom
+Knight	$own$	with a sword
+
+lady	$Agent$	slaps
+Knight	$Theme$	slaps
+lady	$own$	with broom
+with a hand	$Instrument$	slaps
+Knight	$own$	with a sword
+
+waiter	$Agent$	shoots
+lady	$Theme$	shoots
+waiter	$own$	with a towel
+with the ball	$Instrument$	shoots
+
+waiter	$Agent$	shoots
+lady	$Theme$	shoots
+waiter	$own$	with a towel
+lady	$own$	with blue uniform
+
+waiter	$Agent$	shoots
+lady	$Theme$	shoots
+waiter	$own$	with a towel
+with the ball	$Instrument$	shoots
+lady	$own$	with blue uniform
+
+Knight	$Agent$	slaps
+lady	$Theme$	slaps
+Knight	$own$	with a sword
+with a hand	$Instrument$	slaps
+
+Knight	$Agent$	slaps
+lady	$Theme$	slaps
+Knight	$own$	with a sword
+lady	$own$	with a broom
+
+Knight	$Agent$	slaps
+lady	$Theme$	slaps
+Knight	$own$	with a sword
+with a hand	$Instrument$	slaps
+lady	$own$	with a broom
+
+skater	$Agent$	scrubs
+detective	$Theme$	scrubs
+skater	$own$	with short dress
+with a brush	$Instrument$	scrubs
+
+skater	$Agent$	scrubs
+detective	$Theme$	scrubs
+skater	$own$	with short dress
+detective	$own$	with a lens
+
+skater	$Agent$	scrubs
+detective	$Theme$	scrubs
+skater	$own$	with short dress
+with a brush	$Instrument$	scrubs
+detective	$own$	with a lens
+
+skater	$Agent$	nudges
+magician	$Theme$	nudges
+skater	$own$	with short dress
+with finger	$Instrument$	nudges
+
+skater	$Agent$	nudges
+magician	$Theme$	nudges
+skater	$own$	with short dress
+magician	$own$	with stars signs
+
+skater	$Agent$	nudges
+magician	$Theme$	nudges
+skater	$own$	with short dress
+with finger	$Instrument$	nudges
+magician	$own$	with stars signs
+
+detective	$Agent$	scrubs
+skater	$Theme$	scrubs
+detective	$own$	with a lens
+with a brush	$Instrument$	scrubs
+
+detective	$Agent$	scrubs
+skater	$Theme$	scrubs
+detective	$own$	with a lens
+skater	$own$	with short dress
+
+detective	$Agent$	scrubs
+skater	$Theme$	scrubs
+detective	$own$	with a lens
+with a brush	$Instrument$	scrubs
+skater	$own$	with short dress
+
+magician	$Agent$	nudges
+skater	$Theme$	nudges
+magician	$own$	with stars signs
+with finger	$Instrument$	nudges
+
+magician	$Agent$	nudges
+skater	$Theme$	nudges
+magician	$own$	with stars signs
+skater	$own$	with short dress
+
+magician	$Agent$	nudges
+skater	$Theme$	nudges
+magician	$own$	with stars signs
+with finger	$Instrument$	nudges
+skater	$own$	with short dress
+
+maid	$Agent$	perfumed
+executioner	$Theme$	perfumed
+maid	$own$	in blue
+with a perfume	$Instrument$	perfumed
+
+maid	$Agent$	perfumed
+executioner	$Theme$	perfumed
+maid	$own$	in blue
+executioner	$own$	with a mask
+
+maid	$Agent$	perfumed
+executioner	$Theme$	perfumed
+maid	$own$	in blue
+with a perfume	$Instrument$	perfumed
+executioner	$own$	with a mask
+
+maid	$Agent$	bandaged
+drummer	$Theme$	bandaged
+maid	$own$	with a bag 
+with plaster	$Instrument$	bandaged
+
+maid	$Agent$	bandaged
+drummer	$Theme$	bandaged
+maid	$own$	with a bag 
+drummer	$own$	with a drum
+
+maid	$Agent$	bandaged
+drummer	$Theme$	bandaged
+maid	$own$	with a bag 
+with plaster	$Instrument$	bandaged
+drummer	$own$	with a drum
+
+executioner	$Agent$	perfumed
+maid	$Theme$	perfumed
+executioner	$own$	with a mask
+with a perfume	$Instrument$	perfumed
+
+executioner	$Agent$	perfumed
+maid	$Theme$	perfumed
+executioner	$own$	with a mask
+maid	$own$	in blue
+
+executioner	$Agent$	perfumed
+maid	$Theme$	perfumed
+executioner	$own$	with a mask
+with a perfume	$Instrument$	perfumed
+maid	$own$	in blue
+
+drummer	$Agent$	bandaged
+maid	$Theme$	bandaged
+drummer	$own$	with a drum
+with plaster	$Instrument$	bandaged
+
+drummer	$Agent$	bandaged
+maid	$Theme$	bandaged
+drummer	$own$	with a drum
+maid	$own$	in blue
+
+drummer	$Agent$	bandaged
+maid	$Theme$	bandaged
+drummer	$own$	with a drum
+with plaster	$Instrument$	bandaged
+maid	$own$	in blue
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+with a box	$Instrument$	punches
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+prisoner	$own$	with a beard
+
+player	$Agent$	punches
+prisoner	$Theme$	punches
+player	$own$	with gloves
+with a box	$Instrument$	punches
+prisoner	$own$	with a beard
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+with a comb	$Instrument$	meshes
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+flutist	$own$	with a blue tie
+
+player	$Agent$	meshes
+flutist	$Theme$	meshes
+player	$own$	with yellow hair
+with a comb	$Instrument$	meshes
+flutist	$own$	with a blue tie
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+with a box	$Instrument$	punches
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+player	$own$	with yellow hair
+
+prisoner	$Agent$	punches
+player	$Theme$	punches
+prisoner	$own$	with a beard
+with a box	$Instrument$	punches
+player	$own$	with yellow hair
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+with a comb	$Instrument$	meshes
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+player	$own$	with gloves
+
+flutist	$Agent$	meshes
+player	$Theme$	meshes
+flutist	$own$	with a blue tie
+with a comb	$Instrument$	meshes
+player	$own$	with gloves
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+with a crown	$Instrument$	crowns
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+student	$own$	with a bag
+
+Mermaid	$Agent$	crowns
+student	$Theme$	crowns
+Mermaid	$own$	with red hair
+with a crown	$Instrument$	crowns
+student	$own$	with a bag
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+with finger	$Instrument$	plucks
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+soldier	$own$	in military suite
+
+Mermaid	$Agent$	plucks
+soldier	$Theme$	plucks
+Mermaid	$own$	with a fish tail
+with finger	$Instrument$	plucks
+soldier	$own$	in military suite
+
+student	$Agent$	crowns
+Mermaid	$Theme$	crowns
+student	$own$	with a bag
+with a crown	$Instrument$	crowns
+
+student	$Agent$	crowns
+Mermaid	$Theme$	crowns
+student	$own$	with a bag
+Mermaid	$own$	with red hair
+
+student	$Agent$	crowns
+Mermaid	$Theme$	crowns
+student	$own$	with a bag
+with a crown	$Instrument$	crowns
+Mermaid	$own$	with red hair
+
+soldier	$Agent$	plucks
+Mermaid	$Theme$	plucks
+soldier	$own$	in military suite
+with a finger	$Instrument$	plucks
+
+soldier	$Agent$	plucks
+Mermaid	$Theme$	plucks
+soldier	$own$	in military suite
+Mermaid	$own$	with a crown
+
+soldier	$Agent$	plucks
+Mermaid	$Theme$	plucks
+soldier	$own$	in military suite
+with a finger	$Instrument$	plucks
+Mermaid	$own$	with a crown
+
+nun	$Agent$	inoculated
+guards	$Theme$	inoculated
+nun	$own$	with a cross
+with an injector	$Instrument$	inoculated
+
+nun	$Agent$	inoculated
+guards	$Theme$	inoculated
+nun	$own$	with a cross
+guards	$own$	with a flag
+
+nun	$Agent$	inoculated
+guards	$Theme$	inoculated
+nun	$own$	with a cross
+with an injector	$Instrument$	inoculated
+guards	$own$	with a flag
+
+nun	$Agent$	tweaks
+clarinetist	$Theme$	tweaks
+nun	$own$	with a cross 
+with a tool	$Instrument$	tweaks
+
+nun	$Agent$	tweaks
+clarinetist	$Theme$	tweaks
+nun	$own$	with a cross 
+clarinetist	$own$	with a flute
+
+nun	$Agent$	tweaks
+clarinetist	$Theme$	tweaks
+nun	$own$	with a cross 
+with a tool	$Instrument$	tweaks
+clarinetist	$own$	with a flute
+
+guard	$Agent$	inoculated
+nun	$Theme$	inoculated
+guard	$own$	with a flag
+with an injector	$Instrument$	inoculated
+
+guard	$Agent$	inoculated
+nun	$Theme$	inoculated
+guard	$own$	with a flag
+nun	$own$	in black
+
+guard	$Agent$	inoculated
+nun	$Theme$	inoculated
+guard	$own$	with a flag
+with an injector	$Instrument$	inoculated
+nun	$own$	in black
+
+clarinetist	$Agent$	tweaks
+nun	$Theme$	tweaks
+clarinetist	$own$	with a flute
+with a tool	$Instrument$	tweaks
+
+clarinetist	$Agent$	tweaks
+nun	$Theme$	tweaks
+clarinetist	$own$	with a flute
+nun	$own$	in black
+
+clarinetist	$Agent$	tweaks
+nun	$Theme$	tweaks
+clarinetist	$own$	with a flute
+with a tool	$Instrument$	tweaks
+nun	$own$	in black
+
+Grandma	$Agent$	scratches
+archer	$Theme$	scratches
+Grandma	$own$	with a long jacket
+by hand	$Instrument$	scratches
+
+Grandma	$Agent$	scratches
+archer	$Theme$	scratches
+Grandma	$own$	with a long jacket
+archer	$own$	with cowboy hat
+
+Grandma	$Agent$	scratches
+archer	$Theme$	scratches
+Grandma	$own$	with a long jacket
+by hand	$Instrument$	scratches
+archer	$own$	with cowboy hat
+
+grandmother	$Agent$	filming
+saxophonist	$Theme$	filming
+grandmother	$own$	with a long jacket
+with a camera	$Instrument$	filming
+
+grandmother	$Agent$	filming
+saxophonist	$Theme$	filming
+grandmother	$own$	with a long jacket
+saxophonist	$own$	with saxophone
+
+grandmother	$Agent$	filming
+saxophonist	$Theme$	filming
+grandmother	$own$	with a long jacket
+with a camera	$Instrument$	filming
+saxophonist	$own$	with saxophone
+
+archer	$Agent$	scratches
+Grandma	$Theme$	scratches
+archer	$own$	with cowboy hat
+by hand	$Instrument$	scratches
+
+archer	$Agent$	scratches
+Grandma	$Theme$	scratches
+archer	$own$	with cowboy hat
+Grandma	$own$	with a long jacket
+
+archer	$Agent$	scratches
+Grandma	$Theme$	scratches
+archer	$own$	with cowboy hat
+by hand	$Instrument$	scratches
+Grandma	$own$	with a long jacket
+
+saxophonist	$Agent$	filming
+grandmother	$Theme$	filming
+saxophonist	$own$	with saxophone
+with a camera	$Instrument$	filming
+
+saxophonist	$Agent$	filming
+grandmother	$Theme$	filming
+saxophonist	$own$	with saxophone
+grandmother	$own$	with a long jacket
+
+saxophonist	$Agent$	filming
+grandmother	$Theme$	filming
+saxophonist	$own$	with saxophone
+with a camera	$Instrument$	filming
+grandmother	$own$	with a long jacket
+
+fairy	$Agent$	brushed
+gangster	$Theme$	brushed
+fairy	$own$	with long cone
+with a brush	$Instrument$	brushed
+
+fairy	$Agent$	brushed
+gangster	$Theme$	brushed
+fairy	$own$	with long cone
+gangster	$own$	with a gun
+
+fairy	$Agent$	brushed
+gangster	$Theme$	brushed
+fairy	$own$	with long cone
+with a brush	$Instrument$	brushed
+gangster	$own$	with a gun
+
+fairy	$Agent$	splashed
+tourist	$Theme$	splashed
+fairy	$own$	with long cone
+with a drink	$Instrument$	splashed
+
+fairy	$Agent$	splashed
+tourist	$Theme$	splashed
+fairy	$own$	with long cone
+tourist	$own$	with a float
+
+fairy	$Agent$	splashed
+tourist	$Theme$	splashed
+fairy	$own$	with long cone
+with a drink	$Instrument$	splashed
+tourist	$own$	with a float
+
+gangster	$Agent$	brushed
+fairy	$Theme$	brushed
+gangster	$own$	with a gun
+with a brush	$Instrument$	brushed
+
+gangster	$Agent$	brushed
+fairy	$Theme$	brushed
+gangster	$own$	with a gun
+fairy	$own$	with long cone
+
+gangster	$Agent$	brushed
+fairy	$Theme$	brushed
+gangster	$own$	with a gun
+with a brush	$Instrument$	brushed
+fairy	$own$	with long cone
+
+tourist	$Agent$	splashed
+fairy	$Theme$	splashed
+tourist	$own$	with a float
+with a drink	$Instrument$	splashed
+
+tourist	$Agent$	splashed
+fairy	$Theme$	splashed
+tourist	$own$	with a float
+fairy	$own$	with long cone
+
+tourist	$Agent$	splashed
+fairy	$Theme$	splashed
+tourist	$own$	with a float
+with a drink	$Instrument$	splashed
+fairy	$own$	with long cone
+
+jogger	$Agent$	bewitched
+doctor	$Theme$	bewitched
+jogger	$own$	with coach shoes
+with a magic stick	$Instrument$	bewitched
+
+jogger	$Agent$	bewitched
+doctor	$Theme$	bewitched
+jogger	$own$	with coach shoes
+doctor	$own$	with a coat
+
+jogger	$Agent$	bewitched
+doctor	$Theme$	bewitched
+jogger	$own$	with coach shoes
+with a magic stick	$Instrument$	bewitched
+doctor	$own$	with a coat
+
+jogger	$Agent$	rubbed
+king	$Theme$	rubbed
+jogger	$own$	with coach shoes
+with a towel	$Instrument$	rubbed
+
+jogger	$Agent$	rubbed
+king	$Theme$	rubbed
+jogger	$own$	with coach shoes
+king	$own$	with a crown
+
+jogger	$Agent$	rubbed
+king	$Theme$	rubbed
+jogger	$own$	with coach shoes
+with a towel	$Instrument$	rubbed
+king	$own$	with a crown
+
+doctor	$Agent$	bewitched
+jogger	$Theme$	bewitched
+doctor	$own$	with a coat
+with a magic stick	$Instrument$	bewitched
+
+doctor	$Agent$	bewitched
+jogger	$Theme$	bewitched
+doctor	$own$	with a coat
+jogger	$own$	with coach shoes
+
+doctor	$Agent$	bewitched
+jogger	$Theme$	bewitched
+doctor	$own$	with a coat
+with a magic stick	$Instrument$	bewitched
+jogger	$own$	with coach shoes
+
+king	$Agent$	rubbed
+jogger	$Theme$	rubbed
+king	$own$	with a crown
+with a towel	$Instrument$	rubbed
+
+king	$Agent$	rubbed
+jogger	$Theme$	rubbed
+king	$own$	with a crown
+jogger	$own$	with coach shoes
+
+king	$Agent$	rubbed
+jogger	$Theme$	rubbed
+king	$own$	with a crown
+with a towel	$Instrument$	rubbed
+jogger	$own$	with coach shoes
+
+cheerleader	$Agent$	beaten
+pages	$Theme$	beaten
+cheerleader	$own$	with short skirt
+with a stick	$Instrument$	beaten
+
+cheerleader	$Agent$	beaten
+pages	$Theme$	beaten
+cheerleader	$own$	with short skirt
+pages	$own$	with a bag
+
+cheerleader	$Agent$	beaten
+pages	$Theme$	beaten
+cheerleader	$own$	with short skirt
+with a stick	$Instrument$	beaten
+pages	$own$	with a bag
+
+cheerleader	$Agent$	poisoned
+angler	$Theme$	poisoned
+cheerleader	$own$	with short skirt
+with a poison glass	$Instrument$	poisoned
+
+cheerleader	$Agent$	poisoned
+angler	$Theme$	poisoned
+cheerleader	$own$	with short skirt
+angler	$own$	with hooks
+
+cheerleader	$Agent$	poisoned
+angler	$Theme$	poisoned
+cheerleader	$own$	with short skirt
+with a poison glass	$Instrument$	poisoned
+angler	$own$	with hooks
+
+pages	$Agent$	beaten
+cheerleader	$Theme$	beaten
+pages	$own$	with a bag
+with a stick	$Instrument$	beaten
+
+pages	$Agent$	beaten
+cheerleader	$Theme$	beaten
+pages	$own$	with a bag
+cheerleader	$own$	with short skirt
+
+pages	$Agent$	beaten
+cheerleader	$Theme$	beaten
+pages	$own$	with a bag
+with a stick	$Instrument$	beaten
+cheerleader	$own$	with short skirt
+
+angler	$Agent$	poisoned
+cheerleader	$Theme$	poisoned
+angler	$own$	with hooks
+with a poison glass	$Instrument$	poisoned
+
+angler	$Agent$	poisoned
+cheerleader	$Theme$	poisoned
+angler	$own$	with hooks
+cheerleader	$own$	with short skirt
+
+angler	$Agent$	poisoned
+cheerleader	$Theme$	poisoned
+angler	$own$	with hooks
+with a poison glass	$Instrument$	poisoned
+cheerleader	$own$	with short skirt
+
+bride	$Agent$	spanked
+scouts	$Theme$	spanked
+bride	$own$	in white
+with stick	$Instrument$	spanked
+
+bride	$Agent$	spanked
+scouts	$Theme$	spanked
+bride	$own$	in white
+scouts	$own$	in green
+
+bride	$Agent$	spanked
+scouts	$Theme$	spanked
+bride	$own$	in white
+with stick	$Instrument$	spanked
+scouts	$own$	in green
+
+bride	$Agent$	scalded
+postman	$Theme$	scalded
+bride	$own$	in white
+with water	$Instrument$	scalded
+
+bride	$Agent$	scalded
+postman	$Theme$	scalded
+bride	$own$	in white
+postman	$own$	with a bag
+
+bride	$Agent$	scalded
+postman	$Theme$	scalded
+bride	$own$	in white
+with water	$Instrument$	scalded
+postman	$own$	with a bag
+
+scout	$Agent$	spanked
+bride	$Theme$	spanked
+scout	$own$	in green
+with a stick	$Instrument$	spanked
+
+scout	$Agent$	spanked
+bride	$Theme$	spanked
+scout	$own$	in green
+bride	$own$	in white
+
+scout	$Agent$	spanked
+bride	$Theme$	spanked
+scout	$own$	in green
+bride	$own$	in white
+with a stick	$Instrument$	spanked
+
+postman	$Agent$	scalded
+bride	$Theme$	scalded
+postman	$own$	with a bag
+with water	$Instrument$	scalded
+
+postman	$Agent$	scalded
+bride	$Theme$	scalded
+postman	$own$	with a bag
+bride	$own$	in white
+
+postman	$Agent$	scalded
+bride	$Theme$	scalded
+postman	$own$	with a bag
+bride	$own$	in white
+with water	$Instrument$	scalded
+
+stewardess	$Agent$	powders
+Athlete	$Theme$	powders
+stewardess	$own$	with a blue dressing
+with a powder brush	$Instrument$	powders
+
+stewardess	$Agent$	powders
+Athlete	$Theme$	powders
+stewardess	$own$	with a blue dressing
+Athlete	$own$	with red short
+
+stewardess	$Agent$	powders
+Athlete	$Theme$	powders
+stewardess	$own$	with a blue dressing
+with a powder brush	$Instrument$	powders
+Athlete	$own$	with red short
+
+stewardess	$Agent$	charges
+traveler	$Theme$	charges
+stewardess	$own$	with a blue dressing
+with money	$Instrument$	charges
+
+stewardess	$Agent$	charges
+traveler	$Theme$	charges
+stewardess	$own$	with a blue dressing
+traveler	$own$	with climbing tools
+
+stewardess	$Agent$	charges
+traveler	$Theme$	charges
+stewardess	$own$	with a blue dressing
+traveler	$own$	with climbing tools
+with money	$Instrument$	charges
+
+Athlete	$Agent$	powders
+stewardess	$Theme$	powders
+Athlete	$own$	with red short
+with a powder brush	$Instrument$	powders
+
+Athlete	$Agent$	powders
+stewardess	$Theme$	powders
+Athlete	$own$	with red short
+stewardess	$own$	with a blue dressing
+
+Athlete	$Agent$	powders
+stewardess	$Theme$	powders
+Athlete	$own$	with red short
+with a powder brush	$Instrument$	powders
+stewardess	$own$	with a blue dressing
+
+traveler	$Agent$	charges
+stewardess	$Theme$	charges
+traveler	$own$	with climbing tools
+with money	$Instrument$	charges
+
+traveler	$Agent$	charges
+stewardess	$Theme$	charges
+traveler	$own$	with climbing tools
+stewardess	$own$	with a blue dressing
+
+traveler	$Agent$	charges
+stewardess	$Theme$	charges
+traveler	$own$	with climbing tools
+with money	$Instrument$	charges
+stewardess	$own$	with a blue dressing
+
+witch	$Agent$	illuminates
+boy	$Theme$	illuminates
+witch	$own$	with broom 
+with a light	$Instrument$	illuminates
+
+witch	$Agent$	illuminates
+boy	$Theme$	illuminates
+witch	$own$	with broom 
+boy	$own$	with a newspaper
+
+witch	$Agent$	illuminates
+boy	$Theme$	illuminates
+witch	$own$	with broom 
+boy	$own$	with a newspaper
+with a light	$Instrument$	illuminates
+
+witch	$Agent$	steals
+sweeper	$Theme$	steals
+witch	$own$	with broom 
+with magic	$Instrument$	steals
+
+witch	$Agent$	steals
+sweeper	$Theme$	steals
+witch	$own$	with broom 
+sweeper	$own$	with gloves
+
+witch	$Agent$	steals
+sweeper	$Theme$	steals
+witch	$own$	with broom 
+with magic	$Instrument$	steals
+sweeper	$own$	with gloves
+
+boy	$Agent$	illuminates
+witch	$Theme$	illuminates
+boy	$own$	with short 
+with a light	$Instrument$	illuminates
+
+boy	$Agent$	illuminates
+witch	$Theme$	illuminates
+boy	$own$	with short 
+witch	$own$	with broom 
+
+boy	$Agent$	illuminates
+witch	$Theme$	illuminates
+boy	$own$	with short 
+with a light	$Instrument$	illuminates
+witch	$own$	with broom 
+
+sweeper	$Agent$	steals
+witch	$Theme$	steals
+sweeper	$own$	with gloves
+by hand	$Instrument$	steals
+
+sweeper	$Agent$	steals
+witch	$Theme$	steals
+sweeper	$own$	with gloves
+witch	$own$	with broom 
+
+sweeper	$Agent$	steals
+witch	$Theme$	steals
+sweeper	$own$	with gloves
+by hand	$Instrument$	steals
+witch	$own$	with broom 
+
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+Japanese	$own$	with kimono
+with cream	$Instrument$	cameraman
+
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+Japanese	$own$	with kimono
+cameraman	$own$	with yellow hair
+
+Japanese	$Agent$	smeared
+cameraman	$Theme$	smeared
+Japanese	$own$	with kimono
+cameraman	$own$	with yellow hair
+with cream	$Instrument$	smeared
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+Japanese	$own$	with kimono
+officer	$own$	with a gun
+
+Japanese	$Agent$	crowned
+officers	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+officer	$own$	with a gun
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+cameraman	$own$	with yellow hair
+with cream	$Instrument$	smeared
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+cameraman	$own$	with yellow hair
+Japanese	$own$	with kimono
+
+cameraman	$Agent$	smeared
+Japanese	$Theme$	smeared
+cameraman	$own$	with yellow hair
+Japanese	$own$	with kimono
+with cream	$Instrument$	smeared
+
+officer	$Agent$	crowned
+Japanese	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+
+officer	$Agent$	crowned
+Japanese	$Theme$	crowned
+Japanese	$own$	with kimono
+officer	$own$	with a gun
+
+
+officer	$Agent$	crowned
+Japanese	$Theme$	crowned
+Japanese	$own$	with kimono
+with flowers	$Instrument$	crowned
+officer	$own$	with a gun
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+user	$own$	with pullover
+with a cone	$Instrument$	costumed
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+user	$own$	with pullover
+referee	$own$	with a uniform
+
+user	$Agent$	costumed
+referee	$Theme$	costumed
+user	$own$	with pullover
+with a cone	$Instrument$	costumed
+referee	$own$	with a uniform
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+user	$own$	with pullover
+with food	$Instrument$	remunerated
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+user	$own$	with pullover
+Chinese	$own$	with traditional dress
+
+user	$Agent$	remunerated
+Chinese	$Theme$	remunerated
+user	$own$	with pullover
+Chinese	$own$	with traditional dress
+with food	$Instrument$	remunerated
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+referee	$own$	with a uniform
+with a cone	$Instrument$	costumed
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+referee	$own$	with a uniform
+user	$own$	with pullover
+
+referee	$Agent$	costumed
+user	$Theme$	costumed
+referee	$own$	with a uniform
+with a cone	$Instrument$	costumed
+user	$own$	with pullover
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+Chinese	$own$	with traditional dress
+with food	$Instrument$	remunerated
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+Chinese	$own$	with traditional dress
+user	$own$	with pullover
+
+Chinese	$Agent$	remunerated
+user	$Theme$	remunerated
+Chinese	$own$	with traditional dress
+with food	$Instrument$	remunerated
+user	$own$	with pullover
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+businesswoman	$own$	with formal dress
+with a belt	$Instrument$	girded
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+businesswoman	$own$	with formal dress
+plumber	$own$	with a uniform
+
+businesswoman	$Agent$	girded
+plumber	$Theme$	girded
+businesswoman	$own$	with formal dress
+plumber	$own$	with a uniform
+with a belt	$Instrument$	girded
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+businesswoman	$own$	with formal dress
+with a chicken	$Instrument$	feeds
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+businesswoman	$own$	with formal dress
+beekeepers	$own$	with a beekeeper hat
+
+businesswoman	$Agent$	feeds
+beekeepers	$Theme$	feeds
+businesswoman	$own$	with formal dress
+beekeepers	$own$	with a beekeeper hat
+with a chicken	$Instrument$	feeds
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+plumber	$own$	with a uniform
+with a belt	$Instrument$	girded
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+plumber	$own$	with a uniform
+businesswoman	$own$	with formal dress
+
+plumber	$Agent$	girded
+businesswoman	$Theme$	girded
+plumber	$own$	with a uniform
+with a belt	$Instrument$	girded
+businesswoman	$own$	with formal dress
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+beekeepers	$own$	with a beekeeper hat
+with a meal	$Instrument$	feeds
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+beekeepers	$own$	with a beekeeper hat
+businesswoman	$own$	with formal dress
+
+beekeepers	$Agent$	feeds
+businesswoman	$Theme$	feeds
+beekeepers	$own$	with a beekeeper hat
+businesswoman	$own$	with formal dress
+with a meal	$Instrument$	feeds
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+beauty	$own$	with swimming suite
+with a mask	$Instrument$	masked
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+beauty	$own$	with swimming suite
+skier	$own$	with a skateboard
+
+beauty	$Agent$	masked
+skier	$Theme$	masked
+beauty	$own$	with swimming suite
+with a mask	$Instrument$	masked
+skier	$own$	with a skateboard
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+beauty	$own$	with swimming suite
+with a gift	$Instrument$	rewards
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+beauty	$own$	with swimming suite
+prince	$own$	with fighting tools
+
+beauty	$Agent$	rewards
+prince	$Theme$	rewards
+beauty	$own$	with swimming suite
+prince	$own$	with fighting tools
+with a gift	$Instrument$	rewards
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+skier	$own$	with a skateboard
+with a mask	$Instrument$	masked
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+skier	$own$	with a skateboard
+beauty	$own$	with a swimming suite
+
+skier	$Agent$	masked
+beauty	$Theme$	masked
+skier	$own$	with a skateboard
+with a mask	$Instrument$	masked
+beauty	$own$	with a swimming suite
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+prince	$own$	with fighting tools
+with a gift	$Instrument$	rewards
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+prince	$own$	with fighting tools
+beauty	$own$	with a swimming suite
+
+prince	$Agent$	rewards
+beauty	$Theme$	rewards
+prince	$own$	with fighting tools
+beauty	$own$	with a swimming suite
+with a gift	$Instrument$	rewards
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+instructor	$own$	with short hair
+with a red card	$Instrument$	cautioned
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+instructor	$own$	with short hair
+astronaut	$own$	with a space suit
+
+instructor	$Agent$	cautioned
+astronaut	$Theme$	cautioned
+instructor	$own$	with short hair
+astronaut	$own$	with a space suit
+with a red card	$Instrument$	cautioned
+
+trainer	$Agent$	shows
+craftsmen	$Theme$	shows
+trainer	$own$	with short hair
+cooking	$Theme$	shows
+
+trainer	$Agent$	shows
+craftsmen	$Theme$	shows
+trainer	$own$	with short hair
+craftsman	$own$	with a blue uniform
+
+trainer	$Agent$	shows
+craftsmen	$Theme$	shows
+trainer	$own$	with short hair
+craftsman	$own$	with a blue uniform
+cooking	$Theme$	shows
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+astronaut	$own$	with a space suit
+with a red card	$Instrument$	cautioned
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+astronaut	$own$	with a space suit
+instructor	$own$	with short hair
+
+astronaut	$Agent$	cautioned
+instructor	$Theme$	cautioned
+astronaut	$own$	with a space suit
+with a red card	$Instrument$	cautioned
+instructor	$own$	with short hair
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+craftsman	$own$	with a blue uniform
+cooking	$Theme$	shows
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+craftsman	$own$	with a blue uniform
+trainer	$own$	with short hair
+
+craftsman	$Agent$	shows
+trainer	$Theme$	shows
+craftsman	$own$	with a blue uniform
+cooking	$Theme$	shows
+trainer	$own$	with short hair
+

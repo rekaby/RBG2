@@ -1,0 +1,41 @@
+1	Doctor	_	NNP	NNP	_	2	compound	_	_
+2	Hank	_	NNP	NNP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	Amazing	_	JJ	JJ	_	0	root	_	_
+
+1	Our	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	family	_	NN	NN	_	5	nsubj	_	_
+3	has	_	VBZ	VBZ	_	5	aux	_	_
+4	been	_	VBN	VBN	_	5	aux	_	_
+5	trusting	_	VBG	VBG	_	0	root	_	_
+6	Doctor	_	NNP	NNP	_	7	compound	_	_
+7	Hank	_	NNP	NNP	_	5	dobj	_	_
+8	with	_	IN	IN	_	10	case	_	_
+9	our	_	PRP$	PRP$	_	10	nmod:poss	_	_
+10	teeth	_	NN	NN	_	5	nmod	_	_
+11	for	_	IN	IN	_	15	case	_	_
+12	the	_	DT	DT	_	15	det	_	_
+13	last	_	JJ	JJ	_	15	amod	_	_
+14	seven	_	CD	CD	_	15	nummod	_	_
+15	years	_	NNS	NNS	_	5	nmod	_	_
+16	.	_	.	.	_	5	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	go	_	VB	VB	_	0	root	_	_
+5	to	_	IN	IN	_	6	case	_	_
+6	anyone	_	NN	NN	_	4	nmod	_	_
+7	else	_	JJ	JJ	_	6	amod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Everyone	_	NN	NN	_	6	nsubj	_	_
+2	on	_	IN	IN	_	3	case	_	_
+3	staff	_	NN	NN	_	1	nmod	_	_
+4	is	_	VBZ	VBZ	_	6	cop	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	professional	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	friendly	_	JJ	JJ	_	6	conj	_	_
+9	.	_	.	.	_	6	punct	_	_
+

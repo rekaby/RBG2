@@ -1,0 +1,49 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	Meal	_	NN	NN	_	0	root	_	_
+
+1	Happened	_	VBD	VBD	_	0	root	_	_
+2	on	_	IN	IN	_	5	case	_	_
+3	to	EXTRA!	IN	IN	_	5	case	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	place	_	NN	NN	_	1	nmod	_	_
+6	while	EXTRA!	IN	IN	_	9	mark	_	_
+7	out	_	IN	IN	_	9	case	_	_
+8	of	_	IN	IN	_	9	case	_	_
+9	town	_	NN	NN	_	1	advcl	_	_
+10	on	EXTRA!	IN	IN	_	11	case	_	_
+11	business	_	NN	NN	_	9	nmod	_	_
+12	,	_	,	,	_	1	punct	_	_
+13	and	_	CC	CC	_	1	cc	_	_
+14	it	_	PRP	PRP	_	16	nsubj	_	_
+15	was	_	VBD	VBD	_	16	cop	_	_
+16	great	_	JJ	JJ	_	1	conj	_	_
+17	!	_	.	.	_	1	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	excellent	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	service	_	NN	NN	_	9	nsubj	_	_
+8	was	_	VBD	VBD	_	9	cop	_	_
+9	terrific	_	JJ	JJ	_	4	conj	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	It	_	PRP	PRP	_	6	nsubj	_	_
+2	is	_	VBZ	VBZ	_	6	cop	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	cloth	_	NN	NN	_	6	compound	_	_
+5	napkin	_	NN	NN	_	6	compound	_	_
+6	kind	_	NN	NN	_	0	root	_	_
+7	of	_	IN	IN	_	8	case	_	_
+8	place	_	NN	NN	_	6	nmod	_	_
+9	,	_	,	,	_	6	punct	_	_
+10	but	_	CC	CC	_	6	cc	_	_
+11	I	_	PRP	PRP	_	12	nsubj	_	_
+12	thought	_	VBD	VBD	_	6	discourse	_	_
+13	well	_	RB	RB	_	14	advmod	_	_
+14	worth	_	JJ	JJ	_	6	conj	_	_
+15	it	_	PRP	PRP	_	14	dobj	_	_
+16	.	_	.	.	_	6	punct	_	_
+

@@ -1,0 +1,19 @@
+1	Kliotech	_	NNP	NNP	_	0	root	_	_
+
+1	A	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	0	root	_	_
+3	which	_	WDT	WDT	_	4	nsubj	_	_
+4	provide	_	VBP	VBP	_	2	relcl	_	_
+5	good	_	JJ	JJ	_	6	amod	_	_
+6	quality	_	NN	NN	_	7	compound	_	_
+7	portals	_	NNS	NNS	_	4	dobj	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	E-commerce	_	NN	NN	_	10	compound	_	_
+10	solutions	_	NNS	NNS	_	7	conj	_	_
+11	,	_	,	,	_	7	punct	_	_
+12	web	_	NN	NN	_	13	nmod:npmod	_	_
+13	based	_	VBN	VBN	_	14	amod	_	_
+14	MMOG	_	NN	NN	_	7	conj	_	_
+15	...	_	,	,	_	7	punct	_	_
+16	etc	_	FW	FW	_	7	conj	_	_
+

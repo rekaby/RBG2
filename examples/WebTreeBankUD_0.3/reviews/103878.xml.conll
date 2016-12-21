@@ -1,0 +1,22 @@
+1	You	_	PRP	PRP	_	2	det	_	_
+2	guys	_	NNS	NNS	_	3	nsubjpass	_	_
+3	do	_	VBP	VBP	_	0	root	_	_
+4	everything	_	NN	NN	_	3	dobj	_	_
+5	wonderful	_	RB	RB	_	3	advmod	_	_
+6	!	_	.	.	_	3	punct	_	_
+
+1	We	_	PRP	PRP	_	5	nsubj	_	_
+2	honestly	_	RB	RB	_	5	advmod	_	_
+3	can	_	MD	MD	_	5	aux	_	_
+4	not	_	RB	RB	_	5	neg	_	_
+5	think	_	VB	VB	_	0	root	_	_
+6	of	_	IN	IN	_	9	case	_	_
+7	even	_	RB	RB	_	9	advmod	_	_
+8	1	_	CD	CD	_	9	nummod	_	_
+9	thing	_	NN	NN	_	5	nmod	_	_
+10	we	_	PRP	PRP	_	13	nsubj	_	_
+11	did	_	VBD	VBD	_	13	aux	_	_
+12	n't	_	RB	RB	_	13	neg	_	_
+13	like	_	VB	VB	_	9	relcl	_	_
+14	!	_	.	.	_	5	punct	_	_
+

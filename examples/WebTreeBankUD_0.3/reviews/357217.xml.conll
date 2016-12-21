@@ -1,0 +1,60 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	Definite	_	JJ	JJ	_	3	amod	_	_
+3	No	_	NN	NN	_	0	root	_	_
+
+1	Incompetent	_	JJ	JJ	_	2	amod	_	_
+2	servers	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	kitchen	_	NN	NN	_	2	conj	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	management	_	NN	NN	_	2	conj	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Expect	_	VB	VB	_	0	root	_	_
+2	either	_	CC	CC	_	3	preconj	_	_
+3	undercooked	_	VBN	VBN	_	6	amod	_	_
+4	or	_	CC	CC	_	3	cc	_	_
+5	mushy	_	JJ	JJ	_	3	conj	_	_
+6	food	_	NN	NN	_	1	dobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	lackluster	_	JJ	JJ	_	9	amod	_	_
+9	service	_	NN	NN	_	6	conj	_	_
+10	.	_	.	.	_	1	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	investors	_	NNS	NNS	_	3	nsubj	_	_
+3	put	_	VBD	VBD	_	0	root	_	_
+4	big	_	JJ	JJ	_	5	amod	_	_
+5	bucks	_	NNS	NNS	_	3	dobj	_	_
+6	into	_	IN	IN	_	8	case	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	building	_	NN	NN	_	3	nmod	_	_
+9	but	_	CC	CC	_	3	cc	_	_
+10	are	_	VBP	VBP	_	11	cop	_	_
+11	clueless	_	JJ	JJ	_	3	conj	_	_
+12	about	_	IN	IN	_	14	mark	_	_
+13	what	_	WP	WP	_	14	nsubj	_	_
+14	makes	_	VBZ	VBZ	_	11	nfincl	_	_
+15	a	_	DT	DT	_	20	det	_	_
+16	good	_	JJ	JJ	_	20	amod	_	_
+17	dining	_	NN	NN	_	20	compound	_	_
+18	or	_	CC	CC	_	17	cc	_	_
+19	bar	_	NN	NN	_	17	conj	_	_
+20	experience	_	NN	NN	_	14	dobj	_	_
+21	.	_	.	.	_	3	punct	_	_
+
+1	Even	_	RB	RB	_	5	advmod	_	_
+2	the	_	DT	DT	_	5	det	_	_
+3	least	_	RBS	RBS	_	4	advmod	_	_
+4	discriminating	_	JJ	JJ	_	5	amod	_	_
+5	diner	_	NN	NN	_	7	nsubj	_	_
+6	would	_	MD	MD	_	7	aux	_	_
+7	know	_	VB	VB	_	0	root	_	_
+8	not	_	RB	RB	_	10	neg	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	eat	_	VB	VB	_	7	xcomp	_	_
+11	at	_	IN	IN	_	12	case	_	_
+12	Sprecher	_	NNP	NNP	_	10	nmod	_	_
+13	's	_	POS	POS	_	12	case	_	_
+14	.	_	.	.	_	7	punct	_	_
+

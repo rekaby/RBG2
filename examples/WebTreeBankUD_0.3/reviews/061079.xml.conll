@@ -1,0 +1,8 @@
+1	Friendliest	_	JJS	JJS	_	2	amod	_	_
+2	place	_	NN	NN	_	0	root	_	_
+3	I	_	PRP	PRP	_	6	nsubj	_	_
+4	have	_	VBP	VBP	_	6	aux	_	_
+5	ever	_	RB	RB	_	6	advmod	_	_
+6	stayed	_	VBN	VBN	_	2	relcl	_	_
+7	!	_	.	.	_	2	punct	_	_
+

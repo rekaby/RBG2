@@ -1,0 +1,45 @@
+1	for	_	IN	IN	_	2	case	_	_
+2	Books	_	NNS	NNS	_	0	root	_	_
+3	that	_	WDT	WDT	_	4	nsubj	_	_
+4	Speak	_	VBP	VBP	_	2	relcl	_	_
+5	for	_	IN	IN	_	6	case	_	_
+6	Themselves	_	PRP	PRP	_	4	nmod	_	_
+7	....	_	,	,	_	2	punct	_	_
+
+1	Interested	_	JJ	JJ	_	0	root	_	_
+2	in	_	IN	IN	_	3	case	_	_
+3	audiobooks	_	NNS	NNS	_	1	nmod	_	_
+4	?	_	.	.	_	1	punct	_	_
+
+1	Come	_	VB	VB	_	0	root	_	_
+2	visit	_	VB	VB	_	1	xcomp	_	_
+3	irc	_	NN	NN	_	4	compound	_	_
+4	server	_	NN	NN	_	2	dobj	_	_
+5	:	_	:	:	_	4	punct	_	_
+6	irc.yankeedot.net	_	ADD	ADD	_	4	appos	_	_
+7	and	_	CC	CC	_	1	cc	_	_
+8	join	_	VB	VB	_	1	conj	_	_
+9	#	_	NN	NN	_	10	compound	_	_
+10	audiobooks	_	NNS	NNS	_	8	dobj	_	_
+11	for	_	IN	IN	_	12	case	_	_
+12	sharing	_	NN	NN	_	8	nmod	_	_
+13	,	_	,	,	_	12	punct	_	_
+14	discussion	_	NN	NN	_	12	conj	_	_
+15	and	_	CC	CC	_	12	cc	_	_
+16	a	_	DT	DT	_	19	det	_	_
+17	great	_	JJ	JJ	_	19	amod	_	_
+18	trivia	_	NN	NN	_	19	compound	_	_
+19	game	_	NN	NN	_	12	conj	_	_
+20	!	_	.	.	_	1	punct	_	_
+21	large	_	JJ	JJ	_	22	amod	_	_
+22	selection	_	NN	NN	_	1	dep	_	_
+23	of	_	IN	IN	_	24	case	_	_
+24	fiction	_	NN	NN	_	22	nmod	_	_
+25	,	_	,	,	_	24	punct	_	_
+26	science	_	NN	NN	_	27	compound	_	_
+27	fiction	_	NN	NN	_	24	conj	_	_
+28	and	_	CC	CC	_	24	cc	_	_
+29	best	_	RBS	RBS	_	30	advmod	_	_
+30	sellers	_	NNS	NNS	_	24	conj	_	_
+31	.	_	.	.	_	22	punct	_	_
+

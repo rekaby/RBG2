@@ -1,0 +1,36 @@
+1	not	_	RB	RB	_	2	neg	_	_
+2	impressive	_	JJ	JJ	_	0	root	_	_
+3	enough	_	RB	RB	_	2	advmod	_	_
+
+1	It	_	PRP	PRP	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	fine	_	JJ	JJ	_	5	amod	_	_
+5	place	_	NN	NN	_	0	root	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	I	_	PRP	PRP	_	12	nsubj	_	_
+8	'm	_	VBP	VBP	_	12	cop	_	_
+9	just	_	RB	RB	_	12	advmod	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	little	_	JJ	JJ	_	12	nmod:npmod	_	_
+12	mystified	_	JJ	JJ	_	5	parataxis	_	_
+13	about	_	IN	IN	_	16	case	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	Michelin	_	NNP	NNP	_	16	compound	_	_
+16	star	_	NN	NN	_	12	nmod	_	_
+17	.	_	.	.	_	5	punct	_	_
+
+1	Nothing	_	NN	NN	_	0	root	_	_
+2	wrong	_	JJ	JJ	_	1	amod	_	_
+3	with	_	IN	IN	_	4	case	_	_
+4	it	_	PRP	PRP	_	2	nmod	_	_
+5	,	_	,	,	_	1	punct	_	_
+6	just	_	RB	RB	_	1	cc	_	_
+7	better	_	JJR	JJR	_	8	amod	_	_
+8	options	_	NNS	NNS	_	1	parataxis	_	_
+9	at	_	IN	IN	_	12	case	_	_
+10	this	_	DT	DT	_	12	det	_	_
+11	price	_	NN	NN	_	12	compound	_	_
+12	point	_	NN	NN	_	8	nmod	_	_
+13	.	_	.	.	_	1	punct	_	_
+

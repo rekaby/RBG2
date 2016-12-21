@@ -1,0 +1,45 @@
+1	Great	_	JJ	JJ	_	3	amod	_	_
+2	lunch	_	NN	NN	_	3	compound	_	_
+3	specials	_	NNS	NNS	_	0	root	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Delivery	_	NN	NN	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	lightning	_	NN	NN	_	4	nmod:npmod	_	_
+4	fast	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Perfect	_	JJ	JJ	_	0	root	_	_
+2	since	_	IN	IN	_	7	mark	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	'm	_	VBP	VBP	_	7	cop	_	_
+5	on	_	IN	IN	_	7	case	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	budget	_	NN	NN	_	1	advcl	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	But	_	CC	CC	_	6	cc	_	_
+2	otherwise	_	RB	RB	_	6	advmod	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	it	_	PRP	PRP	_	6	nsubj	_	_
+5	can	_	MD	MD	_	6	aux	_	_
+6	feel	_	VB	VB	_	0	root	_	_
+7	pricey	_	JJ	JJ	_	6	acomp	_	_
+8	for	_	IN	IN	_	11	mark	_	_
+9	what	_	WP	WP	_	11	dobj	_	_
+10	you	_	PRP	PRP	_	11	nsubj	_	_
+11	get	_	VBP	VBP	_	6	nfincl	_	_
+12	.	_	.	.	_	6	punct	_	_
+
+1	Like	_	VBP	VBP	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	sushi	_	NN	NN	_	1	dobj	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	do	_	VBP	VBP	_	7	aux	_	_
+6	n't	_	RB	RB	_	7	neg	_	_
+7	like	_	VB	VB	_	1	conj	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	pad	_	NN	NN	_	10	compound	_	_
+10	thai	_	NN	NN	_	7	dobj	_	_
+11	.	_	.	.	_	1	punct	_	_
+

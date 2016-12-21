@@ -1,0 +1,2126 @@
+The Princess with long hair washes obviously the pirate with a brush.
+The Princess with long hair washes obviously the pirate with a woody leg.
+The Princess with long hair washes obviously the pirate with a woody leg with a brush.
+
+Princess	Agent	washes
+pirate	Theme	washes
+Princess	Owner	with long hair
+with a brush	Instrument	washes
+
+Princess	Agent	washes
+pirate	Theme	washes
+Princess	Owner	with long hair
+pirate	Owner	a woody leg
+
+Princess	Agent	washes
+pirate	Theme	washes
+Princess	Owner	with long hair
+with a brush	Instrument	washes
+pirate	Owner	a woody leg
+
+The Princess with blue dress paints obviously the fencer with color pallet.
+The Princess with blue dress paints obviously the fencer with white suite.
+The Princess with blue dress paints obviously the fencer with white suite with color pallet.
+
+Princess	Agent	paints
+fencer	Theme	paints
+Princess	Owner	with blue dress
+with color pallet	Instrument	paints
+
+Princess	Agent	paints
+fencer	Theme	paints
+Princess	Owner	with blue dress
+fencer	Owner	with white suite
+
+Princess	Agent	paints
+fencer	Theme	paints
+Princess	Owner	with blue dress
+with color pallet	Instrument	paints
+fencer	Owner	with white suite
+
+The pirate with a woody leg washes obviously the Princess with a brush.
+The pirate with a woody leg washes obviously the Princess with long hair.
+The pirate with a woody leg washes obviously the Princess with long hair with a brush.
+
+pirate	Agent	washes
+Princess	Theme	washes
+pirate	Owner	with a woody leg
+with a brush	Instrument	washes
+
+pirate	Agent	washes
+Princess	Theme	washes
+pirate	Owner	with a woody leg
+princess	Owner	with long hair
+
+pirate	Agent	washes
+Princess	Theme	washes
+pirate	Owner	with a woody leg
+with a brush	Instrument	washes
+princess	Owner	with long hair
+
+The fencer with white suite paints obviously the Princess with color pallet.
+The fencer with white suite paints obviously the Princess with long hair.
+The fencer with white suite paints obviously the Princess with long hair with color pallet.
+
+fencer	Agent	paints
+Princess	Theme	paints
+fencer	Owner	with white suite
+with color pallet	Instrument	paints
+
+fencer	Agent	paints
+Princess	Theme	paints
+fencer	Owner	with white suite
+Princess	Owner	with long hair
+
+fencer	Agent	paints
+Princess	Theme	paints
+fencer	Owner	with white suite
+Princess	Owner	with long hair
+with color pallet	Instrument	paints
+
+The Amazone with red dress stabbed just the mechanics with a knife.
+The Amazone with red dress stabbed just the mechanics with a hat.
+The Amazone with red dress stabbed just the mechanics with a hat with a knife.
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+Amazone	Owner	with red dress
+with a knife	Instrument	stabbed
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+Amazone	Owner	with red dress
+mechanics	Owner	a hat
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+Amazone	Owner	with red dress
+mechanics	Owner	a hat
+with a knife	Instrument	stabbed
+
+The Amazone with long hair sprayed just the football player with a red spray.
+The Amazone with long hair sprayed just the football player with a ball.
+The Amazone with long hair sprayed just the football player with a ball with a red spray.
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+Amazone	Owner	with long hair
+with a red spray	Instrument	sprayed
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+Amazone	Owner	with long hair
+player	Owner	with a ball
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+Amazone	Owner	with long hair
+player	Owner	with a ball
+with a red spray	Instrument	sprayed
+
+
+The mechanics with a hat stabbed just the Amazone with a knife.
+The mechanics with a hat stabbed just the Amazone with a red dress.
+The mechanics with a hat stabbed just the Amazone with red dress with a knife.
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+mechanics	Owner	with a hat
+with a knife	Instrument	stabbed
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+mechanics	Owner	with a hat
+Amazone	Owner	a red dress
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+mechanics	Owner	with a hat
+Amazone	Owner	a red dress
+with a knife	Instrument	stabbed
+
+The football player with white t-shirt sprayed just the Amazone with a red spray.
+The football player with white t-shirt sprayed just the Amazone with long hair.
+The football player with white t-shirt sprayed just the Amazone with long hair with a red spray.
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+player	Owner	with white t-shirt
+with a red spray	Instrument	sprayed
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+player	Owner	with white t-shirt
+Amazone	Owner	with long hair
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+player	Owner	with white t-shirt
+Amazone	Owner	with long hair
+
+
+
+The nurse with Uniform pushes in that moment the athlete by hands.
+The nurse with Uniform pushes in that moment the athlete with sporty suite.
+The nurse with Uniform pushes in that moment the athlete with sporty suite with hands.
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+nurse	Owner	with Uniform
+by hands	Instrument	pushes
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+nurse	Owner	with Uniform
+athlete	Owner	with sporty suite
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+nurse	Owner	with Uniform
+by hands	Instrument	pushes
+athlete	Owner	with sporty suite
+
+
+The nurse with Cross hat dries at this moment the priest with a dryer.
+The nurse with Cross hat dries at this moment the priest in black.
+The nurse with Cross hat dries at this moment the priest in black with dryer.
+
+nurse	Agent	dries
+priest	Theme	dries
+nurse	Owner	with Cross hat
+with a dryer	Instrument	dries
+
+nurse	Agent	dries
+priest	Theme	dries
+nurse	Owner	with Cross hat
+priest	Owner	in black
+
+nurse	Agent	dries
+priest	Theme	dries
+nurse	Owner	with Cross hat
+with a dryer	Instrument	dries
+priest	Owner	in black
+
+
+The athlete with red t-shirt pushes in that moment the nurse by hands.
+The athlete with red t-shirt pushes in that moment the nurse in white.
+The athlete with red t-shirt pushes in that moment the nurse in white by hands.
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+athlete	Owner	with red t-shirt
+by hands	Instrument	pushes
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+athlete	Owner	with red t-shirt
+nurse	Owner	in white
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+athlete	Owner	with red t-shirt
+by hands	Instrument	pushes
+nurse	Owner	in white
+
+
+The priest with cross dries at this moment the nurse with a dryer.
+The priest with cross dries at this moment the nurse with the uniform.
+The priest with cross dries at this moment the nurse with the uniform with a dryer.
+
+priest	Agent	dries
+nurse	Theme	dries
+priest	Owner	with cross
+with a dryer	Instrument	dries
+
+priest	Agent	dries
+nurse	Theme	dries
+priest	Owner	with cross
+nurse	Owner	uniform
+
+priest	Agent	dries
+nurse	Theme	dries
+priest	Owner	with cross
+with a dryer	Instrument	dries
+nurse	Owner	uniform
+
+
+The journalist with a camera ties at this moment the sailor with handcuffs.
+The journalist with a camera ties at this moment the sailor with white dress.
+The journalist with a camera ties at this moment the sailor with white dress with handcuffs.
+
+journalist	Agent	ties
+sailor	Theme	ties
+journalist	Owner	with a camera
+with handcuffs	Instrument	ties
+
+journalist	Agent	ties
+sailor	Theme	ties
+journalist	Owner	with a camera
+sailor	Owner	with white dress
+
+journalist	Agent	ties
+sailor	Theme	ties
+journalist	Owner	with a camera
+with handcuffs	Instrument	ties
+sailor	Owner	with white dress
+
+
+
+The journalist with a microphone feeds at this moment the doctor with a spoon.
+The journalist with a microphone feeds at this moment the doctor with a coat.
+The journalist with a microphone feeds at this moment the doctor with a coat with a spoon.
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+journalist	Owner	with a microphone
+with a spoon	Instrument	feeds
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+journalist	Owner	with a microphone
+doctor	Owner	with a coat
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+journalist	Owner	with a microphone
+with a spoon	Instrument	feeds
+doctor	Owner	with a coat
+
+
+The sailor with white hat ties at this moment the journalist with handcuffs.
+The sailor with white hat ties at this moment the journalist with a camera.
+The sailor with white hat ties at this moment the journalist with a camera with handcuffs.
+
+
+sailor	Agent	ties
+journalist	Theme	ties
+sailor	Owner	with white hat
+with handcuffs	Instrument	ties
+
+sailor	Agent	ties
+journalist	Theme	ties
+sailor	Owner	with white hat
+journalist	Owner	with a camera
+
+sailor	Agent	ties
+journalist	Theme	ties
+sailor	Owner	with white hat
+with handcuffs	Instrument	ties
+journalist	Owner	with a camera
+
+
+
+The doctor with a coat feeds at this moment the journalist with a portion.
+The doctor with a coat feeds at this moment the journalist with a microphone.
+The doctor with a coat feeds at this moment the journalist with a microphone with a portion.
+
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+doctor	Owner	with a coat
+with a portion	Instrument	feeds
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+doctor	Owner	with a coat
+ournalist	Owner	with a microphone
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+doctor	Owner	with a coat
+with a portion	Instrument	feeds
+ournalist	Owner	with a microphone
+
+
+
+The construction worker with blue pants attacked obviously the cellist with a bottle.
+The construction worker with blue pants attacked obviously the cellist with a guitar.
+The construction worker with blue pants attacked obviously the cellist with a guitar with a bottle.
+
+
+worker	Agent	attacked
+cellist	Theme	attacked
+worker	Owner	with blue pants
+with a bottle	instrument	attacked
+
+worker	Agent	attacked
+cellist	Theme	attacked
+worker	Owner	with blue pants
+cellist	Owner	with a guitar
+
+worker	Agent	attacked
+cellist	Theme	attacked
+worker	Owner	with blue pants
+with a bottle	instrument	attacked
+cellist	Owner	with a guitar
+
+
+
+The construction worker with blue pants interviewed obviously the golfer with a microphone.
+The construction worker with blue pants interviewed obviously the golfer with a rocket.
+The construction worker with blue pants interviewed obviously the golfer with a rocket with a microphone.
+
+
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+worker	Owner	with blue pants
+with a microphone	Instrument	interviewed
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+worker	Owner	with blue pants
+golfer	Owner	with a rocket
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+worker	Owner	with blue pants
+with a microphone	Instrument	interviewed
+golfer	Owner	with a rocket
+
+
+The cellist with a guitar attacked obviously the construction worker with a bottle.
+The cellist with a guitar attacked obviously the construction worker with blue pants.
+The cellist with a guitar attacked obviously the construction worker with blue pants with a bottle.
+
+
+cellist	Agent	attacked
+worker	Theme	attacked
+cellist	Owner	with a guitar
+with a bottle	Instrument	attacked
+
+cellist	Agent	attacked
+worker	Theme	attacked
+cellist	Owner	with a guitar
+worker	Owner	with blue pants
+
+cellist	Agent	attacked
+worker	Theme	attacked
+cellist	Owner	with a guitar
+with a bottle	Instrument	attacked
+worker	Owner	with blue pants
+
+
+
+
+The golfer with a rocket interviewed obviously the construction worker with a microphone.
+The golfer with a rocket interviewed obviously the construction worker with blue pants.
+The golfer with a rocket interviewed obviously the construction worker with blue pants with a microphone.
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+golfer	Owner	with a rocket
+with a microphone	Instrument	interviewed
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+golfer	Owner	with a rocket
+worker	Owner	with blue pants
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+golfer	Owner	with a rocket
+with a microphone	Instrument	interviewed
+worker	Owner	with blue pants
+
+
+
+The devil in red gifted at this moment the clown with a present.
+The devil in red gifted at this moment the clown with big shoes.
+The devil in red gifted at this moment the clown with big shoes with a present.
+
+
+devil	Agent	gifted
+clown	Theme	gifted
+devil	Owner	in red
+with a present	Instrument	gifted
+
+devil	Agent	gifted
+clown	Theme	gifted
+devil	Owner	in red
+clown	Owner	with big shoes
+
+devil	Agent	gifted
+clown	Theme	gifted
+devil	Owner	in red
+with a present	Instrument	gifted
+clown	Owner	with big shoes
+
+
+
+
+The devil in red sketched at this moment the cooker with a pen.
+The devil in red sketched at this moment the cooker with white hat.
+The devil in red sketched at this moment the cooker with white hat with a pen.
+
+
+devil	Agent	sketched
+cooker	Theme	sketched
+devil	Owner	in red
+with a pen	Instrument	sketched
+
+devil	Agent	sketched
+cooker	Theme	sketched
+devil	Owner	in red
+cooker	Owner	with white hat
+
+devil	Agent	sketched
+cooker	Theme	sketched
+devil	Owner	in red
+with a pen	Instrument	sketched
+cooker	Owner	with white hat
+
+
+
+The clown with big shoes gifted at this moment the devil with green box.
+The clown with big shoes gifted at this moment the devil in red.
+The clown with big shoes gifted at this moment the devil in red with green box.
+
+
+clown	Agent	gifted
+devil	Theme	gifted
+clown	Owner	with big shoes
+with green box	Instrument	gifted
+
+clown	Agent	gifted
+devil	Theme	gifted
+clown	Owner	with big shoes
+devil	Owner	in red
+
+clown	Agent	gifted
+devil	Theme	gifted
+clown	Owner	with big shoes
+with green box	Instrument	gifted
+devil	Owner	in red
+
+
+
+The cooker with white hat sketched at this moment the devil with pen.
+The cooker with white hat sketched at this moment the devil in red.
+The cooker with white hat sketched at this moment the devil in red with pen.
+
+
+cooker	Agent	sketched
+devil	Theme	sketched
+cooker	Owner	with white hat 
+with pen	Instrument	sketched
+
+cooker	Agent	sketched
+devil	Theme	sketched
+cooker	Owner	with white hat 
+devil	Owner	in red
+
+cooker	Agent	sketched
+devil	Theme	sketched
+cooker	Owner	with white hat 
+with pen	Instrument	sketched
+devil	Owner	in red
+
+
+
+The cleaning lady with blue uniform shoots just the waiter with a ball.
+The cleaning lady with blue uniform shoots just the waiter with a towel.
+The cleaning lady with blue uniform shoots just the waiter with a towel with a ball.
+
+lady	Agent	shoots
+waiter	Theme	shoots
+lady	Owner	with blue uniform 
+with a ball	Instrument	shoots
+
+lady	Agent	shoots
+waiter	Theme	shoots
+lady	Owner	with blue uniform 
+waiter	Owner	with a towel
+
+lady	Agent	shoots
+waiter	Theme	shoots
+lady	Owner	with blue uniform 
+with a ball	Instrument	shoots
+waiter	Owner	with a towel
+
+
+The cleaning lady with broom just slaps the Knight with a hand.
+The cleaning lady with broom just slaps the Knight with a sword.
+The cleaning lady with broom just slaps the Knight with a sword with a hand.
+
+
+lady	Agent	slaps
+Knight	Theme	slaps
+lady	Owner	with broom
+with a hand	Instrument	slaps
+
+lady	Agent	slaps
+Knight	Theme	slaps
+lady	Owner	with broom
+Knight	Owner	with a sword
+
+lady	Agent	slaps
+Knight	Theme	slaps
+lady	Owner	with broom
+with a hand	Instrument	slaps
+Knight	Owner	with a sword
+
+
+
+
+The waiter with a towel shoots just the cleaning lady with the ball.
+The waiter with a towel shoots just the cleaning lady with blue uniform.
+The waiter with a towel shoots just the cleaning lady with blue uniform with the ball.
+
+
+waiter	Agent	shoots
+lady	Theme	shoots
+waiter	Owner	with a towel
+with the ball	Instrument	shoots
+
+waiter	Agent	shoots
+lady	Theme	shoots
+waiter	Owner	with a towel
+lady	Owner	with blue uniform
+
+waiter	Agent	shoots
+lady	Theme	shoots
+waiter	Owner	with a towel
+with the ball	Instrument	shoots
+lady	Owner	with blue uniform
+
+
+The Knight with a sword just slaps the cleaning lady with a hand.
+The Knight with a sword just slaps the cleaning lady with a broom.
+The Knight with a sword just slaps the cleaning lady with a broom with a hand.
+
+
+Knight	Agent	slaps
+lady	Theme	slaps
+Knight	Owner	with a sword
+with a hand	Instrument	slaps
+
+Knight	Agent	slaps
+lady	Theme	slaps
+Knight	Owner	with a sword
+lady	Owner	with a broom
+
+Knight	Agent	slaps
+lady	Theme	slaps
+Knight	Owner	with a sword
+with a hand	Instrument	slaps
+lady	Owner	with a broom
+
+
+The skater with short dress scrubs just the detective with a brush.
+The skater with short dress scrubs just the detective with a lens.
+The skater with short dress scrubs just the detective with a lens with a brush.
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+skater	Owner	with short dress
+with a brush	Instrument	scrubs
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+skater	Owner	with short dress
+detective	Owner	with a lens
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+skater	Owner	with short dress
+with a brush	Instrument	scrubs
+detective	Owner	with a lens
+
+
+
+
+The skater with short dress nudges the magician with finger.
+The skater with short dress nudges the magician with stars signs.
+The skater with short dress nudges the magician with stars signs with finger.
+
+skater	Agent	nudges
+magician	Theme	nudges
+skater	Owner	with short dress
+with finger	Instrument	nudges
+
+skater	Agent	nudges
+magician	Theme	nudges
+skater	Owner	with short dress
+magician	Owner	with stars signs
+
+skater	Agent	nudges
+magician	Theme	nudges
+skater	Owner	with short dress
+with finger	Instrument	nudges
+magician	Owner	with stars signs
+
+
+
+
+The detective with a lens scrubs just the skater with a brush.
+The detective with a lens scrubs just the skater with short dress.
+The detective with a lens scrubs just the skater with short dress with a brush.
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+detective	Owner	with a lens
+with a brush	Instrument	scrubs
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+detective	Owner	with a lens
+skater	Owner	with short dress
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+detective	Owner	with a lens
+with a brush	Instrument	scrubs
+skater	Owner	with short dress
+
+
+
+
+The magician with stars signs nudges the skater with a finger.
+The magician with stars signs nudges the skater with short dress.
+The magician with stars signs nudges the skater with short dress with a finger.
+
+
+magician	Agent	nudges
+skater	Theme	nudges
+magician	Owner	with stars signs
+with finger	Instrument	nudges
+
+
+magician	Agent	nudges
+skater	Theme	nudges
+magician	Owner	with stars signs
+skater	Owner	with short dress
+
+magician	Agent	nudges
+skater	Theme	nudges
+magician	Owner	with stars signs
+with finger	Instrument	nudges
+skater	Owner	with short dress
+
+
+
+
+The maid in blue perfumed at this moment the executioner with a perfume.
+The maid in blue perfumed at this moment the executioner with a mask.
+The maid in blue perfumed at this moment the executioner with a mask with a perfume.
+
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+maid	Owner	in blue
+with a perfume	Instrument	perfumed
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+maid	Owner	in blue
+executioner	Owner	with a mask
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+maid	Owner	in blue
+with a perfume	Instrument	perfumed
+executioner	Owner	with a mask
+
+
+
+
+The maid with a bag bandaged at this moment the drummer with plaster.
+The maid with a bag bandaged at this moment the drummer with a drum.
+The maid with a bag bandaged at this moment the drummer with a drum with plaster.
+
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+maid	Owner	with a bag 
+with plaster	Instrument	bandaged
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+maid	Owner	with a bag 
+drummer	Owner	with a drum
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+maid	Owner	with a bag 
+with plaster	Instrument	bandaged
+drummer	Owner	with a drum
+
+
+
+The executioner with a mask perfumed at this moment the maid with a perfume.
+The executioner with a mask perfumed at this moment the maid in blue.
+The executioner with a mask perfumed at this moment the maid in blue with a perfume.
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+executioner	Owner	with a mask
+with a perfume	Instrument	perfumed
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+executioner	Owner	with a mask
+maid	Owner	in blue
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+executioner	Owner	with a mask
+with a perfume	Instrument	perfumed
+maid	Owner	in blue
+
+
+The drummer with a drum bandaged at this moment the maid with plaster.
+The drummer with a drum bandaged at this moment the maid in blue.
+The drummer with a drum bandaged at this moment the maid in blue with plaster.
+
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+drummer	Owner	with a drum
+with plaster	Instrument	bandaged
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+drummer	Owner	with a drum
+maid	Owner	in blue
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+drummer	Owner	with a drum
+with plaster	Instrument	bandaged
+maid	Owner	in blue
+
+
+The tennis player with gloves punches the prisoner here with a box.
+The tennis player with gloves punches the prisoner with a beard.
+The tennis player with gloves punches the prisoner with a beard with a box.
+
+player	Agent	punches
+prisoner	Theme	punches
+player	Owner	with gloves
+with a box	Instrument	punches
+
+player	Agent	punches
+prisoner	Theme	punches
+player	Owner	with gloves
+prisoner	Owner	with a beard
+
+player	Agent	punches
+prisoner	Theme	punches
+player	Owner	with gloves
+with a box	Instrument	punches
+prisoner	Owner	with a beard
+
+
+The tennis player with yellow hair meshes the flutist here with a comb.
+The tennis player with yellow hair meshes the flutist with a blue tie.
+The tennis player with yellow hair meshes the flutist with a blue tie with a comb.
+
+
+player	Agent	meshes
+flutist	Theme	meshes
+player	Owner	with yellow hair
+with a comb	Instrument	meshes
+
+player	Agent	meshes
+flutist	Theme	meshes
+player	Owner	with yellow hair
+flutist	Owner	with a blue tie
+
+player	Agent	meshes
+flutist	Theme	meshes
+player	Owner	with yellow hair
+with a comb	Instrument	meshes
+flutist	Owner	with a blue tie
+
+
+
+
+The prisoner with a beard punches the tennis player with a box here.
+The prisoner with a beard punches the tennis player with yellow hair here.
+The prisoner with a beard punches the tennis player with yellow hair here with a box.
+
+
+prisoner	Agent	punches
+player	Theme	punches
+prisoner	Owner	with a beard
+with a box	Instrument	punches
+
+prisoner	Agent	punches
+player	Theme	punches
+prisoner	Owner	with a beard
+player	Owner	with yellow hair
+
+prisoner	Agent	punches
+player	Theme	punches
+prisoner	Owner	with a beard
+with a box	Instrument	punches
+player	Owner	with yellow hair
+
+
+
+
+The flutist with a blue tie meshes the tennis player with a comb here.
+The flutist with a blue tie meshes the tennis player with gloves here.
+The flutist with a blue tie meshes the tennis player with gloves here with a comb.
+
+
+flutist	Agent	meshes
+player	Theme	meshes
+flutist	Owner	with a blue tie
+with a comb	Instrument	meshes
+
+flutist	Agent	meshes
+player	Theme	meshes
+flutist	Owner	with a blue tie
+player	Owner	with gloves
+
+flutist	Agent	meshes
+player	Theme	meshes
+flutist	Owner	with a blue tie
+with a comb	Instrument	meshes
+player	Owner	with gloves
+
+
+
+The Mermaid with red hair crowns just the student with a crown.
+The Mermaid with red hair crowns just the student with a bag.
+The Mermaid with red hair crowns just the student with a bag with a crown.
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+Mermaid	Owner	with red hair
+with a crown	Instrument	crowns
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+Mermaid	Owner	with red hair
+student	Owner	with a bag
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+Mermaid	Owner	with red hair
+with a crown	Instrument	crowns
+student	Owner	with a bag
+
+
+The Mermaid with a fish tail plucks just the soldier with finger.
+The Mermaid with a fish tail plucks just the soldier in military suite.
+The Mermaid with a fish tail plucks just the soldier in military suite with finger.
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+Mermaid	Owner	with a fish tail
+with finger	Instrument	plucks
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+Mermaid	Owner	with a fish tail
+soldier	Owner	in military suite
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+Mermaid	Owner	with a fish tail
+with finger	Instrument	plucks
+soldier	Owner	in military suite
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+The student with a bag crowns just the Mermaid with a crown.
+The student with a bag crowns just the Mermaid with red hair.
+The student with a bag crowns just the Mermaid with red hair with a crown.
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+student	Owner	with a bag
+with a crown	Instrument	crowns
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+student	Owner	with a bag
+Mermaid	Owner	with red hair
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+student	Owner	with a bag
+with a crown	Instrument	crowns
+Mermaid	Owner	with red hair
+
+
+
+The soldier in military suite plucks just the Mermaid with a finger.
+The soldier in military suite plucks just the Mermaid with a crown.
+The soldier in military suite plucks just the Mermaid with a crown with a finger.
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+soldier	Owner	in military suite
+with a finger	Instrument	plucks
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+soldier	Owner	in military suite
+Mermaid	Owner	with a crown
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+soldier	Owner	in military suite
+with a finger	Instrument	plucks
+Mermaid	Owner	with a crown
+
+
+
+
+The nun with a cross inoculated just the crossing guards with an injector.
+The nun with a cross inoculated just the crossing guards with a flag.
+The nun with a cross inoculated just the crossing guards with a flag with an injector.
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+nun	Owner	with a cross
+with an injector	Instrument	inoculated
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+nun	Owner	with a cross
+guards	Owner	with a flag
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+nun	Owner	with a cross
+with an injector	Instrument	inoculated
+guards	Owner	with a flag
+
+
+
+The nun with a cross tweaks just the clarinetist with a tool.
+The nun with a cross tweaks just the clarinetist with a flute.
+The nun with a cross tweaks just the clarinetist with a flute with a tool.
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+nun	Owner	with a cross 
+with a tool	Instrument	tweaks
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+nun	Owner	with a cross 
+clarinetist	Owner	with a flute
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+nun	Owner	with a cross 
+with a tool	Instrument	tweaks
+clarinetist	Owner	with a flute
+
+
+
+
+The crossing guard with a flag inoculated just the nun with an injector.
+The crossing guard with a flag inoculated just the nun in black.
+The crossing guard with a flag inoculated just the nun in black with an injector.
+
+
+guard	Agent	inoculated
+nun	Theme	inoculated
+guard	Owner	with a flag
+with an injector	Instrument	inoculated
+
+guard	Agent	inoculated
+nun	Theme	inoculated
+guard	Owner	with a flag
+nun	Owner	in black
+
+guard	Agent	inoculated
+nun	Theme	inoculated
+guard	Owner	with a flag
+with an injector	Instrument	inoculated
+nun	Owner	in black
+
+
+
+The clarinetist  with a flute tweaks just the nun with a tool.
+The clarinetist  with a flute tweaks just the nun in black.
+The clarinetist  with a flute tweaks just the nun in black with a tool.
+
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+clarinetist	Owner	with a flute
+with a tool	Instrument	tweaks
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+clarinetist	Owner	with a flute
+nun	Owner	in black
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+clarinetist	Owner	with a flute
+with a tool	Instrument	tweaks
+nun	Owner	in black
+
+
+
+The Grandma with a long jacket just scratches the archer by hand.
+The Grandma with a long jacket just scratches the archer with cowboy hat.
+The Grandma with a long jacket just scratches the archer with cowboy hat by hand.
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+Grandma	Owner	with a long jacket
+by hand	Instrument	scratches
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+Grandma	Owner	with a long jacket
+archer	Owner	with cowboy hat
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+Grandma	Owner	with a long jacket
+by hand	Instrument	scratches
+archer	Owner	with cowboy hat
+
+
+
+
+The grandmother with a long jacket is filming just saxophonist with a camera.
+The grandmother with a long jacket is filming just saxophonist with saxophone.
+The grandmother with a long jacket is filming just saxophonist with saxophone with a camera.
+
+grandmother	Agent	films
+saxophonist	Theme	films
+grandmother	Owner	with a long jacket
+with a camera	instrument	films
+
+grandmother	Agent	films
+saxophonist	Theme	films
+grandmother	Owner	with a long jacket
+saxophonist	Owner	with saxophone
+
+grandmother	Agent	films
+saxophonist	Theme	films
+grandmother	Owner	with a long jacket
+with a camera	instrument	films
+saxophonist	Owner	with saxophone
+
+
+
+The archer with cowboy hat just scratches the Grandma by hand.
+The archer with cowboy hat just scratches the Grandma with a long jacket.
+The archer with cowboy hat just scratches the Grandma with a long jacket by hand.
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+archer	Owner	with cowboy hat
+by hand	Instrument	scratches
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+archer	Owner	with cowboy hat
+Grandma	Owner	with a long jacket
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+archer	Owner	with cowboy hat
+by hand	Instrument	scratches
+Grandma	Owner	with a long jacket
+
+
+The saxophonist with saxophone is filming just grandmother with a camera.
+The saxophonist with saxophone is filming just grandmother with a long jacket.
+The saxophonist with saxophone is filming just grandmother with a long jacket with a camera.
+
+saxophonist	Agent	films
+grandmother	Theme	films
+saxophonist	Owner	with saxophone
+with a camera	instrument	films
+
+saxophonist	Agent	films
+grandmother	Theme	films
+saxophonist	Owner	with saxophone
+grandmother	Owner	with a long jacket
+
+saxophonist	Agent	films
+grandmother	Theme	films
+saxophonist	Owner	with saxophone
+with a camera	instrument	films
+grandmother	Owner	with a long jacket
+
+
+
+The fairy with long cone brushed the gangster here with a brush.
+The fairy with long cone brushed the gangster here with a gun.
+The fairy with long cone brushed the gangster here with a gun with a brush.
+
+fairy	Agent	brushed
+gangster	Theme	brushed
+fairy	Owner	with long cone
+with a brush	Instrument	brushed
+
+fairy	Agent	brushed
+gangster	Theme	brushed
+fairy	Owner	with long cone
+gangster	Owner	with a gun
+
+fairy	Agent	brushed
+gangster	Theme	brushed
+fairy	Owner	with long cone
+with a brush	Instrument	brushed
+gangster	Owner	with a gun
+
+
+The fairy with long cone splashed the tourist with a drink.
+The fairy with long cone splashed the tourist with a float.
+The fairy with long cone splashed the tourist with a float with a drink.
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+fairy	Owner	with long cone
+with a drink	Instrument	splashed
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+fairy	Owner	with long cone
+tourist	Owner	with a float
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+fairy	Owner	with long cone
+with a drink	Instrument	splashed
+tourist	Owner	with a float
+
+The gangster with a gun brushed the fairy here with a brush.
+The gangster with a gun brushed the fairy here with long cone.
+The gangster with a gun brushed the fairy with long cone here with a brush.
+
+gangster	Agent	brushed
+fairy	Theme	brushed
+gangster	Owner	with a gun
+with a brush	Instrument	brushed
+
+gangster	Agent	brushed
+fairy	Theme	brushed
+gangster	Owner	with a gun
+fairy	Owner	with long cone
+
+gangster	Agent	brushed
+fairy	Theme	brushed
+gangster	Owner	with a gun
+with a brush	Instrument	brushed
+fairy	Owner	with long cone
+
+
+
+The tourist with a float splashed the fairy with a drink.
+The tourist with a float splashed the fairy with long cone.
+The tourist with a float splashed the fairy with long cone with a drink.
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+tourist	Owner	with a float
+with a drink	Instrument	splashed
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+tourist	Owner	with a float
+fairy	Owner	with long cone
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+tourist	Owner	with a float
+with a drink	Instrument	splashed
+fairy	Owner	with long cone
+
+
+
+The jogger with coach shoes bewitched onetime the doctor with a magic stick.
+The jogger with coach shoes bewitched onetime the doctor with a coat.
+The jogger with coach shoes bewitched onetime the doctor with a coat with a magic stick.
+
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+jogger	Owner	with coach shoes
+with a magic stick	Instrument	bewitched
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+jogger	Owner	with coach shoes
+doctor	Owner	with a coat
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+jogger	Owner	with coach shoes
+with a magic stick	Instrument	bewitched
+doctor	Owner	with a coat
+
+
+The jogger with coach shoes rubbed just onetime the king with a towel.
+The jogger with coach shoes rubbed just onetime the king with a crown.
+The jogger with coach shoes rubbed just onetime the king with a crown with a towel.
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+jogger	Owner	with coach shoes
+with a towel	Instrument	rubbed
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+jogger	Owner	with coach shoes
+king	Owner	with a crown
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+jogger	Owner	with coach shoes
+with a towel	Instrument	rubbed
+king	Owner	with a crown
+
+
+
+The doctor with a coat bewitched onetime the jogger with a magic stick.
+The doctor with a coat bewitched onetime the jogger with coach shoes.
+The doctor with a coat bewitched onetime the jogger with coach shoes with a magic stick.
+
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+doctor	Owner	with a coat
+with a magic stick	Instrument	bewitched
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+doctor	Owner	with a coat
+jogger	Owner	with coach shoes
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+doctor	Owner	with a coat
+with a magic stick	Instrument	bewitched
+jogger	Owner	with coach shoes
+
+
+
+The king with a crown rubbed just onetime the jogger with a towel.
+The king with a crown rubbed just onetime the jogger with coach shoes.
+The king with a crown rubbed just onetime the jogger with coach shoes with a towel.
+
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+king	Owner	with a crown
+with a towel	Instrument	rubbed
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+king	Owner	with a crown
+jogger	Owner	with coach shoes
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+king	Owner	with a crown
+with a towel	Instrument	rubbed
+jogger	Owner	with coach shoes
+
+
+
+The cheerleader with short skirt beaten obviously the pages with a stick.
+The cheerleader with short skirt beaten obviously the pages with a bag.
+The cheerleader with short skirt beaten obviously the pages with a bag with a stick.
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+cheerleader	Owner	with short skirt
+with a stick	Instrument	beaten
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+cheerleader	Owner	with short skirt
+pages	Owner	with a bag
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+cheerleader	Owner	with short skirt
+with a stick	Instrument	beaten
+pages	Owner	with a bag
+
+
+
+The cheerleader with short skirt poisoned obviously the angler with a poison cup.
+The cheerleader with short skirt poisoned obviously the angler with hooks.
+The cheerleader with short skirt poisoned obviously the angler with hooks with a poison glass.
+
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+cheerleader	Owner	with short skirt
+with a poison glass	Instrument	poisoned
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+cheerleader	Owner	with short skirt
+angler	Owner	with hooks
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+cheerleader	Owner	with short skirt
+with a poison glass	Instrument	poisoned
+angler	Owner	with hooks
+
+
+
+
+The pages with a bag beaten obviously the cheerleader with a stick.
+The pages with a bag beaten obviously the cheerleader with short skirt.
+The pages with a bag beaten obviously the cheerleader with short skirt with a stick.
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+pages	Owner	with a bag
+with a stick	Instrument	beaten
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+pages	Owner	with a bag
+cheerleader	Owner	with short skirt
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+pages	Owner	with a bag
+with a stick	Instrument	beaten
+cheerleader	Owner	with short skirt
+
+
+The angler with hooks poisoned obviously the cheerleader with a poison glass.
+The angler with hooks poisoned obviously the cheerleader with a short skirt.
+The angler with hooks poisoned obviously the cheerleader with a short skirt with a poison glass.
+
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+angler	Owner	with hooks
+with a poison glass	Instrument	poisoned
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+angler	Owner	with hooks
+cheerleader	Owner	with short skirt
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+angler	Owner	with hooks
+with a poison glass	Instrument	poisoned
+cheerleader	Owner	with short skirt
+
+
+
+The bride in white spanked just the scouts with stick.
+The bride in white spanked just the scouts in green.
+The bride in white spanked just the scouts in green with stick.
+
+bride	Agent	spanked
+scouts	Theme	spanked
+bride	Owner	in white
+with stick	Instrument	spanked
+
+bride	Agent	spanked
+scouts	Theme	spanked
+bride	Owner	in white
+scouts	Owner	in green
+
+bride	Agent	spanked
+scouts	Theme	spanked
+bride	Owner	in white
+with stick	Instrument	spanked
+scouts	Owner	in green
+
+
+
+
+The bride in white scalded just the postman with water.
+The bride in white scalded just the postman with a bag.
+The bride in white scalded just the postman with a bag with water.
+
+
+bride	Agent	scalded
+postman	Theme	scalded
+bride	Owner	in white
+with water	Instrument	scalded
+
+bride	Agent	scalded
+postman	Theme	scalded
+bride	Owner	in white
+postman	Owner	with a bag
+
+bride	Agent	scalded
+postman	Theme	scalded
+bride	Owner	in white
+with water	Instrument	scalded
+postman	Owner	with a bag
+
+
+
+The scout in green spanked just the bride with a stick.
+The scout in green spanked just the bride in white.
+The scout in green spanked just the bride in white with a stick.
+
+scout	Agent	spanked
+bride	Theme	spanked
+scout	Owner	in green
+with a stick	Instrument	spanked
+
+scout	Agent	spanked
+bride	Theme	spanked
+scout	Owner	in green
+bride	Owner	in white
+
+scout	Agent	spanked
+bride	Theme	spanked
+scout	Owner	in green
+bride	Owner	in white
+with a stick	Instrument	spanked
+
+
+
+
+The postman with a bag scalded just the bride with water.
+The postman with a bag scalded just the bride in white.
+The postman with a bag scalded just the bride in white with water.
+
+
+postman	Agent	scalded
+bride	Theme	scalded
+postman	Owner	with a bag
+with water	Instrument	scalded
+
+postman	Agent	scalded
+bride	Theme	scalded
+postman	Owner	with a bag
+bride	Owner	in white
+
+postman	Agent	scalded
+bride	Theme	scalded
+postman	Owner	with a bag
+bride	Owner	in white
+with water	Instrument	scalded
+
+
+
+
+The stewardess with a blue dressing just powders the Athlete with a powder brush.
+The stewardess with a blue dressing just powders the Athlete with red short.
+The stewardess with a blue dressing just powders the Athlete with red short with a powder brush.
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+stewardess	Owner	with a blue dressing
+with a powder brush	Instrument	powders
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+stewardess	Owner	with a blue dressing
+Athlete	Owner	with red short
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+stewardess	Owner	with a blue dressing
+with a powder brush	Instrument	powders
+Athlete	Owner	with red short
+
+
+
+The stewardess with a blue dressing just charges the traveler with money.
+The stewardess with a blue dressing just charges the traveler with climbing tools.
+The stewardess with a blue dressing just charges the traveler with climbing tools with money.
+
+
+stewardess	Agent	charges
+traveler	Theme	charges
+stewardess	Owner	with a blue dressing
+with money	Instrument	charges
+
+stewardess	Agent	charges
+traveler	Theme	charges
+stewardess	Owner	with a blue dressing
+traveler	Owner	with climbing tools
+
+stewardess	Agent	charges
+traveler	Theme	charges
+stewardess	Owner	with a blue dressing
+traveler	Owner	with climbing tools
+with money	Instrument	charges
+
+
+
+The Athlete with red short just powders the stewardess with a powder brush.
+The Athlete with red short just powders the stewardess with a blue dressing.
+The Athlete with red short just powders the stewardess with a blue dressing with a powder brush.
+
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+Athlete	Owner	with red short
+with a powder brush	Instrument	powders
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+Athlete	Owner	with red short
+stewardess	Owner	with a blue dressing
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+Athlete	Owner	with red short
+with a powder brush	Instrument	powders
+stewardess	Owner	with a blue dressing
+
+
+The traveler with climbing tools just charges the stewardess with money.
+The traveler with climbing tools just charges the stewardess with a blue dressing.
+The traveler with climbing tools just charges the stewardess with a blue dressing with money.
+
+
+traveler	Agent	charges
+stewardess	Theme	charges
+traveler	Owner	with climbing tools
+with money	Instrument	charges
+
+traveler	Agent	charges
+stewardess	Theme	charges
+traveler	Owner	with climbing tools
+stewardess	Owner	with a blue dressing
+
+traveler	Agent	charges
+stewardess	Theme	charges
+traveler	Owner	with climbing tools
+with money	Instrument	charges
+stewardess	Owner	with a blue dressing
+
+
+
+
+The witch with broom illuminates the young boy here with a light.
+The witch with broom illuminates the young boy here with a newspaper.
+The witch with broom illuminates the young boy here with a newspaper with a light.
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+witch	Owner	with broom 
+with a light	Instrument	illuminates
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+witch	Owner	with broom 
+boy	Owner	with a newspaper
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+witch	Owner	with broom 
+boy	Owner	with a newspaper
+with a light	Instrument	illuminates
+
+
+
+
+The witch with broom steals the street sweeper here with magic.
+The witch with broom steals the street sweeper here with gloves.
+The witch with broom steals the street sweeper here with gloves with magic.
+
+witch	Agent	steals
+sweeper	Theme	steals
+witch	Owner	with broom 
+with magic	Instrument	steals
+
+witch	Agent	steals
+sweeper	Theme	steals
+witch	Owner	with broom 
+sweeper	Owner	with gloves
+
+witch	Agent	steals
+sweeper	Theme	steals
+witch	Owner	with broom 
+with magic	Instrument	steals
+sweeper	Owner	with gloves
+
+
+
+The young boy with short illuminates the witch here with a light.
+The young boy with short illuminates the witch here with broom.
+The young boy with short illuminates the witch here with broom with a light.
+
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+boy	Owner	with short 
+with a light	Instrument	illuminates
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+boy	Owner	with short 
+witch	Owner	with broom 
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+boy	Owner	with short 
+with a light	Instrument	illuminates
+witch	Owner	with broom 
+
+
+
+The street sweeper with gloves steals the witch here by hand.
+The street sweeper with gloves steals the witch here with broom.
+The street sweeper with gloves steals the witch here with broom by hand.
+
+sweeper	Agent	steals
+witch	Theme	steals
+sweeper	Owner	with gloves
+by hand	Instrument	steals
+
+sweeper	Agent	steals
+witch	Theme	steals
+sweeper	Owner	with gloves
+witch	Owner	with broom 
+
+sweeper	Agent	steals
+witch	Theme	steals
+sweeper	Owner	with gloves
+by hand	Instrument	steals
+witch	Owner	with broom 
+
+
+
+The Japanese with kimono smeared the cameraman with cream.
+The Japanese with kimono smeared the cameraman with yellow hair.
+The Japanese with kimono smeared the cameraman with yellow hair with cream.
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+Japanese	Owner	with kimono
+with cream	Instrument	cameraman
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+Japanese	Owner	with kimono
+cameraman	Owner	with yellow hair
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+Japanese	Owner	with kimono
+cameraman	Owner	with yellow hair
+with cream	Instrument	smeared
+
+
+
+The Japanese with kimono crowned sometimes just the police officer with flowers.
+The Japanese with kimono crowned sometimes just the police officer with a gun.
+The Japanese with kimono crowned sometimes just the police officer with a gun with flowers.
+
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+Japanese	Owner	with kimono
+officer	Owner	with a gun
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+officer	Owner	with a gun
+
+
+The cameraman with yellow hair smeared the Japanese with cream.
+The cameraman with yellow hair smeared the Japanese with kimono.
+The cameraman with yellow hair smeared the Japanese with kimono with cream.
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+cameraman	Owner	with yellow hair
+with cream	Instrument	smeared
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+cameraman	Owner	with yellow hair
+Japanese	Owner	with kimono
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+cameraman	Owner	with yellow hair
+Japanese	Owner	with kimono
+with cream	Instrument	smeared
+
+
+
+The police officer with a gun sometimes crowned the Japanese with flower.
+The police officer with a gun sometimes crowned the Japanese with kimono.
+The police officer with a gun sometimes crowned the Japanese with kimono with flower.
+
+officer	Agent	crowned
+Japanese	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+
+officer	Agent	crowned
+Japanese	Theme	crowned
+Japanese	Owner	with kimono
+officer	Owner	with a gun
+
+
+officer	Agent	crowned
+Japanese	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+officer	Owner	with a gun
+
+
+
+The wheelchair user with pullover costumed the referee here with a cone.
+The wheelchair user with pullover costumed the referee here with a uniform.
+The wheelchair user with pullover costumed the referee here with a uniform with a cone.
+
+
+user	Agent	costumed
+referee	Theme	costumed
+user	Owner	with pullover
+with a cone	Instrument	costumed
+
+user	Agent	costumed
+referee	Theme	costumed
+user	Owner	with pullover
+referee	Owner	with a uniform
+
+user	Agent	costumed
+referee	Theme	costumed
+user	Owner	with pullover
+with a cone	Instrument	costumed
+referee	Owner	with a uniform
+
+
+The wheelchair user with pullover remunerated the Chinese here with food.
+The wheelchair user with pullover remunerated the Chinese here with traditional dress.
+The wheelchair user with pullover remunerated the Chinese here with traditional dress with food.
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+user	Owner	with pullover
+with food	Instrument	remunerated
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+user	Owner	with pullover
+Chinese	Owner	with traditional dress
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+user	Owner	with pullover
+Chinese	Owner	with traditional dress
+with food	Instrument	remunerated
+
+
+
+
+The referee with uniform costumed the wheelchair user here with a cone.
+The referee with uniform costumed the wheelchair user here with pullover.
+The referee with uniform costumed the wheelchair user here with pullover with a cone.
+
+referee	Agent	costumed
+user	Theme	costumed
+referee	Owner	with a uniform
+with a cone	Instrument	costumed
+
+referee	Agent	costumed
+user	Theme	costumed
+referee	Owner	with a uniform
+user	Owner	with pullover
+
+referee	Agent	costumed
+user	Theme	costumed
+referee	Owner	with a uniform
+with a cone	Instrument	costumed
+user	Owner	with pullover
+
+
+
+The Chinese with traditional dress remunerated the wheelchair user here with food.
+The Chinese with traditional dress remunerated the wheelchair user here with pullover.
+The Chinese with traditional dress remunerated the wheelchair user with pullover here with food.
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+Chinese	Owner	with traditional dress
+with food	Instrument	remunerated
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+Chinese	Owner	with traditional dress
+user	Owner	with pullover
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+Chinese	Owner	with traditional dress
+with food	Instrument	remunerated
+user	Owner	with pullover
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+The businesswoman with formal dress girded the plumber with a belt.
+The businesswoman with formal dress girded the plumber with a uniform.
+The businesswoman with formal dress girded the plumber with a uniform with a belt.
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+businesswoman	Owner	with formal dress
+with a belt	Instrument	girded
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+businesswoman	Owner	with formal dress
+plumber	Owner	with a uniform
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+businesswoman	Owner	with formal dress
+plumber	Owner	with a uniform
+with a belt	Instrument	girded
+
+
+
+The businesswoman with formal dress feeds  the beekeepers with a chicken.
+The businesswoman with formal dress feeds  the beekeepers with a beekeeper hat.
+The businesswoman with formal dress feeds  the beekeepers with a beekeeper hat with a chicken.
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+businesswoman	Owner	with formal dress
+with a chicken	Instrument	feeds
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+businesswoman	Owner	with formal dress
+beekeepers	Owner	with a beekeeper hat
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+businesswoman	Owner	with formal dress
+beekeepers	Owner	with a beekeeper hat
+with a chicken	Instrument	feeds
+
+
+
+The plumber with a uniform girded the businesswoman with a belt.
+The plumber with a uniform girded the businesswoman with a formal dress.
+The plumber with a uniform girded the businesswoman with a formal dress with a belt.
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+plumber	Owner	with a uniform
+with a belt	Instrument	girded
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+plumber	Owner	with a uniform
+businesswoman	Owner	with formal dress
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+plumber	Owner	with a uniform
+with a belt	Instrument	girded
+businesswoman	Owner	with formal dress
+
+
+The beekeepers with a beekeeper hat feeds  the businesswoman with a meal.
+The beekeepers with a beekeeper hat feeds  the businesswoman with formal dress.
+The beekeepers with a beekeeper hat feeds  the businesswoman with formal dress with a meal.
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+beekeepers	Owner	with a beekeeper hat
+with a meal	Instrument	feeds
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+beekeepers	Owner	with a beekeeper hat
+businesswoman	Owner	with formal dress
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+beekeepers	Owner	with a beekeeper hat
+businesswoman	Owner	with formal dress
+with a meal	Instrument	feeds
+
+
+The bathing beauty with swimming suite masked the skier with a mask.
+The bathing beauty with swimming suite masked the skier with a skateboard.
+The bathing beauty with swimming suite masked the skier with a skateboard with a mask.
+
+beauty	Agent	masked
+skier	Theme	masked
+beauty	Owner	with swimming suite
+with a mask	Instrument	masked
+
+beauty	Agent	masked
+skier	Theme	masked
+beauty	Owner	with swimming suite
+skier	Owner	with a skateboard
+
+beauty	Agent	masked
+skier	Theme	masked
+beauty	Owner	with swimming suite
+with a mask	Instrument	masked
+skier	Owner	with a skateboard
+
+
+
+The bathing beauty with swimming suite rewards the prince with a gift.
+The bathing beauty with swimming suite rewards the prince with fighting tools.
+The bathing beauty with swimming suite rewards the prince with fighting tools with a gift.
+
+beauty	Agent	rewards
+prince	Theme	rewards
+beauty	Owner	with swimming suite
+with a gift	Instrument	rewards
+
+beauty	Agent	rewards
+prince	Theme	rewards
+beauty	Owner	with swimming suite
+prince	Owner	with fighting tools
+
+beauty	Agent	rewards
+prince	Theme	rewards
+beauty	Owner	with swimming suite
+prince	Owner	with fighting tools
+with a gift	Instrument	rewards
+
+
+The skier with a skateboard masked the bathing beauty with a mask.
+The skier with a skateboard masked the bathing beauty in a swimming suite.
+The skier with a skateboard masked the bathing beauty in a swimming suite with a mask.
+
+skier	Agent	masked
+beauty	Theme	masked
+skier	Owner	with a skateboard
+with a mask	Instrument	masked
+
+skier	Agent	masked
+beauty	Theme	masked
+skier	Owner	with a skateboard
+beauty	Owner	with a swimming suite
+
+skier	Agent	masked
+beauty	Theme	masked
+skier	Owner	with a skateboard
+with a mask	Instrument	masked
+beauty	Owner	with a swimming suite
+
+
+
+
+The prince with fighting tools rewards the bathing beauty with a gift.
+The prince with fighting tools rewards the bathing beauty in a swimming suite.
+The prince with fighting tools rewards the bathing beauty in a swimming suite with a gift.
+
+prince	Agent	rewards
+beauty	Theme	rewards
+prince	Owner	with fighting tools
+with a gift	Instrument	rewards
+
+prince	Agent	rewards
+beauty	Theme	rewards
+prince	Owner	with fighting tools
+beauty	Owner	with a swimming suite
+
+prince	Agent	rewards
+beauty	Theme	rewards
+prince	Owner	with fighting tools
+beauty	Owner	with a swimming suite
+with a gift	Instrument	rewards
+
+
+The aerobics instructor with short hair cautioned obviously the astronaut with a red card.
+The aerobics instructor with short hair cautioned obviously the astronaut with a space suit.
+The aerobics instructor with short hair cautioned obviously the astronaut with a space suit with a red card.
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+instructor	Owner	with short hair
+with a red card	Instrument	cautioned
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+instructor	Owner	with short hair
+astronaut	Owner	with a space suit
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+instructor	Owner	with short hair
+astronaut	Owner	with a space suit
+with a red card	Instrument	cautioned
+
+
+
+The aerobic trainer with short hair shows obviously the craftsman a warm cooking.
+The aerobic trainer with short hair shows obviously the craftsman with a blue uniform.
+The aerobic trainer with short hair shows obviously the craftsman with a blue uniform a warm cooking.
+
+trainer	Agent	shows
+craftsmen	Theme	shows
+trainer	Owner	with short hair
+cooking	Theme	shows
+
+trainer	Agent	shows
+craftsmen	Theme	shows
+trainer	Owner	with short hair
+craftsman	Owner	with a blue uniform
+
+trainer	Agent	shows
+craftsmen	Theme	shows
+trainer	Owner	with short hair
+craftsman	Owner	with a blue uniform
+cooking	Theme	shows
+
+
+
+The astronaut with a space suit cautioned obviously the aerobics instructor with a red card.
+The astronaut with a space suit cautioned obviously the aerobics instructor with short hair.
+The astronaut with a space suit cautioned obviously the aerobics instructor with short hair with a red card.
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+astronaut	Owner	with a space suit
+with a red card	Instrument	cautioned
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+astronaut	Owner	with a space suit
+instructor	Owner	with short hair
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+astronaut	Owner	with a space suit
+with a red card	Instrument	cautioned
+instructor	Owner	with short hair
+
+
+The craftsman with a blue uniform shows obviously the aerobic trainer the warm cooking.
+The craftsman with a blue uniform shows obviously the aerobic trainer with short hair.
+The craftsman with a blue uniform shows obviously the aerobic trainer with short hair the warm cooking.
+
+craftsman	Agent	shows
+trainer	Theme	shows
+craftsman	Owner	with a blue uniform
+cooking	Theme	shows
+
+craftsman	Agent	shows
+trainer	Theme	shows
+craftsman	Owner	with a blue uniform
+trainer	Owner	with short hair
+
+craftsman	Agent	shows
+trainer	Theme	shows
+craftsman	Owner	with a blue uniform
+cooking	Theme	shows
+trainer	Owner	with short hair

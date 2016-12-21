@@ -1,0 +1,39 @@
+1	What	_	WP	WP	_	4	dobj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	eat	_	VB	VB	_	0	root	_	_
+5	in	_	IN	IN	_	6	case	_	_
+6	Miramar	_	NNP	NNP	_	4	nmod	_	_
+7	?	_	.	.	_	4	punct	_	_
+
+1	Food	_	NN	NN	_	0	root	_	_
+2	like	_	IN	IN	_	4	case	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	stuff	_	NN	NN	_	1	nmod	_	_
+5	they	_	PRP	PRP	_	6	nsubj	_	_
+6	eat	_	VBP	VBP	_	4	relcl	_	_
+7	in	_	IN	IN	_	9	case	_	_
+8	Spanish	_	JJ	JJ	_	9	amod	_	_
+9	countries	_	NNS	NNS	_	6	nmod	_	_
+10	like	_	IN	IN	_	11	case	_	_
+11	tacos	_	NNS	NNS	_	1	nmod	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	beans	_	NNS	NNS	_	11	conj	_	_
+14	,	_	,	,	_	11	punct	_	_
+15	rice	_	NN	NN	_	11	conj	_	_
+16	,	_	,	,	_	11	punct	_	_
+17	pork	_	NN	NN	_	11	conj	_	_
+18	,	_	,	,	_	11	punct	_	_
+19	steak	_	NN	NN	_	11	conj	_	_
+20	,	_	,	,	_	11	punct	_	_
+21	ect	_	FW	FW	_	11	conj	_	_
+22	.	_	.	.	_	1	punct	_	_
+
+1	Try	_	VB	VB	_	0	root	_	_
+2	googling	_	VBG	VBG	_	1	xcomp	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	for	_	IN	IN	_	6	case	_	_
+5	more	_	JJR	JJR	_	6	amod	_	_
+6	info	_	NN	NN	_	2	nmod	_	_
+7	:-RRB-	_	NFP	NFP	_	1	discourse	_	_
+

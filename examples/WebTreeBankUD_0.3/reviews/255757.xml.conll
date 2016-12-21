@@ -1,0 +1,11 @@
+1	they	_	PRP	PRP	_	2	nsubj	_	_
+2	recovered	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	pics	_	NNS	NNS	_	2	dobj	_	_
+5	geeksquad	_	NNP	NNP	_	6	nsubj	_	_
+6	deleted	_	VBD	VBD	_	4	relcl	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	many	_	JJ	JJ	_	2	amod	_	_
+2	thanks	_	NNS	NNS	_	0	root	_	_
+

@@ -1,0 +1,79 @@
+1	So	_	RB	RB	_	3	advmod	_	_
+2	very	_	RB	RB	_	3	advmod	_	_
+3	delicious	_	JJ	JJ	_	0	root	_	_
+4	!	_	.	.	_	3	punct	_	_
+
+1	Excellent	_	JJ	JJ	_	0	root	_	_
+2	!	_	.	.	_	1	punct	_	_
+
+1	November	_	NNP	NNP	_	0	root	_	_
+2	7	_	CD	CD	_	1	nummod	_	_
+3	,	_	,	,	_	1	punct	_	_
+4	2010	_	CD	CD	_	1	tmod	_	_
+5	First	_	JJ	JJ	_	6	amod	_	_
+6	time	_	NN	NN	_	1	parataxis	_	_
+7	eating	_	VBG	VBG	_	6	nfincl	_	_
+8	at	_	IN	IN	_	11	case	_	_
+9	Caffe	_	NNP	NNP	_	11	compound	_	_
+10	Bella	_	NNP	NNP	_	11	compound	_	_
+11	Italia	_	NNP	NNP	_	7	nmod	_	_
+12	and	_	CC	CC	_	1	cc	_	_
+13	it	_	PRP	PRP	_	17	nsubj	_	_
+14	was	_	VBD	VBD	_	17	cop	_	_
+15	a	_	DT	DT	_	17	det	_	_
+16	wonderful	_	JJ	JJ	_	17	amod	_	_
+17	experience	_	NN	NN	_	1	conj	_	_
+18	.	_	.	.	_	1	punct	_	_
+
+1	From	_	IN	IN	_	5	case	_	_
+2	the	_	DT	DT	_	5	det	_	_
+3	delectable	_	JJ	JJ	_	5	amod	_	_
+4	Antipasto	_	NN	NN	_	5	compound	_	_
+5	Misto	_	NN	NN	_	19	nmod	_	_
+6	to	EXTRA!	IN	IN	_	10	case	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	Spaghetti	_	NN	NN	_	10	compound	_	_
+9	alla	_	NN	NN	_	10	compound	_	_
+10	Barese	_	NN	NN	_	5	nmod	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	Parmigiana	_	NN	NN	_	10	conj	_	_
+14	and	_	CC	CC	_	1	cc	_	_
+15	ending	EXTRA!	VBG	VBG	_	5	conj	_	_
+16	with	_	IN	IN	_	17	case	_	_
+17	gelato	_	NN	NN	_	15	nmod	_	_
+18	,	_	,	,	_	22	punct	_	_
+19	all	_	DT	DT	_	22	nsubj	_	_
+20	was	_	VBD	VBD	_	22	cop	_	_
+21	mouth	_	NN	NN	_	22	dep	_	_
+22	watering	_	VBG	VBG	_	0	root	_	_
+23	.	_	.	.	_	22	punct	_	_
+
+1	Too	_	RB	RB	_	2	advmod	_	_
+2	bad	_	JJ	JJ	_	0	root	_	_
+3	they	_	PRP	PRP	_	10	nsubj	_	_
+4	were	_	VBD	VBD	_	10	cop	_	_
+5	out	_	IN	IN	_	10	case	_	_
+6	of	EXTRA!	IN	IN	_	10	case	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	Chocolate	_	NN	NN	_	10	compound	_	_
+9	Lava	_	NN	NN	_	10	compound	_	_
+10	Cake	_	NN	NN	_	2	ccomp	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	Maybe	_	RB	RB	_	6	advmod	_	_
+2	next	_	JJ	JJ	_	3	amod	_	_
+3	time	_	NN	NN	_	6	tmod	_	_
+4	they	_	PRP	PRP	_	6	nsubj	_	_
+5	will	_	MD	MD	_	6	aux	_	_
+6	have	_	VB	VB	_	0	root	_	_
+7	it	_	PRP	PRP	_	6	dobj	_	_
+8	.	_	.	.	_	6	punct	_	_
+
+1	Service	_	NN	NN	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	excellent	_	JJ	JJ	_	0	root	_	_
+4	!	_	.	.	_	3	punct	_	_
+
+1	Sandy	_	NNP	NNP	_	0	root	_	_
+

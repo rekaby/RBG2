@@ -1,0 +1,19 @@
+1	Close	_	JJ	JJ	_	0	root	_	_
+2	to	_	IN	IN	_	4	case	_	_
+3	my	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	house	_	NN	NN	_	1	nmod	_	_
+5	,	_	,	,	_	1	punct	_	_
+6	this	_	DT	DT	_	10	nsubj	_	_
+7	is	_	VBZ	VBZ	_	10	cop	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	only	_	JJ	JJ	_	10	amod	_	_
+10	reason	_	NN	NN	_	1	parataxis	_	_
+11	I	_	PRP	PRP	_	13	nsubj	_	_
+12	would	_	MD	MD	_	13	aux	_	_
+13	go	_	VB	VB	_	10	relcl	_	_
+14	to	_	IN	IN	_	17	case	_	_
+15	this	_	DT	DT	_	17	det	_	_
+16	particular	_	JJ	JJ	_	17	amod	_	_
+17	QT	_	NNP	NNP	_	13	nmod	_	_
+18	.	_	.	.	_	1	punct	_	_
+

@@ -1,0 +1,5 @@
+nurse	Agent	pushes
+athlete	Theme	pushes
+
+fairy	Agent	brushed
+Gangster	Theme	brushed

@@ -1,0 +1,35 @@
+1	does	_	VBZ	VBZ	_	8	aux	_	_
+2	teacher	_	NN	NN	_	4	nmod:poss	_	_
+3	's	_	POS	POS	_	2	case	_	_
+4	camp	_	NN	NN	_	8	nsubj	_	_
+5	in	_	IN	IN	_	6	case	_	_
+6	baguio	_	NNP	NNP	_	4	nmod	_	_
+7	also	_	RB	RB	_	8	advmod	_	_
+8	accomodate	_	VB	VB	_	0	root	_	_
+9	even	_	RB	RB	_	11	advmod	_	_
+10	1	_	CD	CD	_	11	nummod	_	_
+11	person	_	NN	NN	_	8	dobj	_	_
+12	??	_	.	.	_	8	punct	_	_
+
+1	cos	_	IN	IN	_	5	mark	_	_
+2	i	_	PRP	PRP	_	5	nsubj	_	_
+3	ll	_	MD	MD	_	5	aux	_	_
+4	be	_	VB	VB	_	5	aux	_	_
+5	going	_	VBG	VBG	_	0	root	_	_
+6	to	_	IN	IN	_	7	case	_	_
+7	baguio	_	NNP	NNP	_	5	nmod	_	_
+8	alone	_	RB	RB	_	5	advmod	_	_
+9	and	_	CC	CC	_	5	cc	_	_
+10	i	_	PRP	PRP	_	11	nsubj	_	_
+11	have	_	VBP	VBP	_	5	conj	_	_
+12	tight	_	JJ	JJ	_	11	dobj	_	_
+13	?	_	.	.	_	5	punct	_	_
+
+1	http://www.couchsurfing.org/	_	ADD	ADD	_	0	root	_	_
+
+1	try	_	VB	VB	_	0	root	_	_
+2	couch	_	NN	NN	_	3	compound	_	_
+3	surfing	_	NN	NN	_	4	compound	_	_
+4	po	_	NN	NN	_	1	dobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+

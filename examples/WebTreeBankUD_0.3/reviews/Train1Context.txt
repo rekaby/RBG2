@@ -1,0 +1,16 @@
+I	Agent	sell
+Book	Theme	sell
+
+Princess	Agent	washes
+pirate	Theme	washes
+
+Princess	Agent	paints
+fencers	Theme	paints
+
+player	Agent	punches
+prisoner	Theme	punches
+
+player	Agent	punches
+prisoner	Theme	punches
+rocket	Instrument	punches
+

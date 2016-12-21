@@ -1,0 +1,106 @@
+1	Amazing	_	JJ	JJ	_	2	amod	_	_
+2	Experience	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	2	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	experience	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	amazing	_	JJ	JJ	_	0	root	_	_
+5	at	_	IN	IN	_	7	case	_	_
+6	Providence	_	NNP	NNP	_	7	compound	_	_
+7	Aesthetics	_	NNPS	NNPS	_	4	nmod	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	Medical	_	NNP	NNP	_	10	compound	_	_
+10	Spa	_	NNP	NNP	_	7	conj	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	Jana	_	NNP	NNP	_	2	compound	_	_
+2	Kueck	_	NNP	NNP	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	nothing	_	NN	NN	_	0	root	_	_
+5	but	_	IN	IN	_	6	case	_	_
+6	professional	_	JJ	JJ	_	4	nmod	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	makes	_	VBZ	VBZ	_	0	root	_	_
+3	you	_	PRP	PRP	_	2	dobj	_	_
+4	feel	_	VB	VB	_	2	xcomp	_	_
+5	like	_	IN	IN	_	11	mark	_	_
+6	you	_	PRP	PRP	_	11	nsubj	_	_
+7	are	_	VBP	VBP	_	11	cop	_	_
+8	the	_	DT	DT	_	11	det	_	_
+9	most	_	RBS	RBS	_	10	advmod	_	_
+10	important	_	JJ	JJ	_	11	amod	_	_
+11	person	_	NN	NN	_	4	advcl	_	_
+12	in	_	IN	IN	_	14	case	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	world	_	NN	NN	_	11	nmod	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	Jana	_	NNP	NNP	_	2	nsubj	_	_
+2	made	_	VBD	VBD	_	0	root	_	_
+3	me	_	PRP	PRP	_	2	dobj	_	_
+4	feel	_	VB	VB	_	2	xcomp	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	comfortable	_	JJ	JJ	_	4	acomp	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Provided	_	VBD	VBD	_	0	root	_	_
+2	me	_	PRP	PRP	_	1	dobj	_	_
+3	with	_	IN	IN	_	5	case	_	_
+4	warm	_	JJ	JJ	_	5	amod	_	_
+5	blanket	_	NN	NN	_	1	nmod	_	_
+6	and	_	CC	CC	_	1	cc	_	_
+7	has	_	VBZ	VBZ	_	1	conj	_	_
+8	soft	_	JJ	JJ	_	9	amod	_	_
+9	music	_	NN	NN	_	7	dobj	_	_
+10	playing	_	VBG	VBG	_	9	nfincl	_	_
+11	.	_	.	.	_	1	punct	_	_
+
+1	Walking	_	VBG	VBG	_	7	nfincl	_	_
+2	in	_	IN	IN	_	4	case	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	door	_	NN	NN	_	1	nmod	_	_
+5	you	_	PRP	PRP	_	7	nsubjpass	_	_
+6	are	_	VBP	VBP	_	7	auxpass	_	_
+7	made	_	VBN	VBN	_	0	root	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	feel	_	VB	VB	_	7	xcomp	_	_
+10	happy	_	JJ	JJ	_	9	acomp	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	relaxed	_	JJ	JJ	_	10	conj	_	_
+13	.	_	.	.	_	7	punct	_	_
+
+1	Equipment	_	NN	NN	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	state	_	NN	NN	_	0	root	_	_
+4	of	_	IN	IN	_	6	case	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	art	_	NN	NN	_	3	nmod	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	reccomend	_	VB	VB	_	0	root	_	_
+4	anyone	_	NN	NN	_	3	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	go	_	VB	VB	_	3	xcomp	_	_
+7	see	_	VB	VB	_	6	xcomp	_	_
+8	Jana	_	NNP	NNP	_	9	compound	_	_
+9	Kueck	_	NNP	NNP	_	7	dobj	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	Robin	_	NNP	NNP	_	12	compound	_	_
+12	Talley	_	NNP	NNP	_	9	conj	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	see	_	VB	VB	_	7	nfincl	_	_
+15	all	_	PDT	PDT	_	18	predet	_	_
+16	the	_	DT	DT	_	18	det	_	_
+17	many	_	JJ	JJ	_	18	amod	_	_
+18	procedures	_	NNS	NNS	_	14	dobj	_	_
+19	they	_	PRP	PRP	_	20	nsubj	_	_
+20	have	_	VBP	VBP	_	18	relcl	_	_
+21	to	_	TO	TO	_	22	aux	_	_
+22	offer	_	VB	VB	_	18	nfincl	_	_
+23	.	_	.	.	_	3	punct	_	_
+

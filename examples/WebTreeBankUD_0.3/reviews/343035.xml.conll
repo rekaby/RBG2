@@ -1,0 +1,31 @@
+1	Excellent	_	JJ	JJ	_	3	amod	_	_
+2	piano	_	NN	NN	_	3	compound	_	_
+3	lessons	_	NNS	NNS	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	happy	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	8	case	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	piano	_	NN	NN	_	8	compound	_	_
+8	lessons	_	NNS	NNS	_	4	nmod	_	_
+9	Mrs.	_	NNP	NNP	_	11	compound	_	_
+10	Lynda	_	NNP	NNP	_	11	compound	_	_
+11	Mcmanus	_	NNP	NNP	_	12	nsubj	_	_
+12	taught	_	VBD	VBD	_	8	relcl	_	_
+13	me	_	PRP	PRP	_	12	dobj	_	_
+14	.	_	.	.	_	4	punct	_	_
+
+1	Now	_	RB	RB	_	4	advmod	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	'm	_	VBP	VBP	_	4	cop	_	_
+4	able	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	play	_	VB	VB	_	4	xcomp	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	piano	_	NN	NN	_	6	dobj	_	_
+9	pretty	_	RB	RB	_	10	advmod	_	_
+10	well	_	RB	RB	_	6	advmod	_	_
+11	.	_	.	.	_	4	punct	_	_
+

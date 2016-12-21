@@ -1,0 +1,17 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	awesome	_	JJ	JJ	_	5	amod	_	_
+5	prices	_	NNS	NNS	_	2	conj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	get	_	VBP	VBP	_	0	root	_	_
+3	Microdermabrasions	_	NNS	NNS	_	2	dobj	_	_
+4	regularly	_	RB	RB	_	2	advmod	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	love	_	VBP	VBP	_	2	conj	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	environment	_	NN	NN	_	7	dobj	_	_
+

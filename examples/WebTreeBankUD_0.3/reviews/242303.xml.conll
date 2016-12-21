@@ -1,0 +1,10 @@
+1	Awesome	_	JJ	JJ	_	6	amod	_	_
+2	bacon	_	NN	NN	_	6	compound	_	_
+3	egg	_	NN	NN	_	2	conj	_	_
+4	and	_	CC	CC	_	2	cc	_	_
+5	cheese	_	NN	NN	_	2	conj	_	_
+6	sandwich	_	NN	NN	_	0	root	_	_
+7	for	_	IN	IN	_	8	case	_	_
+8	breakfast	_	NN	NN	_	6	nmod	_	_
+9	.	_	.	.	_	6	punct	_	_
+

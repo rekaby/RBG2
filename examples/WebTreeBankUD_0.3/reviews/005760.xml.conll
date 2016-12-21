@@ -1,0 +1,40 @@
+1	OK	_	JJ	JJ	_	2	amod	_	_
+2	Food	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	Slow	_	JJ	JJ	_	5	amod	_	_
+5	service	_	NN	NN	_	2	parataxis	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	incredibly	_	RB	RB	_	5	advmod	_	_
+5	bland	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Their	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	Thali	_	NN	NN	_	5	nsubjpass	_	_
+3	was	_	VBD	VBD	_	5	auxpass	_	_
+4	not	_	RB	RB	_	5	neg	_	_
+5	brought	_	VBN	VBN	_	0	root	_	_
+6	out	_	RB	RB	_	5	advmod	_	_
+7	as	_	IN	IN	_	8	mark	_	_
+8	described	_	VBN	VBN	_	5	advcl	_	_
+9	-LRB-	_	-LRB-	-LRB-	_	10	punct	_	_
+10	no	_	DT	DT	_	11	neg	_	_
+11	saag	_	NN	NN	_	8	appos	_	_
+12	-RRB-	_	-RRB-	-RRB-	_	10	punct	_	_
+13	.	_	.	.	_	5	punct	_	_
+
+1	Expensive	_	JJ	JJ	_	0	root	_	_
+2	for	_	IN	IN	_	4	case	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	level	_	NN	NN	_	1	nmod	_	_
+5	of	_	IN	IN	_	6	case	_	_
+6	food	_	NN	NN	_	4	nmod	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	quality	_	NN	NN	_	4	conj	_	_
+10	of	_	IN	IN	_	11	case	_	_
+11	service	_	NN	NN	_	9	nmod	_	_
+12	.	_	.	.	_	1	punct	_	_
+

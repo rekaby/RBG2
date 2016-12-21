@@ -1,0 +1,7 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	3	nsubj	_	_
+3	tasted	_	VBD	VBD	_	0	root	_	_
+4	like	_	IN	IN	_	6	case	_	_
+5	rat	_	NN	NN	_	6	compound	_	_
+6	feces	_	NNS	NNS	_	3	nmod	_	_
+

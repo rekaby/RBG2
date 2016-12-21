@@ -1,0 +1,126 @@
+Princess	Agent	washes
+pirate	Theme	washes
+
+Princess	Agent	paints
+fencers	Theme	paints
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+
+Amazone	Agent	sprayed
+players	Theme	sprayed
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+
+nurse	Agent	dries
+priest	Theme	dries
+
+journalist	Agent	ties
+sailor	Theme	ties
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+
+worker	Agent	attacked
+cellist	Theme	attacked
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+
+devil	Agent	gifted
+clown	Theme	gifted
+
+devil	Agent	sketched
+cook	Theme	sketched
+
+cleaner	Agent	pelts
+waiter	Theme	pelts
+
+lady	Agent	slaps
+Knights	Theme	slaps
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+
+player	Agent	punches
+prisoner	Theme	punches
+
+player	Agent	meshes
+flutist	Theme	meshes
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+
+Grandma	Agent	scratches
+archers	Theme	scratches
+
+grandmother	Agent	films
+saxophonist	Theme	films
+
+fairy	Agent	brushed
+gangsters	Theme	brushed
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+
+bride	Agent	spanks
+scouts	Theme	spanks
+
+bride	Agent	scalded
+postman	Theme	scalded
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+
+witch	Agent	illuminates
+newsboys	Theme	illuminates
+
+witch	Agent	steals
+sweeper	Theme	steals
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+
+user	Agent	costumed
+referee	Theme	costumed
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+
+beauty	Agent	masked
+skier	Theme	masked
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+

@@ -1,0 +1,25 @@
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	best	_	JJS	JJS	_	0	root	_	_
+5	!	_	.	.	_	4	punct	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	received	_	VBD	VBD	_	0	root	_	_
+3	from	_	IN	IN	_	6	case	_	_
+4	your	_	PRP$	PRP$	_	6	nmod:poss	_	_
+5	flower	_	NN	NN	_	6	compound	_	_
+6	store	_	NN	NN	_	2	nmod	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	They	_	PRP	PRP	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	sooooo	_	RB	RB	_	4	advmod	_	_
+4	beautiful	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Thank	_	VBP	VBP	_	0	root	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	guys	_	NNS	NNS	_	1	vocative	_	_
+4	.	_	.	.	_	1	punct	_	_
+

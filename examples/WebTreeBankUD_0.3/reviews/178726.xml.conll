@@ -1,0 +1,62 @@
+1	Excellent	_	JJ	JJ	_	3	amod	_	_
+2	medical	_	JJ	JJ	_	3	amod	_	_
+3	care	_	NN	NN	_	0	root	_	_
+4	!!!!!!	_	.	.	_	3	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	went	_	VBD	VBD	_	0	root	_	_
+3	to	_	IN	IN	_	7	case	_	_
+4	this	_	DT	DT	_	7	det	_	_
+5	urgent	_	JJ	JJ	_	6	amod	_	_
+6	care	_	NN	NN	_	7	compound	_	_
+7	center	_	NN	NN	_	2	nmod	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	was	_	VBD	VBD	_	10	auxpass	_	_
+10	blown	_	VBN	VBN	_	2	conj	_	_
+11	away	_	RB	RB	_	10	advmod	_	_
+12	with	_	IN	IN	_	14	case	_	_
+13	their	_	PRP$	PRP$	_	14	nmod:poss	_	_
+14	service	_	NN	NN	_	10	nmod	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	Finally	_	RB	RB	_	4	advmod	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	convenient	_	JJ	JJ	_	4	amod	_	_
+4	place	_	NN	NN	_	0	root	_	_
+5	close	_	RB	RB	_	4	amod	_	_
+6	to	_	IN	IN	_	7	case	_	_
+7	home	_	NN	NN	_	5	nmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Wonderful	_	JJ	JJ	_	2	amod	_	_
+2	staff	_	NNS	NNS	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	physician	_	NN	NN	_	2	conj	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Clean	_	JJ	JJ	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	superb	_	JJ	JJ	_	1	conj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Thanks	_	NN	NN	_	0	root	_	_
+2	for	_	IN	IN	_	5	case	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	care	_	NN	NN	_	1	nmod	_	_
+6	!!!!	_	.	.	_	1	punct	_	_
+
+1	Will	_	MD	MD	_	3	aux	_	_
+2	definitely	_	RB	RB	_	3	advmod	_	_
+3	go	_	VB	VB	_	0	root	_	_
+4	back	_	RB	RB	_	3	advmod	_	_
+5	when	_	WRB	WRB	_	7	advmod	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	need	_	VBP	VBP	_	3	advcl	_	_
+8	medical	_	JJ	JJ	_	9	amod	_	_
+9	care	_	NN	NN	_	7	dobj	_	_
+10	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,368 @@
+guys	$Agent$	look
+hands	$Theme$	look
+guys	$own$	with shaggy hair
+in the yard	$Instrument$	hanging
+
+men	$own$	in green shirts
+men	$Agent$	standing
+
+friends	$Agent$	enjoy
+time	$Theme$	enjoy
+
+men	$Agent$	operating
+system	$Theme$	operating
+men	$own$	in hard hats
+
+men	$Agent$	working
+machine	$Theme$	working
+hats	$Theme$	wearing
+
+rig	$Theme$	on
+men	$Agent$	on
+
+girl	$Agent$	going
+girl	$own$	in a pink dress
+cabin	$Theme$	going
+
+girl	$Agent$	climbing
+stairs	$Theme$	climbing
+
+girl	$Agent$	going
+building	$Theme$	going
+
+Someone	$own$	in a blue shirt and hat
+Someone	$Agent$	standing
+stair	$Theme$	standing
+Someone	$Agent$	leaning
+
+Man	$Agent$	cleaning
+windows	$Theme$	cleaning
+Man	$own$	in blue shirt and jeans
+
+man	$Agent$	cleans
+window	$Theme$	cleans
+
+guy	$Agent$	cooking
+guy	$Agent$	joking
+with the camera	$Instrument$	Joking
+
+men	$Agent$	cooking
+food	$Theme$	cooking
+on a stove	$Instrument$	cooking
+
+Two	$Agent$	cooking
+meal	$Theme$	cooking
+
+people	$Agent$	playing
+guitar	$Theme$	playing
+other	$Agent$	poking
+him	$Theme$	poking
+
+man	$own$	in green
+man	$Agent$	holds
+guitar	$Theme$	holds
+boy	$Agent$	observes
+shirt	$Theme$	observes
+
+boys	$Agent$	playing
+guitar	$Theme$	playing
+
+man	$Agent$	completes
+touches	$Agent$	completes
+
+man	$Agent$	holds
+toy	$Theme$	holds
+
+girl	$Agent$	talking
+cellphone	$Theme$	talking
+street	$Theme$	gliding
+
+woman	$Agent$	walks past
+people	$Theme$	past
+people	$Agent$	dressed
+outfits	$Theme$	dressed
+
+woman	$own$	with a large purse
+women	$Agent$	walking
+
+people	$Agent$	standing
+
+youths	$Agent$	jumping
+
+men	$own$	with no shirts
+men	$Agent$	jumping
+
+dancers	$Agent$	jumping
+with wonderful form	$Instrument$	jumping
+
+class	$Agent$	jumping
+
+guys	$Agent$	jumping
+outdoors	$Theme$	jumping
+with a stone wall	$Instrument$	jumping
+
+guys	$Agent$	jumping
+outdoors	$Theme$	jumping
+outdoors	$own$	with a stone wall
+
+men	$own$	with excited faces
+men	$Agent$	jumping down
+
+dogs	$Agent$	moving
+
+man	$own$	in a tractor 
+man	$Agent$	wearing
+headphones	$Theme$	wearing
+street	$Theme$	driving
+
+man	$Agent$	driving
+tractor	$Theme$	driving
+on a main road	$Instrument$	driving
+
+women	$Agent$	stand
+
+women	$Agent$	stand
+street	$own$	with tall buildings.
+
+women	$Agent$	wait
+
+Girl	$own$	in black jacket
+Girl	$Agent$	sifting
+sugar	$Theme$	sifting
+over a chocolate cake	$Instrument$	sifting
+
+Girl	$own$	in black jacket
+Girl	$Agent$	sifting
+sugar	$Theme$	sifting
+sugar	$own$	over a chocolate cake
+
+woman	$own$	with dark hair
+woman	$Agent$	putting
+powder	$Theme$	putting
+cake	$own$	using a sifter
+
+woman	$own$	with dark hair
+woman	$Agent$	putting
+powder	$Theme$	putting
+using a sifter	$Instrument$	putting
+
+girl	$Agent$	plays
+fingerpaints	$Theme$	plays
+canvas	$own$	with a rainbow on it
+
+girl	$Agent$	sits
+with her hands	$Instrument$	sits
+
+girl	$Agent$	sits
+rainbow	$own$	with her hands in a bowl.
+
+man	$Agent$	sleeping
+dog	$Agent$	sitting next
+
+man	$Agent$	lies
+with his dog	$Instrument$	lies
+
+people	$Agent$	sitting
+with $Instrument$s	$Instrument$	sitting
+
+people	$Agent$	sitting
+circle	$own$	with $Instrument$s
+
+People	$Agent$	gathered
+some	$Agent$	holding
+$Instrument$s	$Theme$	holding
+
+$Instrument$alists	$Agent$	play
+clarinets	$Theme$	play
+in a curtained room	$Instrument$	play
+
+women	$Agent$	play
+clarinets	$Theme$	play
+they	$Agent$	read
+music	$Theme$	read
+
+group	$Agent$	performing
+music	$Theme$	performing
+on their $Instrument$s	$Instrument$	performing
+
+structure	$Theme$	broken
+structure	$Agent$	laying
+
+person	$own$	in gray
+person	$Agent$	stands
+outdoors	$own$	in the dark.
+
+man	$own$	in a jacket and jeans
+man	$Agent$	standing
+
+man	$own$	in a white t-shirt
+man	$Agent$	looks toward
+camera	$Theme$	looks toward
+
+crowd	$Theme$	portrayed
+
+man	$Agent$	putting
+tattoo	$Theme$	putting
+
+man	$Agent$	putting
+tattoo	$Theme$	putting
+with a tool	$Instrument$	putting
+
+man	$Agent$	putting
+tattoo	$Theme$	putting
+back	$own$	with a muscle
+
+man	$own$	with a black shirt
+man	$Agent$	giving
+guy	$Theme$	giving
+tattoo	$Theme$	giving
+
+man	$Agent$	putting
+tattoo	$Theme$	putting
+
+children	$Agent$	practicing
+girl	$Agent$	practicing
+boy	$Agent$	practicing
+writing	$Theme$	practicing
+
+children	$Agent$	sitting
+totter	$Theme$	sitting
+
+man	$own$	in bright vest and hard hat
+man	$Agent$	holds
+flag	$Theme$	holds
+corner	$own$	covered in spray paint
+
+man	$own$	in bright vest and hard hat
+man	$Agent$	holds
+flag	$Theme$	holds
+flag	$own$	covered in spray paint
+
+worker	$Agent$	standing
+flag	$Theme$	holding
+
+man	$own$	with glasses
+man	$Agent$	wearing
+hat	$Theme$	wearing
+
+man	$Agent$	wears
+hat and glasses	$Theme$	wears
+
+person	$own$	with gray hair
+person	$Agent$	painting
+place	$own$	surrounded by others
+who	$Agent$	painting
+
+man	$own$	in green pants and blue shirt
+man	$Agent$	pushing
+cart	$Theme$	pushing
+
+Janitor	$Agent$	pushing
+dolly	$Theme$	pushing
+with janitor tools	$Instrument$	pushing
+
+Janitor	$Agent$	pushing
+dolly	$Theme$	pushing
+outside	$own$	with janitor tools
+
+child	$Agent$	grips
+at the playground	$Instrument$	grips.
+
+child	$Agent$	grips
+ropes	$own$	at the playground
+
+girl	$own$	in pink
+girl	$Agent$	climbs
+bridge	$Theme$	climbs
+bringe	$own$	at the park.
+
+man	$own$	in jacket
+man	$Agent$	holding
+toothpick	$Theme$	holding
+toothpick	$own$	with something on the end of it
+
+man	$own$	in jacket
+man	$Agent$	holding
+toothpick	$Theme$	holding
+with something on the end of it	$Instrument$	holding
+
+man	$Agent$	traveling
+
+man	$own$	in a black and yellow jacket
+man	$Agent$	gazing
+man	$Agent$	smiling
+
+man	$Agent$	holds
+cup	$Theme$	holds
+
+people	$Agent$	walking
+sky	$own$	in the background
+
+silhouettes	$Agent$	decorate
+sunset	$Theme$	decorate
+
+man	$Agent$	sitting
+table	$own$	with a drink
+
+man	$Agent$	sitting
+with a drink	$Instrument$	sitting
+
+man	$Agent$	having
+beer	$Theme$	having
+
+dog	$Agent$	running
+garden	$own$	surrounded by a white fence.
+
+dog	$Agent$	running
+surrounded by a white fence	$Instrument$	running
+
+officer	$Agent$	stands
+officer	$own$	in a reflective vest
+van	$own$	with his dog.
+
+officer	$Agent$	stands
+officer	$own$	in a reflective vest
+with his dog	$Instrument$	stands
+
+man	$own$	with his watch dog
+man	$Agent$	looking
+
+person	$Agent$	riding
+bike	$Theme$	riding
+on a snowy road	$Instrument$	riding
+
+men	$Agent$	wearing
+ties	$Theme$	wearing
+men	$Agent$	talk
+
+man	$Agent$	works
+man	$own$	with a backwards
+machinery	$Theme$	works
+
+woman	$Agent$	working
+jars	$Theme$	packing
+with candles	$Instrument$	packing
+into boxes	$Instrument$	packing
+
+woman	$Agent$	working
+jars	$Theme$	packing
+jars	$own$	with candles
+into boxes	$Instrument$	packing
+
+woman	$Agent$	working
+jars	$Theme$	packing
+with candles	$Instrument$	packing
+candles	$own$	into boxes
+
+woman	$Agent$	working
+jars	$Theme$	packing
+jars	$own$	with candles
+candles	$own$	into boxes
+
+manager	$Agent$	assisting
+employee	$Theme$	assisting
+
+man	$Agent$	using
+broom	$Theme$	using
+dirt	$Theme$	remove
+

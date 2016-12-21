@@ -1,0 +1,41 @@
+1	Surprisingly	_	RB	RB	_	8	advmod	_	_
+2	,	_	,	,	_	8	punct	_	_
+3	this	_	DT	DT	_	7	det	_	_
+4	little	_	JJ	JJ	_	7	amod	_	_
+5	strip	_	NN	NN	_	6	compound	_	_
+6	mall	_	NN	NN	_	7	compound	_	_
+7	restaurant	_	NN	NN	_	8	nsubj	_	_
+8	has	_	VBZ	VBZ	_	0	root	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	best	_	JJS	JJS	_	11	amod	_	_
+11	sushi	_	NN	NN	_	8	dobj	_	_
+12	I	_	PRP	PRP	_	14	nsubj	_	_
+13	've	_	VBP	VBP	_	14	aux	_	_
+14	found	_	VBN	VBN	_	11	relcl	_	_
+15	in	_	IN	IN	_	18	case	_	_
+16	the	_	DT	DT	_	18	det	_	_
+17	Tampa	_	NNP	NNP	_	18	compound	_	_
+18	area	_	NN	NN	_	14	nmod	_	_
+19	.	_	.	.	_	8	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	fresh	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	really	_	RB	RB	_	6	advmod	_	_
+6	tasty	_	JJ	JJ	_	3	conj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'll	_	MD	MD	_	3	aux	_	_
+3	drive	_	VB	VB	_	0	root	_	_
+4	an	_	DT	DT	_	5	det	_	_
+5	hour	_	NN	NN	_	3	tmod	_	_
+6	just	EXTRA!	RB	RB	_	9	advmod	_	_
+7	for	_	IN	IN	_	9	case	_	_
+8	their	_	PRP$	PRP$	_	9	nmod:poss	_	_
+9	volcano	_	NN	NN	_	3	nmod	_	_
+10	,	_	,	,	_	3	punct	_	_
+11	yum	_	UH	UH	_	3	discourse	_	_
+12	!	_	.	.	_	3	punct	_	_
+

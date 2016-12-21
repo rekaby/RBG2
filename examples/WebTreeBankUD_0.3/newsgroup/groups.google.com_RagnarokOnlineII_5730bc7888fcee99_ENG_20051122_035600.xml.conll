@@ -1,0 +1,64 @@
+1	Email	_	NN	NN	_	0	root	_	_
+2	:	_	:	:	_	1	punct	_	_
+3	franz371...@gmail.com	_	ADD	ADD	_	1	appos	_	_
+
+1	November	_	NNP	NNP	_	2	compound	_	_
+2	22th	_	NN	NN	_	0	root	_	_
+3	2005	_	CD	CD	_	2	tmod	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	got	_	VBD	VBD	_	0	root	_	_
+3	these	_	DT	DT	_	4	det	_	_
+4	pictures	_	NNS	NNS	_	2	dobj	_	_
+5	from	_	IN	IN	_	6	case	_	_
+6	tgs	_	NNP	NNP	_	2	nmod	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	look	_	VB	VB	_	2	parataxis	_	_
+9	at	_	IN	IN	_	10	case	_	_
+10	all	_	DT	DT	_	8	nmod	_	_
+11	of	_	IN	IN	_	12	case	_	_
+12	them	_	PRP	PRP	_	10	nmod	_	_
+13	if	_	IN	IN	_	15	mark	_	_
+14	you	_	PRP	PRP	_	15	nsubj	_	_
+15	have	_	VBP	VBP	_	8	advcl	_	_
+16	time	_	NN	NN	_	15	dobj	_	_
+17	,	_	,	,	_	2	punct	_	_
+18	they	_	PRP	PRP	_	21	nsubj	_	_
+19	're	_	VBP	VBP	_	21	cop	_	_
+20	preety	_	RB	RB	_	21	advmod	_	_
+21	cool	_	JJ	JJ	_	2	parataxis	_	_
+22	...	_	,	,	_	2	punct	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050920111900_21big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050919032951_21big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050919032951_32big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050919032951_39big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050919032951_42big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050919032951_41big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050919032951_40big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050917034321_15big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050917034321_2big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050909152208_14big.html	_	ADD	ADD	_	0	root	_	_
+
+1	http://www.4gamer.net/news/image/2005.09/20050917024918_1big.html	_	ADD	ADD	_	0	root	_	_
+
+1	btw	_	UH	UH	_	7	discourse	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	they	_	PRP	PRP	_	7	nsubj	_	_
+4	're	_	VBP	VBP	_	7	cop	_	_
+5	all	_	RB	RB	_	4	advmod	_	_
+6	from	_	IN	IN	_	7	case	_	_
+7	4gamer	_	NNP	NNP	_	0	root	_	_
+8	.	_	.	.	_	7	punct	_	_
+
+1	Reply	_	VB	VB	_	0	root	_	_
+

@@ -1,0 +1,86 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	Food	_	NN	NN	_	0	root	_	_
+3	Awesome	_	JJ	JJ	_	4	conj	_	_
+4	food	_	NN	NN	_	2	dep	_	_
+5	Awesome	_	JJ	JJ	_	6	amod	_	_
+6	service	_	NN	NN	_	2	conj	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	wanted	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	try	_	VB	VB	_	2	xcomp	_	_
+5	someplace	_	NN	NN	_	4	dobj	_	_
+6	new	_	JJ	JJ	_	5	amod	_	_
+7	again	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	This	_	DT	DT	_	2	det	_	_
+2	place	_	NN	NN	_	3	nsubj	_	_
+3	rocked	_	VBD	VBD	_	0	root	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Brought	_	VBD	VBD	_	0	root	_	_
+2	my	_	PRP$	PRP$	_	3	nmod:poss	_	_
+3	wife	_	NN	NN	_	1	dobj	_	_
+4	Deb	_	NNP	NNP	_	3	appos	_	_
+5	with	_	IN	IN	_	6	case	_	_
+6	me	_	PRP	PRP	_	1	nmod	_	_
+7	and	_	CC	CC	_	1	cc	_	_
+8	she	_	PRP	PRP	_	9	nsubj	_	_
+9	like	_	VB	VB	_	1	conj	_	_
+10	the	_	DT	DT	_	13	det	_	_
+11	Fried	_	VBN	VBN	_	13	amod	_	_
+12	Crab	_	NN	NN	_	13	compound	_	_
+13	Wontons	_	NNS	NNS	_	9	dobj	_	_
+14	and	_	CC	CC	_	9	cc	_	_
+15	said	_	VBD	VBD	_	9	conj	_	_
+16	they	_	PRP	PRP	_	18	nsubj	_	_
+17	were	_	VBD	VBD	_	18	cop	_	_
+18	good	_	JJ	JJ	_	15	ccomp	_	_
+19	..	_	.	.	_	1	punct	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	had	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	7	det	_	_
+5	BBQ	_	NN	NN	_	7	compound	_	_
+6	Spare	_	NN	NN	_	7	compound	_	_
+7	Ribs	_	NNS	NNS	_	3	dobj	_	_
+8	..	_	,	,	_	3	punct	_	_
+9	good	_	JJ	JJ	_	3	dep	_	_
+10	also	_	RB	RB	_	9	parataxis	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	ordered	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	MOO	_	NN	NN	_	5	compound	_	_
+5	SHU	_	NN	NN	_	6	compound	_	_
+6	pork	_	NN	NN	_	2	dobj	_	_
+7	and	_	CC	CC	_	2	cc	_	_
+8	it	_	PRP	PRP	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	great	_	JJ	JJ	_	2	conj	_	_
+11	..	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	ordered	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	Neptune	_	NNP	NNP	_	6	compound	_	_
+6	Platter	_	NN	NN	_	3	dobj	_	_
+7	which	_	WDT	WDT	_	9	nsubj	_	_
+8	was	_	VBD	VBD	_	9	cop	_	_
+9	awesome	_	JJ	JJ	_	6	relcl	_	_
+10	...	_	,	,	_	3	punct	_	_
+11	so	_	RB	RB	_	14	advmod	_	_
+12	this	_	DT	DT	_	13	det	_	_
+13	place	_	NN	NN	_	14	nsubj	_	_
+14	gets	_	VBZ	VBZ	_	3	parataxis	_	_
+15	5	_	CD	CD	_	18	compound	_	_
+16	out	_	IN	IN	_	18	quantmod	_	_
+17	of	_	IN	IN	_	18	quantmod	_	_
+18	5	_	CD	CD	_	19	nummod	_	_
+19	stars	_	NNS	NNS	_	14	dobj	_	_
+20	.	_	.	.	_	3	punct	_	_
+

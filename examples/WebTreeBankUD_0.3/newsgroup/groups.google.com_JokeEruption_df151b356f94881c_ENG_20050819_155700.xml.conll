@@ -1,0 +1,464 @@
+1	George	_	NNP	NNP	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Lynne	_	NNP	NNP	_	1	conj	_	_
+
+1	image001.jpg	_	NN	NN	_	0	root	_	_
+
+1	51	_	CD	CD	_	2	compound	_	_
+2	K	_	CD	CD	_	3	nummod	_	_
+3	Download	_	NN	NN	_	0	root	_	_
+
+1	Funny	_	JJ	JJ	_	2	amod	_	_
+2	stuff	_	NN	NN	_	0	root	_	_
+
+1	lifted	_	VBN	VBN	_	0	root	_	_
+2	from	_	IN	IN	_	4	case	_	_
+3	another	_	DT	DT	_	4	det	_	_
+4	list	_	NN	NN	_	1	nmod	_	_
+
+1	Amy	_	NNP	NNP	_	0	root	_	_
+2	:--RRB-	_	NFP	NFP	_	1	discourse	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	could	_	MD	MD	_	4	aux	_	_
+3	certainly	_	RB	RB	_	4	advmod	_	_
+4	slow	_	VB	VB	_	0	root	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	aging	_	NN	NN	_	7	compound	_	_
+7	process	_	NN	NN	_	4	dobj	_	_
+8	down	_	RP	RP	_	4	prt	_	_
+9	if	_	IN	IN	_	11	mark	_	_
+10	it	_	PRP	PRP	_	11	nsubj	_	_
+11	had	_	VBD	VBD	_	4	advcl	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	work	_	VB	VB	_	11	xcomp	_	_
+14	its	_	PRP$	PRP$	_	15	nmod:poss	_	_
+15	way	_	NN	NN	_	13	dobj	_	_
+16	through	_	IN	IN	_	17	case	_	_
+17	Congress	_	NNP	NNP	_	13	nmod	_	_
+18	.	_	.	.	_	4	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Will	_	NNP	NNP	_	3	compound	_	_
+3	Rogers	_	NNP	NNP	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	rose	_	NN	NN	_	5	nsubjpass	_	_
+5	named	_	VBN	VBN	_	2	ccomp	_	_
+6	after	_	IN	IN	_	7	case	_	_
+7	me	_	PRP	PRP	_	5	nmod	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	I	_	PRP	PRP	_	12	nsubj	_	_
+10	was	_	VBD	VBD	_	12	cop	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	flattered	_	JJ	JJ	_	2	conj	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	But	_	CC	CC	_	5	cc	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	not	_	RB	RB	_	5	neg	_	_
+5	pleased	_	JJ	JJ	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	read	_	VB	VB	_	5	nfincl	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	description	_	NN	NN	_	7	dobj	_	_
+10	in	_	IN	IN	_	12	case	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	catalog	_	NN	NN	_	9	nmod	_	_
+13	:	_	:	:	_	16	punct	_	_
+14	"	_	``	``	_	16	punct	_	_
+15	No	_	RB	RB	_	16	neg	_	_
+16	good	_	JJ	JJ	_	5	parataxis	_	_
+17	in	_	IN	IN	_	19	case	_	_
+18	a	_	DT	DT	_	19	det	_	_
+19	bed	_	NN	NN	_	16	nmod	_	_
+20	,	_	,	,	_	16	punct	_	_
+21	but	_	CC	CC	_	16	cc	_	_
+22	fine	_	JJ	JJ	_	16	conj	_	_
+23	against	_	IN	IN	_	25	case	_	_
+24	a	_	DT	DT	_	25	det	_	_
+25	wall	_	NN	NN	_	22	nmod	_	_
+26	.	_	.	.	_	16	punct	_	_
+27	"	_	''	''	_	16	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Eleanor	_	NNP	NNP	_	3	compound	_	_
+3	Roosevelt	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	Santa	_	NNP	NNP	_	2	compound	_	_
+2	Claus	_	NNP	NNP	_	3	nsubj	_	_
+3	has	_	VBZ	VBZ	_	0	root	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	right	_	JJ	JJ	_	6	amod	_	_
+6	idea	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	Visit	_	VB	VB	_	0	root	_	_
+2	people	_	NNS	NNS	_	1	dobj	_	_
+3	only	_	RB	RB	_	4	advmod	_	_
+4	once	_	RB	RB	_	1	advmod	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	year	_	NN	NN	_	4	nmod:npmod	_	_
+7	.	_	.	.	_	1	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Victor	_	NNP	NNP	_	3	compound	_	_
+3	Borge	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	"	_	``	``	_	6	punct	_	_
+2	By	_	IN	IN	_	4	case	_	_
+3	all	_	DT	DT	_	4	det	_	_
+4	means	_	NNS	NNS	_	6	nmod	_	_
+5	,	_	,	,	_	6	punct	_	_
+6	marry	_	VB	VB	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	get	_	VBP	VBP	_	11	advcl	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	good	_	JJ	JJ	_	6	amod	_	_
+6	wife	_	NN	NN	_	3	dobj	_	_
+7	,	_	,	,	_	11	punct	_	_
+8	you	_	PRP	PRP	_	11	nsubj	_	_
+9	'll	_	MD	MD	_	11	aux	_	_
+10	become	_	VB	VB	_	11	cop	_	_
+11	happy	_	JJ	JJ	_	0	root	_	_
+12	;	_	,	,	_	11	punct	_	_
+13	if	_	IN	IN	_	15	mark	_	_
+14	you	_	PRP	PRP	_	15	nsubj	_	_
+15	get	_	VBP	VBP	_	24	advcl	_	_
+16	a	_	DT	DT	_	18	det	_	_
+17	bad	_	JJ	JJ	_	18	amod	_	_
+18	one	_	NN	NN	_	15	dobj	_	_
+19	,	_	,	,	_	24	punct	_	_
+20	you	_	PRP	PRP	_	24	nsubj	_	_
+21	'll	_	MD	MD	_	24	aux	_	_
+22	become	_	VB	VB	_	24	cop	_	_
+23	a	_	DT	DT	_	24	det	_	_
+24	philosopher	_	NN	NN	_	11	parataxis	_	_
+25	.	_	.	.	_	11	punct	_	_
+
+1	-	_	NFP	NFP	_	2	punct	_	_
+2	Socrates	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	3	nsubjpass	_	_
+2	was	_	VBD	VBD	_	3	auxpass	_	_
+3	married	_	VBN	VBN	_	0	root	_	_
+4	by	_	IN	IN	_	6	case	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	judge	_	NN	NN	_	3	nmod	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	should	_	MD	MD	_	4	aux	_	_
+3	have	_	VB	VB	_	4	aux	_	_
+4	asked	_	VBN	VBN	_	0	root	_	_
+5	for	_	IN	IN	_	7	case	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	jury	_	NN	NN	_	4	nmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Groucho	_	NNP	NNP	_	3	compound	_	_
+3	Marx	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	My	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	wife	_	NN	NN	_	3	nsubj	_	_
+3	has	_	VBZ	VBZ	_	0	root	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	slight	_	JJ	JJ	_	6	amod	_	_
+6	impediment	_	NN	NN	_	3	dobj	_	_
+7	in	_	IN	IN	_	9	case	_	_
+8	her	_	PRP$	PRP$	_	9	nmod:poss	_	_
+9	speech	_	NN	NN	_	6	nmod	_	_
+10	.	_	.	.	_	3	punct	_	_
+
+1	Every	_	RB	RB	_	2	advmod	_	_
+2	now	_	RB	RB	_	6	advmod	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	then	_	RB	RB	_	2	conj	_	_
+5	she	_	PRP	PRP	_	6	nsubj	_	_
+6	stops	_	VBZ	VBZ	_	0	root	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	breathe	_	VB	VB	_	6	xcomp	_	_
+9	.	_	.	.	_	6	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Jimmy	_	NNP	NNP	_	3	compound	_	_
+3	Durante	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	have	_	VBP	VBP	_	4	aux	_	_
+3	never	_	RB	RB	_	4	neg	_	_
+4	hated	_	VBN	VBN	_	0	root	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	man	_	NN	NN	_	4	dobj	_	_
+7	enough	_	RB	RB	_	4	advmod	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	give	_	VB	VB	_	7	ccomp	_	_
+10	his	_	PRP$	PRP$	_	11	nmod:poss	_	_
+11	diamonds	_	NNS	NNS	_	9	dobj	_	_
+12	back	_	RP	RP	_	9	prt	_	_
+13	.	_	.	.	_	4	punct	_	_
+
+1	-	_	NFP	NFP	_	4	punct	_	_
+2	Zsa	_	NNP	NNP	_	4	compound	_	_
+3	Zsa	_	NNP	NNP	_	4	compound	_	_
+4	Gabor	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	Only	_	RB	RB	_	3	advmod	_	_
+2	Irish	_	JJ	JJ	_	3	amod	_	_
+3	coffee	_	NN	NN	_	4	nsubj	_	_
+4	provides	_	VBZ	VBZ	_	0	root	_	_
+5	in	_	IN	IN	_	8	case	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	single	_	JJ	JJ	_	8	amod	_	_
+8	glass	_	NN	NN	_	4	nmod	_	_
+9	all	_	DT	DT	_	13	det	_	_
+10	four	_	CD	CD	_	13	nummod	_	_
+11	essential	_	JJ	JJ	_	13	amod	_	_
+12	food	_	NN	NN	_	13	compound	_	_
+13	groups	_	NNS	NNS	_	4	dobj	_	_
+14	:	_	:	:	_	13	punct	_	_
+15	alcohol	_	NN	NN	_	13	appos	_	_
+16	,	_	,	,	_	15	punct	_	_
+17	caffeine	_	NN	NN	_	15	conj	_	_
+18	,	_	,	,	_	15	punct	_	_
+19	sugar	_	NN	NN	_	15	conj	_	_
+20	and	_	CC	CC	_	15	cc	_	_
+21	fat	_	NN	NN	_	15	conj	_	_
+22	.	_	.	.	_	4	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Alex	_	NNP	NNP	_	3	compound	_	_
+3	Levine	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	Money	_	NN	NN	_	4	nsubj	_	_
+2	ca	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	buy	_	VB	VB	_	0	root	_	_
+5	you	_	PRP	PRP	_	4	iobj	_	_
+6	happiness	_	NN	NN	_	4	dobj	_	_
+7	...	_	,	,	_	4	punct	_	_
+8	but	_	CC	CC	_	4	cc	_	_
+9	it	_	PRP	PRP	_	11	nsubj	_	_
+10	does	_	VBZ	VBZ	_	11	aux	_	_
+11	bring	_	VB	VB	_	4	conj	_	_
+12	you	_	PRP	PRP	_	11	iobj	_	_
+13	a	_	DT	DT	_	16	det	_	_
+14	more	_	RBR	RBR	_	15	advmod	_	_
+15	pleasant	_	JJ	JJ	_	16	amod	_	_
+16	form	_	NN	NN	_	11	dobj	_	_
+17	of	_	IN	IN	_	18	case	_	_
+18	misery	_	NN	NN	_	16	nmod	_	_
+19	.	_	.	.	_	4	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Spike	_	NNP	NNP	_	3	compound	_	_
+3	Milligan	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	Until	_	IN	IN	_	4	mark	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	thirteen	_	CD	CD	_	7	advcl	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	thought	_	VBD	VBD	_	0	root	_	_
+8	my	_	PRP$	PRP$	_	9	nmod:poss	_	_
+9	name	_	NN	NN	_	10	nsubj	_	_
+10	was	_	VBD	VBD	_	7	ccomp	_	_
+11	shut	_	VB	VB	_	10	ccomp	_	_
+12	up	_	RP	RP	_	11	prt	_	_
+13	.	_	.	.	_	7	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Joe	_	NNP	NNP	_	3	compound	_	_
+3	Namath	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	Youth	_	NN	NN	_	6	nsubj	_	_
+2	would	_	MD	MD	_	6	aux	_	_
+3	be	_	VB	VB	_	6	cop	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	ideal	_	JJ	JJ	_	6	amod	_	_
+6	state	_	NN	NN	_	0	root	_	_
+7	if	_	IN	IN	_	9	mark	_	_
+8	it	_	PRP	PRP	_	9	nsubj	_	_
+9	came	_	VBD	VBD	_	6	advcl	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	little	_	JJ	JJ	_	12	nmod:npmod	_	_
+12	later	_	RBR	RBR	_	9	advmod	_	_
+13	in	_	IN	IN	_	14	case	_	_
+14	life	_	NN	NN	_	12	nmod	_	_
+15	.	_	.	.	_	6	punct	_	_
+
+1	-	_	NFP	NFP	_	4	punct	_	_
+2	Herbert	_	NNP	NNP	_	4	compound	_	_
+3	Henry	_	NNP	NNP	_	4	compound	_	_
+4	Asquith	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	feel	_	VB	VB	_	0	root	_	_
+5	old	_	JJ	JJ	_	4	acomp	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	feel	_	VB	VB	_	0	root	_	_
+5	anything	_	NN	NN	_	4	dobj	_	_
+6	until	_	IN	IN	_	7	case	_	_
+7	noon	_	NN	NN	_	4	nmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Then	_	RB	RB	_	4	advmod	_	_
+2	it	_	PRP	PRP	_	4	nsubj	_	_
+3	's	_	VBZ	VBZ	_	4	cop	_	_
+4	time	_	NN	NN	_	0	root	_	_
+5	for	_	IN	IN	_	7	case	_	_
+6	my	_	PRP$	PRP$	_	7	nmod:poss	_	_
+7	nap	_	NN	NN	_	4	nmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Bob	_	NNP	NNP	_	3	compound	_	_
+3	Hope	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	Do	_	VB	VB	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	worry	_	VB	VB	_	0	root	_	_
+4	about	_	IN	IN	_	5	mark	_	_
+5	avoiding	_	VBG	VBG	_	3	nfincl	_	_
+6	temptation	_	NN	NN	_	5	dobj	_	_
+7	...	_	,	,	_	3	punct	_	_
+8	as	_	IN	IN	_	10	mark	_	_
+9	you	_	PRP	PRP	_	10	nsubj	_	_
+10	grow	_	VBP	VBP	_	15	advcl	_	_
+11	older	_	JJR	JJR	_	10	acomp	_	_
+12	,	_	,	,	_	15	punct	_	_
+13	it	_	PRP	PRP	_	15	nsubj	_	_
+14	will	_	MD	MD	_	15	aux	_	_
+15	avoid	_	VB	VB	_	3	parataxis	_	_
+16	you	_	PRP	PRP	_	15	dobj	_	_
+17	.	_	.	.	_	3	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Winston	_	NNP	NNP	_	3	compound	_	_
+3	Churchill	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	Maybe	_	RB	RB	_	4	advmod	_	_
+2	it	_	PRP	PRP	_	4	nsubj	_	_
+3	's	_	VBZ	VBZ	_	4	cop	_	_
+4	true	_	JJ	JJ	_	0	root	_	_
+5	that	_	IN	IN	_	7	mark	_	_
+6	life	_	NN	NN	_	7	nsubj	_	_
+7	begins	_	VBZ	VBZ	_	4	ccomp	_	_
+8	at	_	IN	IN	_	9	case	_	_
+9	fifty	_	CD	CD	_	7	nmod	_	_
+10	...	_	,	,	_	4	punct	_	_
+11	but	_	CC	CC	_	4	cc	_	_
+12	everything	_	NN	NN	_	14	nsubj	_	_
+13	else	_	JJ	JJ	_	12	amod	_	_
+14	starts	_	VBZ	VBZ	_	4	conj	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	wear	_	VB	VB	_	14	xcomp	_	_
+17	out	_	RP	RP	_	16	prt	_	_
+18	,	_	,	,	_	16	punct	_	_
+19	fall	_	VB	VB	_	16	conj	_	_
+20	out	_	RP	RP	_	19	prt	_	_
+21	,	_	,	,	_	16	punct	_	_
+22	or	_	CC	CC	_	16	cc	_	_
+23	spread	_	VB	VB	_	16	conj	_	_
+24	out	_	RP	RP	_	23	prt	_	_
+25	.	_	.	.	_	4	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Phyllis	_	NNP	NNP	_	3	compound	_	_
+3	Diller	_	NNP	NNP	_	0	root	_	_
+
+1	------	_	NFP	NFP	_	0	root	_	_
+
+1	By	_	IN	IN	_	3	case	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	time	_	NN	NN	_	17	nmod	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	man	_	NN	NN	_	7	nsubj	_	_
+6	is	_	VBZ	VBZ	_	7	cop	_	_
+7	wise	_	JJ	JJ	_	3	relcl	_	_
+8	enough	_	RB	RB	_	7	advmod	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	watch	_	VB	VB	_	8	ccomp	_	_
+11	his	_	PRP$	PRP$	_	12	nmod:poss	_	_
+12	step	_	NN	NN	_	10	dobj	_	_
+13	,	_	,	,	_	17	punct	_	_
+14	he	_	PRP	PRP	_	17	nsubj	_	_
+15	's	_	VBZ	VBZ	_	17	cop	_	_
+16	too	_	RB	RB	_	17	advmod	_	_
+17	old	_	JJ	JJ	_	0	root	_	_
+18	to	_	TO	TO	_	19	aux	_	_
+19	go	_	VB	VB	_	17	nfincl	_	_
+20	anywhere	_	RB	RB	_	19	advmod	_	_
+21	.	_	.	.	_	17	punct	_	_
+
+1	-	_	NFP	NFP	_	3	punct	_	_
+2	Billy	_	NNP	NNP	_	3	compound	_	_
+3	Crystal	_	NNP	NNP	_	0	root	_	_
+
+1	__________________________________________________	_	NFP	NFP	_	0	root	_	_
+
+1	Do	_	VBP	VBP	_	3	aux	_	_
+2	You	_	PRP	PRP	_	3	nsubj	_	_
+3	Yahoo!	_	VB	VB	_	0	root	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	Tired	_	JJ	JJ	_	0	root	_	_
+2	of	_	IN	IN	_	3	case	_	_
+3	spam	_	NN	NN	_	1	nmod	_	_
+4	?	_	.	.	_	1	punct	_	_
+
+1	Yahoo!	_	NNP	NNP	_	2	compound	_	_
+2	Mail	_	NNP	NNP	_	3	nsubj	_	_
+3	has	_	VBZ	VBZ	_	0	root	_	_
+4	the	_	DT	DT	_	7	det	_	_
+5	best	_	JJS	JJS	_	7	amod	_	_
+6	spam	_	NN	NN	_	7	compound	_	_
+7	protection	_	NN	NN	_	3	dobj	_	_
+8	around	_	RB	RB	_	7	advmod	_	_
+
+1	image_jpg_part	_	NN	NN	_	0	root	_	_
+
+1	52	_	CD	CD	_	2	compound	_	_
+2	K	_	CD	CD	_	3	nummod	_	_
+3	Download	_	NN	NN	_	0	root	_	_
+

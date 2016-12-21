@@ -1,0 +1,32 @@
+1	What	_	WDT	WDT	_	2	det	_	_
+2	foods	_	NNS	NNS	_	5	dobj	_	_
+3	do	_	VBP	VBP	_	5	aux	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	eat	_	VB	VB	_	0	root	_	_
+6	in	_	IN	IN	_	7	case	_	_
+7	Miramar	_	NNP	NNP	_	5	nmod	_	_
+8	?	_	.	.	_	5	punct	_	_
+
+1	Argentinian	_	JJ	JJ	_	2	amod	_	_
+2	foods	_	NNS	NNS	_	0	root	_	_
+3	of	_	RB	RB	_	2	discourse	_	_
+4	course	_	RB	RB	_	3	mwe	_	_
+5	,	_	,	,	_	2	punct	_	_
+6	LMAO	_	UH	UH	_	2	discourse	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	lol	_	UH	UH	_	0	root	_	_
+2	!	_	.	.	_	1	punct	_	_
+
+1	seafood	_	NN	NN	_	0	root	_	_
+
+1	you	_	PRP	PRP	_	2	nsubj	_	_
+2	mean	_	VBP	VBP	_	0	root	_	_
+3	miramar	_	NNP	NNP	_	2	dobj	_	_
+4	florida	_	NNP	NNP	_	3	appos	_	_
+5	theyy	_	PRP	PRP	_	6	nsubj	_	_
+6	have	_	VBP	VBP	_	2	parataxis	_	_
+7	good	_	JJ	JJ	_	8	amod	_	_
+8	seafood	_	NN	NN	_	6	dobj	_	_
+9	there	_	RB	RB	_	6	advmod	_	_
+

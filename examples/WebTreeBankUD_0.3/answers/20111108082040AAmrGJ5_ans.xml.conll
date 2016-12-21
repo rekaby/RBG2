@@ -1,0 +1,39 @@
+1	Any	_	DT	DT	_	2	det	_	_
+2	information	_	NN	NN	_	0	root	_	_
+3	about	_	IN	IN	_	6	case	_	_
+4	CRAZY	_	NNP	NNP	_	5	compound	_	_
+5	HORSE	_	NNP	NNP	_	6	compound	_	_
+6	SCULPTURE	_	NN	NN	_	2	nmod	_	_
+7	?	_	.	.	_	2	punct	_	_
+
+1	any	_	DT	DT	_	0	root	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	assume	_	VBP	VBP	_	0	root	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	mean	_	VBP	VBP	_	2	ccomp	_	_
+5	the	_	DT	DT	_	8	det	_	_
+6	crazy	_	NNP	NNP	_	7	compound	_	_
+7	horse	_	NNP	NNP	_	8	compound	_	_
+8	memorial	_	NN	NN	_	4	dobj	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	they	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	their	_	PRP$	PRP$	_	5	nmod:poss	_	_
+4	own	_	JJ	JJ	_	5	amod	_	_
+5	website	_	NN	NN	_	2	dobj	_	_
+6	which	_	WDT	WDT	_	10	dobj	_	_
+7	you	_	PRP	PRP	_	10	nsubj	_	_
+8	can	_	MD	MD	_	10	aux	_	_
+9	easily	_	RB	RB	_	10	advmod	_	_
+10	find	_	VB	VB	_	5	relcl	_	_
+11	using	_	VBG	VBG	_	10	xcomp	_	_
+12	any	_	DT	DT	_	14	det	_	_
+13	search	_	NN	NN	_	14	compound	_	_
+14	engine	_	NN	NN	_	11	dobj	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	http://www.google.com/search?aq=0&oq=crazy+horse+mem&gcx=w&sourceid=chrome&ie=UTF-8&q=crazy+horse+memorial	_	ADD	ADD	_	0	root	_	_
+

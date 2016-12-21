@@ -1,0 +1,58 @@
+1	Hello	_	UH	UH	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	started	_	VBN	VBN	_	0	root	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	new	_	JJ	JJ	_	6	amod	_	_
+6	forum	_	NN	NN	_	3	dobj	_	_
+7	for	_	IN	IN	_	12	case	_	_
+8	an	_	DT	DT	_	12	det	_	_
+9	interactive	_	JJ	JJ	_	12	amod	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	absorbing	_	JJ	JJ	_	9	conj	_	_
+12	discussion	_	NN	NN	_	6	nmod	_	_
+13	on	_	IN	IN	_	14	case	_	_
+14	Astrology	_	NN	NN	_	12	nmod	_	_
+15	&	_	CC	CC	_	14	cc	_	_
+16	Palmistry	_	NN	NN	_	14	conj	_	_
+17	and	_	CC	CC	_	14	cc	_	_
+18	everything	_	NN	NN	_	14	conj	_	_
+19	in	_	IN	IN	_	20	case	_	_
+20	between	_	RB	RB	_	18	nmod	_	_
+21	including	_	VBG	VBG	_	22	case	_	_
+22	Gemology	_	NN	NN	_	18	nmod	_	_
+23	,	_	,	,	_	22	punct	_	_
+24	Feng	_	NN	NN	_	25	compound	_	_
+25	Shui	_	NN	NN	_	22	conj	_	_
+26	/	_	,	,	_	22	cc	_	_
+27	Vaastu	_	NN	NN	_	28	compound	_	_
+28	Shastra	_	NN	NN	_	22	conj	_	_
+29	.	_	.	.	_	3	punct	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	look	_	VBP	VBP	_	0	root	_	_
+3	forward	_	RB	RB	_	2	advmod	_	_
+4	to	_	IN	IN	_	7	case	_	_
+5	your	_	PRP$	PRP$	_	7	nmod:poss	_	_
+6	active	_	JJ	JJ	_	7	amod	_	_
+7	participation	_	NN	NN	_	2	nmod	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	make	_	VB	VB	_	7	nfincl	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	forum	_	NN	NN	_	9	dobj	_	_
+12	an	_	DT	DT	_	15	det	_	_
+13	exciting	_	JJ	JJ	_	15	amod	_	_
+14	meeting	_	NN	NN	_	15	compound	_	_
+15	place	_	NN	NN	_	9	xcomp	_	_
+16	for	_	IN	IN	_	19	case	_	_
+17	like	_	JJ	JJ	_	18	amod	_	_
+18	minded	_	JJ	JJ	_	19	amod	_	_
+19	individuals	_	NNS	NNS	_	15	nmod	_	_
+20	.	_	.	.	_	2	punct	_	_
+
+1	Regards	_	NNS	NNS	_	0	root	_	_
+
+1	Swetha	_	NNP	NNP	_	0	root	_	_
+

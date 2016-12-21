@@ -1,0 +1,78 @@
+1	Make	_	VB	VB	_	0	root	_	_
+2	You	_	PRP	PRP	_	1	dobj	_	_
+3	Feel	_	VB	VB	_	1	ccomp	_	_
+4	Like	_	IN	IN	_	6	case	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	Number	_	NN	NN	_	3	nmod	_	_
+
+1	Stay	_	VB	VB	_	0	root	_	_
+2	away	_	RB	RB	_	1	advmod	_	_
+3	from	_	IN	IN	_	4	case	_	_
+4	Kids	_	NNPS	NNPS	_	2	nmod	_	_
+5	First	_	RB	RB	_	4	advmod	_	_
+6	West	_	NNP	NNP	_	7	compound	_	_
+7	Chester	_	NNP	NNP	_	4	appos	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	NEVER	_	RB	RB	_	3	neg	_	_
+3	get	_	VB	VB	_	0	root	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	human	_	NN	NN	_	3	dobj	_	_
+6	on	_	IN	IN	_	8	case	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	phone	_	NN	NN	_	3	nmod	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	3	expl	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	impossible	_	JJ	JJ	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	get	_	VB	VB	_	3	csubj	_	_
+6	an	_	DT	DT	_	7	det	_	_
+7	appointment	_	NN	NN	_	5	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	If	_	IN	IN	_	4	mark	_	_
+2	you	_	PRP	PRP	_	4	nsubjpass	_	_
+3	get	_	VBP	VBP	_	4	auxpass	_	_
+4	caught	_	VBN	VBN	_	14	advcl	_	_
+5	in	_	IN	IN	_	6	case	_	_
+6	traffic	_	NN	NN	_	4	nmod	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	are	_	VBP	VBP	_	12	cop	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	couple	_	NN	NN	_	11	compound	_	_
+11	minutes	_	NNS	NNS	_	12	nmod:npmod	_	_
+12	late	_	JJ	JJ	_	4	conj	_	_
+13	they	_	PRP	PRP	_	14	nsubj	_	_
+14	make	_	VBP	VBP	_	0	root	_	_
+15	you	_	PRP	PRP	_	14	dobj	_	_
+16	re-schedule	_	VB	VB	_	14	xcomp	_	_
+17	...	_	,	,	_	16	punct	_	_
+18	for	_	IN	IN	_	20	case	_	_
+19	6	_	CD	CD	_	20	nummod	_	_
+20	weeks	_	NNS	NNS	_	16	nmod	_	_
+21	later	_	RBR	RBR	_	20	advmod	_	_
+22	.	_	.	.	_	14	punct	_	_
+
+1	And	_	CC	CC	_	7	cc	_	_
+2	worst	_	RBS	RBS	_	7	advmod	_	_
+3	of	_	IN	IN	_	4	case	_	_
+4	all	_	DT	DT	_	2	nmod	_	_
+5	your	_	PRP$	PRP$	_	6	nmod:poss	_	_
+6	child	_	NN	NN	_	7	nsubj	_	_
+7	feels	_	VBZ	VBZ	_	0	root	_	_
+8	like	_	IN	IN	_	10	case	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	number	_	NN	NN	_	7	nmod	_	_
+11	not	_	RB	RB	_	13	neg	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	patient	_	NN	NN	_	10	remnant	_	_
+14	.	_	.	.	_	7	punct	_	_
+
+1	Go	_	VB	VB	_	0	root	_	_
+2	somewhere	_	RB	RB	_	1	advmod	_	_
+3	else	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	1	punct	_	_
+

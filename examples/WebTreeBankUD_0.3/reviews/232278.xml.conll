@@ -1,0 +1,18 @@
+1	You	_	PRP	PRP	_	9	nsubj	_	_
+2	are	_	VBP	VBP	_	9	cop	_	_
+3	the	_	DT	DT	_	9	det	_	_
+4	only	_	JJ	JJ	_	9	amod	_	_
+5	one	_	CD	CD	_	9	nummod	_	_
+6	auto	_	NN	NN	_	7	compound	_	_
+7	glass	_	NN	NN	_	8	compound	_	_
+8	repair	_	NN	NN	_	9	compound	_	_
+9	shop	_	NN	NN	_	0	root	_	_
+10	in	_	IN	IN	_	12	case	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	area	_	NN	NN	_	9	nmod	_	_
+13	I	_	PRP	PRP	_	15	nsubj	_	_
+14	would	_	MD	MD	_	15	aux	_	_
+15	count	_	VB	VB	_	9	relcl	_	_
+16	on	_	IN	IN	_	15	nmod	_	_
+17	.	_	.	.	_	9	punct	_	_
+

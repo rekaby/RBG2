@@ -1,0 +1,87 @@
+1	Furnace	_	NN	NN	_	2	compound	_	_
+2	repair	_	NN	NN	_	0	root	_	_
+
+1	Tiger	_	NNP	NNP	_	2	compound	_	_
+2	Heating	_	NNP	NNP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	awesome	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	John	_	NNP	NNP	_	2	dobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	Dustin	_	NNP	NNP	_	3	conj	_	_
+6	working	_	VBG	VBG	_	3	nfincl	_	_
+7	feverishly	_	RB	RB	_	6	advmod	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	get	_	VB	VB	_	6	nfincl	_	_
+10	my	_	PRP$	PRP$	_	12	nmod:poss	_	_
+11	exhaust	_	NN	NN	_	12	compound	_	_
+12	motor	_	NN	NN	_	9	dobj	_	_
+13	replaced	_	VBN	VBN	_	9	xcomp	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	These	_	DT	DT	_	2	det	_	_
+2	guys	_	NNS	NNS	_	5	nsubj	_	_
+3	were	_	VBD	VBD	_	5	cop	_	_
+4	absolutely	_	RB	RB	_	5	advmod	_	_
+5	professional	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	John	_	NNP	NNP	_	6	nsubj	_	_
+2	was	_	VBD	VBD	_	6	cop	_	_
+3	here	_	RB	RB	_	2	advmod	_	_
+4	in	_	IN	IN	_	6	case	_	_
+5	45	_	CD	CD	_	6	nummod	_	_
+6	minutes	_	NNS	NNS	_	0	root	_	_
+7	after	_	IN	IN	_	9	mark	_	_
+8	I	_	PRP	PRP	_	9	nsubj	_	_
+9	called	_	VBD	VBD	_	6	advcl	_	_
+10	on	_	IN	IN	_	17	case	_	_
+11	a	_	DT	DT	_	17	det	_	_
+12	10	_	CD	CD	_	17	amod	_	_
+13	below	_	IN	IN	_	14	case	_	_
+14	zero	_	CD	CD	_	12	nmod	_	_
+15	early	_	JJ	JJ	_	17	amod	_	_
+16	Sunday	_	NNP	NNP	_	17	compound	_	_
+17	morning	_	NN	NN	_	9	nmod	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	need	_	VBP	VBP	_	17	advcl	_	_
+4	someone	_	NN	NN	_	3	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	help	_	VB	VB	_	4	nfincl	_	_
+7	you	_	PRP	PRP	_	6	dobj	_	_
+8	out	_	RP	RP	_	6	prt	_	_
+9	with	_	IN	IN	_	12	case	_	_
+10	your	_	PRP$	PRP$	_	12	nmod:poss	_	_
+11	heating	_	NN	NN	_	12	compound	_	_
+12	problems	_	NNS	NNS	_	6	nmod	_	_
+13	,	_	,	,	_	17	punct	_	_
+14	I	_	PRP	PRP	_	17	nsubj	_	_
+15	DEFINITELY	_	RB	RB	_	17	advmod	_	_
+16	would	_	MD	MD	_	17	aux	_	_
+17	call	_	VB	VB	_	0	root	_	_
+18	TIGER	_	NNP	NNP	_	19	compound	_	_
+19	HEATING	_	NNP	NNP	_	17	dobj	_	_
+20	and	_	CC	CC	_	19	cc	_	_
+21	AIR	_	NNP	NNP	_	19	conj	_	_
+22	.	_	.	.	_	17	punct	_	_
+
+1	Absolutely	_	RB	RB	_	4	advmod	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	wonderful	_	JJ	JJ	_	4	amod	_	_
+4	company	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	family	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	thank	_	VBP	VBP	_	0	root	_	_
+6	you	_	PRP	PRP	_	5	dobj	_	_
+7	!!!!!!!!!!	_	.	.	_	5	punct	_	_
+

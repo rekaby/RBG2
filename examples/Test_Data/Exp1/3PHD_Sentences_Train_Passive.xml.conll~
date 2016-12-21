@@ -1,0 +1,18 @@
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Businesswoman	Businesswoman	NNP	NNP	_	3	OBJ	_	_
+3	feeded	feed	VBN	VBN	_	0	ROOT	_	_
+4	by	by	IN	IN	_	3	LGS	_	_
+5	beekeepers	beekeeper	NNS	NNS	_	3	SBJ	_	_
+6	.	.	.	.	_	3	P	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Businesswoman	Businesswoman	NNP	NNP	_	3	SBJ	_	_
+3	feeded	feed	VBN	VBN	_	0	ROOT	_	_
+4	beekeepers	beekeeper	NNS	NNS	_	3	OBJ	_	_
+5	.	.	.	.	_	3	P	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Man	Man	NNP	NNP	_	3	OBJ	_	_
+3	hurts	hurt	VBN	VBN	_	0	ROOT	_	_
+4	himself	beekeeper	NNS	NNS	_	3	SUB	_	_
+5	.	.	.	.	_	3	P	_	_

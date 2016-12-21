@@ -1,0 +1,69 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	Surgeon	_	NN	NN	_	0	root	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	needed	_	VBD	VBD	_	0	root	_	_
+3	wisdom	_	NN	NN	_	4	compound	_	_
+4	teeth	_	NN	NN	_	5	nsubj	_	_
+5	taken	_	VBN	VBN	_	2	ccomp	_	_
+6	out	_	RB	RB	_	5	advmod	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Dr.	_	NNP	NNP	_	2	compound	_	_
+2	Wallen	_	NNP	NNP	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	staff	_	NN	NN	_	2	conj	_	_
+5	was	_	VBD	VBD	_	6	cop	_	_
+6	excellent	_	JJ	JJ	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	were	_	VBD	VBD	_	3	cop	_	_
+3	accomdating	_	JJ	JJ	_	0	root	_	_
+4	with	_	IN	IN	_	6	case	_	_
+5	my	_	PRP$	PRP$	_	6	nmod:poss	_	_
+6	scheduled	_	NN	NN	_	3	nmod	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	work	_	VBP	VBP	_	3	conj	_	_
+9	with	_	IN	IN	_	11	case	_	_
+10	my	_	PRP$	PRP$	_	11	nmod:poss	_	_
+11	insurance	_	NN	NN	_	8	nmod	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	get	_	VB	VB	_	8	nfincl	_	_
+14	payment	_	NN	NN	_	13	dobj	_	_
+15	for	_	IN	IN	_	17	case	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	surgery	_	NN	NN	_	14	nmod	_	_
+18	.	_	.	.	_	3	punct	_	_
+
+1	Dr.	_	NNP	NNP	_	2	compound	_	_
+2	Wallen	_	NNP	NNP	_	3	nsubj	_	_
+3	explained	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	procedure	_	NN	NN	_	3	dobj	_	_
+6	in	_	IN	IN	_	7	case	_	_
+7	detail	_	NN	NN	_	3	nmod	_	_
+8	and	_	CC	CC	_	3	cc	_	_
+9	took	_	VBD	VBD	_	3	conj	_	_
+10	his	_	PRP$	PRP$	_	11	nmod:poss	_	_
+11	time	_	NN	NN	_	9	dobj	_	_
+12	with	_	IN	IN	_	13	case	_	_
+13	me	_	PRP	PRP	_	9	nmod	_	_
+14	.	_	.	.	_	3	punct	_	_
+
+1	Staff	_	NN	NN	_	2	nsubj	_	_
+2	explained	_	VBD	VBD	_	0	root	_	_
+3	insurance	_	NN	NN	_	4	compound	_	_
+4	procedures	_	NNS	NNS	_	2	dobj	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	was	_	VBD	VBD	_	8	cop	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	helpful	_	JJ	JJ	_	2	conj	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	Everyone	_	NN	NN	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	nice	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+

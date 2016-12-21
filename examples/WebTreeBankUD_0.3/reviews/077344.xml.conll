@@ -1,0 +1,8 @@
+1	No	_	DT	DT	_	2	det	_	_
+2	service	_	NN	NN	_	0	root	_	_
+3	..	_	,	,	_	2	punct	_	_
+4	But	_	CC	CC	_	2	cc	_	_
+5	good	_	JJ	JJ	_	6	amod	_	_
+6	food	_	NN	NN	_	2	conj	_	_
+7	..	_	.	.	_	2	punct	_	_
+

@@ -1,0 +1,34 @@
+1	Good	_	JJ	JJ	_	4	amod	_	_
+2	local	_	JJ	JJ	_	4	amod	_	_
+3	bike	_	NN	NN	_	4	compound	_	_
+4	shop	_	NN	NN	_	0	root	_	_
+
+1	Good	_	JJ	JJ	_	4	amod	_	_
+2	local	_	JJ	JJ	_	4	amod	_	_
+3	bike	_	NN	NN	_	4	compound	_	_
+4	shop	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Jason	_	NNP	NNP	_	6	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	boys	_	NNS	NNS	_	1	conj	_	_
+5	can	_	MD	MD	_	6	aux	_	_
+6	do	_	VB	VB	_	0	root	_	_
+7	about	_	RB	RB	_	8	advmod	_	_
+8	anything	_	NN	NN	_	6	dobj	_	_
+9	you	_	PRP	PRP	_	10	nsubj	_	_
+10	need	_	VBP	VBP	_	8	relcl	_	_
+11	.	_	.	.	_	6	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	shop	_	NN	NN	_	4	nsubjpass	_	_
+3	is	_	VBZ	VBZ	_	4	auxpass	_	_
+4	located	_	VBN	VBN	_	0	root	_	_
+5	just	EXTRA!	RB	RB	_	9	advmod	_	_
+6	off	_	IN	IN	_	9	case	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	river	_	NNP	NNP	_	9	compound	_	_
+9	road	_	NNP	NNP	_	4	nmod	_	_
+10	.	_	.	.	_	4	punct	_	_
+

@@ -1,0 +1,17 @@
+1	Do	_	VB	VB	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	bother	_	VB	VB	_	0	root	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	impossible	_	JJ	JJ	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	understand	_	VB	VB	_	3	ccomp	_	_
+6	how	_	WRB	WRB	_	10	advmod	_	_
+7	this	_	DT	DT	_	8	det	_	_
+8	place	_	NN	NN	_	10	nsubj	_	_
+9	has	_	VBZ	VBZ	_	10	aux	_	_
+10	survived	_	VBN	VBN	_	5	ccomp	_	_
+11	.	_	.	.	_	3	punct	_	_
+

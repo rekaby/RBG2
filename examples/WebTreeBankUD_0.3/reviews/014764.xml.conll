@@ -1,0 +1,30 @@
+1	Daniel	_	NNP	NNP	_	6	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	his	_	PRP$	PRP$	_	4	nmod:poss	_	_
+4	assistant	_	NN	NN	_	1	conj	_	_
+5	both	_	DT	DT	_	1	advmod	_	_
+6	did	_	VBD	VBD	_	0	root	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	great	_	JJ	JJ	_	9	amod	_	_
+9	job	_	NN	NN	_	6	dobj	_	_
+10	.	_	.	.	_	6	punct	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	professional	_	JJ	JJ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	results	_	NNS	NNS	_	2	conj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Many	_	JJ	JJ	_	2	amod	_	_
+2	thanks	_	NNS	NNS	_	0	root	_	_
+3	from	_	IN	IN	_	4	case	_	_
+4	myself	_	PRP	PRP	_	2	nmod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	all	_	DT	DT	_	4	conj	_	_
+7	of	_	IN	IN	_	10	case	_	_
+8	our	_	PRP$	PRP$	_	10	nmod:poss	_	_
+9	wedding	_	NN	NN	_	10	compound	_	_
+10	guests	_	NNS	NNS	_	6	nmod	_	_
+11	!	_	.	.	_	2	punct	_	_
+

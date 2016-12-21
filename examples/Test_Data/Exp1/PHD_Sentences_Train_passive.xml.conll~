@@ -1,0 +1,7 @@
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	Businesswomen	businesswomen	NNP	NNP	_	3	OBJ	_	_
+3	is	be	VBZ	VBZ	_	0	ROOT	_	_
+4	feeded	feed	VBN	VBN	_	3	VC	_	_
+5	by	by	IN	IN	_	4	LGS	_	_
+6	beekeepers	beekeeper	NNS	NNS	_	5	SBJ	_	_
+7	.	.	.	.	_	3	P	_	_

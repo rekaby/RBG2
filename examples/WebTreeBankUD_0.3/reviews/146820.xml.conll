@@ -1,0 +1,24 @@
+1	Amazing	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	had	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	best	_	JJS	JJS	_	6	amod	_	_
+6	experience	_	NN	NN	_	3	dobj	_	_
+7	at	_	IN	IN	_	11	case	_	_
+8	this	_	DT	DT	_	11	det	_	_
+9	Kal	_	NNP	NNP	_	10	compound	_	_
+10	Tire	_	NNP	NNP	_	11	compound	_	_
+11	location	_	NN	NN	_	3	nmod	_	_
+12	.	_	.	.	_	3	punct	_	_
+
+1	Courteous	_	JJ	JJ	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	fast	_	JJ	JJ	_	1	conj	_	_
+4	and	_	CC	CC	_	1	cc	_	_
+5	friendly	_	JJ	JJ	_	1	conj	_	_
+6	.	_	.	.	_	1	punct	_	_
+

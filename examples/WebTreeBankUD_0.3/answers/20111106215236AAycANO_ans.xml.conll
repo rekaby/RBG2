@@ -1,0 +1,355 @@
+1	What	_	WP	WP	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	good	_	JJ	JJ	_	4	amod	_	_
+4	places	_	NNS	NNS	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	eat	_	VB	VB	_	4	nfincl	_	_
+7	brunch	_	NN	NN	_	6	dobj	_	_
+8	at	_	IN	IN	_	6	nmod	_	_
+9	?	_	.	.	_	4	punct	_	_
+10	?	_	.	.	_	4	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	nmod:poss	_	_
+2	bday	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	Saturday	_	NNP	NNP	_	0	root	_	_
+5	:-RRB-	_	NFP	NFP	_	4	discourse	_	_
+6	and	_	CC	CC	_	4	cc	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	wan	_	VBP	VBP	_	4	conj	_	_
+9	na	_	TO	TO	_	10	aux	_	_
+10	have	_	VBP	VBP	_	8	xcomp	_	_
+11	breakfast	_	NN	NN	_	10	dobj	_	_
+12	/	_	,	,	_	11	cc	_	_
+13	lunch	_	NN	NN	_	11	conj	_	_
+14	with	_	IN	IN	_	16	case	_	_
+15	my	_	PRP$	PRP$	_	16	nmod:poss	_	_
+16	fam	_	NN	NN	_	10	nmod	_	_
+17	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	aux	_	_
+3	gon	_	VBG	VBG	_	0	root	_	_
+4	na	_	TO	TO	_	5	aux	_	_
+5	have	_	VBP	VBP	_	3	xcomp	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	dinner	_	NN	NN	_	8	compound	_	_
+8	party	_	NN	NN	_	5	dobj	_	_
+9	that	_	WDT	WDT	_	10	det	_	_
+10	night	_	NN	NN	_	5	tmod	_	_
+11	but	_	CC	CC	_	3	cc	_	_
+12	my	_	PRP$	PRP$	_	13	nmod:poss	_	_
+13	cousin	_	NN	NN	_	16	nsubj	_	_
+14	is	_	VBZ	VBZ	_	16	aux	_	_
+15	having	_	VBG	VBG	_	16	dep	_	_
+16	Having	_	VBG	VBG	_	3	conj	_	_
+17	her	_	PRP$	PRP$	_	19	nmod:poss	_	_
+18	bridal	_	JJ	JJ	_	19	amod	_	_
+19	shower	_	NN	NN	_	16	dobj	_	_
+20	so	_	RB	RB	_	22	advmod	_	_
+21	brunch	_	NN	NN	_	22	nsubj	_	_
+22	is	_	VBZ	VBZ	_	3	conj	_	_
+23	it	_	PRP	PRP	_	22	expl	_	_
+24	but	_	CC	CC	_	3	cc	_	_
+25	the	_	DT	DT	_	27	det	_	_
+26	only	_	JJ	JJ	_	27	amod	_	_
+27	places	_	NNS	NNS	_	31	nsubj	_	_
+28	I	_	PRP	PRP	_	29	nsubj	_	_
+29	know	_	VBP	VBP	_	27	relcl	_	_
+30	are	_	VBP	VBP	_	31	cop	_	_
+31	denny	_	NNP	NNP	_	3	conj	_	_
+32	's	_	POS	POS	_	31	case	_	_
+33	and	_	CC	CC	_	31	cc	_	_
+34	ihop	_	NNP	NNP	_	31	conj	_	_
+35	.	_	.	.	_	3	punct	_	_
+
+1	Oh	_	UH	UH	_	5	discourse	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	btw	_	RB	RB	_	1	conj	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	live	_	VBP	VBP	_	0	root	_	_
+6	in	_	IN	IN	_	8	case	_	_
+7	los	_	NNP	NNP	_	8	compound	_	_
+8	angeles	_	NNP	NNP	_	5	nmod	_	_
+9	look	_	VB	VB	_	5	parataxis	_	_
+10	for	_	IN	IN	_	11	case	_	_
+11	places	_	NNS	NNS	_	9	nmod	_	_
+12	in	_	IN	IN	_	16	case	_	_
+13	like	EXTRA!	UH	UH	_	16	discourse	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	lb	_	NNP	NNP	_	16	compound	_	_
+16	area	_	NN	NN	_	11	nmod	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	torrance	_	NNP	NNP	_	16	conj	_	_
+19	etc	_	FW	FW	_	16	advmod	_	_
+20	thanx	_	UH	UH	_	5	discourse	_	_
+21	^_^	_	NFP	NFP	_	5	discourse	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	strongly	_	RB	RB	_	4	advmod	_	_
+4	suggest	_	VB	VB	_	0	root	_	_
+5	"	_	``	``	_	8	punct	_	_
+6	The	_	DT	DT	_	8	det	_	_
+7	Breakfast	_	NNP	NNP	_	8	compound	_	_
+8	Club	_	NNP	NNP	_	4	dobj	_	_
+9	"	_	''	''	_	8	punct	_	_
+10	in	_	IN	IN	_	11	case	_	_
+11	Chicago	_	NNP	NNP	_	8	nmod	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	can	_	MD	MD	_	4	aux	_	_
+3	definately	_	RB	RB	_	4	advmod	_	_
+4	plan	_	VB	VB	_	0	root	_	_
+5	on	_	IN	IN	_	8	case	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	meal	_	NN	NN	_	4	nmod	_	_
+9	with	_	IN	IN	_	11	case	_	_
+10	reasonable	_	JJ	JJ	_	11	amod	_	_
+11	prices	_	NNS	NNS	_	8	nmod	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	Do	_	VBP	VBP	_	6	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	be	_	VB	VB	_	6	cop	_	_
+4	in	_	IN	IN	_	6	case	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	hurry	_	NN	NN	_	0	root	_	_
+7	though	_	RB	RB	_	6	advmod	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	relax	_	VB	VB	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	enjoy	_	VB	VB	_	2	conj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	fabulous	_	JJ	JJ	_	5	amod	_	_
+4	French	_	JJ	JJ	_	5	amod	_	_
+5	toast	_	NN	NN	_	2	dobj	_	_
+6	too	_	RB	RB	_	2	advmod	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	Breakfast	_	NNP	NNP	_	3	compound	_	_
+3	Club	_	NNP	NNP	_	8	nsubjpass	_	_
+4	&	_	CC	CC	_	3	cc	_	_
+5	Grill	_	NNP	NNP	_	3	conj	_	_
+6	is	_	VBZ	VBZ	_	8	auxpass	_	_
+7	conveniently	_	RB	RB	_	8	advmod	_	_
+8	located	_	VBN	VBN	_	0	root	_	_
+9	just	_	RB	RB	_	11	advmod	_	_
+10	two	_	CD	CD	_	11	nummod	_	_
+11	blocks	_	NNS	NNS	_	15	nmod:npmod	_	_
+12	off	_	IN	IN	_	15	case	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	Kennedy	_	NNP	NNP	_	15	compound	_	_
+15	Expressway	_	NNP	NNP	_	8	nmod	_	_
+16	.	_	.	.	_	8	punct	_	_
+
+1	There	_	EX	EX	_	9	expl	_	_
+2	is	_	VBZ	VBZ	_	9	cop	_	_
+3	always	_	RB	RB	_	2	advmod	_	_
+4	plenty	_	NN	NN	_	9	nsubj	_	_
+5	of	_	IN	IN	_	6	case	_	_
+6	parking	_	NN	NN	_	4	nmod	_	_
+7	on	_	IN	IN	_	9	case	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	street	_	NN	NN	_	0	root	_	_
+10	or	_	CC	CC	_	9	cc	_	_
+11	in	_	IN	IN	_	14	case	_	_
+12	our	_	PRP$	PRP$	_	14	nmod:poss	_	_
+13	private	_	JJ	JJ	_	14	amod	_	_
+14	lot	_	NN	NN	_	7	conj	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	If	_	IN	IN	_	5	mark	_	_
+2	you	_	PRP	PRP	_	5	nsubj	_	_
+3	'd	_	MD	MD	_	5	aux	_	_
+4	rather	_	RB	RB	_	5	advmod	_	_
+5	dine	_	VB	VB	_	10	advcl	_	_
+6	at	_	IN	IN	_	7	case	_	_
+7	home	_	NN	NN	_	5	nmod	_	_
+8	,	_	,	,	_	10	punct	_	_
+9	simply	_	RB	RB	_	10	advmod	_	_
+10	call	_	VB	VB	_	0	root	_	_
+11	in	_	RP	RP	_	10	prt	_	_
+12	your	_	PRP$	PRP$	_	13	nmod:poss	_	_
+13	order	_	NN	NN	_	10	dobj	_	_
+14	with	_	IN	IN	_	19	case	_	_
+15	our	_	PRP$	PRP$	_	19	nmod:poss	_	_
+16	take	_	NN	NN	_	18	compound	_	_
+17	-	_	HYPH	HYPH	_	18	punct	_	_
+18	out	_	NN	NN	_	19	compound	_	_
+19	service	_	NN	NN	_	10	nmod	_	_
+20	.	_	.	.	_	10	punct	_	_
+
+1	Plenty	_	NN	NN	_	0	root	_	_
+2	of	_	IN	IN	_	3	case	_	_
+3	parking	_	NN	NN	_	1	nmod	_	_
+4	on	_	IN	IN	_	6	case	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	weekends	_	NNS	NNS	_	1	nmod	_	_
+7	..	_	,	,	_	1	punct	_	_
+8	during	_	IN	IN	_	10	case	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	week	_	NN	NN	_	12	nmod	_	_
+11	please	_	UH	UH	_	12	discourse	_	_
+12	park	_	VB	VB	_	1	parataxis	_	_
+13	in	_	IN	IN	_	16	case	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	little	_	JJ	JJ	_	16	amod	_	_
+16	lot	_	NN	NN	_	12	nmod	_	_
+17	across	_	IN	IN	_	19	case	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	street	_	NN	NN	_	16	nmod	_	_
+20	.	_	.	.	_	1	punct	_	_
+
+1	Directions	_	NNS	NNS	_	0	root	_	_
+2	from	_	IN	IN	_	4	case	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	Kennedy	_	NNP	NNP	_	1	nmod	_	_
+5	:	_	:	:	_	1	punct	_	_
+6	Take	_	VB	VB	_	1	appos	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	Ogden	_	NNP	NNP	_	9	compound	_	_
+9	Exit	_	NN	NN	_	6	dobj	_	_
+10	off	_	IN	IN	_	12	case	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	Kennedy	_	NNP	NNP	_	6	nmod	_	_
+13	.	_	.	.	_	1	punct	_	_
+
+1	Go	_	VB	VB	_	0	root	_	_
+2	three	_	CD	CD	_	3	nummod	_	_
+3	lights	_	NNS	NNS	_	4	nmod:npmod	_	_
+4	down	_	RB	RB	_	1	advmod	_	_
+5	and	_	CC	CC	_	1	cc	_	_
+6	take	_	VB	VB	_	1	conj	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	right	_	NN	NN	_	6	dobj	_	_
+9	onto	_	IN	IN	_	10	case	_	_
+10	Ogden	_	NNP	NNP	_	6	nmod	_	_
+11	.	_	.	.	_	1	punct	_	_
+
+1	Continue	_	VB	VB	_	0	root	_	_
+2	two	_	CD	CD	_	3	nummod	_	_
+3	blocks	_	NNS	NNS	_	1	dobj	_	_
+4	to	_	IN	IN	_	5	case	_	_
+5	Hubbard	_	NNP	NNP	_	1	nmod	_	_
+6	and	_	CC	CC	_	1	cc	_	_
+7	take	_	VB	VB	_	1	conj	_	_
+8	another	_	DT	DT	_	9	det	_	_
+9	right	_	NN	NN	_	7	dobj	_	_
+10	.	_	.	.	_	1	punct	_	_
+
+1	We	_	PRP	PRP	_	5	nsubj	_	_
+2	're	_	VBP	VBP	_	5	cop	_	_
+3	at	_	IN	IN	_	5	case	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	corner	_	NN	NN	_	0	root	_	_
+6	of	_	IN	IN	_	7	case	_	_
+7	Hubbard	_	NNP	NNP	_	5	nmod	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	Noble	_	NNP	NNP	_	7	conj	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	Breakfast	_	NNP	NNP	_	3	compound	_	_
+3	Club	_	NNP	NNP	_	0	root	_	_
+4	&	_	CC	CC	_	3	cc	_	_
+5	Grill	_	NNP	NNP	_	3	conj	_	_
+
+1	1381	_	CD	CD	_	3	nummod	_	_
+2	W.	_	NNP	NNP	_	3	compound	_	_
+3	Hubbard	_	NNP	NNP	_	0	root	_	_
+
+1	Chicago	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	IL	_	NNP	NNP	_	1	appos	_	_
+4	60622	_	CD	CD	_	1	appos	_	_
+
+1	312-666-2372	_	CD	CD	_	0	root	_	_
+2	Tel	_	NN	NN	_	1	appos	_	_
+
+1	Email	_	VB	VB	_	0	root	_	_
+2	Us	_	PRP	PRP	_	1	dobj	_	_
+
+1	Hours	_	NNS	NNS	_	0	root	_	_
+2	of	_	IN	IN	_	3	case	_	_
+3	Operation	_	NN	NN	_	1	nmod	_	_
+4	:	_	:	:	_	1	punct	_	_
+
+1	Monday	_	NNP	NNP	_	0	root	_	_
+2	thru	_	IN	IN	_	3	case	_	_
+3	Friday	_	NNP	NNP	_	1	nmod	_	_
+
+1	6:30	_	CD	CD	_	5	nummod	_	_
+2	am	_	NN	NN	_	5	cop	_	_
+3	-	_	SYM	SYM	_	5	case	_	_
+4	8:00	_	CD	CD	_	5	nummod	_	_
+5	pm	_	NN	NN	_	0	root	_	_
+
+1	Saturday	_	NNP	NNP	_	0	root	_	_
+2	&	_	CC	CC	_	1	cc	_	_
+3	Sunday	_	NNP	NNP	_	1	conj	_	_
+
+1	7:00	_	CD	CD	_	5	nummod	_	_
+2	am	_	NN	NN	_	5	cop	_	_
+3	-	_	SYM	SYM	_	5	case	_	_
+4	5:00	_	CD	CD	_	5	nummod	_	_
+5	pm	_	NN	NN	_	0	root	_	_
+
+1	Happy	_	JJ	JJ	_	2	amod	_	_
+2	Hour	_	NN	NN	_	0	root	_	_
+
+1	Monday	_	NNP	NNP	_	0	root	_	_
+2	thru	_	IN	IN	_	3	case	_	_
+3	Friday	_	NNP	NNP	_	1	nmod	_	_
+
+1	4:00	_	CD	CD	_	2	nummod	_	_
+2	pm	_	NN	NN	_	0	root	_	_
+3	-	_	SYM	SYM	_	5	case	_	_
+4	6:00	_	CD	CD	_	5	nummod	_	_
+5	pm	_	NN	NN	_	2	nmod	_	_
+
+1	$	_	$	$	_	3	compound	_	_
+2	4	_	CD	CD	_	1	nummod	_	_
+3	appetizers	_	NNS	NNS	_	0	root	_	_
+
+1	$	_	$	$	_	3	compound	_	_
+2	4	_	CD	CD	_	1	nummod	_	_
+3	wine	_	NN	NN	_	0	root	_	_
+
+1	$	_	$	$	_	3	compound	_	_
+2	3	_	CD	CD	_	1	nummod	_	_
+3	Coronas	_	NNPS	NNPS	_	0	root	_	_
+4	&	_	CC	CC	_	3	cc	_	_
+5	Heineken	_	NNP	NNP	_	3	conj	_	_
+
+1	Unless	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	plan	_	VBP	VBP	_	13	advcl	_	_
+4	on	_	IN	IN	_	6	mark	_	_
+5	being	_	VBG	VBG	_	6	cop	_	_
+6	late	_	JJ	JJ	_	3	nfincl	_	_
+7	for	_	IN	IN	_	10	case	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	bridal	_	JJ	JJ	_	10	amod	_	_
+10	shower	_	NN	NN	_	6	nmod	_	_
+11	you	_	PRP	PRP	_	13	nsubj	_	_
+12	might	_	MD	MD	_	13	aux	_	_
+13	want	_	VB	VB	_	0	root	_	_
+14	to	_	TO	TO	_	15	aux	_	_
+15	post	_	VB	VB	_	13	xcomp	_	_
+16	this	_	DT	DT	_	15	dobj	_	_
+17	again	_	RB	RB	_	15	advmod	_	_
+18	in	_	IN	IN	_	21	case	_	_
+19	the	_	DT	DT	_	21	det	_	_
+20	L.A.	_	NNP	NNP	_	21	compound	_	_
+21	section	_	NN	NN	_	15	nmod	_	_
+22	.	_	.	.	_	13	punct	_	_
+

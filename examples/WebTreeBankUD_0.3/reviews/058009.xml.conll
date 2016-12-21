@@ -1,0 +1,9 @@
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	taste	_	VBP	VBP	_	0	root	_	_
+3	better	_	JJR	JJR	_	2	xcomp	_	_
+4	than	_	IN	IN	_	5	case	_	_
+5	In	_	NNP	NNP	_	3	nmod	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	Out	_	NNP	NNP	_	5	conj	_	_
+8	....	_	.	.	_	2	punct	_	_
+

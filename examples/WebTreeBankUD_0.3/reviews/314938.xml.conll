@@ -1,0 +1,9 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	best	_	JJS	JJS	_	3	amod	_	_
+3	pilates	_	NN	NN	_	0	root	_	_
+4	on	_	IN	IN	_	7	case	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	Gold	_	NNP	NNP	_	7	compound	_	_
+7	Coast	_	NNP	NNP	_	3	nmod	_	_
+8	!	_	.	.	_	3	punct	_	_
+

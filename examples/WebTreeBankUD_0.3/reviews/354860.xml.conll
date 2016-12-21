@@ -1,0 +1,49 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	best	_	JJS	JJS	_	3	amod	_	_
+3	company	_	NN	NN	_	0	root	_	_
+4	in	_	IN	IN	_	5	case	_	_
+5	Phuket	_	NNP	NNP	_	3	nmod	_	_
+6	for	_	IN	IN	_	7	mark	_	_
+7	creating	_	VBG	VBG	_	3	nfincl	_	_
+8	website	_	NN	NN	_	7	dobj	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	e-commerce	_	NN	NN	_	11	compound	_	_
+11	website	_	NN	NN	_	8	conj	_	_
+12	.	_	.	.	_	3	punct	_	_
+
+1	From	_	IN	IN	_	3	case	_	_
+2	first	_	JJ	JJ	_	3	amod	_	_
+3	meeting	_	NN	NN	_	14	nmod	_	_
+4	with	_	IN	IN	_	5	case	_	_
+5	them	_	PRP	PRP	_	3	nmod	_	_
+6	to	_	IN	IN	_	7	case	_	_
+7	launch	_	NN	NN	_	14	nmod	_	_
+8	of	_	IN	IN	_	10	case	_	_
+9	my	_	PRP$	PRP$	_	10	nmod:poss	_	_
+10	website	_	NN	NN	_	7	nmod	_	_
+11	,	_	,	,	_	13	punct	_	_
+12	everything	_	NN	NN	_	13	nsubj	_	_
+13	went	_	VBD	VBD	_	0	root	_	_
+14	smooth	_	RB	RB	_	13	advmod	_	_
+15	and	_	CC	CC	_	14	cc	_	_
+16	on	_	IN	IN	_	17	case	_	_
+17	schedule	_	NN	NN	_	14	conj	_	_
+18	.	_	.	.	_	13	punct	_	_
+
+1	Highly	_	RB	RB	_	2	advmod	_	_
+2	recommended	_	JJ	JJ	_	0	root	_	_
+3	for	_	IN	IN	_	5	mark	_	_
+4	who	_	WP	WP	_	5	nsubj	_	_
+5	wants	_	VBZ	VBZ	_	2	nfincl	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	have	_	VB	VB	_	5	xcomp	_	_
+8	website	_	NN	NN	_	7	dobj	_	_
+9	.	_	.	.	_	1	punct	_	_
+
+1	Great	_	JJ	JJ	_	0	root	_	_
+2	with	_	IN	IN	_	3	case	_	_
+3	SEO	_	NNP	NNP	_	1	nmod	_	_
+4	as	_	RB	RB	_	1	advmod	_	_
+5	well	_	RB	RB	_	4	mwe	_	_
+6	.	_	.	.	_	1	punct	_	_
+

@@ -1,0 +1,14 @@
+1	Hobbs	_	NNP	NNP	_	0	root	_	_
+2	on	_	IN	IN	_	3	case	_	_
+3	Mass	_	NNP	NNP	_	1	nmod	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Absolutely	_	RB	RB	_	4	advmod	_	_
+2	my	_	PRP$	PRP$	_	4	nmod:poss	_	_
+3	favorite	_	JJ	JJ	_	4	amod	_	_
+4	store	_	NN	NN	_	0	root	_	_
+5	in	_	IN	IN	_	6	case	_	_
+6	Lawrence	_	NNP	NNP	_	4	nmod	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	KS	_	NNP	NNP	_	6	appos	_	_
+

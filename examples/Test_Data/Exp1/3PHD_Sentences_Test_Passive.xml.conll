@@ -1,0 +1,5 @@
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	boy	boy	NNP	NNP	_	3	OBJ	_	_
+3	kicked	kick	VBN	VBN	_	0	ROOT	_	_
+4	Mother	mother	NNS	NNS	_	3	SBJ	_	_
+5	.	.	.	.	_	3	P	_	_

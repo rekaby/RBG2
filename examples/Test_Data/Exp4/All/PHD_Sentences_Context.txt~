@@ -1,0 +1,1824 @@
+Princess	Agent	washes
+pirate	Theme	washes
+
+Princess	Agent	paints
+fencer	Theme	paints
+
+pirate	Agent	washes
+Princess	Theme	washes
+
+fencer	Agent	paints
+Princess	Theme	paints
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+
+nurse	Agent	dries
+priest	Theme	dries
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+
+priest	Agent	dries
+nurse	Theme	dries
+
+journalist	Agent	ties
+sailor	Theme	ties
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+
+sailor	Agent	ties
+journalist	Theme	ties
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+
+worker	Agent	attacked
+cellist	Theme	attacked
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+
+cellist	Agent	attacked
+worker	Theme	attacked
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+
+devil	Agent	gifted
+clown	Theme	gifted
+
+devil	Agent	sketched
+cook	Theme	sketched
+
+clown	Agent	gifted
+devil	Theme	gifted
+
+cook	Agent	sketched
+devil	Theme	sketched
+
+lady	Agent	shoots
+waiter	Theme	shoots
+
+lady	Agent	slaps
+Knight	Theme	slaps
+
+waiter	Agent	shoots
+lady	Theme	shoots
+
+Knight	Agent	slaps
+lady	Theme	slaps
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+
+skater	Agent	nudges
+magician	Theme	nudges
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+
+magician	Agent	nudges
+skater	Theme	nudges
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+
+player	Agent	punches
+prisoner	Theme	punches
+
+player	Agent	meshes
+flutist	Theme	meshes
+
+prisoner	Agent	punches
+player	Theme	punches
+
+flutist	Agent	meshes
+player	Theme	meshes
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+
+guards	Agent	inoculated
+nun	Theme	inoculated
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+
+grandmother	Agent	films
+saxophonist	Theme	films
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+
+saxophonist	Agent	films
+grandmother	Theme	films
+
+fairy	Agent	brushed
+gangsters	Theme	brushed
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+
+gangsters	Agent	brushed
+fairy	Theme	brushed
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+
+bride	Agent	spanks
+scouts	Theme	spanks
+
+bride	Agent	scalded
+postman	Theme	scalded
+
+scouts	Agent	spanks
+bride	Theme	spanks
+
+postman	Agent	scalded
+bride	Theme	scalded
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+
+stewardess	Agent	charges
+traveler	Theme	charges
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+
+traveler	Agent	charges
+stewardess	Theme	charges
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+
+witch	Agent	steals
+sweeper	Theme	steals
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+
+sweeper	Agent	steals
+witch	Theme	steals
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+
+officers	Agent	crowned
+Japanese	Theme	crowned
+
+user	Agent	costumed
+referee	Theme	costumed
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+
+referee	Agent	costumed
+user	Theme	costumed
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+
+beauty	Agent	masked
+skier	Theme	masked
+
+beauty	Agent	rewards
+prince	Theme	rewards
+
+skier	Agent	masked
+beauty	Theme	masked
+
+prince	Agent	rewards
+beauty	Theme	rewards
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+
+trainer	Agent	shows
+craftsman	Theme	shows
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+
+craftsman	Agent	shows
+trainer	Theme	shows
+
+Princess	Agent	washes
+pirate	Theme	washes
+Princess	Owner	with long hair
+with a brush	Instrument	washes
+
+Princess	Agent	washes
+pirate	Theme	washes
+Princess	Owner	with long hair
+pirate	Owner	a woody leg
+
+Princess	Agent	washes
+pirate	Theme	washes
+Princess	Owner	with long hair
+with a brush	Instrument	washes
+pirate	Owner	a woody leg
+
+Princess	Agent	paints
+fencer	Theme	paints
+Princess	Owner	with blue dress
+with color pallet	Instrument	paints
+
+Princess	Agent	paints
+fencer	Theme	paints
+Princess	Owner	with blue dress
+fencer	Owner	with white suite
+
+Princess	Agent	paints
+fencer	Theme	paints
+Princess	Owner	with blue dress
+with color pallet	Instrument	paints
+fencer	Owner	with white suite
+
+pirate	Agent	washes
+Princess	Theme	washes
+pirate	Owner	with a woody leg
+with a brush	Instrument	washes
+
+pirate	Agent	washes
+Princess	Theme	washes
+pirate	Owner	with a woody leg
+princess	Owner	with long hair
+
+pirate	Agent	washes
+Princess	Theme	washes
+pirate	Owner	with a woody leg
+with a brush	Instrument	washes
+princess	Owner	with long hair
+
+fencer	Agent	paints
+Princess	Theme	paints
+fencer	Owner	with white suite
+with color pallet	Instrument	paints
+
+fencer	Agent	paints
+Princess	Theme	paints
+fencer	Owner	with white suite
+Princess	Owner	with long hair
+
+fencer	Agent	paints
+Princess	Theme	paints
+fencer	Owner	with white suite
+Princess	Owner	with long hair
+with color pallet	Instrument	paints
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+Amazone	Owner	with red dress
+with a knife	Instrument	stabbed
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+Amazone	Owner	with red dress
+mechanics	Owner	a hat
+
+Amazone	Agent	stabbed
+mechanics	Theme	stabbed
+Amazone	Owner	with red dress
+mechanics	Owner	a hat
+with a knife	Instrument	stabbed
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+Amazone	Owner	with long hair
+with a red spray	Instrument	sprayed
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+Amazone	Owner	with long hair
+player	Owner	with a ball
+
+Amazone	Agent	sprayed
+player	Theme	sprayed
+Amazone	Owner	with long hair
+player	Owner	with a ball
+with a red spray	Instrument	sprayed
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+mechanics	Owner	with a hat
+with a knife	Instrument	stabbed
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+mechanics	Owner	with a hat
+Amazone	Owner	a red dress
+
+mechanics	Agent	stabbed
+Amazone	Theme	stabbed
+mechanics	Owner	with a hat
+Amazone	Owner	a red dress
+with a knife	Instrument	stabbed
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+player	Owner	with white t-shirt
+with a red spray	Instrument	sprayed
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+player	Owner	with white t-shirt
+Amazone	Owner	with long hair
+
+player	Agent	sprayed
+Amazone	Theme	sprayed
+player	Owner	with white t-shirt
+Amazone	Owner	with long hair
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+nurse	Owner	with Uniform
+by hands	Instrument	pushes
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+nurse	Owner	with Uniform
+athlete	Owner	with sporty suite
+
+nurse	Agent	pushes
+athlete	Theme	pushes
+nurse	Owner	with Uniform
+by hands	Instrument	pushes
+athlete	Owner	with sporty suite
+
+nurse	Agent	dries
+priest	Theme	dries
+nurse	Owner	with Cross hat
+with a dryer	Instrument	dries
+
+nurse	Agent	dries
+priest	Theme	dries
+nurse	Owner	with Cross hat
+priest	Owner	in black
+
+nurse	Agent	dries
+priest	Theme	dries
+nurse	Owner	with Cross hat
+with a dryer	Instrument	dries
+priest	Owner	in black
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+athlete	Owner	with red t-shirt
+by hands	Instrument	pushes
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+athlete	Owner	with red t-shirt
+nurse	Owner	in white
+
+athlete	Agent	pushes
+nurse	Theme	pushes
+athlete	Owner	with red t-shirt
+by hands	Instrument	pushes
+nurse	Owner	in white
+
+priest	Agent	dries
+nurse	Theme	dries
+priest	Owner	with cross
+with a dryer	Instrument	dries
+
+priest	Agent	dries
+nurse	Theme	dries
+priest	Owner	with cross
+nurse	Owner	uniform
+
+priest	Agent	dries
+nurse	Theme	dries
+priest	Owner	with cross
+with a dryer	Instrument	dries
+nurse	Owner	uniform
+
+journalist	Agent	ties
+sailor	Theme	ties
+journalist	Owner	with a camera
+with handcuffs	Instrument	ties
+
+journalist	Agent	ties
+sailor	Theme	ties
+journalist	Owner	with a camera
+sailor	Owner	with white dress
+
+journalist	Agent	ties
+sailor	Theme	ties
+journalist	Owner	with a camera
+with handcuffs	Instrument	ties
+sailor	Owner	with white dress
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+journalist	Owner	with a microphone
+with a spoon	Instrument	feeds
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+journalist	Owner	with a microphone
+doctor	Owner	with a coat
+
+journalist	Agent	feeds
+doctor	Theme	feeds
+journalist	Owner	with a microphone
+with a spoon	Instrument	feeds
+doctor	Owner	with a coat
+
+sailor	Agent	ties
+journalist	Theme	ties
+sailor	Owner	with white hat
+with handcuffs	Instrument	ties
+
+sailor	Agent	ties
+journalist	Theme	ties
+sailor	Owner	with white hat
+journalist	Owner	with a camera
+
+sailor	Agent	ties
+journalist	Theme	ties
+sailor	Owner	with white hat
+with handcuffs	Instrument	ties
+journalist	Owner	with a camera
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+doctor	Owner	with a coat
+with a portion	Instrument	feeds
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+doctor	Owner	with a coat
+ournalist	Owner	with a microphone
+
+doctor	Agent	feeds
+journalist	Theme	feeds
+doctor	Owner	with a coat
+with a portion	Instrument	feeds
+ournalist	Owner	with a microphone
+
+worker	Agent	attacked
+cellist	Theme	attacked
+worker	Owner	with blue pants
+with a bottle	instrument	attacked
+
+worker	Agent	attacked
+cellist	Theme	attacked
+worker	Owner	with blue pants
+cellist	Owner	with a guitar
+
+worker	Agent	attacked
+cellist	Theme	attacked
+worker	Owner	with blue pants
+with a bottle	instrument	attacked
+cellist	Owner	with a guitar
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+worker	Owner	with blue pants
+with a microphone	Instrument	interviewed
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+worker	Owner	with blue pants
+golfer	Owner	with a rocket
+
+worker	Agent	interviewed
+golfer	Theme	interviewed
+worker	Owner	with blue pants
+with a microphone	Instrument	interviewed
+golfer	Owner	with a rocket
+
+cellist	Agent	attacked
+worker	Theme	attacked
+cellist	Owner	with a guitar
+with a bottle	Instrument	attacked
+
+cellist	Agent	attacked
+worker	Theme	attacked
+cellist	Owner	with a guitar
+worker	Owner	with blue pants
+
+cellist	Agent	attacked
+worker	Theme	attacked
+cellist	Owner	with a guitar
+with a bottle	Instrument	attacked
+worker	Owner	with blue pants
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+golfer	Owner	with a rocket
+with a microphone	Instrument	interviewed
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+golfer	Owner	with a rocket
+worker	Owner	with blue pants
+
+golfer	Agent	interviewed
+worker	Theme	interviewed
+golfer	Owner	with a rocket
+with a microphone	Instrument	interviewed
+worker	Owner	with blue pants
+
+devil	Agent	gifted
+clown	Theme	gifted
+devil	Owner	in red
+with a present	Instrument	gifted
+
+devil	Agent	gifted
+clown	Theme	gifted
+devil	Owner	in red
+clown	Owner	with big shoes
+
+devil	Agent	gifted
+clown	Theme	gifted
+devil	Owner	in red
+with a present	Instrument	gifted
+clown	Owner	with big shoes
+
+devil	Agent	sketched
+cooker	Theme	sketched
+devil	Owner	in red
+with a pen	Instrument	sketched
+
+devil	Agent	sketched
+cooker	Theme	sketched
+devil	Owner	in red
+cooker	Owner	with white hat
+
+devil	Agent	sketched
+cooker	Theme	sketched
+devil	Owner	in red
+with a pen	Instrument	sketched
+cooker	Owner	with white hat
+
+clown	Agent	gifted
+devil	Theme	gifted
+clown	Owner	with big shoes
+with green box	Instrument	gifted
+
+clown	Agent	gifted
+devil	Theme	gifted
+clown	Owner	with big shoes
+devil	Owner	in red
+
+clown	Agent	gifted
+devil	Theme	gifted
+clown	Owner	with big shoes
+with green box	Instrument	gifted
+devil	Owner	in red
+
+cooker	Agent	sketched
+devil	Theme	sketched
+cooker	Owner	with white hat 
+with pen	Instrument	sketched
+
+cooker	Agent	sketched
+devil	Theme	sketched
+cooker	Owner	with white hat 
+devil	Owner	in red
+
+cooker	Agent	sketched
+devil	Theme	sketched
+cooker	Owner	with white hat 
+with pen	Instrument	sketched
+devil	Owner	in red
+
+lady	Agent	shoots
+waiter	Theme	shoots
+lady	Owner	with blue uniform 
+with a ball	Instrument	shoots
+
+lady	Agent	shoots
+waiter	Theme	shoots
+lady	Owner	with blue uniform 
+waiter	Owner	with a towel
+
+lady	Agent	shoots
+waiter	Theme	shoots
+lady	Owner	with blue uniform 
+with a ball	Instrument	shoots
+waiter	Owner	with a towel
+
+lady	Agent	slaps
+Knight	Theme	slaps
+lady	Owner	with broom
+with a hand	Instrument	slaps
+
+lady	Agent	slaps
+Knight	Theme	slaps
+lady	Owner	with broom
+Knight	Owner	with a sword
+
+lady	Agent	slaps
+Knight	Theme	slaps
+lady	Owner	with broom
+with a hand	Instrument	slaps
+Knight	Owner	with a sword
+
+waiter	Agent	shoots
+lady	Theme	shoots
+waiter	Owner	with a towel
+with the ball	Instrument	shoots
+
+waiter	Agent	shoots
+lady	Theme	shoots
+waiter	Owner	with a towel
+lady	Owner	with blue uniform
+
+waiter	Agent	shoots
+lady	Theme	shoots
+waiter	Owner	with a towel
+with the ball	Instrument	shoots
+lady	Owner	with blue uniform
+
+Knight	Agent	slaps
+lady	Theme	slaps
+Knight	Owner	with a sword
+with a hand	Instrument	slaps
+
+Knight	Agent	slaps
+lady	Theme	slaps
+Knight	Owner	with a sword
+lady	Owner	with a broom
+
+Knight	Agent	slaps
+lady	Theme	slaps
+Knight	Owner	with a sword
+with a hand	Instrument	slaps
+lady	Owner	with a broom
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+skater	Owner	with short dress
+with a brush	Instrument	scrubs
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+skater	Owner	with short dress
+detective	Owner	with a lens
+
+skater	Agent	scrubs
+detective	Theme	scrubs
+skater	Owner	with short dress
+with a brush	Instrument	scrubs
+detective	Owner	with a lens
+
+skater	Agent	nudges
+magician	Theme	nudges
+skater	Owner	with short dress
+with finger	Instrument	nudges
+
+skater	Agent	nudges
+magician	Theme	nudges
+skater	Owner	with short dress
+magician	Owner	with stars signs
+
+skater	Agent	nudges
+magician	Theme	nudges
+skater	Owner	with short dress
+with finger	Instrument	nudges
+magician	Owner	with stars signs
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+detective	Owner	with a lens
+with a brush	Instrument	scrubs
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+detective	Owner	with a lens
+skater	Owner	with short dress
+
+detective	Agent	scrubs
+skater	Theme	scrubs
+detective	Owner	with a lens
+with a brush	Instrument	scrubs
+skater	Owner	with short dress
+
+magician	Agent	nudges
+skater	Theme	nudges
+magician	Owner	with stars signs
+with finger	Instrument	nudges
+
+magician	Agent	nudges
+skater	Theme	nudges
+magician	Owner	with stars signs
+skater	Owner	with short dress
+
+magician	Agent	nudges
+skater	Theme	nudges
+magician	Owner	with stars signs
+with finger	Instrument	nudges
+skater	Owner	with short dress
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+maid	Owner	in blue
+with a perfume	Instrument	perfumed
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+maid	Owner	in blue
+executioner	Owner	with a mask
+
+maid	Agent	perfumed
+executioner	Theme	perfumed
+maid	Owner	in blue
+with a perfume	Instrument	perfumed
+executioner	Owner	with a mask
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+maid	Owner	with a bag 
+with plaster	Instrument	bandaged
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+maid	Owner	with a bag 
+drummer	Owner	with a drum
+
+maid	Agent	bandaged
+drummer	Theme	bandaged
+maid	Owner	with a bag 
+with plaster	Instrument	bandaged
+drummer	Owner	with a drum
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+executioner	Owner	with a mask
+with a perfume	Instrument	perfumed
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+executioner	Owner	with a mask
+maid	Owner	in blue
+
+executioner	Agent	perfumed
+maid	Theme	perfumed
+executioner	Owner	with a mask
+with a perfume	Instrument	perfumed
+maid	Owner	in blue
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+drummer	Owner	with a drum
+with plaster	Instrument	bandaged
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+drummer	Owner	with a drum
+maid	Owner	in blue
+
+drummer	Agent	bandaged
+maid	Theme	bandaged
+drummer	Owner	with a drum
+with plaster	Instrument	bandaged
+maid	Owner	in blue
+
+player	Agent	punches
+prisoner	Theme	punches
+player	Owner	with gloves
+with a box	Instrument	punches
+
+player	Agent	punches
+prisoner	Theme	punches
+player	Owner	with gloves
+prisoner	Owner	with a beard
+
+player	Agent	punches
+prisoner	Theme	punches
+player	Owner	with gloves
+with a box	Instrument	punches
+prisoner	Owner	with a beard
+
+player	Agent	meshes
+flutist	Theme	meshes
+player	Owner	with yellow hair
+with a comb	Instrument	meshes
+
+player	Agent	meshes
+flutist	Theme	meshes
+player	Owner	with yellow hair
+flutist	Owner	with a blue tie
+
+player	Agent	meshes
+flutist	Theme	meshes
+player	Owner	with yellow hair
+with a comb	Instrument	meshes
+flutist	Owner	with a blue tie
+
+prisoner	Agent	punches
+player	Theme	punches
+prisoner	Owner	with a beard
+with a box	Instrument	punches
+
+prisoner	Agent	punches
+player	Theme	punches
+prisoner	Owner	with a beard
+player	Owner	with yellow hair
+
+prisoner	Agent	punches
+player	Theme	punches
+prisoner	Owner	with a beard
+with a box	Instrument	punches
+player	Owner	with yellow hair
+
+flutist	Agent	meshes
+player	Theme	meshes
+flutist	Owner	with a blue tie
+with a comb	Instrument	meshes
+
+flutist	Agent	meshes
+player	Theme	meshes
+flutist	Owner	with a blue tie
+player	Owner	with gloves
+
+flutist	Agent	meshes
+player	Theme	meshes
+flutist	Owner	with a blue tie
+with a comb	Instrument	meshes
+player	Owner	with gloves
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+Mermaid	Owner	with red hair
+with a crown	Instrument	crowns
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+Mermaid	Owner	with red hair
+student	Owner	with a bag
+
+Mermaid	Agent	crowns
+student	Theme	crowns
+Mermaid	Owner	with red hair
+with a crown	Instrument	crowns
+student	Owner	with a bag
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+Mermaid	Owner	with a fish tail
+with finger	Instrument	plucks
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+Mermaid	Owner	with a fish tail
+soldier	Owner	in military suite
+
+Mermaid	Agent	plucks
+soldier	Theme	plucks
+Mermaid	Owner	with a fish tail
+with finger	Instrument	plucks
+soldier	Owner	in military suite
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+student	Owner	with a bag
+with a crown	Instrument	crowns
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+student	Owner	with a bag
+Mermaid	Owner	with red hair
+
+student	Agent	crowns
+Mermaid	Theme	crowns
+student	Owner	with a bag
+with a crown	Instrument	crowns
+Mermaid	Owner	with red hair
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+soldier	Owner	in military suite
+with a finger	Instrument	plucks
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+soldier	Owner	in military suite
+Mermaid	Owner	with a crown
+
+soldier	Agent	plucks
+Mermaid	Theme	plucks
+soldier	Owner	in military suite
+with a finger	Instrument	plucks
+Mermaid	Owner	with a crown
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+nun	Owner	with a cross
+with an injector	Instrument	inoculated
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+nun	Owner	with a cross
+guards	Owner	with a flag
+
+nun	Agent	inoculated
+guards	Theme	inoculated
+nun	Owner	with a cross
+with an injector	Instrument	inoculated
+guards	Owner	with a flag
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+nun	Owner	with a cross 
+with a tool	Instrument	tweaks
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+nun	Owner	with a cross 
+clarinetist	Owner	with a flute
+
+nun	Agent	tweaks
+clarinetist	Theme	tweaks
+nun	Owner	with a cross 
+with a tool	Instrument	tweaks
+clarinetist	Owner	with a flute
+
+guard	Agent	inoculated
+nun	Theme	inoculated
+guard	Owner	with a flag
+with an injector	Instrument	inoculated
+
+guard	Agent	inoculated
+nun	Theme	inoculated
+guard	Owner	with a flag
+nun	Owner	in black
+
+guard	Agent	inoculated
+nun	Theme	inoculated
+guard	Owner	with a flag
+with an injector	Instrument	inoculated
+nun	Owner	in black
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+clarinetist	Owner	with a flute
+with a tool	Instrument	tweaks
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+clarinetist	Owner	with a flute
+nun	Owner	in black
+
+clarinetist	Agent	tweaks
+nun	Theme	tweaks
+clarinetist	Owner	with a flute
+with a tool	Instrument	tweaks
+nun	Owner	in black
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+Grandma	Owner	with a long jacket
+by hand	Instrument	scratches
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+Grandma	Owner	with a long jacket
+archer	Owner	with cowboy hat
+
+Grandma	Agent	scratches
+archer	Theme	scratches
+Grandma	Owner	with a long jacket
+by hand	Instrument	scratches
+archer	Owner	with cowboy hat
+
+grandmother	Agent	films
+saxophonist	Theme	films
+grandmother	Owner	with a long jacket
+with a camera	instrument	films
+
+grandmother	Agent	films
+saxophonist	Theme	films
+grandmother	Owner	with a long jacket
+saxophonist	Owner	with saxophone
+
+grandmother	Agent	films
+saxophonist	Theme	films
+grandmother	Owner	with a long jacket
+with a camera	instrument	films
+saxophonist	Owner	with saxophone
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+archer	Owner	with cowboy hat
+by hand	Instrument	scratches
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+archer	Owner	with cowboy hat
+Grandma	Owner	with a long jacket
+
+archer	Agent	scratches
+Grandma	Theme	scratches
+archer	Owner	with cowboy hat
+by hand	Instrument	scratches
+Grandma	Owner	with a long jacket
+
+saxophonist	Agent	films
+grandmother	Theme	films
+saxophonist	Owner	with saxophone
+with a camera	instrument	films
+
+saxophonist	Agent	films
+grandmother	Theme	films
+saxophonist	Owner	with saxophone
+grandmother	Owner	with a long jacket
+
+saxophonist	Agent	films
+grandmother	Theme	films
+saxophonist	Owner	with saxophone
+with a camera	instrument	films
+grandmother	Owner	with a long jacket
+
+fairy	Agent	brushed
+gangster	Theme	brushed
+fairy	Owner	with long cone
+with a brush	Instrument	brushed
+
+fairy	Agent	brushed
+gangster	Theme	brushed
+fairy	Owner	with long cone
+gangster	Owner	with a gun
+
+fairy	Agent	brushed
+gangster	Theme	brushed
+fairy	Owner	with long cone
+with a brush	Instrument	brushed
+gangster	Owner	with a gun
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+fairy	Owner	with long cone
+with a drink	Instrument	splashed
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+fairy	Owner	with long cone
+tourist	Owner	with a float
+
+fairy	Agent	splashed
+tourist	Theme	splashed
+fairy	Owner	with long cone
+with a drink	Instrument	splashed
+tourist	Owner	with a float
+
+gangster	Agent	brushed
+fairy	Theme	brushed
+gangster	Owner	with a gun
+with a brush	Instrument	brushed
+
+gangster	Agent	brushed
+fairy	Theme	brushed
+gangster	Owner	with a gun
+fairy	Owner	with long cone
+
+gangster	Agent	brushed
+fairy	Theme	brushed
+gangster	Owner	with a gun
+with a brush	Instrument	brushed
+fairy	Owner	with long cone
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+tourist	Owner	with a float
+with a drink	Instrument	splashed
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+tourist	Owner	with a float
+fairy	Owner	with long cone
+
+tourist	Agent	splashed
+fairy	Theme	splashed
+tourist	Owner	with a float
+with a drink	Instrument	splashed
+fairy	Owner	with long cone
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+jogger	Owner	with coach shoes
+with a magic stick	Instrument	bewitched
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+jogger	Owner	with coach shoes
+doctor	Owner	with a coat
+
+jogger	Agent	bewitched
+doctor	Theme	bewitched
+jogger	Owner	with coach shoes
+with a magic stick	Instrument	bewitched
+doctor	Owner	with a coat
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+jogger	Owner	with coach shoes
+with a towel	Instrument	rubbed
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+jogger	Owner	with coach shoes
+king	Owner	with a crown
+
+jogger	Agent	rubbed
+king	Theme	rubbed
+jogger	Owner	with coach shoes
+with a towel	Instrument	rubbed
+king	Owner	with a crown
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+doctor	Owner	with a coat
+with a magic stick	Instrument	bewitched
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+doctor	Owner	with a coat
+jogger	Owner	with coach shoes
+
+doctor	Agent	bewitched
+jogger	Theme	bewitched
+doctor	Owner	with a coat
+with a magic stick	Instrument	bewitched
+jogger	Owner	with coach shoes
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+king	Owner	with a crown
+with a towel	Instrument	rubbed
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+king	Owner	with a crown
+jogger	Owner	with coach shoes
+
+king	Agent	rubbed
+jogger	Theme	rubbed
+king	Owner	with a crown
+with a towel	Instrument	rubbed
+jogger	Owner	with coach shoes
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+cheerleader	Owner	with short skirt
+with a stick	Instrument	beaten
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+cheerleader	Owner	with short skirt
+pages	Owner	with a bag
+
+cheerleader	Agent	beaten
+pages	Theme	beaten
+cheerleader	Owner	with short skirt
+with a stick	Instrument	beaten
+pages	Owner	with a bag
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+cheerleader	Owner	with short skirt
+with a poison glass	Instrument	poisoned
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+cheerleader	Owner	with short skirt
+angler	Owner	with hooks
+
+cheerleader	Agent	poisoned
+angler	Theme	poisoned
+cheerleader	Owner	with short skirt
+with a poison glass	Instrument	poisoned
+angler	Owner	with hooks
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+pages	Owner	with a bag
+with a stick	Instrument	beaten
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+pages	Owner	with a bag
+cheerleader	Owner	with short skirt
+
+pages	Agent	beaten
+cheerleader	Theme	beaten
+pages	Owner	with a bag
+with a stick	Instrument	beaten
+cheerleader	Owner	with short skirt
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+angler	Owner	with hooks
+with a poison glass	Instrument	poisoned
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+angler	Owner	with hooks
+cheerleader	Owner	with short skirt
+
+angler	Agent	poisoned
+cheerleader	Theme	poisoned
+angler	Owner	with hooks
+with a poison glass	Instrument	poisoned
+cheerleader	Owner	with short skirt
+
+bride	Agent	spanked
+scouts	Theme	spanked
+bride	Owner	in white
+with stick	Instrument	spanked
+
+bride	Agent	spanked
+scouts	Theme	spanked
+bride	Owner	in white
+scouts	Owner	in green
+
+bride	Agent	spanked
+scouts	Theme	spanked
+bride	Owner	in white
+with stick	Instrument	spanked
+scouts	Owner	in green
+
+bride	Agent	scalded
+postman	Theme	scalded
+bride	Owner	in white
+with water	Instrument	scalded
+
+bride	Agent	scalded
+postman	Theme	scalded
+bride	Owner	in white
+postman	Owner	with a bag
+
+bride	Agent	scalded
+postman	Theme	scalded
+bride	Owner	in white
+with water	Instrument	scalded
+postman	Owner	with a bag
+
+scout	Agent	spanked
+bride	Theme	spanked
+scout	Owner	in green
+with a stick	Instrument	spanked
+
+scout	Agent	spanked
+bride	Theme	spanked
+scout	Owner	in green
+bride	Owner	in white
+
+scout	Agent	spanked
+bride	Theme	spanked
+scout	Owner	in green
+bride	Owner	in white
+with a stick	Instrument	spanked
+
+postman	Agent	scalded
+bride	Theme	scalded
+postman	Owner	with a bag
+with water	Instrument	scalded
+
+postman	Agent	scalded
+bride	Theme	scalded
+postman	Owner	with a bag
+bride	Owner	in white
+
+postman	Agent	scalded
+bride	Theme	scalded
+postman	Owner	with a bag
+bride	Owner	in white
+with water	Instrument	scalded
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+stewardess	Owner	with a blue dressing
+with a powder brush	Instrument	powders
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+stewardess	Owner	with a blue dressing
+Athlete	Owner	with red short
+
+stewardess	Agent	powders
+Athlete	Theme	powders
+stewardess	Owner	with a blue dressing
+with a powder brush	Instrument	powders
+Athlete	Owner	with red short
+
+stewardess	Agent	charges
+traveler	Theme	charges
+stewardess	Owner	with a blue dressing
+with money	Instrument	charges
+
+stewardess	Agent	charges
+traveler	Theme	charges
+stewardess	Owner	with a blue dressing
+traveler	Owner	with climbing tools
+
+stewardess	Agent	charges
+traveler	Theme	charges
+stewardess	Owner	with a blue dressing
+traveler	Owner	with climbing tools
+with money	Instrument	charges
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+Athlete	Owner	with red short
+with a powder brush	Instrument	powders
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+Athlete	Owner	with red short
+stewardess	Owner	with a blue dressing
+
+Athlete	Agent	powders
+stewardess	Theme	powders
+Athlete	Owner	with red short
+with a powder brush	Instrument	powders
+stewardess	Owner	with a blue dressing
+
+traveler	Agent	charges
+stewardess	Theme	charges
+traveler	Owner	with climbing tools
+with money	Instrument	charges
+
+traveler	Agent	charges
+stewardess	Theme	charges
+traveler	Owner	with climbing tools
+stewardess	Owner	with a blue dressing
+
+traveler	Agent	charges
+stewardess	Theme	charges
+traveler	Owner	with climbing tools
+with money	Instrument	charges
+stewardess	Owner	with a blue dressing
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+witch	Owner	with broom 
+with a light	Instrument	illuminates
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+witch	Owner	with broom 
+boy	Owner	with a newspaper
+
+witch	Agent	illuminates
+boy	Theme	illuminates
+witch	Owner	with broom 
+boy	Owner	with a newspaper
+with a light	Instrument	illuminates
+
+witch	Agent	steals
+sweeper	Theme	steals
+witch	Owner	with broom 
+with magic	Instrument	steals
+
+witch	Agent	steals
+sweeper	Theme	steals
+witch	Owner	with broom 
+sweeper	Owner	with gloves
+
+witch	Agent	steals
+sweeper	Theme	steals
+witch	Owner	with broom 
+with magic	Instrument	steals
+sweeper	Owner	with gloves
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+boy	Owner	with short 
+with a light	Instrument	illuminates
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+boy	Owner	with short 
+witch	Owner	with broom 
+
+boy	Agent	illuminates
+witch	Theme	illuminates
+boy	Owner	with short 
+with a light	Instrument	illuminates
+witch	Owner	with broom 
+
+sweeper	Agent	steals
+witch	Theme	steals
+sweeper	Owner	with gloves
+by hand	Instrument	steals
+
+sweeper	Agent	steals
+witch	Theme	steals
+sweeper	Owner	with gloves
+witch	Owner	with broom 
+
+sweeper	Agent	steals
+witch	Theme	steals
+sweeper	Owner	with gloves
+by hand	Instrument	steals
+witch	Owner	with broom 
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+Japanese	Owner	with kimono
+with cream	Instrument	cameraman
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+Japanese	Owner	with kimono
+cameraman	Owner	with yellow hair
+
+Japanese	Agent	smeared
+cameraman	Theme	smeared
+Japanese	Owner	with kimono
+cameraman	Owner	with yellow hair
+with cream	Instrument	smeared
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+Japanese	Owner	with kimono
+officer	Owner	with a gun
+
+Japanese	Agent	crowned
+officers	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+officer	Owner	with a gun
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+cameraman	Owner	with yellow hair
+with cream	Instrument	smeared
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+cameraman	Owner	with yellow hair
+Japanese	Owner	with kimono
+
+cameraman	Agent	smeared
+Japanese	Theme	smeared
+cameraman	Owner	with yellow hair
+Japanese	Owner	with kimono
+with cream	Instrument	smeared
+
+officer	Agent	crowned
+Japanese	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+
+officer	Agent	crowned
+Japanese	Theme	crowned
+Japanese	Owner	with kimono
+officer	Owner	with a gun
+
+
+officer	Agent	crowned
+Japanese	Theme	crowned
+Japanese	Owner	with kimono
+with flowers	Instrument	crowned
+officer	Owner	with a gun
+
+user	Agent	costumed
+referee	Theme	costumed
+user	Owner	with pullover
+with a cone	Instrument	costumed
+
+user	Agent	costumed
+referee	Theme	costumed
+user	Owner	with pullover
+referee	Owner	with a uniform
+
+user	Agent	costumed
+referee	Theme	costumed
+user	Owner	with pullover
+with a cone	Instrument	costumed
+referee	Owner	with a uniform
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+user	Owner	with pullover
+with food	Instrument	remunerated
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+user	Owner	with pullover
+Chinese	Owner	with traditional dress
+
+user	Agent	remunerated
+Chinese	Theme	remunerated
+user	Owner	with pullover
+Chinese	Owner	with traditional dress
+with food	Instrument	remunerated
+
+referee	Agent	costumed
+user	Theme	costumed
+referee	Owner	with a uniform
+with a cone	Instrument	costumed
+
+referee	Agent	costumed
+user	Theme	costumed
+referee	Owner	with a uniform
+user	Owner	with pullover
+
+referee	Agent	costumed
+user	Theme	costumed
+referee	Owner	with a uniform
+with a cone	Instrument	costumed
+user	Owner	with pullover
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+Chinese	Owner	with traditional dress
+with food	Instrument	remunerated
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+Chinese	Owner	with traditional dress
+user	Owner	with pullover
+
+Chinese	Agent	remunerated
+user	Theme	remunerated
+Chinese	Owner	with traditional dress
+with food	Instrument	remunerated
+user	Owner	with pullover
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+businesswoman	Owner	with formal dress
+with a belt	Instrument	girded
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+businesswoman	Owner	with formal dress
+plumber	Owner	with a uniform
+
+businesswoman	Agent	girded
+plumber	Theme	girded
+businesswoman	Owner	with formal dress
+plumber	Owner	with a uniform
+with a belt	Instrument	girded
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+businesswoman	Owner	with formal dress
+with a chicken	Instrument	feeds
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+businesswoman	Owner	with formal dress
+beekeepers	Owner	with a beekeeper hat
+
+businesswoman	Agent	feeds
+beekeepers	Theme	feeds
+businesswoman	Owner	with formal dress
+beekeepers	Owner	with a beekeeper hat
+with a chicken	Instrument	feeds
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+plumber	Owner	with a uniform
+with a belt	Instrument	girded
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+plumber	Owner	with a uniform
+businesswoman	Owner	with formal dress
+
+plumber	Agent	girded
+businesswoman	Theme	girded
+plumber	Owner	with a uniform
+with a belt	Instrument	girded
+businesswoman	Owner	with formal dress
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+beekeepers	Owner	with a beekeeper hat
+with a meal	Instrument	feeds
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+beekeepers	Owner	with a beekeeper hat
+businesswoman	Owner	with formal dress
+
+beekeepers	Agent	feeds
+businesswoman	Theme	feeds
+beekeepers	Owner	with a beekeeper hat
+businesswoman	Owner	with formal dress
+with a meal	Instrument	feeds
+
+beauty	Agent	masked
+skier	Theme	masked
+beauty	Owner	with swimming suite
+with a mask	Instrument	masked
+
+beauty	Agent	masked
+skier	Theme	masked
+beauty	Owner	with swimming suite
+skier	Owner	with a skateboard
+
+beauty	Agent	masked
+skier	Theme	masked
+beauty	Owner	with swimming suite
+with a mask	Instrument	masked
+skier	Owner	with a skateboard
+
+beauty	Agent	rewards
+prince	Theme	rewards
+beauty	Owner	with swimming suite
+with a gift	Instrument	rewards
+
+beauty	Agent	rewards
+prince	Theme	rewards
+beauty	Owner	with swimming suite
+prince	Owner	with fighting tools
+
+beauty	Agent	rewards
+prince	Theme	rewards
+beauty	Owner	with swimming suite
+prince	Owner	with fighting tools
+with a gift	Instrument	rewards
+
+skier	Agent	masked
+beauty	Theme	masked
+skier	Owner	with a skateboard
+with a mask	Instrument	masked
+
+skier	Agent	masked
+beauty	Theme	masked
+skier	Owner	with a skateboard
+beauty	Owner	with a swimming suite
+
+skier	Agent	masked
+beauty	Theme	masked
+skier	Owner	with a skateboard
+with a mask	Instrument	masked
+beauty	Owner	with a swimming suite
+
+prince	Agent	rewards
+beauty	Theme	rewards
+prince	Owner	with fighting tools
+with a gift	Instrument	rewards
+
+prince	Agent	rewards
+beauty	Theme	rewards
+prince	Owner	with fighting tools
+beauty	Owner	with a swimming suite
+
+prince	Agent	rewards
+beauty	Theme	rewards
+prince	Owner	with fighting tools
+beauty	Owner	with a swimming suite
+with a gift	Instrument	rewards
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+instructor	Owner	with short hair
+with a red card	Instrument	cautioned
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+instructor	Owner	with short hair
+astronaut	Owner	with a space suit
+
+instructor	Agent	cautioned
+astronaut	Theme	cautioned
+instructor	Owner	with short hair
+astronaut	Owner	with a space suit
+with a red card	Instrument	cautioned
+
+trainer	Agent	shows
+craftsmen	Theme	shows
+trainer	Owner	with short hair
+cooking	Theme	shows
+
+trainer	Agent	shows
+craftsmen	Theme	shows
+trainer	Owner	with short hair
+craftsman	Owner	with a blue uniform
+
+trainer	Agent	shows
+craftsmen	Theme	shows
+trainer	Owner	with short hair
+craftsman	Owner	with a blue uniform
+cooking	Theme	shows
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+astronaut	Owner	with a space suit
+with a red card	Instrument	cautioned
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+astronaut	Owner	with a space suit
+instructor	Owner	with short hair
+
+astronaut	Agent	cautioned
+instructor	Theme	cautioned
+astronaut	Owner	with a space suit
+with a red card	Instrument	cautioned
+instructor	Owner	with short hair
+
+craftsman	Agent	shows
+trainer	Theme	shows
+craftsman	Owner	with a blue uniform
+cooking	Theme	shows
+
+craftsman	Agent	shows
+trainer	Theme	shows
+craftsman	Owner	with a blue uniform
+trainer	Owner	with short hair
+
+craftsman	Agent	shows
+trainer	Theme	shows
+craftsman	Owner	with a blue uniform
+cooking	Theme	shows
+trainer	Owner	with short hair
+

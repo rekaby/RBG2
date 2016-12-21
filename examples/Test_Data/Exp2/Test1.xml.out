@@ -1,0 +1,49 @@
+1	They	they	PRP	PRP	_	2	SBJ	_	_
+2	fly	fly	VBP	VBP	_	0	ROOT	_	_
+3	beside	beside	IN	IN	_	2	ADV	_	_
+4	her	her	PRP$	PRP$	_	3	NMOD	_	_
+
+1	her	her	PRP$	PRP$	_	2	NMOD	_	_
+2	brothers	brother	NNS	NNS	_	0	ROOT	_	_
+3	and	and	CC	CC	_	2	COORD	_	_
+4	sisters	sister	NNS	NNS	_	3	CONJ	_	_
+5	flying	fly	VBG	VBG	_	4	ADV	_	_
+6	above	above	IN	IN	_	5	ADV	_	_
+7	her	her	PRP$	PRP$	_	6	NMOD	_	_
+
+1	But	but	CC	CC	_	0	ROOT	_	_
+2	when	when	WRB	WRB	_	1	CONJ	_	_
+3	she	she	PRP	PRP	_	4	SBJ	_	_
+4	looked	look	VBD	VBD	_	2	NMOD	_	_
+5	down	down	RP	RP	_	4	ADV	_	_
+6	,	,	,	,	_	5	P	_	_
+7	she	she	PRP	PRP	_	8	SBJ	_	_
+8	saw	saw	VBD	VBD	_	6	NMOD	_	_
+9	the	the	DT	DT	_	8	NMOD	_	_
+10	most	most	RBS	RBS	_	9	ADV	_	_
+11	amazing	amazing	JJ	JJ	_	10	NMOD	_	_
+12	sight	sight	NN	NN	_	11	ADV	_	_
+13	!	!	.	.	_	12	NMOD	_	_
+
+1	Alberta	alberta	NNP	NNP	_	0	ROOT	_	_
+2	was	be	VBD	VBD	_	1	COORD	_	_
+3	flying	fly	VBG	VBG	_	2	ADV	_	_
+4	so	so	RB	RB	_	3	ADV	_	_
+5	high	high	JJ	JJ	_	4	IM	_	_
+6	,	,	,	,	_	5	P	_	_
+7	that	that	IN	IN	_	6	ADV	_	_
+8	the	the	DT	DT	_	9	NMOD	_	_
+9	nest	nest	NN	NN	_	7	PMOD	_	_
+10	was	be	VBD	VBD	_	9	NMOD	_	_
+11	below	below	IN	IN	_	10	ADV	_	_
+12	her	her	PRP	PRP	_	11	ADV	_	_
+13	!	!	.	.	_	2	P	_	_
+
+1	The	the	DT	DT	_	2	NMOD	_	_
+2	whole	whole	JJ	JJ	_	3	NMOD	_	_
+3	Sparrow	sparrow	NNP	NNP	_	4	NMOD	_	_
+4	family	family	NN	NN	_	5	NMOD	_	_
+5	cheered	cheer	VBD	VBD	_	0	ROOT	_	_
+6	for	for	IN	IN	_	5	ADV	_	_
+7	Alberta	alberta	NNP	NNP	_	6	PMOD	_	_
+

@@ -1,0 +1,46 @@
+1	How	_	WRB	WRB	_	2	advmod	_	_
+2	many	_	JJ	JJ	_	3	amod	_	_
+3	days	_	NNS	NNS	_	7	tmod	_	_
+4	will	_	MD	MD	_	7	aux	_	_
+5	speed	_	NN	NN	_	6	compound	_	_
+6	post	_	NN	NN	_	7	nsubj	_	_
+7	take	_	VB	VB	_	0	root	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	reach	_	VB	VB	_	7	xcomp	_	_
+10	from	_	IN	IN	_	11	case	_	_
+11	Delhi	_	NNP	NNP	_	9	nmod	_	_
+12	to	_	IN	IN	_	13	case	_	_
+13	Mumbai	_	NNP	NNP	_	9	nmod	_	_
+14	?	_	.	.	_	7	punct	_	_
+
+1	Give	_	VB	VB	_	0	root	_	_
+2	it	_	PRP	PRP	_	1	iobj	_	_
+3	three	_	CD	CD	_	4	nummod	_	_
+4	days	_	NNS	NNS	_	1	dobj	_	_
+5	barring	_	VBG	VBG	_	4	nfincl	_	_
+6	Sundays	_	NNPS	NNPS	_	5	tmod	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	holidays	_	NNS	NNS	_	6	conj	_	_
+9	.	_	.	.	_	1	punct	_	_
+
+1	3	_	CD	CD	_	4	nummod	_	_
+2	TO	_	IN	IN	_	3	case	_	_
+3	4	_	CD	CD	_	1	nmod	_	_
+4	DAYS	_	NNS	NNS	_	0	root	_	_
+5	if	_	IN	IN	_	8	mark	_	_
+6	you	_	PRP	PRP	_	8	nsubj	_	_
+7	are	_	VBP	VBP	_	8	cop	_	_
+8	lucky	_	JJ	JJ	_	4	advcl	_	_
+9	on	_	IN	IN	_	10	case	_	_
+10	average	_	JJ	JJ	_	12	nmod	_	_
+11	it	_	PRP	PRP	_	12	nsubj	_	_
+12	takes	_	VBZ	VBZ	_	4	parataxis	_	_
+13	about	_	RB	RB	_	14	advmod	_	_
+14	6	_	CD	CD	_	15	nummod	_	_
+15	days	_	NNS	NNS	_	12	tmod	_	_
+16	.	_	.	.	_	4	punct	_	_
+
+1	like	_	UH	UH	_	3	discourse	_	_
+2	2	_	CD	CD	_	3	nummod	_	_
+3	day	_	NN	NN	_	0	root	_	_
+
